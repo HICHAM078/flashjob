@@ -577,7 +577,14 @@ function cardHTML(o){
 /* ---------- VIEWS ---------- */
 function viewHome(){
   clearJobLd();
-  const recent=OFFRES.slice(0,6);
+  const maroc=OFFRES.filter(o=>o.pays==='Maroc').slice(0,6);
+  const remote=OFFRES.filter(o=>o.remote||o.pays!=='Maroc').slice(0,3);
+  const posts=POSTS.slice(0,4);
+  const villes=['Casablanca','Rabat','Marrakech','Tanger','Fès','Agadir','Meknès','Kénitra'];
+  const cardCity='display:flex;align-items:center;gap:8px;padding:14px 16px;background:#fff;border:1px solid var(--line);border-radius:12px;font-weight:600;color:#0b0b0d';
+  const villeCards=villes.map(v=>`<a href="#/emploi-maroc/${encodeURIComponent(v)}" style="${cardCity}">📍 ${v}</a>`).join('');
+  const postCards=posts.map(p=>`<a class="src-card" href="#/article/${p.id}"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
+  const grid='display:grid;gap:12px';
   app.innerHTML=`
   <section class="hero"><div class="hero-grid"></div>
     <div class="wrap inner fade">
@@ -604,14 +611,63 @@ function viewHome(){
   </section>
 
   <section class="block"><div class="wrap">
-    <div class="sec-head"><div><h2>Offres récentes</h2><p>Les dernières opportunités ajoutées sur la plateforme.</p></div>
-      <a class="more" href="#/offres">Tout voir →</a></div>
-    <div class="grid">${recent.map(cardHTML).join('')}</div>
+    <div class="sec-head"><div><h2>Dernières offres au Maroc</h2><p>Les opportunités les plus récentes, partout au Maroc.</p></div>
+      <a class="more" href="#/emploi-maroc">Tout voir →</a></div>
+    <div class="grid">${maroc.map(cardHTML).join('')}</div>
+  </div></section>
+
+  <section class="block" style="background:var(--paper-soft)"><div class="wrap">
+    <div class="sec-head"><div><h2>Offres par ville</h2><p>Choisissez votre ville pour voir les offres locales.</p></div></div>
+    <div style="${grid};grid-template-columns:repeat(auto-fill,minmax(150px,1fr))">${villeCards}</div>
+  </div></section>
+
+  <div class="adslot wrap">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><div><h2>Télétravail &amp; international</h2><p>Travaillez à distance, pour le Maroc ou l'étranger.</p></div>
+      <a class="more" href="#/teletravail">Voir le télétravail →</a></div>
+    <div class="grid">${remote.map(cardHTML).join('')}</div>
+  </div></section>
+
+  <section class="block" style="background:var(--paper-soft)"><div class="wrap">
+    <div class="sec-head"><div><h2>Conseils &amp; actualités emploi</h2><p>Nos guides pour réussir votre recherche d'emploi.</p></div>
+      <a class="more" href="#/news">Tous les articles →</a></div>
+    <div style="${grid};grid-template-columns:repeat(auto-fill,minmax(280px,1fr))">${postCards}</div>
+  </div></section>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><div><h2>Outils gratuits</h2><p>Préparez votre candidature en quelques minutes.</p></div></div>
+    <div style="${grid};grid-template-columns:repeat(auto-fit,minmax(260px,1fr))">
+      <a href="#/cv" style="display:block;padding:26px;background:var(--bg);color:#fff;border-radius:16px">
+        <div style="font-size:30px">📄</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Créateur de CV</h3>
+        <p style="color:#b9b9c2;font-size:14px;margin:0">3 modèles, en français, anglais ou arabe. Export PDF en un clic.</p></a>
+      <a href="#/lettre" style="display:block;padding:26px;background:var(--accent);color:var(--accent-ink);border-radius:16px">
+        <div style="font-size:30px">✉️</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Lettre de motivation</h3>
+        <p style="font-size:14px;margin:0;opacity:.8">Générez une lettre professionnelle adaptée au poste visé.</p></a>
+    </div>
   </div></section>
 
   <div class="adslot wrap">EMPLACEMENT PUBLICITAIRE — AdSense</div>
 
   <section class="block" style="background:var(--paper-soft)"><div class="wrap">
+    <div class="sec-head"><div><h2>Comment ça marche ?</h2><p>Trouver un emploi sur FlashJob, en 3 étapes.</p></div></div>
+    <div style="${grid};grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+      <div style="padding:22px;background:#fff;border:1px solid var(--line);border-radius:14px">
+        <div style="font-family:var(--disp);font-size:22px;color:#0b0b0d;background:var(--accent);width:40px;height:40px;border-radius:50%;display:grid;place-items:center">1</div>
+        <h3 style="margin:14px 0 6px;font-family:var(--disp)">Cherchez</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Filtrez les offres par ville, contrat ou secteur, ou utilisez la recherche.</p></div>
+      <div style="padding:22px;background:#fff;border:1px solid var(--line);border-radius:14px">
+        <div style="font-family:var(--disp);font-size:22px;color:#0b0b0d;background:var(--accent);width:40px;height:40px;border-radius:50%;display:grid;place-items:center">2</div>
+        <h3 style="margin:14px 0 6px;font-family:var(--disp)">Préparez</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Créez votre CV et votre lettre de motivation gratuitement avec nos outils.</p></div>
+      <div style="padding:22px;background:#fff;border:1px solid var(--line);border-radius:14px">
+        <div style="font-family:var(--disp);font-size:22px;color:#0b0b0d;background:var(--accent);width:40px;height:40px;border-radius:50%;display:grid;place-items:center">3</div>
+        <h3 style="margin:14px 0 6px;font-family:var(--disp)">Candidatez</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Postulez directement sur le site officiel de l'offre, en un clic.</p></div>
+    </div>
+  </div></section>
+
+  <section class="block"><div class="wrap">
     <div class="sec-head"><div><h2>Vous recrutez ?</h2><p>Publiez votre annonce gratuitement, en moins de 2 minutes. Aucune carte requise.</p></div>
       <a class="more" href="#/publier">Publier une offre →</a></div>
   </div></section>`;
