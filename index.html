@@ -1128,10 +1128,15 @@ if(!localStorage.getItem('jf_cookie')){
   c.querySelector('#ckok').onclick=()=>{localStorage.setItem('jf_cookie','1');c.remove();/* déclencher AdSense ici */};
 }
 
-// Chargement des offres (offres.json) et des articles (news.json) — alimentés par les robots n8n
+// Chargement des offres et des articles DIRECTEMENT depuis GitHub (raw).
+// Ainsi, quand les robots mettent à jour les fichiers, le site se met à jour
+// SANS republication Netlify (donc sans consommer de crédits).
+// Fallback automatique sur le contenu intégré si GitHub est injoignable.
+var RAW_BASE='https://raw.githubusercontent.com/HICHAM078/flashjob/main/';
+var CACHE_BUST='?v='+Math.floor(Date.now()/300000); // rafraîchit au max toutes les 5 min
 Promise.all([
-  fetch('./offres.json').then(r=>r.ok?r.json():null).catch(()=>null),
-  fetch('./news.json').then(r=>r.ok?r.json():null).catch(()=>null)
+  fetch(RAW_BASE+'offres.json'+CACHE_BUST).then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch(RAW_BASE+'news.json'+CACHE_BUST).then(r=>r.ok?r.json():null).catch(()=>null)
 ]).then(([off,news])=>{
   if(Array.isArray(off)&&off.length){OFFRES=off;}
   if(Array.isArray(news)&&news.length){POSTS=news;}
