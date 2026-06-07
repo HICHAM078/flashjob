@@ -1,0 +1,30 @@
+name: Publier une offre (formulaire)
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+jobs:
+  publier:
+    if: startsWith(github.event.issue.title, '[Offre]') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generer et ajouter l'offre
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python3 scripts/add_offer.py
+      - name: Enregistrer
+        run: |
+          git config user.name "FlashJob Robot"
+          git config user.email "robot@flashjob.ma"
+          git add offres.json
+          git diff --staged --quiet || git commit -m "Offre via formulaire #${{ github.event.issue.number }}"
+          git push
+      - name: Confirmer et fermer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" --repo "${{ github.repository }}" --body "✅ Offre publiée sur FlashJob ! Elle apparaîtra sur le site dans quelques minutes."
+          gh issue close "${{ github.event.issue.number }}" --repo "${{ github.repository }}"
