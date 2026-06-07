@@ -840,7 +840,7 @@ function staticPage(title,sub,html){
   app.innerHTML=`<section class="block"><div class="wrap page fade"><h1>${title}</h1><p class="sub">${sub}</p>${html}</div></section>`;
 }
 const viewMentions=()=>staticPage("Mentions légales","Informations légales relatives au site FlashJob.",`
-  <h2>Éditeur du site</h2><p>FlashJob — Hicham IMZ, Rabat, Maroc. Contact : planetegestionh@gmail.com. Directeur de la publication : Hicham IMZ.</p>
+  <h2>Éditeur du site</h2><p>FlashJob — Hicham IMZ, Rabat, Maroc. Contact : contact@flashjob.ma. Directeur de la publication : Hicham IMZ.</p>
   <h2>Hébergement</h2><p>Site hébergé par Netlify, Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA.</p>
   <h2>Nature du service</h2><p>FlashJob est un agrégateur d'offres d'emploi. Les offres affichées renvoient vers leur source d'origine, qui reste responsable de leur contenu et du traitement des candidatures.</p>
   <h2>Propriété intellectuelle</h2><p>La marque, le logo et l'interface FlashJob sont protégés. Les offres restent la propriété de leurs auteurs respectifs.</p>`);
@@ -848,7 +848,7 @@ const viewConf=()=>staticPage("Politique de confidentialité","Comment nous trai
   <h2>Données collectées</h2><p>Pour les recruteurs : nom de l'entreprise, email de contact et contenu de l'offre. Pour les visiteurs : données de navigation anonymisées et, avec votre consentement, cookies de mesure et de publicité.</p>
   <h2>Finalités</h2><p>Publication des offres, amélioration du service et affichage de publicités pertinentes (Google AdSense).</p>
   <h2>Cookies publicitaires</h2><p>Avec votre accord, des tiers comme Google peuvent déposer des cookies pour personnaliser les annonces. Voir notre <a href="#/cookies" style="text-decoration:underline">politique cookies</a>.</p>
-  <h2>Vos droits</h2><p>Vous disposez d'un droit d'accès, de rectification et de suppression de vos données : planetegestionh@gmail.com.</p>`);
+  <h2>Vos droits</h2><p>Vous disposez d'un droit d'accès, de rectification et de suppression de vos données : contact@flashjob.ma.</p>`);
 const viewCookies=()=>staticPage("Politique cookies","Utilisation des cookies sur FlashJob.",`
   <h2>Cookies essentiels</h2><p>Nécessaires au fonctionnement du site (mémorisation du consentement).</p>
   <h2>Cookies de mesure et publicité</h2><p>Déposés uniquement après votre consentement. Google AdSense et ses partenaires utilisent des cookies pour diffuser des annonces basées sur vos visites antérieures sur ce site et d'autres sites.</p>
@@ -861,7 +861,7 @@ const viewContact=()=>staticPage("Contact","Une question, une suggestion, un par
     <div class="field"><label>Message *</label><textarea name="message" required></textarea></div>
     <button class="btn-primary" type="submit">Envoyer →</button>
   </form>
-  <p class="note" style="margin-top:14px">Ou par email : <b>planetegestionh@gmail.com</b></p>`);
+  <p class="note" style="margin-top:14px">Ou par email : <b>contact@flashjob.ma</b></p>`);
 const viewApropos=()=>staticPage("À propos de FlashJob","Notre mission : rendre la recherche d'emploi simple et rapide.",`
   <p>FlashJob est né d'un constat simple : trouver un emploi prend trop de temps, éparpillé sur des dizaines de sites. Nous réunissons les meilleures offres au Maroc et à l'international dans une interface épurée, ultra-rapide, et gratuite pour tous.</p>
   <h2>Pour les candidats</h2><p>Une recherche instantanée, des filtres clairs (ville, contrat, secteur, remote) et un accès direct à la source pour postuler.</p>
@@ -1098,7 +1098,7 @@ function viewCvtheque(){
       <div class="field"><label>Déposez votre CV (PDF ou Word) *</label>
         <label class="filedrop" id="cvdrop"><input type="file" name="cv" accept=".pdf,.doc,.docx" required onchange="cvPicked(this)"><span id="cvtext">📄 Glisser-déposer un fichier ou cliquer pour parcourir</span></label></div>
       <button class="btn-primary" type="submit">Envoyer mon CV →</button>
-      <p class="legal-note">Conformément à la loi 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, vous disposez d'un droit d'accès, de rectification et d'opposition. Pour l'exercer : planetegestionh@gmail.com.</p>
+      <p class="legal-note">Conformément à la loi 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, vous disposez d'un droit d'accès, de rectification et d'opposition. Pour l'exercer : contact@flashjob.ma.</p>
     </form>
   </div></section>`;
 }
