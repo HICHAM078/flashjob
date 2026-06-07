@@ -1,5 +1,35 @@
 [
   {
+    "cat": "مقابلة العمل",
+    "titre": "مقابلة العمل: أسئلة متكررة وكيف تجيب عنها",
+    "excerpt": "أسئلة المقابلة تكاد تكون نفسها دائماً. الاستعداد لها يحوّل التوتر إلى ثقة.",
+    "body": [
+      "تدور أغلب المقابلات حول حفنة من الأسئلة المتكررة. السر ليس حفظ الأجوبة، بل تحضير أمثلة ملموسة يمكنك تكييفها حسب الحاجة.",
+      "<b>«حدّثني عن نفسك».</b> لا تسرد حياتك كلها: لخّص في دقيقة مسارك ومهاراتك الأساسية وسبب ترشّحك. هذه هي مقدمتك.",
+      "<b>«لماذا شركتنا؟»</b> أظهر أنك بحثت عنها. اذكر مشروعاً أو قيمة أو منتجاً يهمّك. الجواب العام يُكشف فوراً.",
+      "<b>«ما نقاط ضعفك؟»</b> اختر عيباً حقيقياً وبيّن كيف تشتغل على تجاوزه. تجنّب العيب المزيف «أنا مثالي أكثر من اللازم».",
+      "<b>«هل لديك أسئلة؟»</b> قول «لا» خطأ. حضّر سؤالين أو ثلاثة عن الفريق أو المهام أو آفاق التطور: ذلك يثبت اهتمامك. وأخيراً، تدرّب بصوت مرتفع قبل الموعد."
+    ],
+    "lang": "ar",
+    "id": "news-1780844751-ar",
+    "date": "7 juin 2026"
+  },
+  {
+    "cat": "Entretien",
+    "titre": "Les questions à poser au recruteur en fin d'entretien",
+    "excerpt": "Dire « non, je n'ai pas de questions » est une occasion manquée. Voici quoi demander.",
+    "body": [
+      "À la fin d'un entretien, le recruteur demande presque toujours si vous avez des questions. Y répondre « non » donne l'impression d'un manque d'intérêt. De bonnes questions, au contraire, vous valorisent.",
+      "<b>Sur le poste.</b> « À quoi ressemblerait une journée type ? » ou « Quelles seraient les priorités des premiers mois ? » montrent que vous vous projetez déjà.",
+      "<b>Sur l'équipe.</b> « Comment est organisée l'équipe ? » aide à comprendre votre futur environnement et prouve votre intérêt pour la collaboration.",
+      "<b>Sur l'évolution.</b> « Quelles perspectives de développement pour ce poste ? » signale votre ambition et votre envie de durer.",
+      "<b>Évitez une seule chose au premier entretien :</b> ne commencez pas par le salaire et les congés. Ces sujets viendront, mais plus tard dans le processus."
+    ],
+    "lang": "fr",
+    "id": "news-1780844751-fr",
+    "date": "7 juin 2026"
+  },
+  {
     "cat": "نصائح السيرة الذاتية",
     "titre": "سيرة ذاتية ناجحة في 2026: تجاوز الفرز الآلي أولاً",
     "excerpt": "قبل أن تصل سيرتك الذاتية إلى يد الموظِّف، غالباً ما يقرؤها برنامج آلي. إليك كيف تتجنب الإقصاء من الخطوة الأولى.",
