@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>FlashJob — Ajouter une offre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--lime:#c8f53d;--bg:#0b0b0d;--card:#15151a;--line:#2a2a32;--ink:#f4f4f6;--mut:#a0a0aa}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Hanken Grotesk',sans-serif;line-height:1.5}
+  .wrap{max-width:860px;margin:0 auto;padding:28px 18px 80px}
+  h1{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:30px;margin:0 0 4px}
+  h1 .f{color:var(--lime)}
+  .sub{color:var(--mut);margin:0 0 22px}
+  .steps{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:22px;font-size:14px;color:var(--mut)}
+  .steps b{color:var(--ink)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px;margin-bottom:18px}
+  label{display:block;font-weight:600;font-size:13px;margin:14px 0 6px}
+  label .req{color:var(--lime)}
+  input,select,textarea{width:100%;background:#0e0e12;border:1px solid var(--line);border-radius:10px;color:var(--ink);padding:11px 12px;font-family:inherit;font-size:15px}
+  input:focus,select,textarea:focus{outline:none;border-color:var(--lime)}
+  textarea{min-height:90px;resize:vertical}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:620px){.row{grid-template-columns:1fr}}
+  .btn{background:var(--lime);color:#0b0b0d;border:none;border-radius:10px;padding:12px 18px;font-weight:700;font-size:15px;cursor:pointer;font-family:inherit}
+  .btn:hover{filter:brightness(.95)}
+  .btn.ghost{background:transparent;color:var(--lime);border:1px solid var(--lime)}
+  .btn.sm{padding:8px 12px;font-size:13px}
+  .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+  .gen{margin-top:8px}
+  .hint{font-size:12px;color:var(--mut);margin-top:5px}
+  .list{margin-top:8px}
+  .item{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;background:#0e0e12;border:1px solid var(--line);border-radius:10px;padding:11px 13px;margin-bottom:8px}
+  .item .t{font-weight:600;font-size:14px}
+  .item .m{font-size:12px;color:var(--mut);margin-top:2px}
+  .item button{background:transparent;border:1px solid var(--line);color:#ff8a8a;border-radius:8px;padding:5px 9px;cursor:pointer;font-size:12px;white-space:nowrap}
+  .count{display:inline-block;background:var(--lime);color:#0b0b0d;border-radius:999px;padding:2px 10px;font-weight:700;font-size:13px;margin-left:8px}
+  .ok{color:var(--lime)}
+  .file{font-size:13px;color:var(--mut)}
+  h2{font-family:'Bricolage Grotesque',sans-serif;font-size:19px;margin:0 0 4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Flash<span class="f">Job</span> — Ajouter une offre</h1>
+  <p class="sub">Outil privé · ajoute des offres/concours trouvés ailleurs, avec lien vers la source officielle.</p>
+
+  <div class="steps">
+    <b>Comment ça marche :</b><br>
+    1. (Optionnel) Charge ton fichier <b>offres.json</b> actuel pour repartir de tes offres existantes.<br>
+    2. Remplis les infos d'une offre → <b>Générer la description</b> → <b>Ajouter à la liste</b>. Répète autant que tu veux.<br>
+    3. Clique <b>Télécharger offres.json</b>, puis remplace ce fichier dans GitHub. C'est tout !
+  </div>
+
+  <div class="card">
+    <h2>1. Offres existantes</h2>
+    <p class="hint">Pour ne pas perdre tes offres déjà en ligne, charge le fichier <b>offres.json</b> (téléchargé depuis GitHub). Sinon, la liste démarre vide.</p>
+    <input type="file" id="loadFile" accept=".json,application/json" class="file">
+    <p id="loadMsg" class="hint"></p>
+  </div>
+
+  <div class="card">
+    <h2>2. Nouvelle offre</h2>
+    <label>Langue de l'annonce</label>
+    <select id="lang" onchange="majLang()">
+      <option value="fr">Français</option>
+      <option value="ar">العربية (arabe)</option>
+    </select>
+    <label>Intitulé du poste <span class="req">*</span></label>
+    <input id="titre" placeholder="Ex : Technicien en génie civil">
+    <div class="row">
+      <div>
+        <label>Organisme / Entreprise</label>
+        <input id="org" placeholder="Ex : Ministère de la Santé">
+      </div>
+      <div>
+        <label>Ville <span class="req">*</span></label>
+        <input id="ville" placeholder="Ex : Rabat">
+      </div>
+    </div>
+    <div class="row">
+      <div>
+        <label>Type</label>
+        <select id="contrat">
+          <option value="">— Non précisé —</option>
+          <option>CDI</option><option>CDD</option><option>Stage</option>
+          <option>Alternance</option><option>Intérim</option>
+          <option>Freelance</option><option>Concours (public)</option>
+        </select>
+      </div>
+      <div>
+        <label>Secteur</label>
+        <select id="secteur">
+          <option>Secteur public</option><option>Administration</option>
+          <option>Santé</option><option>Enseignement</option><option>Finance / Comptabilité</option>
+          <option>Commercial</option><option>Informatique</option><option>Industrie / BTP</option>
+          <option>Tourisme / Hôtellerie</option><option>Divers</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div>
+        <label>Nombre de postes (optionnel)</label>
+        <input id="nb" placeholder="Ex : 12">
+      </div>
+      <div>
+        <label>Date limite (optionnel)</label>
+        <input id="datelim" placeholder="Ex : 30 juin 2026">
+      </div>
+    </div>
+    <label>Lien officiel pour postuler <span class="req">*</span></label>
+    <input id="url" placeholder="https://… (page officielle où postuler)">
+    <p class="hint">Mets le lien de la <b>source officielle</b> (site du ministère/organisme), ou de la page d'origine.</p>
+
+    <div class="gen">
+      <label>Description (générée automatiquement, modifiable)</label>
+      <textarea id="desc" placeholder="Clique sur « Générer la description »…"></textarea>
+      <div class="actions">
+        <button class="btn ghost sm" onclick="generer()">✨ Générer la description</button>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="btn" onclick="ajouter()">+ Ajouter à la liste</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>3. Offres prêtes <span class="count" id="cnt">0</span></h2>
+    <div class="list" id="list"></div>
+    <div class="actions">
+      <button class="btn" onclick="telecharger()">⬇ Télécharger offres.json</button>
+    </div>
+    <p class="hint" id="dlmsg"></p>
+  </div>
+</div>
+
+<script>
+let offres = [];
+
+// --- Charger un offres.json existant ---
+document.getElementById('loadFile').addEventListener('change', function(e){
+  const f = e.target.files[0];
+  if(!f) return;
+  const r = new FileReader();
+  r.onload = function(){
+    try{
+      const data = JSON.parse(r.result);
+      if(Array.isArray(data)){
+        offres = data;
+        render();
+        document.getElementById('loadMsg').innerHTML = '<span class="ok">✓ '+data.length+' offre(s) chargée(s).</span>';
+      } else {
+        document.getElementById('loadMsg').textContent = "Le fichier ne ressemble pas à une liste d'offres.";
+      }
+    }catch(err){
+      document.getElementById('loadMsg').textContent = "Fichier illisible (JSON invalide).";
+    }
+  };
+  r.readAsText(f);
+});
+
+function val(id){ return document.getElementById(id).value.trim(); }
+
+function refId(s){
+  let h=0; for(let i=0;i<s.length;i++){ h=(h*31 + s.charCodeAt(i))>>>0; }
+  return 'man-' + h.toString(16);
+}
+
+// --- Bascule RTL pour l'arabe ---
+function majLang(){
+  const ar = document.getElementById('lang').value === 'ar';
+  ['titre','org','ville','desc'].forEach(function(id){
+    const el = document.getElementById(id);
+    el.dir = ar ? 'rtl' : 'ltr';
+    el.style.textAlign = ar ? 'right' : 'left';
+  });
+}
+
+// --- Générateur de description (gratuit, varié, factuel, FR + AR) ---
+function generer(){
+  const P=val('titre'), O=val('org'), V=val('ville'),
+        C=val('contrat'), N=val('nb'), D=val('datelim');
+  const lang=document.getElementById('lang').value;
+  if(!P || !V){ alert(lang==='ar'?"يرجى ملء المنصب والمدينة على الأقل.":"Renseigne au moins l'intitulé du poste et la ville."); return; }
+  let t;
+  if(lang==='ar'){
+    t = [
+      (O? O+' يعلن عن توظيف' : 'توظيف') + ' في منصب '+P+' بمدينة '+V +
+        (C? '، '+C : '') + '.' +
+        (N? ' عدد المناصب: '+N+'.' : '') +
+        (D? ' آخر أجل للترشيح: '+D+'.' : '') +
+        ' التفاصيل والترشيح عبر الموقع الرسمي.',
+      'فرصة بمدينة '+V+': '+P + (O? ' لدى '+O : '') + (C? ' ('+C+')' : '') + '.' +
+        (N? ' '+N+' منصب/مناصب.' : '') +
+        (D? ' الترشيح إلى غاية '+D+'.' : '') +
+        ' الترشيح مباشرة عبر المصدر الرسمي.',
+      P+' بمدينة '+V + (O? ' — '+O : '') + (C? '، '+C : '') + '.' +
+        (N? ' عدد المناصب: '+N+'.' : '') +
+        (D? ' يُغلق باب الترشيح يوم '+D+'.' : '') +
+        ' يُودَع الملف ويتم الترشيح عبر الموقع الرسمي المعني.'
+    ];
+  } else {
+    t = [
+      (O? O+' recrute' : 'Recrutement') + ' pour un poste de '+P+' à '+V +
+        (C? ', en '+C : '') + '.' +
+        (N? ' '+N+' poste(s) à pourvoir.' : '') +
+        (D? ' Date limite de candidature : '+D+'.' : '') +
+        ' Les détails et la candidature se font sur le site officiel.',
+      'Opportunité à '+V+' : '+P + (O? ' au sein de '+O : '') + (C? ' ('+C+')' : '') + '.' +
+        (N? ' '+N+' poste(s) ouvert(s).' : '') +
+        (D? ' Candidature jusqu’au '+D+'.' : '') +
+        ' Postulez directement sur la source officielle.',
+      P+' à pourvoir à '+V + (O? ' — '+O : '') + (C? ', '+C : '') + '.' +
+        (N? ' Nombre de postes : '+N+'.' : '') +
+        (D? ' Clôture des candidatures le '+D+'.' : '') +
+        ' Le dossier et la candidature sont à déposer sur le site officiel concerné.'
+    ];
+  }
+  const idx = (P.length + V.length + offres.length) % t.length;
+  document.getElementById('desc').value = t[idx];
+  majLang();
+}
+
+function ajouter(){
+  const P=val('titre'), O=val('org'), V=val('ville'),
+        C=val('contrat'), S=val('secteur'), U=val('url');
+  let desc = val('desc');
+  if(!P || !V){ alert("Intitulé du poste et ville sont obligatoires."); return; }
+  if(!U){ alert("Le lien officiel pour postuler est obligatoire."); return; }
+  if(!desc){ generer(); desc = val('desc'); }
+  const today = new Date().toISOString().slice(0,10);
+  const lang = document.getElementById('lang').value;
+  const r = refId(P+U);
+  const offre = {
+    id:r, titre:P, entreprise:(O||"Voir l'offre sur la source"),
+    ville:V, pays:"Maroc", type_contrat:(C||"Non précisé"),
+    secteur:(S||"Divers"), remote:false, lang:lang,
+    competences:["Voir le détail sur la source"],
+    resume_neutre:desc, url_source:U, source_nom:"Site officiel",
+    date_pub:today, ref_unique:r
+  };
+  offres.unshift(offre);
+  render();
+  // reset des champs
+  ['titre','org','ville','nb','datelim','url','desc'].forEach(function(id){ document.getElementById(id).value=''; });
+  majLang();
+  document.getElementById('titre').focus();
+}
+
+function supprimer(i){ offres.splice(i,1); render(); }
+
+function render(){
+  document.getElementById('cnt').textContent = offres.length;
+  const box = document.getElementById('list');
+  if(offres.length===0){ box.innerHTML = '<p class="hint">Aucune offre pour l\'instant.</p>'; return; }
+  box.innerHTML = '';
+  offres.forEach(function(o,i){
+    const d = document.createElement('div');
+    d.className='item';
+    const meta = [o.ville, o.type_contrat, o.secteur].filter(Boolean).join(' · ');
+    d.innerHTML = '<div><div class="t"></div><div class="m"></div></div>';
+    d.querySelector('.t').textContent = o.titre + (o.entreprise && o.entreprise.indexOf('Voir')!==0 ? ' — '+o.entreprise : '');
+    d.querySelector('.m').textContent = meta;
+    const b = document.createElement('button');
+    b.textContent='Retirer'; b.onclick=function(){ supprimer(i); };
+    d.appendChild(b);
+    box.appendChild(d);
+  });
+}
+
+function telecharger(){
+  if(offres.length===0){ alert("La liste est vide."); return; }
+  const blob = new Blob([JSON.stringify(offres,null,2)], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'offres.json';
+  a.click();
+  document.getElementById('dlmsg').innerHTML = '<span class="ok">✓ Fichier téléchargé. Remplace maintenant offres.json dans GitHub par celui-ci.</span>';
+}
+
+render();
+</script>
+</body>
+</html>
