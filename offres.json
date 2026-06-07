@@ -1,5 +1,63 @@
 [
   {
+    "id": "jf-6271676652",
+    "titre": "Administrative Coordinator US",
+    "entreprise": "Amgen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator"
+    ],
+    "resume_neutre": "Administrative Coordinator US chez Amgen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-us-amgen-1132956",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-07",
+    "ref_unique": "jf-6271676652"
+  },
+  {
+    "id": "jf-20d331e64a",
+    "titre": "Coach Psicologo Online",
+    "entreprise": "Serenis",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Coach Psicologo Online chez Serenis, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-coach-psicologo-online-serenis-1132955",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-07",
+    "ref_unique": "jf-20d331e64a"
+  },
+  {
+    "id": "jf-8314c91bf8",
+    "titre": "Associate Delivery Manager",
+    "entreprise": "Nymbus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "jira",
+      "saas",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Associate Delivery Manager chez Nymbus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-delivery-manager-nymbus-1132993",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-07",
+    "ref_unique": "jf-8314c91bf8"
+  },
+  {
     "id": "ma-0510a7eadd",
     "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
     "entreprise": "Call Center Group",
