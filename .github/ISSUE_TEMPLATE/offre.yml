@@ -1,0 +1,75 @@
+name: Ajouter une offre
+description: Publier une offre d'emploi sur FlashJob
+title: "[Offre] "
+labels: ["offre"]
+body:
+  - type: input
+    id: titre
+    attributes:
+      label: Intitulé du poste
+      placeholder: "Ex : Technicien en génie civil"
+    validations:
+      required: true
+  - type: input
+    id: organisme
+    attributes:
+      label: Organisme / Entreprise
+      placeholder: "Ex : Ministère de la Santé"
+  - type: input
+    id: ville
+    attributes:
+      label: Ville
+      placeholder: "Ex : Rabat"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de contrat
+      options:
+        - Non précisé
+        - CDI
+        - CDD
+        - Stage
+        - Alternance
+        - Intérim
+        - Freelance
+        - Concours (public)
+  - type: dropdown
+    id: secteur
+    attributes:
+      label: Secteur
+      options:
+        - Divers
+        - Secteur public
+        - Administration
+        - Santé
+        - Enseignement
+        - Finance / Comptabilité
+        - Commercial
+        - Informatique
+        - Industrie / BTP
+        - Tourisme / Hôtellerie
+  - type: input
+    id: nb
+    attributes:
+      label: Nombre de postes (optionnel)
+  - type: input
+    id: datelim
+    attributes:
+      label: Date limite (optionnel)
+      placeholder: "Ex : 30 juin 2026"
+  - type: input
+    id: url
+    attributes:
+      label: Lien officiel pour postuler
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: langue
+    attributes:
+      label: Langue de l'annonce
+      options:
+        - Français
+        - العربية
