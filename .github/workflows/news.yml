@@ -1,0 +1,21 @@
+name: Robot News
+on:
+  schedule:
+    - cron: '0 9 * * 1,4'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publier un article du stock
+        run: python3 scripts/publish_news.py
+      - name: Enregistrer
+        run: |
+          git config user.name "FlashJob Robot"
+          git config user.email "robot@flashjob.ma"
+          git add news.json
+          git diff --staged --quiet || git commit -m "Robot News : nouvel article"
+          git push
