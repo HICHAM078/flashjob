@@ -1,0 +1,44 @@
+[
+  {
+    "id": "jf-2001",
+    "titre": "Développeur Back-End PHP / Laravel",
+    "entreprise": "Skyline Digital",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "CDI",
+    "secteur": "IT / Tech",
+    "remote": false,
+    "competences": [
+      "Laravel, MySQL",
+      "API REST",
+      "2+ ans d'expérience",
+      "Git"
+    ],
+    "resume_neutre": "Développement back-end d'une plateforme e-commerce, environnement agile.",
+    "url_source": "https://exemple-source.com/offre/2001",
+    "source_nom": "Recruteur FlashJob",
+    "date_pub": "2026-06-05",
+    "secteur_emploi": "prive"
+  },
+  {
+    "id": "jf-2002",
+    "titre": "Responsable RH",
+    "entreprise": "Atlas Industries",
+    "ville": "Tanger",
+    "pays": "Maroc",
+    "type_contrat": "CDI",
+    "secteur": "RH",
+    "remote": false,
+    "competences": [
+      "Droit du travail marocain",
+      "Paie & CNSS",
+      "Recrutement",
+      "5+ ans"
+    ],
+    "resume_neutre": "Pilotage de la fonction RH d'un site industriel de 200 collaborateurs.",
+    "url_source": "https://exemple-source.com/offre/2002",
+    "source_nom": "Recruteur FlashJob",
+    "date_pub": "2026-06-05",
+    "secteur_emploi": "prive"
+  }
+]

@@ -1,0 +1,1131 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlashJob — Trouvez votre emploi à la vitesse de l'éclair</title>
+<meta name="description" content="FlashJob agrège les meilleures offres d'emploi au Maroc et à l'international (remote inclus). Recherche rapide, filtres simples, candidature en un clic.">
+<link rel="canonical" href="https://flashjob.ma/">
+<meta property="og:title" content="FlashJob — Offres d'emploi Maroc & remote">
+<meta property="og:description" content="Le job board ultra-rapide. Filtrez par ville, contrat et secteur. Publiez votre offre gratuitement.">
+<meta property="og:type" content="website">
+
+<!-- Favicon (éclair) -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0b0d'/%3E%3Cpath d='M18 5 L9 18 H15 L13 27 L23 13 H17 Z' fill='%23c8f53d'/%3E%3C/svg%3E">
+
+<!-- ========================================================= -->
+<!-- GOOGLE ADSENSE : décommente et remplace ca-pub-XXXX après validation -->
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+<!-- ========================================================= -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#0b0b0d; --bg-soft:#141417;
+  --paper:#ffffff; --paper-soft:#f6f6f3;
+  --ink:#111114; --ink-soft:#56565e; --line:#e7e7e2;
+  --accent:#c8f53d; --accent-ink:#0b0b0d;
+  --coral:#ff5d3b;
+  --radius:16px; --radius-sm:11px;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 8px 30px rgba(0,0,0,.06);
+  --maxw:1160px;
+  --disp:'Bricolage Grotesque',system-ui,sans-serif;
+  --body:'Hanken Grotesk',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--body);color:var(--ink);background:var(--paper);line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+img{max-width:100%}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+button{font-family:var(--body);cursor:pointer;border:none}
+
+/* ---------- HEADER ---------- */
+header.top{position:sticky;top:0;z-index:50;background:rgba(11,11,13,.92);backdrop-filter:blur(10px);border-bottom:1px solid #1f1f24}
+.nav{display:flex;align-items:center;gap:26px;height:66px}
+.logo{display:flex;align-items:center;gap:9px;font-family:var(--disp);font-weight:800;font-size:22px;color:#fff;letter-spacing:-.02em}
+.logo .bolt{width:30px;height:30px;display:grid;place-items:center;background:var(--accent);border-radius:8px}
+.logo .bolt svg{width:17px;height:17px}
+.logo span{color:var(--accent)}
+.nav .links{display:flex;gap:4px;margin-left:auto}
+.nav .links a{color:#c8c8cf;padding:8px 13px;border-radius:9px;font-weight:500;font-size:15px;transition:.18s}
+.nav .links a:hover{color:#fff;background:#1f1f24}
+.nav .links a.cta{background:var(--accent);color:var(--accent-ink);font-weight:700}
+.nav .links a.cta:hover{background:#d6ff52}
+.burger{display:none;margin-left:auto;background:#1f1f24;color:#fff;width:42px;height:42px;border-radius:10px;font-size:20px}
+
+/* ---------- HERO ---------- */
+.hero{background:var(--bg);color:#fff;padding:74px 0 96px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:
+  radial-gradient(600px 300px at 80% -10%,rgba(200,245,61,.16),transparent 60%),
+  radial-gradient(500px 260px at 10% 120%,rgba(255,93,59,.10),transparent 60%)}
+.hero-grid{position:absolute;inset:0;opacity:.5;background-image:linear-gradient(#ffffff08 1px,transparent 1px),linear-gradient(90deg,#ffffff08 1px,transparent 1px);background-size:46px 46px;mask-image:linear-gradient(180deg,#000,transparent 80%)}
+.hero .inner{position:relative}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);background:#c8f53d14;border:1px solid #c8f53d33;padding:6px 13px;border-radius:100px}
+.eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 0 var(--accent);animation:pulse 2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 #c8f53d99}70%{box-shadow:0 0 0 9px #c8f53d00}100%{box-shadow:0 0 0 0 #c8f53d00}}
+h1.title{font-family:var(--disp);font-weight:800;font-size:clamp(38px,6.2vw,72px);line-height:1.02;letter-spacing:-.03em;margin:22px 0 16px;max-width:14ch}
+h1.title em{font-style:normal;color:var(--accent)}
+.hero p.lead{font-size:clamp(16px,2vw,19px);color:#b9b9c2;max-width:54ch}
+.searchbar{margin-top:34px;display:flex;gap:10px;background:#fff;border-radius:14px;padding:9px;max-width:640px;box-shadow:0 20px 50px rgba(0,0,0,.35)}
+.searchbar input{flex:1;border:none;outline:none;font-size:16px;padding:12px 14px;color:var(--ink);font-family:var(--body)}
+.searchbar button{background:var(--bg);color:#fff;font-weight:700;padding:0 24px;border-radius:9px;font-size:15px;transition:.18s}
+.searchbar button:hover{background:#26262c}
+.hero-stats{display:flex;gap:34px;margin-top:30px;flex-wrap:wrap}
+.hero-stats .s b{font-family:var(--disp);font-size:26px;color:#fff;display:block}
+.hero-stats .s span{font-size:13px;color:#8b8b95}
+.chips{display:flex;gap:9px;flex-wrap:wrap;margin-top:26px}
+.chips a{font-size:13.5px;color:#cfcfd6;border:1px solid #2a2a31;padding:7px 13px;border-radius:100px;transition:.18s}
+.chips a:hover{border-color:var(--accent);color:#fff}
+
+/* ---------- SECTION ---------- */
+section.block{padding:64px 0}
+.sec-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:28px;flex-wrap:wrap}
+.sec-head h2{font-family:var(--disp);font-weight:800;font-size:clamp(26px,3.4vw,38px);letter-spacing:-.02em}
+.sec-head p{color:var(--ink-soft);max-width:46ch}
+.sec-head a.more{font-weight:700;color:var(--ink);border-bottom:2px solid var(--accent);padding-bottom:2px}
+
+/* ---------- FILTERS ---------- */
+.filters{display:flex;gap:10px;flex-wrap:wrap;background:var(--paper-soft);border:1px solid var(--line);border-radius:var(--radius);padding:14px;margin-bottom:26px}
+.filters .fsearch{flex:1;min-width:200px;display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:var(--radius-sm);padding:0 12px}
+.filters .fsearch input{border:none;outline:none;flex:1;padding:12px 4px;font-size:15px;font-family:var(--body)}
+.filters select{appearance:none;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%2356565e'%3E%3Cpath d='M6 8 1 3h10z'/%3E%3C/svg%3E") no-repeat right 12px center;border:1px solid var(--line);border-radius:var(--radius-sm);padding:12px 34px 12px 14px;font-size:15px;font-family:var(--body);color:var(--ink);cursor:pointer}
+.filters .reset{background:none;color:var(--ink-soft);font-weight:600;font-size:14px;padding:0 10px}
+.filters .reset:hover{color:var(--coral)}
+
+/* ---------- OFFER CARDS ---------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+.card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px;transition:.2s;cursor:pointer;position:relative;display:flex;flex-direction:column;gap:13px}
+.card:hover{border-color:#171717;box-shadow:var(--shadow);transform:translateY(-3px)}
+.card .top{display:flex;align-items:center;gap:12px}
+.card .badge{width:46px;height:46px;border-radius:11px;background:var(--bg);color:var(--accent);display:grid;place-items:center;font-family:var(--disp);font-weight:800;font-size:19px;flex-shrink:0}
+.card .co{font-size:13.5px;color:var(--ink-soft);font-weight:600}
+.card h3{font-family:var(--disp);font-weight:600;font-size:19px;line-height:1.2;letter-spacing:-.01em}
+.card .meta{display:flex;gap:8px;flex-wrap:wrap}
+.tag{font-size:12.5px;font-weight:600;padding:4px 11px;border-radius:100px;background:var(--paper-soft);color:#3a3a40;border:1px solid var(--line)}
+.tag.contract{background:#0b0b0d;color:#fff;border-color:#0b0b0d}
+.tag.remote{background:#fff0ec;color:var(--coral);border-color:#ffd5cb}
+.card .resume{font-size:14px;color:var(--ink-soft);flex:1}
+.card .foot{display:flex;align-items:center;justify-content:space-between;border-top:1px dashed var(--line);padding-top:12px;margin-top:2px}
+.card .src{font-size:12px;color:#9a9aa2}
+.card .go{font-weight:700;font-size:14px;color:var(--ink);display:flex;align-items:center;gap:5px}
+.card .go svg{transition:.2s}
+.card:hover .go svg{transform:translateX(3px)}
+.empty{text-align:center;padding:60px 20px;color:var(--ink-soft)}
+.empty b{font-family:var(--disp);font-size:20px;color:var(--ink);display:block;margin-bottom:6px}
+
+/* ---------- OFFER DETAIL ---------- */
+.detail{max-width:760px;margin:0 auto}
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--ink-soft);font-weight:600;font-size:14px;margin-bottom:24px}
+.back:hover{color:var(--ink)}
+.detail .head{display:flex;gap:18px;align-items:flex-start;margin-bottom:22px}
+.detail .badge{width:62px;height:62px;border-radius:14px;background:var(--bg);color:var(--accent);display:grid;place-items:center;font-family:var(--disp);font-weight:800;font-size:25px;flex-shrink:0}
+.detail h1{font-family:var(--disp);font-weight:800;font-size:clamp(26px,4vw,38px);letter-spacing:-.02em;line-height:1.05}
+.detail .co{color:var(--ink-soft);font-weight:600;margin-top:4px}
+.detail .meta{margin:20px 0}
+.panel{background:var(--paper-soft);border:1px solid var(--line);border-radius:var(--radius);padding:24px;margin:20px 0}
+.panel h4{font-family:var(--disp);font-size:18px;margin-bottom:14px}
+.skills{display:flex;flex-direction:column;gap:9px}
+.skills li{display:flex;gap:11px;align-items:flex-start;list-style:none;font-size:15.5px}
+.skills li::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--accent);margin-top:7px;flex-shrink:0;transform:rotate(45deg)}
+.apply{display:flex;align-items:center;justify-content:space-between;gap:16px;background:var(--bg);color:#fff;border-radius:var(--radius);padding:22px 26px;flex-wrap:wrap;margin-top:24px}
+.apply .t{font-family:var(--disp);font-size:18px}
+.apply .t small{display:block;color:#9a9aa2;font-family:var(--body);font-size:13px;font-weight:400;margin-top:3px}
+.btn-apply{background:var(--accent);color:var(--accent-ink);font-weight:800;padding:14px 26px;border-radius:11px;font-size:15.5px;display:inline-flex;gap:8px;align-items:center;transition:.18s}
+.btn-apply:hover{background:#d6ff52;transform:translateY(-1px)}
+
+/* ---------- GENERIC PAGE / FORM ---------- */
+.page{max-width:760px;margin:0 auto}
+.page h1{font-family:var(--disp);font-weight:800;font-size:clamp(28px,4.4vw,44px);letter-spacing:-.02em;margin-bottom:8px}
+.page .sub{color:var(--ink-soft);font-size:17px;margin-bottom:30px}
+.page h2{font-family:var(--disp);font-size:22px;margin:28px 0 10px}
+.page p{margin-bottom:14px;color:#2c2c32}
+.page ul{margin:0 0 16px 20px;color:#2c2c32}
+.page li{margin-bottom:6px}
+.form{display:flex;flex-direction:column;gap:16px;background:var(--paper-soft);border:1px solid var(--line);border-radius:var(--radius);padding:28px}
+.field label{display:block;font-weight:600;font-size:14px;margin-bottom:7px}
+.field input,.field select,.field textarea{width:100%;border:1px solid var(--line);border-radius:var(--radius-sm);padding:13px 14px;font-size:15px;font-family:var(--body);background:#fff;outline:none}
+.field input:focus,.field textarea:focus,.field select:focus{border-color:var(--bg)}
+.field textarea{min-height:120px;resize:vertical}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.btn-primary{background:var(--bg);color:#fff;font-weight:700;padding:15px;border-radius:11px;font-size:16px;transition:.18s}
+.btn-primary:hover{background:#26262c}
+.note{font-size:13px;color:var(--ink-soft)}
+.ok{background:#eefbe0;border:1px solid #cdedab;color:#3c5a16;padding:18px;border-radius:12px;font-weight:600}
+
+/* ---------- SOURCES ---------- */
+.sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.src-card{border:1px solid var(--line);border-radius:var(--radius-sm);padding:16px 18px;display:flex;align-items:center;justify-content:space-between;gap:10px;transition:.18s}
+.src-card:hover{border-color:var(--bg)}
+.src-card b{font-weight:700}
+.src-card span{font-size:12px;color:var(--ink-soft);display:block}
+.src-card .arr{color:var(--ink-soft)}
+.zone-title{font-family:var(--disp);font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);margin:26px 0 12px}
+
+/* ---------- BLOG ---------- */
+.posts{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.post{border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;cursor:pointer;transition:.2s;background:#fff;display:flex;flex-direction:column}
+.post:hover{box-shadow:var(--shadow);transform:translateY(-3px)}
+.post .cover{height:120px;background:var(--bg);position:relative;overflow:hidden}
+.post .cover::after{content:"";position:absolute;inset:0;background:radial-gradient(200px 120px at 70% 20%,rgba(200,245,61,.3),transparent)}
+.post .cover .cat{position:absolute;left:14px;bottom:12px;font-size:12px;font-weight:700;color:var(--accent-ink);background:var(--accent);padding:3px 10px;border-radius:100px;z-index:2}
+.post .body{padding:18px;flex:1;display:flex;flex-direction:column;gap:8px}
+.post .body h3{font-family:var(--disp);font-size:18px;line-height:1.2}
+.post .body p{font-size:14px;color:var(--ink-soft);flex:1}
+.post .body .date{font-size:12px;color:#9a9aa2}
+
+/* ---------- AD SLOTS ---------- */
+.adslot{margin:34px auto;max-width:var(--maxw);min-height:90px;background:repeating-linear-gradient(45deg,#fafafa,#fafafa 10px,#f3f3f0 10px,#f3f3f0 20px);border:1px dashed var(--line);border-radius:12px;display:grid;place-items:center;color:#aaa;font-size:12px;letter-spacing:.05em}
+
+/* ---------- FOOTER ---------- */
+footer{background:var(--bg);color:#b9b9c2;padding:56px 0 30px;margin-top:40px}
+.fcols{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:30px}
+footer .logo{margin-bottom:14px}
+footer p.ft{font-size:14px;max-width:34ch;color:#8b8b95}
+footer h5{color:#fff;font-family:var(--disp);font-size:15px;margin-bottom:12px}
+footer a{display:block;color:#9a9aa2;font-size:14px;padding:5px 0;transition:.15s}
+footer a:hover{color:var(--accent)}
+.fbar{border-top:1px solid #1f1f24;margin-top:36px;padding-top:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:13px;color:#6e6e78}
+
+/* ---------- COOKIE BANNER ---------- */
+.cookie{position:fixed;bottom:18px;left:18px;right:18px;max-width:540px;margin:0 auto;background:var(--bg);color:#fff;border:1px solid #2a2a31;border-radius:14px;padding:18px 20px;display:flex;gap:14px;align-items:center;z-index:99;box-shadow:0 20px 50px rgba(0,0,0,.4)}
+.cookie p{font-size:13.5px;color:#c8c8cf;flex:1}
+.cookie a{color:var(--accent);text-decoration:underline}
+.cookie button{background:var(--accent);color:var(--accent-ink);font-weight:700;padding:10px 18px;border-radius:9px;white-space:nowrap}
+
+@media(max-width:780px){
+  .nav .links{display:none;position:absolute;top:66px;left:0;right:0;flex-direction:column;background:var(--bg);padding:14px 22px;border-bottom:1px solid #1f1f24}
+  .nav .links.open{display:flex}
+  .nav .links a{padding:13px}
+  .burger{display:grid;place-items:center}
+  .fcols{grid-template-columns:1fr 1fr}
+  .row{grid-template-columns:1fr}
+}
+
+/* fade-in */
+.fade{animation:fade .5s ease both}
+@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+/* ---------- DROPDOWN NAV ---------- */
+.navitem{position:relative;display:flex;align-items:center}
+.navitem>a .caret{font-size:10px;margin-left:3px;opacity:.7}
+.dropdown{position:absolute;top:100%;left:0;min-width:210px;max-height:64vh;overflow-y:auto;background:#141417;border:1px solid #26262c;border-radius:12px;padding:8px;display:flex;flex-direction:column;gap:2px;opacity:0;visibility:hidden;transform:translateY(7px);transition:.16s;box-shadow:0 18px 40px rgba(0,0,0,.45);z-index:60}
+.navitem:hover .dropdown{opacity:1;visibility:visible;transform:translateY(0)}
+.dropdown a{color:#c8c8cf;padding:9px 12px;border-radius:8px;font-size:14px;font-weight:500;white-space:nowrap}
+.dropdown a:hover{background:#1f1f24;color:var(--accent)}
+/* ---------- FILE UPLOAD ---------- */
+.filedrop{display:block;border:2px dashed var(--line);border-radius:var(--radius-sm);padding:26px;text-align:center;color:var(--ink-soft);background:#fff;cursor:pointer;transition:.18s}
+.filedrop:hover{border-color:var(--bg);background:var(--paper-soft)}
+.filedrop.has{border-color:#7cbf2e;color:#3c5a16;background:#f3fbe9}
+.filedrop input{display:none}
+.legal-note{font-size:12.5px;color:var(--ink-soft);background:var(--paper-soft);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-top:4px}
+@media(max-width:1040px){
+  .navitem{display:block;width:100%}
+  .navitem>a .caret{display:none}
+  .dropdown{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:none;background:transparent;padding:0 0 6px 16px;min-width:0;max-height:none;overflow:visible}
+  .dropdown a{color:#9a9aa2;padding:8px 0;font-size:13.5px}
+}
+
+/* ---------- NAV : finitions esthétiques ---------- */
+.nav .links>a, .navitem>a{position:relative}
+.nav .links>a.active, .navitem>a.active{color:var(--accent)}
+.nav .links>a.active::after, .navitem>a.active::after{content:"";position:absolute;left:11px;right:11px;bottom:-1px;height:2px;background:var(--accent);border-radius:2px}
+.dropdown .ddhead{font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;color:#75757f;font-weight:700;padding:5px 12px 6px}
+.dropdown.cols{display:grid;grid-template-columns:1fr 1fr;min-width:320px;gap:1px 6px}
+.dropdown.cols .ddhead{grid-column:1/-1}
+.dropdown a.ddall{grid-column:1/-1;color:var(--accent);font-weight:700;border-bottom:1px solid #26262c;border-radius:0;margin-bottom:3px}
+.navlink-cv{background:linear-gradient(90deg,#c8f53d,#a4e600);color:var(--accent-ink)!important;font-weight:800!important}
+.navlink-cv:hover{background:linear-gradient(90deg,#d6ff52,#b6f200)!important}
+.navlink-cv .ia{font-size:9.5px;background:var(--accent-ink);color:var(--accent);padding:1px 5px;border-radius:5px;margin-left:5px;vertical-align:middle;font-weight:800;letter-spacing:.04em}
+
+/* ---------- CV GENERATOR ---------- */
+.cvgen-grid{display:grid;grid-template-columns:370px 1fr;gap:24px;align-items:start}
+.cvgen-form{display:flex;flex-direction:column;gap:11px;position:sticky;top:84px;max-height:calc(100vh - 110px);overflow:auto;padding-right:8px}
+.cvgen-form h4{font-family:var(--disp);font-size:14px;margin-top:8px;color:var(--ink);border-top:1px solid var(--line);padding-top:12px}
+.cvgen-form h4:first-of-type{border:none;padding-top:0;margin-top:0}
+.cvgen-form .field{margin:0}
+.cvgen-form .field label{font-size:12px;font-weight:600;color:var(--ink-soft);display:block;margin-bottom:4px}
+.cvgen-form .field input,.cvgen-form .field textarea{width:100%;border:1px solid var(--line);border-radius:9px;padding:9px 11px;font-family:var(--body);font-size:13.5px;outline:none}
+.cvgen-form .field input:focus,.cvgen-form .field textarea:focus{border-color:var(--ink)}
+.cvgen-form .field textarea{min-height:74px;resize:vertical}
+.cvgen-form .rep{border:1px solid var(--line);border-radius:11px;padding:11px;display:flex;flex-direction:column;gap:7px;background:var(--paper-soft)}
+.mini-btn{background:var(--ink);color:#fff;border-radius:8px;padding:8px 12px;font-weight:600;font-size:13px}
+.mini-btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.mini-btn.ghost:hover{border-color:var(--ink)}
+.mini-btn.danger{background:#fff;color:var(--coral);border:1px solid #ffd5cb;padding:6px 10px;align-self:flex-start;font-size:12.5px}
+.ai-btn{background:linear-gradient(90deg,#c8f53d,#a4e600);color:var(--accent-ink);font-weight:800;border-radius:9px;padding:6px 11px;font-size:12.5px;display:inline-flex;gap:5px;align-items:center}
+.cvgen-toolbar{display:flex;gap:16px;flex-wrap:wrap;align-items:center;background:var(--paper-soft);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:16px;position:sticky;top:74px;z-index:10}
+.tpl-pick,.color-pick{display:flex;gap:7px;align-items:center}
+.tpl-pick button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 12px;font-size:13px;font-weight:600;color:var(--ink)}
+.tpl-pick button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.swatch{width:23px;height:23px;border-radius:50%;cursor:pointer;border:2px solid #fff;box-shadow:0 0 0 1px var(--line);transition:.12s}
+.swatch.on{box-shadow:0 0 0 2px var(--ink);transform:scale(1.08)}
+.tlabel{font-size:12px;color:var(--ink-soft);font-weight:600}
+.dl-btn{margin-left:auto;background:var(--ink);color:#fff;font-weight:700;padding:10px 18px;border-radius:10px;font-size:14px}
+.dl-btn:hover{background:#26262c}
+/* feuille A4 */
+#cv-paper{--cv:#1e4fd8;background:#fff;width:100%;max-width:780px;margin:0 auto;box-shadow:var(--shadow);border:1px solid var(--line);border-radius:6px;overflow:hidden;color:#23232a;font-size:13px;line-height:1.5}
+.cv-name{font-family:var(--disp);font-size:27px;font-weight:800;letter-spacing:-.01em;line-height:1.05}
+.cv-title{color:var(--cv);font-weight:700;font-size:13.5px;text-transform:uppercase;letter-spacing:.05em;margin-top:3px}
+.cv-sec-t{color:var(--cv);font-family:var(--disp);font-weight:800;font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;border-bottom:2px solid var(--cv);padding-bottom:3px;margin:15px 0 8px}
+.cv-item{margin-bottom:10px}
+.cv-item .r1{display:flex;justify-content:space-between;gap:10px;font-weight:700}
+.cv-item .r2{color:var(--cv);font-size:12.5px;font-weight:600}
+.cv-item .r3{color:#52525b;font-size:12.5px;white-space:pre-line;margin-top:2px}
+.cv-chips{display:flex;flex-wrap:wrap;gap:6px}
+.cv-chip{background:#eef0f5;border-radius:6px;padding:3px 9px;font-size:12px;color:#33333a}
+#cv-paper.tpl-modern{display:grid;grid-template-columns:35% 65%}
+.tpl-modern .cv-side{background:var(--cv);color:#fff;padding:26px 20px}
+.tpl-modern .cv-side .cv-sec-t{color:#fff;border-color:rgba(255,255,255,.55)}
+.tpl-modern .cv-side .cv-chip{background:rgba(255,255,255,.2);color:#fff}
+.tpl-modern .cv-side .ci{color:#fff;font-size:12.5px;word-break:break-word;margin-bottom:3px}
+.tpl-modern .cv-side .r3{color:rgba(255,255,255,.92)}
+.tpl-modern .cv-main{padding:26px 24px}
+.tpl-modern .cv-name{color:#fff}.tpl-modern .cv-title{color:rgba(255,255,255,.92)}
+#cv-paper.tpl-classic{padding:30px 34px}
+.tpl-classic .cv-head{border-bottom:3px solid var(--cv);padding-bottom:12px}
+.tpl-classic .cv-contact,.tpl-minimal .cv-contact{display:flex;flex-wrap:wrap;gap:6px 14px;color:#52525b;font-size:12.5px;margin-top:7px}
+#cv-paper.tpl-minimal{padding:34px 38px}
+.tpl-minimal .cv-name{font-size:30px}
+.tpl-minimal .cv-sec-t{border:none;border-left:3px solid var(--cv);padding:0 0 0 9px}
+@media(max-width:980px){ .cvgen-grid{grid-template-columns:1fr} .cvgen-form{position:static;max-height:none} .cvgen-toolbar{position:static} }
+@media print{
+  body *{visibility:hidden!important}
+  #cv-paper,#cv-paper *{visibility:visible!important}
+  #cv-paper{position:absolute;left:0;top:0;width:210mm;max-width:none;border:none;box-shadow:none;border-radius:0}
+  @page{margin:0;size:A4}
+}
+
+/* ---- CV photo + langue + lettre ---- */
+.cv-photo{display:block;object-fit:cover}
+.tpl-modern .cv-photo{width:86px;height:86px;border-radius:50%;border:3px solid rgba(255,255,255,.45);margin-bottom:12px}
+.tpl-classic .cv-head,.tpl-minimal .cv-head{display:flex;gap:16px;align-items:center}
+.cv-headtext{flex:1}
+.tpl-classic .cv-photo,.tpl-minimal .cv-photo{width:84px;height:84px;border-radius:12px;flex:0 0 auto}
+#cv-paper[dir=rtl]{text-align:right}
+#cv-paper[dir=rtl] .cv-item .r1{flex-direction:row-reverse}
+.photo-row{display:flex;gap:10px;align-items:center}
+.photo-thumb{width:54px;height:54px;border-radius:9px;object-fit:cover;border:1px solid var(--line)}
+.lang-pick{display:flex;gap:6px;align-items:center}
+.lang-pick button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 11px;font-size:13px;font-weight:700;color:var(--ink)}
+.lang-pick button.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+/* lettre */
+#lm-paper{--cv:#1e4fd8;background:#fff;max-width:780px;margin:0 auto;padding:40px 46px;box-shadow:var(--shadow);border:1px solid var(--line);border-radius:6px;color:#23232a;font-size:13.5px;line-height:1.75}
+.lm-top{display:flex;justify-content:space-between;gap:20px;margin-bottom:26px}
+.lm-sender b{font-family:var(--disp);color:var(--cv);font-size:15px}
+.lm-date{color:#52525b;white-space:nowrap}
+.lm-to{font-weight:700;margin-bottom:16px}
+.lm-obj{font-weight:700;color:var(--cv);border-bottom:2px solid var(--cv);display:inline-block;padding-bottom:2px;margin-bottom:18px}
+.lm-body{white-space:pre-line;margin-bottom:22px}
+.lm-sign{font-family:var(--disp);font-weight:700}
+#lm-paper[dir=rtl]{text-align:right}
+#lm-paper[dir=rtl] .lm-top{flex-direction:row-reverse}
+.lswatch{width:23px;height:23px;border-radius:50%;cursor:pointer;border:2px solid #fff;box-shadow:0 0 0 1px var(--line);transition:.12s}
+.lswatch.on{box-shadow:0 0 0 2px var(--ink);transform:scale(1.08)}
+@media print{
+  #lm-paper,#lm-paper *{visibility:visible!important}
+  #lm-paper{position:absolute;left:0;top:0;width:210mm;max-width:none;border:none;box-shadow:none;border-radius:0;padding:18mm}
+}
+
+
+/* ---- Illustrations articles ---- */
+.post .cover{height:150px}
+.post .cover::after{display:none}
+.cover-svg{width:100%;height:100%;display:block;object-fit:cover}
+.article-cover{position:relative;height:190px;border-radius:14px;overflow:hidden;margin:8px 0 22px;box-shadow:var(--shadow)}
+.article-cover .cat{position:absolute;left:16px;bottom:14px;z-index:2;font-size:12px;font-weight:700;color:var(--accent-ink);background:var(--accent);padding:4px 12px;border-radius:100px}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="top">
+  <div class="wrap nav">
+    <a href="#/" class="logo">
+      <span class="bolt"><svg viewBox="0 0 32 32"><path d="M18 5 L9 18 H15 L13 27 L23 13 H17 Z" fill="#0b0b0d"/></svg></span>
+      Flash<span>Job</span>
+    </a>
+    <nav class="links" id="links">
+      <a href="#/">Accueil</a>
+      <div class="navitem"><a href="#/emploi-maroc">Emploi Maroc <span class="caret">▾</span></a>
+        <div class="dropdown cols"><span class="ddhead">Par ville</span>
+          <a class="ddall" href="#/emploi-maroc">Toutes les offres Maroc</a>
+          <a href="#/emploi-maroc/Casablanca">Casablanca</a>
+          <a href="#/emploi-maroc/Rabat">Rabat</a>
+          <a href="#/emploi-maroc/Marrakech">Marrakech</a>
+          <a href="#/emploi-maroc/Tanger">Tanger</a>
+          <a href="#/emploi-maroc/F%C3%A8s">Fès</a>
+          <a href="#/emploi-maroc/Agadir">Agadir</a>
+          <a href="#/emploi-maroc/Mekn%C3%A8s">Meknès</a>
+          <a href="#/emploi-maroc/Oujda">Oujda</a>
+          <a href="#/emploi-maroc/K%C3%A9nitra">Kénitra</a>
+          <a href="#/emploi-maroc/T%C3%A9touan">Tétouan</a>
+          <a href="#/emploi-maroc/Sal%C3%A9">Salé</a>
+        </div></div>
+      <div class="navitem"><a href="#/emploi-international">Emploi International <span class="caret">▾</span></a>
+        <div class="dropdown">
+          <a href="#/emploi-international">Toutes les offres</a>
+          <a href="#/teletravail">Télétravail</a>
+        </div></div>
+      <div class="navitem"><a href="#/emploi-public">Emploi Public <span class="caret">▾</span></a>
+        <div class="dropdown cols"><span class="ddhead">Secteur public</span>
+          <a class="ddall" href="#/emploi-public">Toutes les offres publiques</a>
+          <a href="#/emploi-public/Casablanca">Casablanca</a>
+          <a href="#/emploi-public/Rabat">Rabat</a>
+          <a href="#/emploi-public/Mekn%C3%A8s">Meknès</a>
+          <a href="#/emploi-public/F%C3%A8s">Fès</a>
+          <a href="#/emploi-public/Marrakech">Marrakech</a>
+          <a href="#/emploi-public/Tanger">Tanger</a>
+          <a href="#/emploi-public/Agadir">Agadir</a>
+          <a href="#/emploi-public/Oujda">Oujda</a>
+        </div></div>
+      <div class="navitem"><a href="#/emploi-prive">Emploi Privé <span class="caret">▾</span></a>
+        <div class="dropdown">
+          <a href="#/emploi-prive">Toutes les offres</a>
+          <a href="#/emploi-prive/it">IT / Tech</a>
+          <a href="#/emploi-prive/finance">Finance</a>
+          <a href="#/emploi-prive/commercial">Commercial</a>
+          <a href="#/emploi-prive/marketing">Marketing</a>
+        </div></div>
+      <a href="#/teletravail">Télétravail</a>
+      <a href="#/stages">Stages</a>
+      <a href="#/orientation">Orientation</a>
+      <a href="#/news">News</a>
+      <a href="#/cvtheque">CVthèque</a>
+      <div class="navitem"><a href="#/cv" class="navlink-cv">Outils <span class="ia">IA</span></a>
+        <div class="dropdown"><span class="ddhead">Outils gratuits</span>
+          <a href="#/cv">📄 Créateur de CV</a>
+          <a href="#/lettre">✉️ Lettre de motivation</a>
+        </div></div>
+      <a href="#/publier" class="cta">+ Publier</a>
+    </nav>
+    <button class="burger" id="burger" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<!-- FOOTER -->
+<footer>
+  <div class="wrap">
+    <div class="fcols">
+      <div>
+        <a href="#/" class="logo">
+          <span class="bolt"><svg viewBox="0 0 32 32"><path d="M18 5 L9 18 H15 L13 27 L23 13 H17 Z" fill="#0b0b0d"/></svg></span>
+          Flash<span>Job</span>
+        </a>
+        <p class="ft">L'emploi à la vitesse de l'éclair. Agrégateur d'offres Maroc &amp; international, recherche instantanée, candidature en un clic.</p>
+      </div>
+      <div>
+        <h5>Emploi</h5>
+        <a href="#/emploi-maroc">Emploi Maroc</a>
+        <a href="#/emploi-international">Emploi International</a>
+        <a href="#/teletravail">Télétravail</a>
+        <a href="#/stages">Stages</a>
+        <a href="#/cvtheque">CVthèque</a>
+        <a href="#/cv">Créateur de CV</a>
+        <a href="#/lettre">Lettre de motivation</a>
+        <a href="#/publier">Publier une offre</a>
+      </div>
+      <div>
+        <h5>Entreprise</h5>
+        <a href="#/a-propos">À propos</a>
+        <a href="#/contact">Contact</a>
+      </div>
+      <div>
+        <h5>Légal</h5>
+        <a href="#/mentions-legales">Mentions légales</a>
+        <a href="#/confidentialite">Confidentialité</a>
+        <a href="#/cookies">Politique cookies</a>
+      </div>
+    </div>
+    <div class="fbar">
+      <span>© <span id="yr"></span> FlashJob — Tous droits réservés.</span>
+      <span>Conçu pour la rapidité ⚡</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Formulaires cachés pour la détection Netlify Forms (NE PAS supprimer) -->
+<form name="offre-recruteur" netlify netlify-honeypot="bot-field" hidden>
+  <input type="text" name="poste"><input type="text" name="entreprise"><input type="text" name="ville">
+  <input type="text" name="pays"><input type="text" name="type_contrat"><input type="text" name="secteur">
+  <input type="text" name="competences"><textarea name="description"></textarea>
+  <input type="text" name="url_candidature"><input type="email" name="email_contact">
+</form>
+<form name="cvtheque" netlify netlify-honeypot="bot-field" enctype="multipart/form-data" hidden>
+  <input type="text" name="nom"><input type="text" name="prenom"><input type="email" name="email"><input type="text" name="telephone">
+  <input type="text" name="ville"><input type="text" name="metier"><input type="text" name="experience"><input type="text" name="niveau">
+  <input type="text" name="linkedin"><input type="file" name="cv">
+</form>
+
+<script>
+/* =====================================================================
+   JOBFLASH — single-file. Vanilla JS, routing par #hash.
+   DATA : tente de charger ./offres.json (alimenté par ton pipeline
+   Make.com / n8n). Si absent, utilise les offres d'exemple ci-dessous.
+   MODÈLE LÉGAL : on n'héberge JAMAIS le texte intégral d'une annonce
+   source. On affiche des champs structurés (faits) + un résumé factuel
+   court + un bouton "Postuler" qui renvoie vers la source.
+   ===================================================================== */
+
+const SAMPLE = [
+  {id:"jf-1101",titre:"Technicien de laboratoire",entreprise:"Établissement public de santé",ville:"Rabat",pays:"Maroc",type_contrat:"CDI",secteur:"Santé",remote:false,secteur_emploi:"public",
+   competences:["Diplôme d'État","Rigueur","Travail en équipe","Première expérience appréciée"],
+   resume_neutre:"Poste en laboratoire d'analyses au sein d'un établissement public, à Rabat.",
+   url_source:"https://exemple-source.com/offre/1101",source_nom:"Secteur public",date_pub:"2026-06-05"},
+  {id:"jf-1102",titre:"Agent administratif — collectivité",entreprise:"Collectivité territoriale",ville:"Casablanca",pays:"Maroc",type_contrat:"CDD",secteur:"Administration",remote:false,secteur_emploi:"public",
+   competences:["Français et arabe","Pack Office","Sens du service public","Organisation"],
+   resume_neutre:"Gestion administrative et accueil du public dans une collectivité, à Casablanca.",
+   url_source:"https://exemple-source.com/offre/1102",source_nom:"Secteur public",date_pub:"2026-06-04"},
+  {id:"jf-1103",titre:"Enseignant(e) — éducation nationale",entreprise:"Académie régionale",ville:"Marrakech",pays:"Maroc",type_contrat:"CDD",secteur:"Éducation",remote:false,secteur_emploi:"public",
+   competences:["Diplôme requis","Pédagogie","Maîtrise de la matière","Sérieux"],
+   resume_neutre:"Poste d'enseignement dans un établissement public à Marrakech.",
+   url_source:"https://exemple-source.com/offre/1103",source_nom:"Secteur public",date_pub:"2026-06-03"},
+  {id:"jf-1104",titre:"Infirmier(ère) polyvalent(e)",entreprise:"Centre hospitalier public",ville:"Tanger",pays:"Maroc",type_contrat:"CDI",secteur:"Santé",remote:false,secteur_emploi:"public",
+   competences:["Diplôme d'État infirmier","Sens du soin","Travail en équipe","Disponibilité"],
+   resume_neutre:"Poste en milieu hospitalier public à Tanger, service polyvalent.",
+   url_source:"https://exemple-source.com/offre/1104",source_nom:"Secteur public",date_pub:"2026-06-02"},
+  {id:"jf-1105",titre:"Technicien municipal",entreprise:"Commune urbaine",ville:"Meknès",pays:"Maroc",type_contrat:"CDD",secteur:"Administration",remote:false,secteur_emploi:"public",
+   competences:["Formation technique","Travaux publics","Rigueur","Permis B"],
+   resume_neutre:"Suivi des travaux et de la maintenance pour une commune à Meknès.",
+   url_source:"https://exemple-source.com/offre/1105",source_nom:"Secteur public",date_pub:"2026-06-01"},
+  {id:"jf-1106",titre:"Agent d'accueil — service public",entreprise:"Administration régionale",ville:"Fès",pays:"Maroc",type_contrat:"CDD",secteur:"Administration",remote:false,secteur_emploi:"public",
+   competences:["Français et arabe","Accueil du public","Pack Office","Sens du service"],
+   resume_neutre:"Accueil et orientation des usagers dans une administration à Fès.",
+   url_source:"https://exemple-source.com/offre/1106",source_nom:"Secteur public",date_pub:"2026-05-31"},
+
+  {id:"jf-1001",titre:"Développeur Full-Stack React / Node",entreprise:"TechNova",ville:"Casablanca",pays:"Maroc",type_contrat:"CDI",secteur:"IT / Tech",remote:true,
+   competences:["React, Node.js, REST","3+ ans d'expérience","Git, CI/CD","Anglais professionnel"],
+   resume_neutre:"Poste full-stack pour une scale-up SaaS, équipe produit de 8 personnes, télétravail partiel.",
+   url_source:"https://example.com/offre/1001",source_nom:"Recruteur FlashJob",date_pub:"2026-06-04"},
+  {id:"jf-1002",titre:"Comptable confirmé(e)",entreprise:"Cabinet Atlas",ville:"Rabat",pays:"Maroc",type_contrat:"CDI",secteur:"Finance / Compta",remote:false,
+   competences:["Maîtrise PCM","Liasse fiscale, TVA, IS/IR","Logiciel Sage","Rigueur, autonomie"],
+   resume_neutre:"Tenue complète d'un portefeuille clients en cabinet, déclarations fiscales DGI et CNSS.",
+   url_source:"https://example.com/offre/1002",source_nom:"Recruteur FlashJob",date_pub:"2026-06-03"},
+  {id:"jf-1003",titre:"Customer Success Manager (Remote)",entreprise:"Loop Global",ville:"Télétravail",pays:"International",type_contrat:"Freelance",secteur:"Commercial / Vente",remote:true,
+   competences:["Anglais courant","CRM (HubSpot)","Expérience SaaS B2B","Fuseau Europe/Afrique"],
+   resume_neutre:"Accompagnement d'un portefeuille de clients internationaux, 100% à distance, mission longue.",
+   url_source:"https://example.com/offre/1003",source_nom:"Partenaire remote",date_pub:"2026-06-02"},
+  {id:"jf-1004",titre:"Chargé(e) de marketing digital",entreprise:"BrightMedia",ville:"Marrakech",pays:"Maroc",type_contrat:"CDD",secteur:"Marketing / Com",remote:false,
+   competences:["SEO / SEA","Meta & Google Ads","Création de contenu","Google Analytics 4"],
+   resume_neutre:"Gestion des campagnes d'acquisition et du calendrier éditorial pour plusieurs marques.",
+   url_source:"https://example.com/offre/1004",source_nom:"Recruteur FlashJob",date_pub:"2026-06-01"},
+  {id:"jf-1005",titre:"Assistant(e) administratif(ve)",entreprise:"Groupe Cèdre",ville:"Tanger",pays:"Maroc",type_contrat:"Stage",secteur:"Administration",remote:false,
+   competences:["Pack Office","Organisation, classement","Français + Arabe","Première expérience"],
+   resume_neutre:"Stage de 6 mois en support administratif d'une direction générale, possibilité d'embauche.",
+   url_source:"https://example.com/offre/1005",source_nom:"Recruteur FlashJob",date_pub:"2026-05-30"},
+  {id:"jf-1006",titre:"Data Analyst",entreprise:"Quanta",ville:"Télétravail",pays:"International",type_contrat:"CDI",secteur:"IT / Tech",remote:true,
+   competences:["SQL avancé","Python (pandas)","Power BI / Looker","Statistiques"],
+   resume_neutre:"Analyse de données produit et reporting pour une équipe data distribuée, full remote.",
+   url_source:"https://example.com/offre/1006",source_nom:"Partenaire remote",date_pub:"2026-05-29"}
+];
+
+let POSTS = [{"id": "p1", "cat": "Conseil CV", "date": "6 juin 2026", "titre": "CV au Maroc en 2026 : passez d'abord les filtres automatiques (ATS)", "excerpt": "Avant d'arriver sur le bureau d'un recruteur, votre CV est souvent lu par un logiciel. Voici comment ne pas être éliminé dès cette première étape.", "body": ["La plupart des grandes entreprises au Maroc — banques, centres de relation client, groupes industriels, cabinets de recrutement — utilisent un logiciel appelé ATS (Applicant Tracking System) pour trier les candidatures. Concrètement, votre CV est d'abord lu par une machine qui cherche des mots-clés et écarte ce qu'elle ne comprend pas. Si votre CV est mal structuré, il peut être recalé sans qu'aucun humain ne l'ait vu. Bonne nouvelle : quelques règles simples suffisent pour passer ce filtre.", "<b>1. Reprenez les mots exacts de l'annonce.</b> Si l'offre demande « gestion de la relation client » ou « maîtrise d'Excel », écrivez-le mot pour mot dans votre CV (à condition que ce soit vrai). Le logiciel compare votre CV au texte de l'annonce : plus les termes correspondent, mieux vous êtes classé.", "<b>2. Gardez une mise en page simple.</b> Évitez les colonnes multiples, les tableaux, les zones de texte et les CV « graphiques » téléchargés sur internet : beaucoup d'ATS lisent mal ces formats et mélangent tout. Une seule colonne, des titres de sections classiques (Expérience, Formation, Compétences, Langues), et c'est lu correctement.", "<b>3. Envoyez un PDF, pas une image.</b> Un CV scanné ou exporté en image est illisible pour la machine. Exportez toujours en PDF depuis Word ou Google Docs, et nommez le fichier clairement : CV_Prenom_Nom.pdf.", "<b>4. Mettez les bons intitulés de poste.</b> Indiquez le poste visé en haut du CV, formulé comme dans l'offre. « Téléconseiller » sera mieux repéré que « agent polyvalent » si l'annonce parle de téléconseiller.", "<b>5. Chiffrez vos résultats.</b> « Gestion d'un portefeuille de 80 clients », « augmentation des ventes de 15 % » : les chiffres rassurent autant la machine que l'humain qui lira ensuite. Ils transforment une liste de tâches en preuves de compétence.", "Une fois le filtre ATS passé, c'est un recruteur en chair et en os qui prend le relais — et lui, il décide en quelques secondes. D'où l'importance d'un CV à la fois lisible par la machine ET agréable pour l'œil. Adaptez-le à chaque offre : c'est le seul effort qui change vraiment vos chances."]}, {"id": "p2", "cat": "Emploi Maroc", "date": "5 juin 2026", "titre": "Trouver un emploi avec l'ANAPEC : le mode d'emploi complet", "excerpt": "L'ANAPEC reste un passage incontournable pour beaucoup de chercheurs d'emploi au Maroc. Voici comment l'utiliser vraiment, au-delà de la simple inscription.", "body": ["L'ANAPEC (Agence Nationale de Promotion de l'Emploi et des Compétences) est l'organisme public qui met en relation candidats et entreprises au Maroc. Beaucoup s'y inscrivent puis attendent un appel qui ne vient pas. La vérité, c'est que l'ANAPEC est un outil : elle fonctionne bien quand on l'utilise activement.", "<b>S'inscrire correctement.</b> L'inscription se fait en ligne sur le site de l'ANAPEC, puis se complète en agence. Munissez-vous de votre CIN et d'un CV à jour. Prenez le temps de remplir votre profil en entier : c'est sur la base de ces informations que les conseillers et les entreprises vous retrouvent. Un profil à moitié rempli, c'est un profil invisible.", "<b>Connaître les programmes.</b> L'ANAPEC ne se limite pas aux offres d'emploi. Elle propose des dispositifs comme Idmaj, qui facilite un premier contrat en entreprise avec des avantages pour l'employeur, et Taehil, qui finance des formations pour adapter vos compétences à un métier qui recrute. Si vous êtes diplômé sans expérience, ces programmes sont souvent la porte d'entrée la plus réaliste.", "<b>Aller voir son conseiller.</b> Un entretien avec un conseiller ANAPEC vous oriente vers les offres et formations adaptées à votre profil. C'est gratuit et trop peu de gens le font. Préparez cet entretien comme un rendez-vous important : objectifs clairs, CV propre, disponibilité réelle.", "<b>Ne pas mettre tous ses œufs dans le même panier.</b> L'ANAPEC est une source parmi d'autres. Combinez-la avec les sites privés (ReKrute, Emploi.ma, Marocannonces), LinkedIn, et les candidatures spontanées. Les meilleures offres ne sont pas toujours publiées : beaucoup se jouent par le réseau et le contact direct.", "En résumé : inscrivez-vous sérieusement, exploitez les programmes, rencontrez un conseiller, et croisez les sources. L'ANAPEC récompense ceux qui s'en servent activement, pas ceux qui attendent."]}, {"id": "p3", "cat": "Télétravail", "date": "4 juin 2026", "titre": "Décrocher un job en télétravail depuis le Maroc : la méthode en 5 étapes", "excerpt": "Le travail à distance ouvre les portes d'employeurs européens et internationaux, sans quitter le Maroc. Voici un chemin réaliste, sans promesses creuses.", "body": ["Travailler en remote depuis le Maroc pour une entreprise européenne ou un client international n'est plus rare : tech, support client, marketing, design, rédaction… les opportunités existent vraiment. Mais le marché est concurrentiel et mondial. Voici une méthode étape par étape pour vous démarquer.", "<b>Étape 1 — Choisissez une compétence vendable.</b> Le remote récompense les compétences précises : développement web, gestion des réseaux sociaux, montage vidéo, service client, comptabilité, design… Mieux vaut être bon sur une chose claire que « polyvalent » sur tout. Identifiez la vôtre, et si elle est encore fragile, consacrez quelques semaines à la solidifier.", "<b>Étape 2 — Soignez votre anglais (ou votre français pro).</b> La plupart des offres remote internationales se passent en anglais, au moins à l'écrit. Vous n'avez pas besoin d'être bilingue parfait, mais vous devez pouvoir comprendre une consigne et répondre clairement par écrit. Pour le marché francophone (France, Belgique), un français professionnel impeccable est un vrai atout.", "<b>Étape 3 — Construisez une preuve.</b> Un employeur à distance ne vous connaît pas : il a besoin de preuves. Portfolio, profil LinkedIn complet, projets personnels, témoignages de premiers clients… Montrez ce que vous savez faire au lieu de simplement l'affirmer.", "<b>Étape 4 — Cherchez aux bons endroits.</b> Au-delà de FlashJob, explorez les plateformes spécialisées remote (RemoteOK, We Work Remotely) et, pour le freelance, les places de marché internationales. Sur LinkedIn, filtrez les offres sur « télétravail » et postulez avec un message personnalisé, jamais en copier-coller.", "<b>Étape 5 — Anticipez le paiement et le fiscal.</b> Être payé par un client étranger demande une solution adaptée (services de paiement internationaux, compte approprié). Et surtout : des revenus, même venus de l'étranger, doivent être déclarés. Renseignez-vous tôt sur vos obligations pour travailler sereinement et en règle.", "Le remote ne tombe pas du ciel : c'est un travail de positionnement. Mais une fois la première mission décrochée, les suivantes viennent plus facilement, par recommandation."]}, {"id": "p4", "cat": "Entretien", "date": "3 juin 2026", "titre": "Entretien d'embauche : 8 questions classiques et comment y répondre", "excerpt": "Les questions d'entretien sont presque toujours les mêmes. Les préparer, c'est transformer le stress en confiance.", "body": ["La plupart des entretiens tournent autour d'une poignée de questions récurrentes. Le secret n'est pas d'apprendre des réponses par cœur, mais de préparer des exemples concrets que vous pourrez adapter. Voici les huit questions à anticiper.", "<b>1. « Parlez-moi de vous. »</b> Ne racontez pas votre vie : résumez en une minute votre parcours, vos compétences clés et ce qui vous amène à postuler ici. C'est votre accroche.", "<b>2. « Pourquoi notre entreprise ? »</b> Montrez que vous vous êtes renseigné. Citez un projet, une valeur ou un produit de l'entreprise qui vous parle. Une réponse générique se sent immédiatement.", "<b>3. « Quels sont vos points faibles ? »</b> Choisissez un vrai défaut, mais montrez comment vous travaillez dessus. Évitez le faux défaut « je suis trop perfectionniste », qui ne trompe plus personne.", "<b>4. « Parlez-moi d'un défi que vous avez relevé. »</b> Utilisez la méthode STAR : Situation, Tâche, Action, Résultat. Décrivez le contexte, ce que vous deviez faire, ce que vous avez fait concrètement, et le résultat obtenu. C'est la structure la plus convaincante.", "<b>5. « Quelles sont vos prétentions salariales ? »</b> Renseignez-vous avant sur les fourchettes du poste. Donnez une fourchette réaliste plutôt qu'un chiffre figé, et restez ouvert à la discussion.", "<b>6. « Où vous voyez-vous dans 3 à 5 ans ? »</b> Montrez de l'ambition cohérente avec le poste, sans donner l'impression que vous voulez partir dès demain.", "<b>7. « Avez-vous des questions ? »</b> Dire « non » est une erreur. Préparez deux ou trois questions sur l'équipe, les missions ou les perspectives : ça prouve votre intérêt.", "Dernier conseil : entraînez-vous à voix haute, idéalement avec quelqu'un. Une réponse pensée dans sa tête et une réponse dite à l'oral n'ont pas le même effet. La préparation, c'est 80 % de la confiance le jour J."]}, {"id": "p5", "cat": "Marché de l'emploi", "date": "2 juin 2026", "titre": "Quels secteurs recrutent le plus au Maroc en ce moment ?", "excerpt": "Orienter sa recherche vers les secteurs porteurs change tout. Tour d'horizon des domaines qui embauchent durablement.", "body": ["Chercher un emploi sans regarder où sont les besoins, c'est ramer à contre-courant. Certains secteurs recrutent structurellement au Maroc, année après année. Les connaître permet d'orienter sa formation et ses candidatures là où les portes s'ouvrent le plus.", "<b>La relation client et l'offshoring.</b> Les centres d'appels et les services externalisés (relation client, back-office, IT) restent de gros employeurs, notamment à Casablanca, Rabat et Fès. Ils recrutent en continu, souvent avec une formation assurée à l'entrée — une bonne porte pour un premier emploi, surtout avec un bon niveau de français.", "<b>L'industrie automobile et aéronautique.</b> Autour de Tanger et Kénitra pour l'automobile, de Casablanca pour l'aéronautique, ces filières industrielles tirent l'emploi qualifié : techniciens, ingénieurs, opérateurs de production. Les formations techniques et professionnelles y trouvent des débouchés concrets.", "<b>Le numérique et la tech.</b> Développeurs, data, cybersécurité, marketing digital : la demande dépasse l'offre de profils qualifiés. C'est aussi le secteur qui ouvre le plus de portes vers le télétravail international.", "<b>Le tourisme et l'hôtellerie.</b> Secteur historique du pays, il recrute largement, des métiers d'accueil à la gestion, avec une forte saisonnalité à anticiper.", "<b>Le BTP, la santé et les énergies renouvelables.</b> Les grands chantiers d'infrastructures, les besoins croissants en personnel de santé, et le virage du pays vers les énergies vertes créent des besoins durables sur des profils techniques et qualifiés.", "Le bon réflexe : ne pas choisir un secteur uniquement « parce qu'il recrute », mais croiser ces besoins avec ce que vous aimez et savez faire. Un secteur porteur ne sert à rien si le métier ne vous correspond pas. À l'inverse, viser un domaine à la fois porteur et motivant, c'est mettre toutes les chances de son côté."]}, {"id": "p6", "cat": "Conseil candidature", "date": "1 juin 2026", "titre": "La lettre de motivation en 2026 : courte, ciblée, efficace", "excerpt": "Beaucoup la négligent ou la rallongent inutilement. Bien faite, elle peut faire la différence. Voici comment l'écrire en 15 minutes.", "body": ["La lettre de motivation n'est pas morte : elle a juste changé de forme. Aujourd'hui, elle tient souvent dans le corps d'un email ou un court message, et elle doit aller droit au but. Une lettre générique, recopiée pour dix entreprises, dessert plus qu'elle n'aide. Une lettre ciblée, elle, montre que vous avez compris le poste.", "<b>La règle d'or : courte.</b> Trois à quatre paragraphes, jamais plus d'une page. Le recruteur veut comprendre en trente secondes pourquoi vous écrivez et ce que vous apportez.", "<b>Paragraphe 1 — l'accroche.</b> Dites tout de suite quel poste vous visez et ce qui vous motive précisément chez cette entreprise. Évitez les formules creuses du type « je me permets de vous adresser ma candidature ». Soyez direct et concret.", "<b>Paragraphe 2 — vous.</b> Reliez votre parcours au besoin de l'entreprise. Donnez un ou deux exemples concrets de ce que vous avez accompli, idéalement chiffrés. Ne répétez pas votre CV : mettez-le en perspective.", "<b>Paragraphe 3 — la projection.</b> Montrez ce que vous pourriez apporter dans ce poste précis. C'est ici que vous prouvez que vous vous êtes renseigné sur l'entreprise et ses enjeux.", "<b>La clôture.</b> Une phrase simple proposant un entretien, suivie d'une formule de politesse classique. Pas besoin d'en faire trop.", "Dernier conseil : adaptez au moins l'accroche et un exemple à chaque offre. C'est ce petit effort de personnalisation qui transforme une lettre banale en candidature mémorable."]}, {"id": "p7", "cat": "Réseau pro", "date": "31 mai 2026", "titre": "Optimiser son profil LinkedIn pour être repéré par les recruteurs", "excerpt": "Au Maroc comme ailleurs, les recruteurs cherchent activement des profils sur LinkedIn. Un profil bien optimisé travaille pour vous, même quand vous dormez.", "body": ["De plus en plus de recrutements démarrent sur LinkedIn, y compris au Maroc. Les recruteurs y font des recherches par mots-clés et contactent directement les profils qui ressortent. L'objectif : que le vôtre apparaisse, et donne envie.", "<b>Une photo et un titre qui inspirent confiance.</b> Une photo nette et professionnelle augmente nettement les contacts. Votre titre (sous le nom) ne doit pas seulement dire « étudiant » ou « en recherche » : indiquez votre métier et vos compétences clés, par exemple « Comptable | Fiscalité & paie | Sage ».", "<b>Un résumé riche en mots-clés.</b> La section « Infos » est cruciale : c'est là que la recherche LinkedIn pioche. Décrivez en quelques lignes qui vous êtes, vos domaines d'expertise et ce que vous recherchez, en reprenant les termes que les recruteurs taperaient.", "<b>Des expériences détaillées.</b> Ne vous contentez pas d'un intitulé : ajoutez 2-3 lignes de réalisations par poste. C'est ce qui distingue un profil vivant d'une simple carte de visite.", "<b>Les compétences et recommandations.</b> Listez vos compétences principales et demandez à d'anciens collègues ou responsables une courte recommandation. La preuve sociale rassure.", "<b>Le bouton « Open to work ».</b> Activez l'option qui signale aux recruteurs que vous êtes ouvert aux opportunités. Vous pouvez la rendre visible uniquement des recruteurs si vous êtes encore en poste.", "<b>Un peu d'activité.</b> Commenter ou partager du contenu de votre secteur, même une fois par semaine, vous rend visible dans votre réseau. Pas besoin d'être influenceur : la régularité suffit.", "Un profil optimisé n'est pas figé : mettez-le à jour à chaque nouvelle compétence ou expérience. C'est l'un des outils les plus puissants — et gratuits — de votre recherche d'emploi."]}, {"id": "p8", "cat": "Carrière", "date": "30 mai 2026", "titre": "Se reconvertir professionnellement : par où commencer ?", "excerpt": "Changer de métier fait peur, mais c'est de plus en plus courant. Voici une méthode pour avancer sans tout risquer d'un coup.", "body": ["Vouloir changer de métier n'est pas un caprice : c'est souvent le signe d'une lucidité. Mais une reconversion réussie se prépare, elle ne s'improvise pas. Voici les étapes pour la construire sereinement.", "<b>Clarifiez le « pourquoi ».</b> Fuyez-vous un environnement, ou allez-vous vers un métier qui vous attire vraiment ? La réponse change tout. Notez ce qui vous motive concrètement dans le nouveau domaine.", "<b>Faites l'inventaire de vos compétences transférables.</b> Vous partez rarement de zéro. Organisation, relation client, gestion, rigueur, langues… beaucoup de compétences se transposent d'un métier à l'autre. Identifiez les vôtres : elles seront vos points d'appui.", "<b>Testez avant de plonger.</b> Avant de tout quitter, confrontez votre projet au réel : échangez avec des personnes qui exercent le métier visé, faites un stage court, une mission, ou une formation d'initiation. Un métier rêvé n'est pas toujours le métier réel.", "<b>Identifiez la formation utile.</b> Selon le métier, une formation qualifiante peut être nécessaire. Au Maroc, des dispositifs comme ceux de l'ANAPEC (Taehil) peuvent financer une partie de cette montée en compétences. Renseignez-vous tôt.", "<b>Préparez le terrain financier.</b> Une reconversion prend du temps. Anticipez la période de transition : économies, activité partielle, missions en parallèle. Moins de pression financière, c'est de meilleures décisions.", "<b>Avancez par étapes.</b> Beaucoup de reconversions réussies se font progressivement, en cumulant l'ancien et le nouveau au début. Vous réduisez le risque tout en construisant votre nouvelle légitimité.", "Se reconvertir, c'est un projet, pas un saut dans le vide. Préparé méthodiquement, c'est l'une des décisions les plus gratifiantes d'une carrière."]}, {"id": "p9", "cat": "Carrière", "date": "29 mai 2026", "titre": "Négocier son salaire : 6 règles pour ne pas se sous-estimer", "excerpt": "La négociation salariale met mal à l'aise, et c'est exactement pour ça que beaucoup laissent de l'argent sur la table. Voici comment l'aborder.", "body": ["Accepter la première proposition sans discuter est l'erreur la plus fréquente. Négocier n'est ni impoli ni risqué quand c'est bien fait : c'est attendu. Voici six règles pour défendre votre valeur sans braquer personne.", "<b>1. Renseignez-vous avant.</b> Cherchez les fourchettes de salaire pour le poste, le secteur et la ville. Arriver avec un repère réaliste vous donne de l'assurance et de la crédibilité.", "<b>2. Laissez l'employeur ouvrir si possible.</b> Si on vous demande vos prétentions trop tôt, donnez une fourchette plutôt qu'un chiffre figé, et expliquez qu'elle dépend du périmètre du poste.", "<b>3. Négociez sur la valeur, pas sur le besoin.</b> Justifiez votre demande par ce que vous apportez (compétences, expérience, résultats), jamais par vos charges personnelles. L'employeur paie une valeur, pas un budget.", "<b>4. Pensez au package complet.</b> Le salaire n'est pas tout : primes, formation, évolution, horaires, télétravail, transport. Si la marge sur le salaire est faible, ces éléments peuvent faire la différence.", "<b>5. Restez calme et positif.</b> La négociation n'est pas un affrontement. Montrez votre enthousiasme pour le poste tout en exposant clairement vos attentes. Le ton fait autant que le fond.", "<b>6. Mettez-vous d'accord par écrit.</b> Une fois un accord trouvé, demandez qu'il figure dans la promesse d'embauche ou le contrat. Un accord oral s'oublie vite.", "Négocier, c'est respecter votre travail. Bien menée, la discussion renforce souvent le respect du futur employeur plutôt que de le diminuer."]}, {"id": "p10", "cat": "Jeunes diplômés", "date": "28 mai 2026", "titre": "Décrocher son premier emploi sans expérience : le guide", "excerpt": "« On veut de l'expérience, mais comment en avoir sans premier emploi ? » Ce cercle vicieux se brise avec la bonne stratégie.", "body": ["Le premier emploi est souvent le plus difficile à obtenir : sans expérience, on se sent désarmé face aux annonces. Pourtant, des milliers de jeunes y arrivent chaque année. La clé n'est pas d'attendre l'offre parfaite, mais de se rendre embauchable.", "<b>Valorisez tout ce qui compte comme expérience.</b> Stages, projets d'études, bénévolat, jobs étudiants, projets personnels : tout cela démontre des compétences et un savoir-être. Présentez-les comme de vraies expériences, avec ce que vous y avez appris.", "<b>Misez sur un CV par compétences.</b> Quand l'expérience est limitée, mettez en avant vos compétences et vos qualités plutôt qu'une chronologie creuse. Montrez ce que vous savez faire et êtes prêt à apprendre.", "<b>Osez la candidature spontanée.</b> Beaucoup de premiers emplois ne sont jamais publiés. Ciblez des entreprises qui vous intéressent et écrivez-leur directement, même sans annonce. Cela montre de l'initiative.", "<b>Utilisez les dispositifs d'insertion.</b> Au Maroc, l'ANAPEC et son programme Idmaj facilitent justement l'accès au premier contrat, avec des avantages pour l'employeur qui recrute un jeune diplômé. C'est une porte d'entrée à exploiter.", "<b>Activez votre réseau.</b> Parlez de votre recherche autour de vous : famille, anciens professeurs, camarades, contacts LinkedIn. Une grande partie des premiers emplois se trouvent par recommandation.", "<b>Acceptez les tremplins.</b> Un stage, un CDD ou une mission qui n'est pas le poste de vos rêves peut être exactement ce qui vous donnera l'expérience qui débloque la suite. Le premier oui est le plus important.", "Ne vous découragez pas devant les refus : ils font partie du processus. Chaque candidature et chaque entretien vous rendent meilleur. La persévérance, ici, paie toujours."]}, {"id": "p11", "cat": "Carrière", "date": "27 mai 2026", "titre": "Soft skills : les compétences humaines que les recruteurs s'arrachent", "excerpt": "À diplôme égal, ce sont souvent elles qui font la différence. Voici les soft skills les plus recherchées et comment les prouver.", "body": ["On parle beaucoup de compétences techniques, mais les recruteurs recrutent aussi — et parfois surtout — des personnes. Les « soft skills », ces compétences humaines et comportementales, pèsent de plus en plus lourd dans une décision d'embauche. La bonne nouvelle : elles se travaillent et se démontrent.", "<b>La communication.</b> Savoir s'exprimer clairement, écouter, adapter son discours : c'est la base de presque tous les métiers. Un bon technicien qui ne sait pas expliquer son travail est moins précieux qu'un technicien qui sait le partager.", "<b>L'adaptabilité.</b> Les entreprises changent vite. Montrer que vous savez apprendre, encaisser l'imprévu et évoluer rassure énormément un employeur.", "<b>L'esprit d'équipe.</b> Très peu de postes se font seul. Votre capacité à collaborer, à aider et à gérer les désaccords avec calme est un atout majeur.", "<b>La résolution de problèmes.</b> Ne pas seulement signaler un problème, mais proposer des pistes : c'est ce qui distingue un collaborateur autonome.", "<b>La gestion du temps.</b> Savoir prioriser, tenir ses délais et organiser sa charge de travail est recherché à tous les niveaux.", "<b>Comment les prouver ?</b> Sur le CV et en entretien, ne vous contentez pas de les lister : illustrez-les par des exemples concrets. « J'ai coordonné une équipe de 4 personnes sur un projet livré en avance » dit bien plus que « esprit d'équipe ». La preuve vaut toujours mieux que l'étiquette."]}, {"id": "p12", "cat": "Entretien", "date": "26 mai 2026", "titre": "Réussir un entretien d'embauche en visioconférence", "excerpt": "L'entretien à distance est devenu la norme pour un premier contact. Quelques réglages font toute la différence entre amateur et pro.", "body": ["Les entretiens en visio se sont généralisés, en particulier pour les premiers échanges et les postes en télétravail. Les règles sont les mêmes qu'en présentiel… plus quelques spécificités techniques à ne pas négliger.", "<b>Testez la technique avant.</b> Vérifiez votre connexion, votre caméra, votre micro et le logiciel (Zoom, Teams, Meet) au moins quinze minutes avant. Rien ne fait plus mauvais effet qu'un candidat qui n'arrive pas à se connecter.", "<b>Soignez le cadre.</b> Un arrière-plan neutre et rangé, une lumière en face de vous (pas derrière, sinon vous êtes en ombre chinoise), et un endroit calme sans interruptions. Prévenez votre entourage.", "<b>Regardez la caméra, pas l'écran.</b> Pour donner l'impression de regarder votre interlocuteur dans les yeux, fixez l'objectif de la caméra quand vous parlez. C'est contre-intuitif mais ça change tout.", "<b>Habillez-vous comme en présentiel.</b> Une tenue professionnelle, entièrement (pas seulement le haut). Ça influence aussi votre posture et votre état d'esprit.", "<b>Gardez vos notes à portée.</b> Avantage de la visio : vous pouvez avoir sous les yeux quelques points clés et vos questions. Discrètement, sans lire mot à mot.", "<b>Gérez les imprévus avec calme.</b> Une coupure, un blanc, un bruit : ça arrive. Restez posé, reformulez si besoin. Votre sang-froid est observé.", "Et comme en présentiel, envoyez un court message de remerciement après l'entretien : ça laisse une bonne dernière impression."]}, {"id": "p13", "cat": "Réseau pro", "date": "25 mai 2026", "titre": "Se constituer un réseau professionnel quand on débute", "excerpt": "« Le réseau, c'est pour ceux qui ont déjà de l'expérience. » Faux. C'est justement quand on débute qu'il faut le construire.", "body": ["Une grande partie des emplois se trouvent par le réseau, souvent avant même d'être publiés. Quand on débute, on pense ne connaître personne — mais un réseau, ça se construit, pas à pas, et ça commence plus tôt qu'on ne croit.", "<b>Commencez par ce que vous avez.</b> Famille, amis, anciens professeurs, camarades de promo, maîtres de stage : ce sont déjà des contacts. Faites-leur savoir ce que vous cherchez, simplement et clairement.", "<b>Soignez votre présence en ligne.</b> Un profil LinkedIn complet et professionnel est votre carte de visite permanente. Connectez-vous avec les personnes que vous rencontrez, en personnalisant l'invitation.", "<b>Allez là où sont les gens de votre secteur.</b> Salons de l'emploi, conférences, ateliers, événements d'écoles ou d'associations professionnelles. Une poignée de rencontres réelles vaut des dizaines de candidatures anonymes.", "<b>Osez l'entretien informationnel.</b> Demander à une personne qui exerce un métier qui vous intéresse 15 minutes pour échanger sur son parcours n'est pas déplacé : la plupart des gens acceptent volontiers de parler de ce qu'ils font.", "<b>Donnez avant de recevoir.</b> Partagez une information utile, félicitez, mettez en relation. Un réseau se nourrit d'abord de ce qu'on y apporte, pas de ce qu'on en attend.", "<b>Entretenez le lien.</b> Un réseau ne sert pas qu'au moment où on en a besoin. Un message de temps en temps, un commentaire, des nouvelles : c'est ce qui fait qu'on pense à vous le jour où une opportunité se présente.", "Construire un réseau, ce n'est pas « utiliser » les gens : c'est tisser des relations professionnelles sincères. Et ça se cultive sur la durée."]}, {"id": "p14", "cat": "Jeunes diplômés", "date": "24 mai 2026", "titre": "Transformer son stage en embauche : le mode d'emploi", "excerpt": "Un stage n'est pas qu'une ligne sur le CV : c'est souvent la meilleure porte d'entrée vers un premier vrai poste. À condition de jouer juste.", "body": ["Beaucoup de premiers emplois naissent d'un stage réussi. L'entreprise vous connaît déjà, vous a formé, et préfère souvent garder quelqu'un de fiable plutôt que de recruter un inconnu. Voici comment mettre toutes les chances de votre côté.", "<b>Traitez le stage comme un long entretien.</b> Du premier au dernier jour, vous êtes évalué — non pas avec sévérité, mais on observe votre sérieux, votre attitude et votre progression. Soyez ponctuel, fiable, impliqué.", "<b>Soyez proactif.</b> Ne vous contentez pas d'attendre les consignes. Proposez votre aide, posez des questions pertinentes, montrez de la curiosité pour le métier. L'initiative marque les esprits.", "<b>Livrez et documentez.</b> Faites bien ce qu'on vous confie, et gardez une trace de vos réalisations (projets, chiffres, missions menées). Cela servira à la fois pour défendre votre embauche et pour votre futur CV.", "<b>Demandez du feedback.</b> Solliciter régulièrement des retours montre votre volonté de progresser, et vous permet de corriger le tir avant qu'il ne soit trop tard.", "<b>Tissez des liens.</b> Apprenez à connaître l'équipe, pas seulement votre tuteur. Ce sont parfois ces personnes qui plaideront pour vous garder.", "<b>Exprimez votre intérêt — à temps.</b> N'attendez pas le dernier jour pour dire que vous aimeriez rester. Faites-le savoir quelques semaines avant la fin, clairement et professionnellement, pour laisser à l'entreprise le temps d'y penser.", "Même si l'embauche ne se fait pas tout de suite, un stage bien mené vous laisse une recommandation et un contact précieux. Rien n'est jamais perdu."]}, {"id": "p15", "cat": "Conseil candidature", "date": "23 mai 2026", "titre": "Repérer une offre d'emploi frauduleuse : 7 signaux d'alerte", "excerpt": "Les fausses offres se multiplient et visent les chercheurs d'emploi pressés. Voici comment les démasquer et protéger vos données.", "body": ["La recherche d'emploi attire malheureusement des arnaqueurs. Certaines « offres » ne servent qu'à soutirer de l'argent ou des données personnelles. Apprendre à les repérer vous évite de mauvaises surprises. Voici les signaux qui doivent vous alerter.", "<b>1. On vous demande de payer.</b> C'est la règle d'or : un employeur sérieux ne vous demande jamais d'argent pour un « dossier », une « formation obligatoire », un « kit » ou des « frais de traitement ». Si on vous demande de payer, fuyez.", "<b>2. Le salaire est trop beau pour être vrai.</b> Une rémunération anormalement élevée pour un travail simple et sans qualification est presque toujours un piège.", "<b>3. On réclame vos données sensibles trop tôt.</b> Numéro de carte bancaire, copie de CIN, code RIB dès le premier contact, avant tout entretien : c'est un signal d'alerte majeur.", "<b>4. L'adresse email n'est pas professionnelle.</b> Une grande entreprise écrit rarement depuis une adresse Gmail ou Hotmail générique. Vérifiez le domaine de l'expéditeur.", "<b>5. Le message est truffé de fautes.</b> Une offre bourrée de fautes d'orthographe ou mal traduite trahit souvent une arnaque ou un envoi de masse.", "<b>6. Il n'y a pas de vrai processus.</b> Une « embauche » immédiate, sans entretien réel, sans questions sur votre profil, est suspecte. Le recrutement sérieux prend du temps.", "<b>7. On vous met la pression.</b> « Répondez dans l'heure », « places limitées », « versez l'acompte aujourd'hui » : l'urgence artificielle est une technique classique pour vous empêcher de réfléchir.", "En cas de doute : vérifiez l'existence et les coordonnées officielles de l'entreprise, ne communiquez jamais de données bancaires, et ne payez jamais pour obtenir un emploi. Mieux vaut laisser passer une offre douteuse que de se faire piéger."]}];
+
+let OFFRES = SAMPLE.slice();
+
+const CONTRATS = ["CDI","CDD","Stage","Freelance","Alternance","Intérim"];
+const VILLES_MAROC = ["Agadir","Al Hoceïma","Azrou","Béni Mellal","Benslimane","Berkane","Berrechid","Bouznika","Casablanca","Chefchaouen","Dakhla","El Jadida","Errachidia","Essaouira","Fès","Fnideq","Fquih Ben Salah","Guelmim","Guercif","Ifrane","Inezgane","Kénitra","Khémisset","Khénifra","Khouribga","Ksar El Kébir","Laâyoune","Larache","M'diq","Marrakech","Martil","Meknès","Midelt","Mohammedia","Nador","Ouarzazate","Oued Zem","Oujda","Rabat","Safi","Salé","Sefrou","Settat","Sidi Kacem","Sidi Slimane","Skhirat","Tan-Tan","Tanger","Taourirt","Taroudant","Taza","Témara","Tétouan","Tiznit","Youssoufia","Télétravail"];
+const VILLES = ()=>[...new Set([...VILLES_MAROC,...OFFRES.map(o=>o.ville)])].sort((a,b)=>a.localeCompare(b,'fr'));
+const villeDatalist = ()=>'<datalist id="villes-ma">'+VILLES().map(v=>'<option value="'+esc(v)+'"></option>').join('')+'</datalist>';
+const SECTEURS = ()=>[...new Set(OFFRES.map(o=>o.secteur))].sort();
+const initials = s => s.replace(/[^A-Za-zÀ-ÿ ]/g,"").split(" ").filter(Boolean).slice(0,2).map(w=>w[0]).join("").toUpperCase();
+const esc = s => (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const app = document.getElementById('app');
+
+/* ---------- JSON-LD JobPosting (SEO / Google for Jobs) ---------- */
+function injectJobLd(o){
+  document.getElementById('jobld')?.remove();
+  const s=document.createElement('script');s.type='application/ld+json';s.id='jobld';
+  s.textContent=JSON.stringify({
+    "@context":"https://schema.org/","@type":"JobPosting",
+    title:o.titre,description:o.resume_neutre,datePosted:o.date_pub,
+    employmentType:o.type_contrat,
+    hiringOrganization:{"@type":"Organization",name:o.entreprise},
+    jobLocation:{"@type":"Place",address:{"@type":"PostalAddress",addressLocality:o.ville,addressCountry:o.pays}},
+    ...(o.remote?{jobLocationType:"TELECOMMUTE"}:{}),
+    directApply:false,url:o.url_source
+  });
+  document.head.appendChild(s);
+}
+const clearJobLd=()=>document.getElementById('jobld')?.remove();
+
+/* ---------- CARD ---------- */
+function cardHTML(o){
+  return `<article class="card" onclick="location.hash='#/offre/${o.id}'">
+    <div class="top"><div class="badge">${initials(o.entreprise)}</div>
+      <div><div class="co">${esc(o.entreprise)}</div></div></div>
+    <h3>${esc(o.titre)}</h3>
+    <div class="meta">
+      <span class="tag contract">${esc(o.type_contrat)}</span>
+      <span class="tag">📍 ${esc(o.ville)}</span>
+      ${o.remote?'<span class="tag remote">Remote</span>':''}
+      <span class="tag">${esc(o.secteur)}</span>
+    </div>
+    <p class="resume">${esc(o.resume_neutre)}</p>
+    <div class="foot"><span class="src">via ${esc(o.source_nom)}</span>
+      <span class="go">Voir l'offre <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div>
+  </article>`;
+}
+
+/* ---------- VIEWS ---------- */
+function viewHome(){
+  clearJobLd();
+  const recent=OFFRES.slice(0,6);
+  app.innerHTML=`
+  <section class="hero"><div class="hero-grid"></div>
+    <div class="wrap inner fade">
+      <span class="eyebrow"><span class="dot"></span> Mis à jour en continu</span>
+      <h1 class="title">L'emploi à la <em>vitesse</em> de l'éclair.</h1>
+      <p class="lead">FlashJob réunit les meilleures offres au Maroc et à l'international — remote inclus. Cherchez, filtrez, candidatez. Sans détour.</p>
+      <form class="searchbar" onsubmit="event.preventDefault();goSearch(this.q.value)">
+        <input name="q" placeholder="Poste, compétence, entreprise…" aria-label="Recherche">
+        <button>Chercher</button>
+      </form>
+      <div class="chips">
+        <a onclick="goSearch('développeur')">Développeur</a>
+        <a onclick="goSearch('comptable')">Comptable</a>
+        <a onclick="goSearch('marketing')">Marketing</a>
+        <a onclick="goRemote()">Télétravail</a>
+        <a onclick="goSearch('stage')">Stages</a>
+      </div>
+      <div class="hero-stats">
+        <div class="s"><b>${OFFRES.length}+</b><span>Offres actives</span></div>
+        <div class="s"><b>${VILLES().length}</b><span>Villes &amp; remote</span></div>
+        <div class="s"><b>100%</b><span>Publication gratuite</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><div><h2>Offres récentes</h2><p>Les dernières opportunités ajoutées sur la plateforme.</p></div>
+      <a class="more" href="#/offres">Tout voir →</a></div>
+    <div class="grid">${recent.map(cardHTML).join('')}</div>
+  </div></section>
+
+  <div class="adslot wrap">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+
+  <section class="block" style="background:var(--paper-soft)"><div class="wrap">
+    <div class="sec-head"><div><h2>Vous recrutez ?</h2><p>Publiez votre annonce gratuitement, en moins de 2 minutes. Aucune carte requise.</p></div>
+      <a class="more" href="#/publier">Publier une offre →</a></div>
+  </div></section>`;
+}
+
+let PRESET={};
+let FILTER={q:"",ville:"",contrat:"",secteur:""};
+function matchOffer(o){
+  const se=o.secteur_emploi||'prive';
+  if(PRESET.pays&&o.pays!==PRESET.pays)return false;
+  if(PRESET.intl&&o.pays==='Maroc')return false;
+  if(PRESET.remote&&!o.remote)return false;
+  if(PRESET.type_contrat&&o.type_contrat!==PRESET.type_contrat)return false;
+  if(PRESET.secteur_emploi&&se!==PRESET.secteur_emploi)return false;
+  if(PRESET.ville&&o.ville!==PRESET.ville)return false;
+  if(PRESET.secteur&&o.secteur!==PRESET.secteur)return false;
+  const q=FILTER.q.toLowerCase();
+  const txt=(o.titre+o.entreprise+o.secteur+o.competences.join(" ")).toLowerCase();
+  if(q&&!txt.includes(q))return false;
+  if(FILTER.ville&&o.ville!==FILTER.ville)return false;
+  if(FILTER.contrat&&o.type_contrat!==FILTER.contrat)return false;
+  if(FILTER.secteur&&o.secteur!==FILTER.secteur)return false;
+  return true;
+}
+function viewOffres(title,sub){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap fade">
+    <div class="sec-head"><div><h2>${title||'Toutes les offres'}</h2><p>${sub||'Filtrez par ville, contrat ou secteur.'}</p></div></div>
+    <div class="filters">
+      <label class="fsearch"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#56565e" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
+        <input id="fq" placeholder="Rechercher un poste, une compétence…" value="${esc(FILTER.q)}"></label>
+      <select id="fville"><option value="">Toutes les villes</option>${VILLES().map(v=>`<option ${FILTER.ville===v?'selected':''}>${esc(v)}</option>`).join('')}</select>
+      <select id="fcontrat"><option value="">Tout contrat</option>${CONTRATS.map(c=>`<option ${FILTER.contrat===c?'selected':''}>${c}</option>`).join('')}</select>
+      <select id="fsecteur"><option value="">Tout secteur</option>${SECTEURS().map(s=>`<option ${FILTER.secteur===s?'selected':''}>${esc(s)}</option>`).join('')}</select>
+      <button class="reset" id="freset">Réinitialiser</button>
+    </div>
+    <div id="results"></div>
+  </div></section>`;
+  const apply=()=>{FILTER={q:fq.value,ville:fville.value,contrat:fcontrat.value,secteur:fsecteur.value};renderResults();};
+  fq.addEventListener('input',apply);
+  [fville,fcontrat,fsecteur].forEach(el=>el.addEventListener('change',apply));
+  freset.addEventListener('click',()=>{FILTER={q:"",ville:"",contrat:"",secteur:""};fq.value='';fville.value='';fcontrat.value='';fsecteur.value='';renderResults();});
+  renderResults();
+}
+function renderResults(){
+  const list=OFFRES.filter(matchOffer);
+  const r=document.getElementById('results');
+  r.innerHTML=list.length?`<p style="color:var(--ink-soft);margin-bottom:18px">${list.length} offre(s) trouvée(s)</p><div class="grid">${list.map(cardHTML).join('')}</div>`
+    :`<div class="empty"><b>Aucune offre pour le moment</b>Aucune offre ne correspond à cette sélection. Le site se met à jour en continu, revenez bientôt.</div>`;
+}
+
+function viewOffre(id){
+  const o=OFFRES.find(x=>x.id===id);
+  if(!o){app.innerHTML=`<section class="block"><div class="wrap detail"><div class="empty"><b>Offre introuvable</b><a class="more" href="#/offres">← Retour aux offres</a></div></div></section>`;return;}
+  injectJobLd(o);
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/offres"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M19 12H5M11 18l-6-6 6-6"/></svg> Retour</a>
+    <div class="head"><div class="badge">${initials(o.entreprise)}</div>
+      <div><h1>${esc(o.titre)}</h1><div class="co">${esc(o.entreprise)} · ${esc(o.ville)}, ${esc(o.pays)}</div></div></div>
+    <div class="meta">
+      <span class="tag contract">${esc(o.type_contrat)}</span>
+      <span class="tag">📍 ${esc(o.ville)}</span>
+      ${o.remote?'<span class="tag remote">Télétravail</span>':''}
+      <span class="tag">${esc(o.secteur)}</span>
+      <span class="tag">🗓️ ${esc(o.date_pub)}</span>
+    </div>
+    <div class="panel"><h4>En bref</h4><p style="color:#2c2c32">${esc(o.resume_neutre)}</p></div>
+    <div class="panel"><h4>Prérequis &amp; compétences</h4>
+      <ul class="skills">${o.competences.map(c=>`<li>${esc(c)}</li>`).join('')}</ul></div>
+    <div class="apply">
+      <div class="t">Cette offre vous intéresse ?<small>Candidature sur le site source · via ${esc(o.source_nom)}</small></div>
+      <a class="btn-apply" href="${esc(o.url_source)}" target="_blank" rel="noopener nofollow">Postuler
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M7 17L17 7M9 7h8v8"/></svg></a>
+    </div>
+  </div></section>`;
+}
+
+function viewPublier(){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap page fade">
+    <h1>Publier une offre</h1>
+    <p class="sub">Gratuit, sans inscription. Votre annonce est mise en ligne après validation.</p>
+    <form class="form" name="offre-recruteur" method="POST" data-netlify="true" netlify-honeypot="bot-field" onsubmit="return submitOffre(event)">
+      <input type="hidden" name="form-name" value="offre-recruteur">
+      <p hidden><label>Ne pas remplir <input name="bot-field"></label></p>
+      <div class="field"><label>Intitulé du poste *</label><input name="poste" required placeholder="Ex : Développeur Full-Stack"></div>
+      <div class="row">
+        <div class="field"><label>Entreprise *</label><input name="entreprise" required></div>
+        <div class="field"><label>Email de contact *</label><input type="email" name="email_contact" required></div>
+      </div>
+      <div class="row">
+        <div class="field"><label>Ville *</label><input name="ville" list="villes-ma" required placeholder="Casablanca / Télétravail">${villeDatalist()}</div>
+        <div class="field"><label>Pays</label><input name="pays" value="Maroc"></div>
+      </div>
+      <div class="row">
+        <div class="field"><label>Type de contrat *</label><select name="type_contrat" required>${CONTRATS.map(c=>`<option>${c}</option>`).join('')}</select></div>
+        <div class="field"><label>Secteur</label><input name="secteur" placeholder="IT / Tech, Finance…"></div>
+      </div>
+      <div class="field"><label>Compétences clés (séparées par des virgules)</label><input name="competences" placeholder="React, Node.js, Anglais"></div>
+      <div class="field"><label>Description du poste *</label><textarea name="description" required placeholder="Missions, profil recherché…"></textarea></div>
+      <div class="field"><label>Lien de candidature *</label><input name="url_candidature" required placeholder="https://… (page où postuler)"></div>
+      <button class="btn-primary" type="submit">Publier gratuitement →</button>
+      <p class="note">En publiant, vous acceptez nos <a href="#/mentions-legales" style="color:var(--ink);text-decoration:underline">conditions</a>. Soumission traitée via Netlify Forms (aucune donnée revendue).</p>
+    </form>
+  </div></section>`;
+}
+function submitOffre(e){
+  // Netlify intercepte le POST. On affiche un message de confirmation côté client.
+  setTimeout(()=>{
+    const f=e.target;
+    const data=new FormData(f);
+    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:new URLSearchParams(data).toString()})
+      .then(()=>{f.parentElement.querySelector('h1').innerText="Merci !";f.outerHTML='<div class="ok">✅ Votre offre a bien été envoyée. Elle sera publiée après une rapide vérification. Vous recevrez un email de confirmation.</div>';})
+      .catch(()=>{f.outerHTML='<div class="ok">✅ Offre enregistrée. (En local, le POST Netlify ne fonctionne qu\'une fois déployé.)</div>';});
+  },10);
+  e.preventDefault();return false;
+}
+
+function viewSources(){
+  clearJobLd();
+  const maroc=[["ANAPEC","Agence nationale de l'emploi"],["ReKrute","Cadres &amp; professionnels"],["Emploi.ma","Généraliste Maroc"],["Marocannonces","Petites annonces emploi"],["OptionCarriere MA","Agrégateur"],["Bayt.com","Moyen-Orient &amp; Maghreb"]];
+  const inter=[["Indeed","Agrégateur mondial"],["LinkedIn Jobs","Réseau professionnel"],["RemoteOK","100% télétravail"],["We Work Remotely","Remote international"],["Welcome to the Jungle","Europe"],["EURES","Mobilité UE (données ouvertes)"]];
+  const block=(arr)=>`<div class="sources-grid">${arr.map(([n,d])=>`<div class="src-card"><div><b>${n}</b><span>${d}</span></div><span class="arr">↗</span></div>`).join('')}</div>`;
+  app.innerHTML=`<section class="block"><div class="wrap page fade">
+    <h1>Nos sources</h1>
+    <p class="sub">FlashJob est un agrégateur transparent. Nous référençons des offres via les flux et programmes partenaires autorisés, puis nous renvoyons toujours vers la source d'origine pour candidater. Voici les plateformes que nous suivons.</p>
+    <div class="zone-title">🇲🇦 Maroc</div>${block(maroc)}
+    <div class="zone-title">🌍 International &amp; Remote</div>${block(inter)}
+    <p class="note" style="margin-top:24px">Vous êtes une plateforme et souhaitez intégrer ou retirer vos offres ? <a href="#/contact" style="color:var(--ink);text-decoration:underline">Contactez-nous</a>.</p>
+  </div></section>`;
+}
+
+/* ---- Illustrations SVG par thème d'article ---- */
+const CAT_THEME={
+ "Conseil CV":{a:"#1e4fd8",b:"#0e7490",icon:"cvpage"},
+ "Conseil candidature":{a:"#2563eb",b:"#6d28d9",icon:"send"},
+ "Entretien":{a:"#0f8a5f",b:"#0e7490",icon:"chat"},
+ "Réseau pro":{a:"#7c3aed",b:"#2563eb",icon:"net"},
+ "Carrière":{a:"#b45309",b:"#9b2242",icon:"rise"},
+ "Télétravail":{a:"#0e7490",b:"#0f8a5f",icon:"laptop"},
+ "Marché de l'emploi":{a:"#9b2242",b:"#6d28d9",icon:"chart"},
+ "Marché":{a:"#9b2242",b:"#6d28d9",icon:"chart"},
+ "Tendances":{a:"#6d28d9",b:"#2563eb",icon:"rise"},
+ "Jeunes diplômés":{a:"#c2410c",b:"#b45309",icon:"cap"},
+ "Emploi Maroc":{a:"#0f8a5f",b:"#1e4fd8",icon:"star"}
+};
+const ICONS={
+ doc:'<rect x="11" y="5" width="22" height="38" rx="3"/><path d="M17 15h12M17 22h12M17 29h8"/>',
+ send:'<path d="M6 24L42 7 30 43 23 28 6 24z"/><path d="M23 28l8-12"/>',
+ chat:'<rect x="6" y="9" width="25" height="17" rx="4"/><rect x="18" y="22" width="24" height="16" rx="4"/>',
+ net:'<circle cx="11" cy="12" r="5"/><circle cx="37" cy="14" r="5"/><circle cx="24" cy="38" r="5"/><path d="M15 14l6 20M33 17l-7 18M16 13h17"/>',
+ rise:'<path d="M8 40V25M19 40V15M30 40V29M41 40V9"/><path d="M6 19l12-8 9 6 17-10"/>',
+ laptop:'<rect x="10" y="9" width="28" height="20" rx="2"/><path d="M5 38h38l-4-7H9z"/>',
+ chart:'<path d="M8 40h33"/><rect x="12" y="23" width="6" height="15"/><rect x="22" y="15" width="6" height="23"/><rect x="32" y="28" width="6" height="10"/>',
+ cap:'<path d="M24 9L44 17 24 25 4 17z"/><path d="M13 21v9c0 3 5 6 11 6s11-3 11-6v-9"/>',
+ star:'<path d="M24 5l5 13 14 1-11 9 4 13-12-7-12 7 4-13L4 19l14-1z"/>'
+};
+function coverSvg(cat){
+ const t=CAT_THEME[cat]||{a:"#1e4fd8",b:"#6d28d9",icon:"doc"};
+ const gid='g'+t.a.slice(1)+t.b.slice(1);
+ let inner;
+ if(t.icon==='cvpage'){
+   inner='<rect x="128" y="26" width="150" height="126" rx="8" fill="#000" opacity=".15"/>'
+   +'<rect x="125" y="22" width="150" height="126" rx="8" fill="#ffffff"/>'
+   +'<path d="M125 30 a8 8 0 0 1 8 -8 h42 v126 h-42 a8 8 0 0 1 -8 -8 z" fill="#1f2937"/>'
+   +'<circle cx="154" cy="52" r="15" fill="#e2e8f0"/>'
+   +'<rect x="138" y="78" width="32" height="4" rx="2" fill="#ffffff" opacity=".55"/>'
+   +'<rect x="138" y="88" width="26" height="4" rx="2" fill="#ffffff" opacity=".45"/>'
+   +'<rect x="138" y="98" width="30" height="4" rx="2" fill="#ffffff" opacity=".45"/>'
+   +'<rect x="186" y="34" width="72" height="8" rx="3" fill="#0f172a"/>'
+   +'<rect x="186" y="47" width="50" height="5" rx="2" fill="'+t.a+'"/>'
+   +'<rect x="186" y="66" width="34" height="5" rx="2" fill="'+t.a+'"/>'
+   +'<rect x="186" y="77" width="74" height="4" rx="2" fill="#cbd5e1"/>'
+   +'<rect x="186" y="86" width="66" height="4" rx="2" fill="#cbd5e1"/>'
+   +'<rect x="186" y="104" width="34" height="5" rx="2" fill="'+t.a+'"/>'
+   +'<rect x="186" y="115" width="74" height="4" rx="2" fill="#cbd5e1"/>'
+   +'<rect x="186" y="124" width="60" height="4" rx="2" fill="#cbd5e1"/>';
+ } else {
+   const ic=ICONS[t.icon]||ICONS.doc;
+   inner='<g transform="translate(158,38) scale(1.78)" fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".95">'+ic+'</g>';
+ }
+ return '<svg class="cover-svg" viewBox="0 0 400 170" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">'
+  +'<defs><linearGradient id="'+gid+'" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="'+t.a+'"/><stop offset="1" stop-color="'+t.b+'"/></linearGradient></defs>'
+  +'<rect width="400" height="170" fill="url(#'+gid+')"/>'
+  +'<circle cx="335" cy="26" r="80" fill="#fff" opacity=".07"/><circle cx="52" cy="168" r="98" fill="#000" opacity=".06"/>'
+  +inner+'</svg>';
+}
+
+function viewActus(){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap page fade" style="max-width:var(--maxw)">
+    <h1>Actualités &amp; conseils</h1>
+    <p class="sub">Conseils CV, tendances du marché et analyses — basés sur les données de la plateforme.</p>
+    <div class="posts">${POSTS.map(p=>`<article class="post" onclick="location.hash='#/article/${p.id}'">
+      <div class="cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
+      <div class="body"><span class="date">${p.date}</span><h3>${esc(p.titre)}</h3><p>${esc(p.excerpt)}</p></div>
+    </article>`).join('')}</div>
+    <div class="adslot" style="margin-top:36px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+function viewArticle(id){
+  clearJobLd();
+  const p=POSTS.find(x=>x.id===id);
+  if(!p){location.hash='#/actualites';return;}
+  app.innerHTML=`<section class="block"><div class="wrap page fade">
+    <a class="back" href="#/actualites"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M19 12H5M11 18l-6-6 6-6"/></svg> Actualités</a>
+    <div class="article-cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
+    <h1 style="margin-top:4px">${esc(p.titre)}</h1>
+    <p class="sub">${p.date} · par l'équipe FlashJob</p>
+    ${p.body.map(par=>`<p>${par}</p>`).join('')}
+    <div class="apply" style="margin-top:30px"><div class="t">Prêt à postuler ?<small>Des centaines d'offres vous attendent</small></div>
+      <a class="btn-apply" href="#/offres">Voir les offres</a></div>
+  </div></section>`;
+}
+
+function staticPage(title,sub,html){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap page fade"><h1>${title}</h1><p class="sub">${sub}</p>${html}</div></section>`;
+}
+const viewMentions=()=>staticPage("Mentions légales","Informations légales relatives au site FlashJob.",`
+  <h2>Éditeur du site</h2><p>FlashJob — Hicham IMZ, Rabat, Maroc. Contact : planetegestionh@gmail.com. Directeur de la publication : Hicham IMZ.</p>
+  <h2>Hébergement</h2><p>Site hébergé par Netlify, Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA.</p>
+  <h2>Nature du service</h2><p>FlashJob est un agrégateur d'offres d'emploi. Les offres affichées renvoient vers leur source d'origine, qui reste responsable de leur contenu et du traitement des candidatures.</p>
+  <h2>Propriété intellectuelle</h2><p>La marque, le logo et l'interface FlashJob sont protégés. Les offres restent la propriété de leurs auteurs respectifs.</p>`);
+const viewConf=()=>staticPage("Politique de confidentialité","Comment nous traitons vos données personnelles (RGPD / loi 09-08).",`
+  <h2>Données collectées</h2><p>Pour les recruteurs : nom de l'entreprise, email de contact et contenu de l'offre. Pour les visiteurs : données de navigation anonymisées et, avec votre consentement, cookies de mesure et de publicité.</p>
+  <h2>Finalités</h2><p>Publication des offres, amélioration du service et affichage de publicités pertinentes (Google AdSense).</p>
+  <h2>Cookies publicitaires</h2><p>Avec votre accord, des tiers comme Google peuvent déposer des cookies pour personnaliser les annonces. Voir notre <a href="#/cookies" style="text-decoration:underline">politique cookies</a>.</p>
+  <h2>Vos droits</h2><p>Vous disposez d'un droit d'accès, de rectification et de suppression de vos données : planetegestionh@gmail.com.</p>`);
+const viewCookies=()=>staticPage("Politique cookies","Utilisation des cookies sur FlashJob.",`
+  <h2>Cookies essentiels</h2><p>Nécessaires au fonctionnement du site (mémorisation du consentement).</p>
+  <h2>Cookies de mesure et publicité</h2><p>Déposés uniquement après votre consentement. Google AdSense et ses partenaires utilisent des cookies pour diffuser des annonces basées sur vos visites antérieures sur ce site et d'autres sites.</p>
+  <p>Vous pouvez désactiver la publicité personnalisée via les <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener" style="text-decoration:underline">paramètres des annonces Google</a>.</p>`);
+const viewContact=()=>staticPage("Contact","Une question, une suggestion, un partenariat ?",`
+  <form class="form" name="contact" method="POST" data-netlify="true" onsubmit="return submitOffre(event)">
+    <input type="hidden" name="form-name" value="contact">
+    <div class="row"><div class="field"><label>Nom *</label><input name="nom" required></div>
+      <div class="field"><label>Email *</label><input type="email" name="email" required></div></div>
+    <div class="field"><label>Message *</label><textarea name="message" required></textarea></div>
+    <button class="btn-primary" type="submit">Envoyer →</button>
+  </form>
+  <p class="note" style="margin-top:14px">Ou par email : <b>planetegestionh@gmail.com</b></p>`);
+const viewApropos=()=>staticPage("À propos de FlashJob","Notre mission : rendre la recherche d'emploi simple et rapide.",`
+  <p>FlashJob est né d'un constat simple : trouver un emploi prend trop de temps, éparpillé sur des dizaines de sites. Nous réunissons les meilleures offres au Maroc et à l'international dans une interface épurée, ultra-rapide, et gratuite pour tous.</p>
+  <h2>Pour les candidats</h2><p>Une recherche instantanée, des filtres clairs (ville, contrat, secteur, remote) et un accès direct à la source pour postuler.</p>
+  <h2>Pour les recruteurs</h2><p>Une publication gratuite et immédiate, pour donner de la visibilité à vos offres.</p>
+  <h2>Notre approche</h2><p>Nous référençons les offres via des canaux autorisés et renvoyons systématiquement vers la source. Pas de copie de contenu : de la valeur ajoutée.</p>`);
+
+/* ---------- ROUTER ---------- */
+let PENDING_Q=null;
+function setView(seg,arg){
+  PRESET={};FILTER={q:"",ville:"",contrat:"",secteur:""};
+  const cap=s=>s?s.charAt(0).toUpperCase()+s.slice(1):s;
+  switch(seg){
+    case'offres':if(PENDING_Q){FILTER.q=PENDING_Q;PENDING_Q=null;}return viewOffres();
+    case'emploi-maroc':PRESET={pays:'Maroc'};if(arg)PRESET.ville=decodeURIComponent(arg);return viewOffres(arg?('Emploi à '+decodeURIComponent(arg)):'Emploi au Maroc','Toutes les offres basées au Maroc.');
+    case'emploi-international':PRESET={intl:true};return viewOffres('Emploi International','Opportunités à l\'étranger et missions à distance.');
+    case'emploi-public':PRESET={secteur_emploi:'public'};if(arg)PRESET.ville=decodeURIComponent(arg);return viewOffres('Emploi Public'+(arg?(' — '+decodeURIComponent(arg)):''),'Offres du secteur public, administrations et collectivités.');
+    case'emploi-prive':{PRESET={secteur_emploi:'prive'};const m={it:'IT / Tech',finance:'Finance / Compta',commercial:'Commercial / Vente',marketing:'Marketing / Com'};if(arg&&m[arg])PRESET.secteur=m[arg];return viewOffres('Emploi Privé'+(arg?(' — '+cap(arg)):''),'Offres du secteur privé.');}
+    case'teletravail':PRESET={remote:true};return viewOffres('Télétravail','Toutes les offres en remote, accessibles depuis chez vous.');
+    case'stages':PRESET={type_contrat:'Stage'};return viewOffres('Stages','Stages et premières expériences professionnelles.');
+    case'offre':return viewOffre(arg);
+    case'publier':return viewPublier();
+    case'cvtheque':return viewCvtheque();
+    case'cv':case'creer-cv':return viewCvGen();
+    case'lettre':case'lettre-motivation':return viewLettre();
+    case'orientation':return viewOrientation();
+    case'sources':return viewSources();
+    case'news':case'actualites':return viewActus();
+    case'article':return viewArticle(arg);
+    case'contact':return viewContact();
+    case'a-propos':return viewApropos();
+    case'mentions-legales':return viewMentions();
+    case'confidentialite':return viewConf();
+    case'cookies':return viewCookies();
+    default:return viewHome();
+  }
+}
+function markActiveNav(){
+  const h=location.hash||'#/';
+  document.querySelectorAll('#links > a, #links .navitem > a').forEach(a=>{
+    const href=a.getAttribute('href')||'';
+    a.classList.toggle('active', href===h || (href!=='#/' && h.indexOf(href)===0));
+  });
+}
+function router(){
+  window.scrollTo(0,0);
+  document.getElementById('links').classList.remove('open');
+  const h=location.hash.replace('#','')||'/';
+  const [_,seg,arg]=h.split('/');
+  if(h==='/'||seg===''){ viewHome(); markActiveNav(); return; }
+  setView(seg,arg); markActiveNav();
+}
+function goSearch(q){PENDING_Q=q||"";location.hash='#/offres';}
+function goRemote(){location.hash='#/teletravail';}
+
+
+/* ===================== CRÉATEUR DE CV + LETTRE ===================== */
+const CVLBL={
+  fr:{profil:"Profil",contact:"Contact",comp:"Compétences",lang:"Langues",interets:"Centres d'intérêt",exp:"Expérience",form:"Formation"},
+  en:{profil:"Profile",contact:"Contact",comp:"Skills",lang:"Languages",interets:"Interests",exp:"Experience",form:"Education"},
+  ar:{profil:"الملف الشخصي",contact:"معلومات التواصل",comp:"المهارات",lang:"اللغات",interets:"الاهتمامات",exp:"الخبرة المهنية",form:"التعليم"}
+};
+const CVPAL=['#1e4fd8','#2563eb','#0e7490','#0f8a5f','#4d7c0f','#b45309','#c2410c','#9b2242','#be123c','#6d28d9','#7c3aed','#2b2b30'];
+if(!window.CVDATA){window.CVDATA={photo:"",nom:"Votre Nom",titre:"Intitulé du poste visé",email:"vous@email.com",tel:"06 00 00 00 00",ville:"Casablanca",linkedin:"",accroche:"Décrivez en 2-3 phrases votre profil, votre expérience clé et ce que vous recherchez.",exp:[{poste:"Dernier poste occupé",entreprise:"Nom de l'entreprise",periode:"2022 - 2026",desc:"Décrivez vos missions, une par ligne.\nUtilisez des verbes d'action et des résultats chiffrés."}],form:[{dip:"Votre diplôme",ecole:"École / Université",periode:"2020"}],comp:["Compétence 1","Compétence 2","Compétence 3","Compétence 4"],lang:["Français","Arabe","Anglais"],interets:"Sport, lecture, voyages"};}
+window.CVTPL=window.CVTPL||'tpl-modern';window.CVCOLOR=window.CVCOLOR||'#1e4fd8';window.CVLANG=window.CVLANG||'fr';
+function CVSET(k,v){window.CVDATA[k]=v;renderCvPreview();}
+function CVSETEXP(i,k,v){window.CVDATA.exp[i][k]=v;renderCvPreview();}
+function CVSETFORM(i,k,v){window.CVDATA.form[i][k]=v;renderCvPreview();}
+function CVLIST(k,v){window.CVDATA[k]=v.split(',').map(s=>s.trim()).filter(Boolean);renderCvPreview();}
+function addExp(){window.CVDATA.exp.push({poste:"",entreprise:"",periode:"",desc:""});viewCvGen();}
+function delExp(i){window.CVDATA.exp.splice(i,1);viewCvGen();}
+function addForm(){window.CVDATA.form.push({dip:"",ecole:"",periode:""});viewCvGen();}
+function delForm(i){window.CVDATA.form.splice(i,1);viewCvGen();}
+function setTpl(t){window.CVTPL=t;viewCvGen();}
+function setLang(l){window.CVLANG=l;viewCvGen();}
+function setColor(c){window.CVCOLOR=c;renderCvPreview();document.querySelectorAll('.swatch').forEach(s=>s.classList.toggle('on',s.dataset.c===c));}
+function printCV(){window.print();}
+function loadPhoto(e){const f=e.target.files&&e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{window.CVDATA.photo=r.result;viewCvGen();};r.readAsDataURL(f);}
+function delPhoto(){window.CVDATA.photo="";viewCvGen();}
+function aiAccroche(){
+  const d=window.CVDATA,t=(d.titre||'').trim(),sk=(d.comp||[]).filter(x=>x&&!/^Comp[eé]tence/i.test(x)).slice(0,3).join(', '),L=window.CVLANG;
+  if(L==='en'){window.CVDATA.accroche=(t||'Professional')+' — rigorous and motivated, I put my expertise at the service of your team\u2019s performance.'+(sk?(' Skilled in '+sk+', well-organised and detail-oriented.'):' Well-organised and detail-oriented.')+' Seeking a new challenge to contribute concretely to your projects.';}
+  else if(L==='ar'){window.CVDATA.accroche=(t||'محترف')+' متمرّس ومتحمّس، أضع خبرتي في خدمة أداء فريقكم.'+(sk?(' إتقان '+sk+'، مع حسّ تنظيمي عالٍ ودقّة في العمل.'):' مع حسّ تنظيمي عالٍ ودقّة في العمل.')+' أبحث عن تحدٍّ جديد للمساهمة الفعلية في مشاريعكم.';}
+  else{window.CVDATA.accroche=(t||'Professionnel')+' rigoureux(se) et motivé(e), je mets mon savoir-faire au service de la performance de votre équipe.'+(sk?(' Maîtrise de '+sk+", sens de l'organisation et goût du travail bien fait."):" Sens de l'organisation et goût du travail bien fait.")+" À la recherche d'un nouveau défi pour contribuer concrètement à vos projets.";}
+  viewCvGen();
+}
+function renderCvPreview(){
+  const d=window.CVDATA,p=document.getElementById('cv-paper');if(!p)return;
+  const L=CVLBL[window.CVLANG]||CVLBL.fr;
+  p.className='cv '+window.CVTPL;p.style.setProperty('--cv',window.CVCOLOR);
+  p.setAttribute('dir',window.CVLANG==='ar'?'rtl':'ltr');
+  const contact=[d.ville,d.tel,d.email,d.linkedin].filter(Boolean);
+  const photo=d.photo?'<img class="cv-photo" src="'+d.photo+'" alt="">':'';
+  const exp=d.exp.map(e=>'<div class="cv-item"><div class="r1"><span>'+esc(e.poste)+'</span><span>'+esc(e.periode)+'</span></div><div class="r2">'+esc(e.entreprise)+'</div><div class="r3">'+esc(e.desc)+'</div></div>').join('');
+  const form=d.form.map(x=>'<div class="cv-item"><div class="r1"><span>'+esc(x.dip)+'</span><span>'+esc(x.periode)+'</span></div><div class="r2">'+esc(x.ecole)+'</div></div>').join('');
+  const comp=d.comp.map(c=>'<span class="cv-chip">'+esc(c)+'</span>').join('');
+  const lang=d.lang.map(c=>'<span class="cv-chip">'+esc(c)+'</span>').join('');
+  const profil=d.accroche?'<div class="cv-sec-t">'+L.profil+'</div><div class="r3">'+esc(d.accroche)+'</div>':'';
+  const interets=d.interets?'<div class="cv-sec-t">'+L.interets+'</div><div class="r3">'+esc(d.interets)+'</div>':'';
+  if(window.CVTPL==='tpl-modern'){
+    p.innerHTML='<div class="cv-side">'+photo+'<div class="cv-name">'+esc(d.nom)+'</div><div class="cv-title">'+esc(d.titre)+'</div>'
+      +'<div class="cv-sec-t">'+L.contact+'</div>'+contact.map(c=>'<div class="ci">'+esc(c)+'</div>').join('')
+      +'<div class="cv-sec-t">'+L.comp+'</div><div class="cv-chips">'+comp+'</div>'
+      +'<div class="cv-sec-t">'+L.lang+'</div><div class="cv-chips">'+lang+'</div>'+interets+'</div>'
+      +'<div class="cv-main">'+profil+'<div class="cv-sec-t">'+L.exp+'</div>'+exp+'<div class="cv-sec-t">'+L.form+'</div>'+form+'</div>';
+  }else{
+    const head='<div class="cv-head">'+photo+'<div class="cv-headtext"><div class="cv-name">'+esc(d.nom)+'</div><div class="cv-title">'+esc(d.titre)+'</div><div class="cv-contact">'+contact.map(c=>'<span>'+esc(c)+'</span>').join('')+'</div></div></div>';
+    p.innerHTML=head+profil+'<div class="cv-sec-t">'+L.exp+'</div>'+exp+'<div class="cv-sec-t">'+L.form+'</div>'+form+'<div class="cv-sec-t">'+L.comp+'</div><div class="cv-chips">'+comp+'</div><div class="cv-sec-t">'+L.lang+'</div><div class="cv-chips">'+lang+'</div>'+interets;
+  }
+}
+function viewCvGen(){
+  clearJobLd();const d=window.CVDATA;
+  const expHTML=d.exp.map((e,i)=>'<div class="rep"><div class="field"><label>Poste</label><input value="'+esc(e.poste)+'" oninput="CVSETEXP('+i+",'poste',this.value)\"></div><div class=\"field\"><label>Entreprise</label><input value=\""+esc(e.entreprise)+'" oninput="CVSETEXP('+i+",'entreprise',this.value)\"></div><div class=\"field\"><label>Période</label><input value=\""+esc(e.periode)+'" placeholder="2022 - 2026" oninput="CVSETEXP('+i+",'periode',this.value)\"></div><div class=\"field\"><label>Missions (une par ligne)</label><textarea oninput=\"CVSETEXP("+i+",'desc',this.value)\">"+esc(e.desc)+'</textarea></div><button class="mini-btn danger" onclick="delExp('+i+')">Supprimer</button></div>').join('');
+  const formHTML=d.form.map((x,i)=>'<div class="rep"><div class="field"><label>Diplôme</label><input value="'+esc(x.dip)+'" oninput="CVSETFORM('+i+",'dip',this.value)\"></div><div class=\"field\"><label>École / Université</label><input value=\""+esc(x.ecole)+'" oninput="CVSETFORM('+i+",'ecole',this.value)\"></div><div class=\"field\"><label>Année</label><input value=\""+esc(x.periode)+'" oninput="CVSETFORM('+i+",'periode',this.value)\"></div><button class=\"mini-btn danger\" onclick=\"delForm("+i+')">Supprimer</button></div>').join('');
+  const sw=CVPAL.map(c=>'<span class="swatch '+(window.CVCOLOR===c?'on':'')+'" data-c="'+c+'" style="background:'+c+'" onclick="setColor(\''+c+'\')"></span>').join('');
+  const lb=(l,t)=>'<button class="'+(window.CVLANG===l?'on':'')+'" onclick="setLang(\''+l+'\')">'+t+'</button>';
+  const tb=(t,n)=>'<button class="'+(window.CVTPL===t?'on':'')+'" onclick="setTpl(\''+t+'\')">'+n+'</button>';
+  const photoField=d.photo?'<div class="photo-row"><img src="'+d.photo+'" class="photo-thumb"><button class="mini-btn danger" onclick="delPhoto()">Retirer la photo</button></div>':'<label class="filedrop" style="padding:14px;font-size:13px">📷 Ajouter une photo<input type="file" accept="image/*" onchange="loadPhoto(event)"></label>';
+  app.innerHTML='<section class="block"><div class="wrap fade"><div class="sec-head"><div><h2>Créateur de CV gratuit ✨</h2><p>Infos, modèle, couleur, langue (FR / EN / AR) puis téléchargement PDF. 100% gratuit.</p></div></div><div class="cvgen-grid"><div class="cvgen-form">'
+    +'<h4>Photo</h4>'+photoField
+    +'<h4>Informations</h4>'
+    +'<div class="field"><label>Nom complet</label><input value="'+esc(d.nom)+'" oninput="CVSET(\'nom\',this.value)"></div>'
+    +'<div class="field"><label>Titre / Poste visé</label><input value="'+esc(d.titre)+'" oninput="CVSET(\'titre\',this.value)"></div>'
+    +'<div class="field"><label>Email</label><input value="'+esc(d.email)+'" oninput="CVSET(\'email\',this.value)"></div>'
+    +'<div class="field"><label>Téléphone</label><input value="'+esc(d.tel)+'" oninput="CVSET(\'tel\',this.value)"></div>'
+    +'<div class="field"><label>Ville</label><input value="'+esc(d.ville)+'" list="villes-ma" oninput="CVSET(\'ville\',this.value)">'+villeDatalist()+'</div>'
+    +'<div class="field"><label>LinkedIn (optionnel)</label><input value="'+esc(d.linkedin)+'" oninput="CVSET(\'linkedin\',this.value)"></div>'
+    +'<h4 style="display:flex;justify-content:space-between;align-items:center;gap:8px">Accroche / Profil <button class="ai-btn" onclick="aiAccroche()">✨ Suggérer</button></h4>'
+    +'<div class="field"><textarea oninput="CVSET(\'accroche\',this.value)">'+esc(d.accroche)+'</textarea></div>'
+    +'<h4>Expériences</h4>'+expHTML+'<button class="mini-btn ghost" onclick="addExp()">+ Ajouter une expérience</button>'
+    +'<h4>Formation</h4>'+formHTML+'<button class="mini-btn ghost" onclick="addForm()">+ Ajouter une formation</button>'
+    +'<h4>Compétences <span class="tlabel">(virgules)</span></h4><div class="field"><input value="'+esc(d.comp.join(', '))+'" oninput="CVLIST(\'comp\',this.value)"></div>'
+    +'<h4>Langues <span class="tlabel">(virgules)</span></h4><div class="field"><input value="'+esc(d.lang.join(', '))+'" oninput="CVLIST(\'lang\',this.value)"></div>'
+    +'<h4>Centres d\'intérêt</h4><div class="field"><input value="'+esc(d.interets)+'" oninput="CVSET(\'interets\',this.value)"></div>'
+    +'</div><div class="cvgen-preview"><div class="cvgen-toolbar">'
+    +'<div class="lang-pick"><span class="tlabel">Langue :</span>'+lb('fr','FR')+lb('en','EN')+lb('ar','ع')+'</div>'
+    +'<div class="tpl-pick"><span class="tlabel">Modèle :</span>'+tb('tpl-modern','Moderne')+tb('tpl-classic','Classique')+tb('tpl-minimal','Minimal')+'</div>'
+    +'<div class="color-pick"><span class="tlabel">Couleur :</span>'+sw+'</div>'
+    +'<button class="dl-btn" onclick="printCV()">⬇ PDF</button></div><div id="cv-paper" class="cv"></div></div></div></div></section>';
+  renderCvPreview();
+}
+/* ---- LETTRE DE MOTIVATION ---- */
+if(!window.LDATA){window.LDATA={nom:"Votre Nom",ville:"Casablanca",email:"vous@email.com",tel:"06 00 00 00 00",entreprise:"Nom de l'entreprise",poste:"Intitulé du poste",corps:""};}
+window.LLANG=window.LLANG||'fr';window.LCOLOR=window.LCOLOR||'#1e4fd8';
+const LMODELE={
+ fr:(d)=>"Madame, Monsieur,\n\nActuellement à la recherche d'un poste de "+(d.poste||'…')+", je vous adresse ma candidature avec un vif intérêt pour "+(d.entreprise||'votre entreprise')+".\n\nMon parcours m'a permis de développer des compétences solides que je souhaite aujourd'hui mettre au service de votre équipe. Rigoureux(se), motivé(e) et doté(e) d'un bon esprit d'équipe, je suis convaincu(e) de pouvoir contribuer concrètement à vos projets.\n\nJe serais ravi(e) de vous exposer ma motivation plus en détail lors d'un entretien, à votre convenance.\n\nDans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+ en:(d)=>"Dear Hiring Manager,\n\nI am writing to apply for the position of "+(d.poste||'…')+" at "+(d.entreprise||'your company')+", a role that strongly matches my background and ambitions.\n\nThroughout my career I have developed solid skills that I am eager to put at the service of your team. Rigorous, motivated and a strong team player, I am confident I can contribute concretely to your projects.\n\nI would welcome the opportunity to discuss my motivation in more detail during an interview at your convenience.\n\nThank you for considering my application. I look forward to hearing from you.\n\nKind regards,",
+ ar:(d)=>"السيّدة، السيّد،\n\nيشرّفني أن أتقدّم بطلب ترشّحي لشغل منصب "+(d.poste||'…')+" لدى "+(d.entreprise||'مؤسستكم')+"، وهو منصب ينسجم مع مساري المهني وطموحاتي.\n\nلقد أتاح لي مساري تطوير مهارات متينة أتطلّع اليوم إلى وضعها في خدمة فريقكم. أتّسم بالجدّية والتحفيز وروح العمل الجماعي، وإنّي على ثقة من قدرتي على المساهمة الفعلية في مشاريعكم.\n\nيسعدني أن أعرض دوافعي بمزيد من التفصيل خلال مقابلة في الوقت الذي يناسبكم.\n\nوتقبّلوا فائق عبارات الاحترام والتقدير."
+};
+function lettreModele(){window.LDATA.corps=LMODELE[window.LLANG](window.LDATA);viewLettre();}
+function LSET(k,v){window.LDATA[k]=v;renderLettre();}
+function setLLang(l){window.LLANG=l;window.LDATA.corps='';viewLettre();}
+function setLColor(c){window.LCOLOR=c;renderLettre();document.querySelectorAll('.lswatch').forEach(s=>s.classList.toggle('on',s.dataset.c===c));}
+function printLM(){window.print();}
+function renderLettre(){
+  const d=window.LDATA,p=document.getElementById('lm-paper');if(!p)return;
+  p.style.setProperty('--cv',window.LCOLOR);p.setAttribute('dir',window.LLANG==='ar'?'rtl':'ltr');
+  const OBJ={fr:'Objet : Candidature au poste de',en:'Subject: Application for the position of',ar:'الموضوع: ترشّح لمنصب'}[window.LLANG];
+  const loc={fr:'fr-FR',en:'en-GB',ar:'ar-MA'}[window.LLANG];
+  let today='';try{today=new Date().toLocaleDateString(loc,{day:'numeric',month:'long',year:'numeric'});}catch(e){today=new Date().toLocaleDateString();}
+  p.innerHTML='<div class="lm-top"><div class="lm-sender"><b>'+esc(d.nom)+'</b><br>'+esc(d.ville)+'<br>'+esc(d.tel)+'<br>'+esc(d.email)+'</div><div class="lm-date">'+esc(d.ville)+', '+today+'</div></div>'
+    +'<div class="lm-to">'+esc(d.entreprise)+'</div>'
+    +'<div class="lm-obj">'+OBJ+' '+esc(d.poste)+'</div>'
+    +'<div class="lm-body">'+esc(d.corps)+'</div>'
+    +'<div class="lm-sign">'+esc(d.nom)+'</div>';
+}
+function viewLettre(){
+  clearJobLd();if(!window.LDATA.corps)window.LDATA.corps=LMODELE[window.LLANG](window.LDATA);
+  const d=window.LDATA;
+  const sw=CVPAL.map(c=>'<span class="lswatch '+(window.LCOLOR===c?'on':'')+'" data-c="'+c+'" style="background:'+c+'" onclick="setLColor(\''+c+'\')"></span>').join('');
+  const lb=(l,t)=>'<button class="'+(window.LLANG===l?'on':'')+'" onclick="setLLang(\''+l+'\')">'+t+'</button>';
+  app.innerHTML='<section class="block"><div class="wrap fade"><div class="sec-head"><div><h2>Lettre de motivation ✨</h2><p>Remplissez les champs, choisissez la langue (FR / EN / AR), ajustez le texte puis téléchargez en PDF.</p></div></div><div class="cvgen-grid"><div class="cvgen-form">'
+    +'<h4>Vos coordonnées</h4>'
+    +'<div class="field"><label>Nom complet</label><input value="'+esc(d.nom)+'" oninput="LSET(\'nom\',this.value)"></div>'
+    +'<div class="field"><label>Ville</label><input value="'+esc(d.ville)+'" list="villes-ma" oninput="LSET(\'ville\',this.value)">'+villeDatalist()+'</div>'
+    +'<div class="field"><label>Téléphone</label><input value="'+esc(d.tel)+'" oninput="LSET(\'tel\',this.value)"></div>'
+    +'<div class="field"><label>Email</label><input value="'+esc(d.email)+'" oninput="LSET(\'email\',this.value)"></div>'
+    +'<h4>Destinataire & poste</h4>'
+    +'<div class="field"><label>Entreprise</label><input value="'+esc(d.entreprise)+'" oninput="LSET(\'entreprise\',this.value)"></div>'
+    +'<div class="field"><label>Poste visé</label><input value="'+esc(d.poste)+'" oninput="LSET(\'poste\',this.value)"></div>'
+    +'<h4 style="display:flex;justify-content:space-between;align-items:center;gap:8px">Texte de la lettre <button class="ai-btn" onclick="lettreModele()">✨ Modèle</button></h4>'
+    +'<div class="field"><textarea style="min-height:240px" oninput="LSET(\'corps\',this.value)">'+esc(d.corps)+'</textarea></div>'
+    +'</div><div class="cvgen-preview"><div class="cvgen-toolbar">'
+    +'<div class="lang-pick"><span class="tlabel">Langue :</span>'+lb('fr','FR')+lb('en','EN')+lb('ar','ع')+'</div>'
+    +'<div class="color-pick"><span class="tlabel">Couleur :</span>'+sw+'</div>'
+    +'<button class="dl-btn" onclick="printLM()">⬇ PDF</button></div><div id="lm-paper"></div></div></div></div></section>';
+  renderLettre();
+}
+
+
+function viewOrientation(){
+  clearJobLd();
+  const links=POSTS.slice(0,4).map(p=>`<a class="src-card" href="#/article/${p.id}"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
+  app.innerHTML=`<section class="block"><div class="wrap page fade">
+    <h1>Orientation</h1>
+    <p class="sub">Des repères concrets pour construire votre carrière : CV, entretiens, choix de secteur, télétravail.</p>
+    <div class="panel"><h4>Par où commencer ?</h4>
+      <ul class="skills">
+        <li>Clarifiez votre objectif : quel poste, quel secteur, quelle ville (ou en remote).</li>
+        <li>Soignez votre CV pour passer les filtres automatiques et convaincre un recruteur.</li>
+        <li>Préparez vos entretiens avec des exemples concrets (méthode STAR).</li>
+        <li>Visez les secteurs qui recrutent et croisez-les avec ce que vous aimez faire.</li>
+      </ul></div>
+    <h2>Nos guides</h2>
+    <div class="sources-grid">${links}</div>
+    <div class="apply" style="margin-top:26px"><div class="t">Prêt à postuler ?<small>Des offres vous attendent</small></div><a class="btn-apply" href="#/offres">Voir les offres</a></div>
+  </div></section>`;
+}
+
+function viewCvtheque(){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap page fade">
+    <h1>CVthèque</h1>
+    <p class="sub">Déposez votre CV pour être visible auprès des recruteurs. C'est gratuit et rapide.</p>
+    <form class="form" name="cvtheque" method="POST" data-netlify="true" netlify-honeypot="bot-field" enctype="multipart/form-data" onsubmit="return submitCV(event)">
+      <input type="hidden" name="form-name" value="cvtheque">
+      <p hidden><label>Ne pas remplir <input name="bot-field"></label></p>
+      <div class="row">
+        <div class="field"><label>Nom *</label><input name="nom" required></div>
+        <div class="field"><label>Prénom *</label><input name="prenom" required></div>
+      </div>
+      <div class="row">
+        <div class="field"><label>Email *</label><input type="email" name="email" required></div>
+        <div class="field"><label>Téléphone *</label><input name="telephone" required placeholder="06 12 34 56 78"></div>
+      </div>
+      <div class="row">
+        <div class="field"><label>Ville de résidence *</label><input name="ville" list="villes-ma" required>${villeDatalist()}</div>
+        <div class="field"><label>Métier recherché *</label><input name="metier" required placeholder="Ex : Comptable, Développeur…"></div>
+      </div>
+      <div class="row">
+        <div class="field"><label>Années d'expérience *</label><select name="experience" required><option value="">—</option><option>Débutant (0-1 an)</option><option>1 à 3 ans</option><option>3 à 5 ans</option><option>5 à 10 ans</option><option>Plus de 10 ans</option></select></div>
+        <div class="field"><label>Niveau d'études *</label><select name="niveau" required><option value="">—</option><option>Bac</option><option>Bac+2</option><option>Bac+3 / Licence</option><option>Bac+5 / Master</option><option>Doctorat</option></select></div>
+      </div>
+      <div class="field"><label>Page LinkedIn</label><input name="linkedin" placeholder="https://www.linkedin.com/in/…"></div>
+      <div class="field"><label>Déposez votre CV (PDF ou Word) *</label>
+        <label class="filedrop" id="cvdrop"><input type="file" name="cv" accept=".pdf,.doc,.docx" required onchange="cvPicked(this)"><span id="cvtext">📄 Glisser-déposer un fichier ou cliquer pour parcourir</span></label></div>
+      <button class="btn-primary" type="submit">Envoyer mon CV →</button>
+      <p class="legal-note">Conformément à la loi 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, vous disposez d'un droit d'accès, de rectification et d'opposition. Pour l'exercer : planetegestionh@gmail.com.</p>
+    </form>
+  </div></section>`;
+}
+function cvPicked(input){
+  const t=document.getElementById('cvtext');const d=document.getElementById('cvdrop');
+  if(input.files&&input.files[0]){t.textContent='✅ '+input.files[0].name;d.classList.add('has');}
+}
+function submitCV(e){
+  e.preventDefault();
+  const f=e.target;
+  fetch('/',{method:'POST',body:new FormData(f)})
+    .then(()=>{const h=f.parentElement.querySelector('h1');if(h)h.textContent='Merci !';f.outerHTML='<div class="ok">✅ Votre CV a bien été envoyé. Les recruteurs pourront vous contacter via les coordonnées indiquées.</div>';})
+    .catch(()=>{f.outerHTML='<div class="ok">✅ CV enregistré. (En local, l\'envoi Netlify ne fonctionne qu\'une fois le site en ligne.)</div>';});
+  return false;
+}
+
+/* ---------- INIT ---------- */
+document.getElementById('yr').textContent=new Date().getFullYear();
+document.getElementById('burger').addEventListener('click',()=>document.getElementById('links').classList.toggle('open'));
+window.addEventListener('hashchange',router);
+
+// Cookie banner (consentement avant AdSense)
+if(!localStorage.getItem('jf_cookie')){
+  const c=document.createElement('div');c.className='cookie';
+  c.innerHTML=`<p>Nous utilisons des cookies pour la mesure d'audience et la publicité. <a href="#/cookies">En savoir plus</a>.</p><button id="ckok">Accepter</button>`;
+  document.body.appendChild(c);
+  c.querySelector('#ckok').onclick=()=>{localStorage.setItem('jf_cookie','1');c.remove();/* déclencher AdSense ici */};
+}
+
+// Chargement des offres (offres.json) et des articles (news.json) — alimentés par les robots n8n
+Promise.all([
+  fetch('./offres.json').then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch('./news.json').then(r=>r.ok?r.json():null).catch(()=>null)
+]).then(([off,news])=>{
+  if(Array.isArray(off)&&off.length){OFFRES=off;}
+  if(Array.isArray(news)&&news.length){POSTS=news;}
+  router();
+}).catch(()=>router());
+</script>
+</body>
+</html>

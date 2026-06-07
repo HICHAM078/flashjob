@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flashjob.ma/sitemap.xml
