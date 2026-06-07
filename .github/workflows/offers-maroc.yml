@@ -1,0 +1,23 @@
+name: Robot Offres Maroc
+on:
+  schedule:
+    - cron: '0 7 * * *'        # une fois par jour, a 7h UTC (8h au Maroc)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  agreger-maroc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Agreger des offres Maroc (Jooble, API autorisee)
+        env:
+          JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
+        run: python3 scripts/fetch_offers_maroc.py
+      - name: Enregistrer
+        run: |
+          git config user.name "FlashJob Robot"
+          git config user.email "robot@flashjob.ma"
+          git add offres.json
+          git diff --staged --quiet || git commit -m "Robot Offres Maroc : nouvelles offres (Jooble)"
+          git push
