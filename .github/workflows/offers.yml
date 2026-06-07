@@ -1,0 +1,21 @@
+name: Robot Offres
+on:
+  schedule:
+    - cron: '0 */6 * * *'        # toutes les 6 heures
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  agreger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Agréger des offres (flux autorisé + lien retour)
+        run: python3 scripts/fetch_offers.py
+      - name: Enregistrer
+        run: |
+          git config user.name "FlashJob Robot"
+          git config user.email "robot@flashjob.ma"
+          git add offres.json
+          git diff --staged --quiet || git commit -m "Robot Offres : nouvelles offres (RemoteOK)"
+          git push
