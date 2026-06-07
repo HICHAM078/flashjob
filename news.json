@@ -1,5 +1,35 @@
 [
   {
+    "cat": "نصائح السيرة الذاتية",
+    "titre": "سيرة ذاتية ناجحة في 2026: تجاوز الفرز الآلي أولاً",
+    "excerpt": "قبل أن تصل سيرتك الذاتية إلى يد الموظِّف، غالباً ما يقرؤها برنامج آلي. إليك كيف تتجنب الإقصاء من الخطوة الأولى.",
+    "body": [
+      "تعتمد معظم الشركات الكبرى في المغرب على برامج لفرز الترشيحات تُعرف بأنظمة تتبّع المترشحين (ATS). عملياً، تُقرأ سيرتك الذاتية أولاً من طرف آلة تبحث عن كلمات مفتاحية. إذا كانت سيرتك سيئة التنظيم، قد تُستبعد دون أن يراها إنسان.",
+      "<b>أعد استعمال كلمات الإعلان.</b> إذا طلب الإعلان «التواصل مع الزبناء» أو «إتقان Excel»، اكتبها كما هي في سيرتك (شرط أن تكون صحيحة). كلما تطابقت المصطلحات، تحسّن ترتيبك.",
+      "<b>اعتمد تصميماً بسيطاً.</b> تجنّب الأعمدة المتعددة والجداول والسير «المصمَّمة» المحمَّلة من الإنترنت: كثير من الأنظمة تقرؤها بشكل خاطئ. عمود واحد وعناوين كلاسيكية (التجربة، التكوين، المهارات، اللغات) تُقرأ جيداً.",
+      "<b>أرسل ملف PDF لا صورة.</b> السيرة الممسوحة ضوئياً أو المصدَّرة كصورة غير مقروءة آلياً. صدِّرها دائماً بصيغة PDF وسمِّ الملف بوضوح.",
+      "<b>أرفق نتائج بالأرقام.</b> «تدبير محفظة من 80 زبوناً»، «رفع المبيعات بنسبة 15٪»: الأرقام تطمئن الآلة والإنسان معاً، وتحوّل لائحة مهام إلى دليل كفاءة."
+    ],
+    "lang": "ar",
+    "id": "news-1780844639-ar",
+    "date": "7 juin 2026"
+  },
+  {
+    "cat": "Conseil CV",
+    "titre": "Gérer un trou dans son CV sans paniquer",
+    "excerpt": "Une période sans emploi n'est pas une faute. Voici comment la présenter sereinement.",
+    "body": [
+      "Beaucoup de parcours comportent une pause : recherche d'emploi, raisons familiales, santé, formation, voyage. Un trou dans le CV n'est pas un problème en soi — c'est la façon de le présenter qui compte.",
+      "<b>Ne le cachez pas maladroitement.</b> Trafiquer les dates se voit et entame la confiance. Mieux vaut assumer la période avec une explication simple.",
+      "<b>Valorisez ce que vous en avez fait.</b> Formation, bénévolat, projets personnels, montée en compétences : si la pause a été utile, dites-le. Cela transforme un vide en atout.",
+      "<b>Restez bref et factuel.</b> Une ligne suffit. Pas besoin de vous justifier longuement ; un recruteur apprécie l'honnêteté et la clarté.",
+      "<b>Préparez la question en entretien.</b> Anticipez une phrase calme et positive sur cette période. Votre sérénité rassurera plus que n'importe quelle excuse."
+    ],
+    "lang": "fr",
+    "id": "news-1780844639-fr",
+    "date": "7 juin 2026"
+  },
+  {
     "cat": "Conseil candidature",
     "titre": "Le message d'accompagnement qui fait ouvrir votre candidature",
     "excerpt": "Quelques lignes bien tournées au moment de postuler peuvent faire toute la différence. Voici comment les écrire.",
