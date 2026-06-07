@@ -1,13 +1,13 @@
 name: Publier une offre (formulaire)
 on:
   issues:
-    types: [opened]
+    types: [opened, edited, reopened]
 permissions:
   contents: write
   issues: write
 jobs:
   publier:
-    if: startsWith(github.event.issue.title, '[Offre]') && github.event.issue.user.login == github.repository_owner
+    if: github.event.issue.user.login == github.repository_owner && contains(github.event.issue.body, 'Intitulé du poste')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
