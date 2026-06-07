@@ -197,9 +197,12 @@ footer a:hover{color:var(--accent)}
 .cookie button{background:var(--accent);color:var(--accent-ink);font-weight:700;padding:10px 18px;border-radius:9px;white-space:nowrap}
 
 @media(max-width:780px){
-  .nav .links{display:none;position:absolute;top:66px;left:0;right:0;flex-direction:column;background:var(--bg);padding:14px 22px;border-bottom:1px solid #1f1f24}
+  .nav .links{display:none;position:absolute;top:66px;left:0;right:0;flex-direction:column;background:var(--bg);padding:14px 22px;border-bottom:1px solid #1f1f24;max-height:calc(100vh - 66px);overflow-y:auto}
   .nav .links.open{display:flex}
   .nav .links a{padding:13px}
+  /* menu mobile epure : on masque les sous-menus (villes/secteurs), seuls les onglets principaux restent */
+  .nav .links .dropdown{display:none!important}
+  .nav .links .navitem>a .caret{display:none}
   .burger{display:grid;place-items:center}
   .fcols{grid-template-columns:1fr 1fr}
   .row{grid-template-columns:1fr}
