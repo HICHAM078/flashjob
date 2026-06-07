@@ -558,14 +558,14 @@ function cardHTML(o){
   return `<article class="card" onclick="location.hash='#/offre/${o.id}'">
     <div class="top"><div class="badge">${initials(o.entreprise)}</div>
       <div><div class="co">${esc(o.entreprise)}</div></div></div>
-    <h3>${esc(o.titre)}</h3>
+    <h3${o.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${esc(o.titre)}</h3>
     <div class="meta">
       <span class="tag contract">${esc(o.type_contrat)}</span>
       <span class="tag">📍 ${esc(o.ville)}</span>
       ${o.remote?'<span class="tag remote">Remote</span>':''}
       <span class="tag">${esc(o.secteur)}</span>
     </div>
-    <p class="resume">${esc(o.resume_neutre)}</p>
+    <p class="resume"${o.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${esc(o.resume_neutre)}</p>
     <div class="foot"><span class="src">via ${esc(o.source_nom)}</span>
       <span class="go">Voir l'offre <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div>
   </article>`;
@@ -616,7 +616,15 @@ function viewHome(){
 
 let PRESET={};
 let FILTER={q:"",ville:"",contrat:"",secteur:""};
+let NEWS_LANG='all', OFFRE_LANG='all', OFF_TITLE='', OFF_SUB='';
+function langTabs(cur,fn){
+  const mk=(v,l)=>`<button onclick="${fn}('${v}')" style="padding:7px 15px;border-radius:100px;border:1px solid ${cur===v?'#0b0b0d':'var(--line)'};background:${cur===v?'#c8f53d':'#fff'};color:#0b0b0d;font-weight:700;font-size:13.5px;cursor:pointer;font-family:var(--body)">${l}</button>`;
+  return `<div style="display:flex;gap:9px;margin:0 0 22px;flex-wrap:wrap">${mk('all','Tous')}${mk('fr','Français')}${mk('ar','العربية')}</div>`;
+}
+function setNewsLang(l){NEWS_LANG=l;viewActus();}
+function setOffreLang(l){OFFRE_LANG=l;viewOffres(OFF_TITLE,OFF_SUB);}
 function matchOffer(o){
+  if(OFFRE_LANG!=='all' && (o.lang||'fr')!==OFFRE_LANG) return false;
   const se=o.secteur_emploi||'prive';
   if(PRESET.pays&&o.pays!==PRESET.pays)return false;
   if(PRESET.intl&&o.pays==='Maroc')return false;
@@ -635,8 +643,10 @@ function matchOffer(o){
 }
 function viewOffres(title,sub){
   clearJobLd();
+  OFF_TITLE=title||''; OFF_SUB=sub||'';
   app.innerHTML=`<section class="block"><div class="wrap fade">
     <div class="sec-head"><div><h2>${title||'Toutes les offres'}</h2><p>${sub||'Filtrez par ville, contrat ou secteur.'}</p></div></div>
+    ${langTabs(OFFRE_LANG,'setOffreLang')}
     <div class="filters">
       <label class="fsearch"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#56565e" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
         <input id="fq" placeholder="Rechercher un poste, une compétence…" value="${esc(FILTER.q)}"></label>
@@ -667,7 +677,7 @@ function viewOffre(id){
   app.innerHTML=`<section class="block"><div class="wrap detail fade">
     <a class="back" href="#/offres"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M19 12H5M11 18l-6-6 6-6"/></svg> Retour</a>
     <div class="head"><div class="badge">${initials(o.entreprise)}</div>
-      <div><h1>${esc(o.titre)}</h1><div class="co">${esc(o.entreprise)} · ${esc(o.ville)}, ${esc(o.pays)}</div></div></div>
+      <div><h1${o.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${esc(o.titre)}</h1><div class="co">${esc(o.entreprise)} · ${esc(o.ville)}, ${esc(o.pays)}</div></div></div>
     <div class="meta">
       <span class="tag contract">${esc(o.type_contrat)}</span>
       <span class="tag">📍 ${esc(o.ville)}</span>
@@ -675,7 +685,7 @@ function viewOffre(id){
       <span class="tag">${esc(o.secteur)}</span>
       <span class="tag">🗓️ ${esc(o.date_pub)}</span>
     </div>
-    <div class="panel"><h4>En bref</h4><p style="color:#2c2c32">${esc(o.resume_neutre)}</p></div>
+    <div class="panel"><h4>En bref</h4><p style="color:#2c2c32${o.lang==='ar'?';text-align:right':''}"${o.lang==='ar'?' dir="rtl"':''}>${esc(o.resume_neutre)}</p></div>
     <div class="panel"><h4>Prérequis &amp; compétences</h4>
       <ul class="skills">${o.competences.map(c=>`<li>${esc(c)}</li>`).join('')}</ul></div>
     <div class="apply">
@@ -802,9 +812,10 @@ function viewActus(){
   app.innerHTML=`<section class="block"><div class="wrap page fade" style="max-width:var(--maxw)">
     <h1>Actualités &amp; conseils</h1>
     <p class="sub">Conseils CV, tendances du marché et analyses — basés sur les données de la plateforme.</p>
-    <div class="posts">${POSTS.map(p=>`<article class="post" onclick="location.hash='#/article/${p.id}'">
+    ${langTabs(NEWS_LANG,'setNewsLang')}
+    <div class="posts">${POSTS.filter(p=>NEWS_LANG==='all'||(p.lang||'fr')===NEWS_LANG).map(p=>`<article class="post" onclick="location.hash='#/article/${p.id}'">
       <div class="cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
-      <div class="body"><span class="date">${p.date}</span><h3>${esc(p.titre)}</h3><p>${esc(p.excerpt)}</p></div>
+      <div class="body"${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}><span class="date">${p.date}</span><h3>${esc(p.titre)}</h3><p>${esc(p.excerpt)}</p></div>
     </article>`).join('')}</div>
     <div class="adslot" style="margin-top:36px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
   </div></section>`;
@@ -816,9 +827,9 @@ function viewArticle(id){
   app.innerHTML=`<section class="block"><div class="wrap page fade">
     <a class="back" href="#/actualites"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M19 12H5M11 18l-6-6 6-6"/></svg> Actualités</a>
     <div class="article-cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
-    <h1 style="margin-top:4px">${esc(p.titre)}</h1>
-    <p class="sub">${p.date} · par l'équipe FlashJob</p>
-    ${p.body.map(par=>`<p>${par}</p>`).join('')}
+    <h1 style="margin-top:4px${p.lang==='ar'?';text-align:right':''}"${p.lang==='ar'?' dir="rtl"':''}>${esc(p.titre)}</h1>
+    <p class="sub"${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${p.date} · par l'équipe FlashJob</p>
+    ${p.body.map(par=>`<p${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${par}</p>`).join('')}
     <div class="apply" style="margin-top:30px"><div class="t">Prêt à postuler ?<small>Des centaines d'offres vous attendent</small></div>
       <a class="btn-apply" href="#/offres">Voir les offres</a></div>
   </div></section>`;
