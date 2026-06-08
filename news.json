@@ -1,5 +1,35 @@
 [
   {
+    "cat": "البحث عن عمل",
+    "titre": "البحث عن عمل عبر الإنترنت: طريقة فعّالة",
+    "excerpt": "الإنترنت مليء بالفرص، لكن البحث العشوائي يُضيّع الوقت. إليك منهجية واضحة.",
+    "body": [
+      "أصبح الإنترنت البوابة الأولى للبحث عن عمل. لكن إرسال نفس السيرة لمئات الإعلانات نادراً ما ينجح. الفعالية تأتي من الاستهداف والتنظيم.",
+      "<b>حدّد هدفك.</b> ما المنصب الذي تبحث عنه بالضبط، وفي أي مدينة، وبأي نوع عقد؟ كلما كان البحث دقيقاً، كانت النتائج أفضل.",
+      "<b>نوّع مصادرك.</b> المنصات المتخصصة، الشبكات المهنية، ومواقع الشركات نفسها. أفضل العروض لا تُنشر دائماً، بل تمرّ عبر العلاقات.",
+      "<b>كيّف ترشيحك.</b> عدّل سيرتك ورسالتك مع كل عرض. ترشيح مُوجَّه واحد أفضل من عشرة ترشيحات عامة.",
+      "<b>نظّم متابعتك.</b> احتفظ بجدول للعروض التي راسلتها وتواريخها. المتابعة المنظمة تُجنّبك النسيان وتُظهر جدّيتك."
+    ],
+    "lang": "ar",
+    "id": "news-1780923659-ar",
+    "date": "8 juin 2026"
+  },
+  {
+    "cat": "Carrière",
+    "titre": "Se reconvertir vers les métiers du digital au Maroc",
+    "excerpt": "Le numérique recrute et reste accessible via la formation. Voici par où commencer une reconversion digitale.",
+    "body": [
+      "Le secteur du numérique manque de profils qualifiés au Maroc, et beaucoup de ses métiers s'apprennent sans repartir de zéro à l'université. C'est un terrain de reconversion réaliste.",
+      "<b>Identifiez le métier qui vous correspond.</b> Développement web, marketing digital, data, design, gestion de réseaux sociaux : explorez ce qui vous attire avant de vous lancer.",
+      "<b>Formez-vous progressivement.</b> Cours en ligne, bootcamps, dispositifs de formation : on peut acquérir des bases solides en quelques mois en s'y tenant sérieusement.",
+      "<b>Construisez des preuves.</b> Un petit portfolio, des projets concrets, même personnels, valent plus qu'un diplôme pour convaincre un employeur dans le digital.",
+      "<b>Visez le télétravail aussi.</b> Le digital ouvre la porte à des missions à distance, y compris internationales — un vrai atout depuis le Maroc."
+    ],
+    "lang": "fr",
+    "id": "news-1780923659-fr",
+    "date": "8 juin 2026"
+  },
+  {
     "cat": "مقابلة العمل",
     "titre": "مقابلة العمل: أسئلة متكررة وكيف تجيب عنها",
     "excerpt": "أسئلة المقابلة تكاد تكون نفسها دائماً. الاستعداد لها يحوّل التوتر إلى ثقة.",
