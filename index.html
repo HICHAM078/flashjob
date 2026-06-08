@@ -397,10 +397,14 @@ footer a:hover{color:var(--accent)}
       <a href="#/orientation">Orientation</a>
       <a href="#/news">News</a>
       <a href="#/cvtheque">CVthèque</a>
-      <div class="navitem"><a href="#/cv" class="navlink-cv">Outils <span class="ia">IA</span></a>
+      <div class="navitem"><a href="#/outils" class="navlink-cv">Outils <span class="ia">IA</span></a>
         <div class="dropdown"><span class="ddhead">Outils gratuits</span>
           <a href="#/cv">📄 Créateur de CV</a>
           <a href="#/lettre">✉️ Lettre de motivation</a>
+          <a href="#/salaire">🧮 Calculateur de salaire</a>
+          <a href="#/licenciement">⚖️ Indemnité de licenciement</a>
+          <a href="#/modeles">📝 Modèles de documents</a>
+          <a href="#/quiz">🧭 Test d'orientation</a>
         </div></div>
       <a href="#/publier" class="cta">+ Publier</a>
     </nav>
@@ -644,6 +648,18 @@ function viewHome(){
       <a href="#/lettre" style="display:block;padding:26px;background:var(--accent);color:var(--accent-ink);border-radius:16px">
         <div style="font-size:30px">✉️</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Lettre de motivation</h3>
         <p style="font-size:14px;margin:0;opacity:.8">Générez une lettre professionnelle adaptée au poste visé.</p></a>
+      <a href="#/salaire" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">🧮</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Calculateur de salaire</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Convertissez votre salaire brut en net (CNSS, AMO, IR) — barème Maroc 2026.</p></a>
+      <a href="#/licenciement" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">⚖️</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Indemnité de licenciement</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Estimez vos indemnités et votre préavis selon le Code du travail marocain.</p></a>
+      <a href="#/modeles" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">📝</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Modèles de documents</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Démission, congé, attestation, candidature — prêts à copier ou télécharger.</p></a>
+      <a href="#/quiz" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">🧭</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Test d'orientation</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">6 questions pour découvrir le métier et le secteur faits pour vous.</p></a>
     </div>
   </div></section>
 
@@ -755,6 +771,213 @@ function viewOffre(id){
   </div></section>`;
 }
 
+function fmtMAD(n){return (Math.round(n*100)/100).toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' DH';}
+function calcSalaireBrut(brut,charges){
+  brut=Math.max(0,+brut||0); charges=Math.min(6,Math.max(0,+charges||0));
+  const cnss=Math.min(brut,6000)*0.0448;     // CNSS salarie 4,48% plafond 6000
+  const amo=brut*0.0226;                       // AMO 2,26% sans plafond
+  const sbi=brut-cnss-amo;                      // salaire brut imposable
+  let frais; const annuel=sbi*12;
+  if(annuel<=78000){frais=sbi*0.35;} else {frais=Math.min(sbi*0.25,35000/12);}
+  const rni=Math.max(0,sbi-frais);              // revenu net imposable mensuel
+  let taux,ded;
+  if(rni<=3333.33){taux=0;ded=0;}
+  else if(rni<=5000){taux=0.10;ded=333.33;}
+  else if(rni<=6666.67){taux=0.20;ded=833.33;}
+  else if(rni<=8333.33){taux=0.30;ded=1500;}
+  else if(rni<=15000){taux=0.34;ded=1833.33;}
+  else {taux=0.37;ded=2283.33;}
+  let ir=Math.max(0,rni*taux-ded-(50*charges)); // bareme IR + 50 DH/personne a charge
+  const net=brut-cnss-amo-ir;
+  return {brut,cnss,amo,sbi,frais,rni,ir,net};
+}
+function calcSalaireNet(net,charges){
+  let lo=net,hi=net*2.5+8000;
+  for(let i=0;i<60;i++){const mid=(lo+hi)/2;(calcSalaireBrut(mid,charges).net>net)?hi=mid:lo=mid;}
+  return calcSalaireBrut((lo+hi)/2,charges);
+}
+let SAL_SENS='brut'; // 'brut' = brut->net, 'net' = net->brut
+function setSalSens(s){SAL_SENS=s;viewSalaire();}
+function calcSalaire(){
+  const v=+document.getElementById('sal-montant').value||0;
+  const ch=+document.getElementById('sal-charges').value||0;
+  const r=(SAL_SENS==='brut')?calcSalaireBrut(v,ch):calcSalaireNet(v,ch);
+  document.getElementById('sal-res').innerHTML=`
+    <div class="panel"><h4>Résultat</h4>
+      <div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:14px">
+        <span style="color:var(--ink-soft)">Salaire brut mensuel</span><b style="font-family:var(--disp);font-size:20px">${fmtMAD(r.brut)}</b></div>
+      <div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;background:var(--bg);color:#fff;padding:14px 16px;border-radius:12px;margin-bottom:14px">
+        <span>Salaire NET mensuel</span><b style="font-family:var(--disp);font-size:24px;color:var(--accent)">${fmtMAD(r.net)}</b></div>
+      <table style="width:100%;border-collapse:collapse;font-size:14px">
+        <tr><td style="padding:7px 0;color:var(--ink-soft)">CNSS (4,48 %, plafond 6 000 DH)</td><td style="text-align:right">− ${fmtMAD(r.cnss)}</td></tr>
+        <tr><td style="padding:7px 0;color:var(--ink-soft)">AMO (2,26 %)</td><td style="text-align:right">− ${fmtMAD(r.amo)}</td></tr>
+        <tr><td style="padding:7px 0;color:var(--ink-soft)">Frais professionnels</td><td style="text-align:right">${fmtMAD(r.frais)}</td></tr>
+        <tr><td style="padding:7px 0;color:var(--ink-soft)">Revenu net imposable</td><td style="text-align:right">${fmtMAD(r.rni)}</td></tr>
+        <tr><td style="padding:7px 0;color:var(--ink-soft)">Impôt sur le revenu (IR)</td><td style="text-align:right">− ${fmtMAD(r.ir)}</td></tr>
+      </table>
+    </div>
+    <p class="legal-note">Calcul indicatif basé sur le barème 2026 (CNSS 4,48 %, AMO 2,26 %, frais professionnels 35 %/25 %, IR 0→37 %, déduction de 50 DH par personne à charge). Il ne tient pas compte de la CIMR, des conventions collectives ni des primes exonérées. Pour un calcul officiel, consultez un comptable ou votre service de paie.</p>`;
+}
+function viewSalaire(){
+  clearJobLd();
+  const lbl=SAL_SENS==='brut'?'Salaire BRUT mensuel (DH)':'Salaire NET mensuel (DH)';
+  const tab=(v,l)=>`<button onclick="setSalSens('${v}')" style="padding:9px 16px;border-radius:100px;border:1px solid ${SAL_SENS===v?'#0b0b0d':'var(--line)'};background:${SAL_SENS===v?'#c8f53d':'#fff'};color:#0b0b0d;font-weight:700;font-size:14px;cursor:pointer;font-family:var(--body)">${l}</button>`;
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Calculateur de salaire net (Maroc)</h1>
+    <p style="color:var(--ink-soft);max-width:60ch">Convertissez votre salaire brut en net (ou l'inverse) selon le barème marocain 2026 : CNSS, AMO et impôt sur le revenu.</p>
+    <div style="display:flex;gap:9px;margin:18px 0 22px;flex-wrap:wrap">${tab('brut','Brut → Net')}${tab('net','Net → Brut')}</div>
+    <div class="panel">
+      <div class="field"><label>${lbl}</label><input id="sal-montant" type="number" min="0" step="100" placeholder="Ex : 10000" oninput="calcSalaire()"></div>
+      <div class="field"><label>Personnes à charge (max 6)</label><input id="sal-charges" type="number" min="0" max="6" step="1" value="0" oninput="calcSalaire()"></div>
+    </div>
+    <div id="sal-res"></div>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+function calcLicenciement(brut,annees,cadre){
+  brut=Math.max(0,+brut||0); const Y=Math.max(0,+annees||0);
+  const h=brut/191;                                   // salaire horaire = brut / 191
+  const t1=Math.min(Y,5), t2=Math.min(Math.max(Y-5,0),5), t3=Math.min(Math.max(Y-10,0),5), t4=Math.max(Y-15,0);
+  const heures=t1*96+t2*144+t3*192+t4*240;            // bareme art.53 : 96/144/192/240 h par an
+  const eligible=Y>=0.5;                              // min 6 mois d'anciennete
+  const indemnite=eligible?heures*h:0;
+  let moisP;                                          // preavis selon statut + anciennete
+  if(cadre){ moisP=Y<1?1:(Y<=5?2:3); } else { moisP=Y<1?(8/30):(Y<=5?1:2); }
+  const preavis=brut*moisP;
+  return {brut,Y,h,heures,indemnite,eligible,moisP,preavis,total:indemnite+preavis};
+}
+let LIC_CADRE=false;
+function setLicCadre(b){LIC_CADRE=b;calcLic();}
+function calcLic(){
+  const brut=+document.getElementById('lic-brut').value||0;
+  const an=+document.getElementById('lic-an').value||0;
+  const r=calcLicenciement(brut,an,LIC_CADRE);
+  const moisTxt=r.moisP===8/30?'8 jours':(r.moisP+' mois');
+  document.getElementById('lic-res').innerHTML=`
+    <div class="panel"><h4>Estimation</h4>
+      ${r.eligible?'':'<p style="color:#b00;font-size:14px;margin:0 0 12px">⚠️ Moins de 6 mois d\'ancienneté : pas de droit à l\'indemnité de licenciement (seul le préavis reste dû).</p>'}
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:8px 0"><span style="color:var(--ink-soft)">Salaire horaire (brut ÷ 191)</span><b>${fmtMAD(r.h)}</b></div>
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:8px 0"><span style="color:var(--ink-soft)">Indemnité de licenciement (${Math.round(r.heures)} h)</span><b>${fmtMAD(r.indemnite)}</b></div>
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:8px 0"><span style="color:var(--ink-soft)">Indemnité de préavis (${moisTxt})</span><b>${fmtMAD(r.preavis)}</b></div>
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;background:var(--bg);color:#fff;padding:14px 16px;border-radius:12px;margin-top:10px"><span>TOTAL estimé</span><b style="font-family:var(--disp);font-size:22px;color:var(--accent)">${fmtMAD(r.total)}</b></div>
+    </div>
+    <p class="legal-note">Calcul indicatif basé sur les articles 51 à 53 du Code du travail marocain (96/144/192/240 h de salaire par année d'ancienneté ; préavis selon statut). En cas de faute grave, ces indemnités ne sont pas dues. En cas de licenciement jugé abusif, des dommages-intérêts (art. 41) peuvent s'ajouter. Pour votre situation précise, consultez un avocat ou l'inspection du travail.</p>`;
+}
+function viewLicenciement(){
+  clearJobLd();
+  const tab=(v,l)=>`<button onclick="setLicCadre(${v})" style="padding:9px 16px;border-radius:100px;border:1px solid ${LIC_CADRE===v?'#0b0b0d':'var(--line)'};background:${LIC_CADRE===v?'#c8f53d':'#fff'};color:#0b0b0d;font-weight:700;font-size:14px;cursor:pointer;font-family:var(--body)">${l}</button>`;
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Indemnité de licenciement & préavis</h1>
+    <p style="color:var(--ink-soft);max-width:60ch">Estimez vos indemnités en cas de licenciement, selon le Code du travail marocain (article 53).</p>
+    <div class="panel">
+      <div class="field"><label>Salaire BRUT mensuel (DH)</label><input id="lic-brut" type="number" min="0" step="100" placeholder="Ex : 8000" oninput="calcLic()"></div>
+      <div class="field"><label>Ancienneté (en années, ex : 7.5)</label><input id="lic-an" type="number" min="0" step="0.5" placeholder="Ex : 7.5" oninput="calcLic()"></div>
+      <div class="field"><label>Statut</label><div style="display:flex;gap:9px;flex-wrap:wrap">${tab(false,'Employé / Ouvrier')}${tab(true,'Cadre')}</div></div>
+    </div>
+    <div id="lic-res"></div>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+function dateFR(){try{return new Date().toLocaleDateString('fr-FR',{day:'numeric',month:'long',year:'numeric'});}catch(e){return new Date().toLocaleDateString();}}
+const MODELES={
+  demission:{t:'Démission',f:[['nom','Nom complet'],['poste','Votre poste'],['entreprise','Entreprise'],['ville','Ville'],['preavis','Préavis (ex : 1 mois)']],
+   gen:d=>`${d.ville||'[Ville]'}, le ${dateFR()}\n\nObjet : Démission\n\nMadame, Monsieur,\n\nPar la présente, je vous informe de ma décision de démissionner de mon poste de ${d.poste||'[poste]'} que j'occupe au sein de ${d.entreprise||'[entreprise]'}.\n\nConformément aux dispositions en vigueur, je respecterai un préavis de ${d.preavis||'[durée]'} à compter de la réception de cette lettre.\n\nJe vous remercie pour la confiance accordée et pour l'expérience acquise durant cette collaboration.\n\nVeuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\n${d.nom||'[Nom]'}`},
+  conge:{t:'Demande de congé',f:[['nom','Nom complet'],['poste','Votre poste'],['entreprise','Entreprise'],['ville','Ville'],['du','Du (date)'],['au','Au (date)']],
+   gen:d=>`${d.ville||'[Ville]'}, le ${dateFR()}\n\nObjet : Demande de congé\n\nMadame, Monsieur,\n\nJe soussigné(e) ${d.nom||'[Nom]'}, occupant le poste de ${d.poste||'[poste]'} au sein de ${d.entreprise||'[entreprise]'}, ai l'honneur de solliciter un congé du ${d.du||'[date]'} au ${d.au||'[date]'}.\n\nJe veillerai à assurer la continuité de mon travail avant mon départ et reste à votre disposition.\n\nDans l'attente de votre accord, veuillez agréer, Madame, Monsieur, mes salutations distinguées.\n\n${d.nom||'[Nom]'}`},
+  attestation:{t:'Attestation de travail',f:[['nom','Nom complet'],['poste','Votre poste'],['entreprise','Entreprise'],['ville','Ville']],
+   gen:d=>`${d.ville||'[Ville]'}, le ${dateFR()}\n\nObjet : Demande d'attestation de travail\n\nMadame, Monsieur,\n\nJe soussigné(e) ${d.nom||'[Nom]'}, employé(e) au poste de ${d.poste||'[poste]'} au sein de ${d.entreprise||'[entreprise]'}, ai l'honneur de vous demander de bien vouloir m'établir une attestation de travail, nécessaire pour mes démarches administratives.\n\nVous remerciant par avance, veuillez agréer, Madame, Monsieur, mes salutations distinguées.\n\n${d.nom||'[Nom]'}`},
+  candidature:{t:'Candidature spontanée',f:[['nom','Nom complet'],['poste','Poste visé'],['entreprise','Entreprise ciblée'],['ville','Ville'],['atout','Votre principal atout']],
+   gen:d=>`${d.ville||'[Ville]'}, le ${dateFR()}\n\nObjet : Candidature spontanée — poste de ${d.poste||'[poste]'}\n\nMadame, Monsieur,\n\nVivement intéressé(e) par les activités de ${d.entreprise||'[entreprise]'}, je me permets de vous adresser ma candidature spontanée pour un poste de ${d.poste||'[poste]'}.\n\n${d.atout?('Mon principal atout : '+d.atout+'. '):''}Motivé(e) et rigoureux(se), je suis convaincu(e) de pouvoir contribuer au développement de votre équipe.\n\nJe me tiens à votre disposition pour un entretien. Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\n${d.nom||'[Nom]'}`}
+};
+let MOD_SEL='demission';
+function setModele(k){MOD_SEL=k;viewModeles();}
+function modGen(){const m=MODELES[MOD_SEL];const d={};m.f.forEach(([k])=>{const el=document.getElementById('mf-'+k);d[k]=el?el.value:'';});document.getElementById('mod-out').value=m.gen(d);}
+function modCopy(){const t=document.getElementById('mod-out');t.select();try{document.execCommand('copy');}catch(e){}if(navigator.clipboard)navigator.clipboard.writeText(t.value);alert('Texte copié !');}
+function modDownload(){const t=document.getElementById('mod-out').value;const b=new Blob([t],{type:'text/plain;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=MODELES[MOD_SEL].t.replace(/[^a-z0-9]+/gi,'_')+'.txt';a.click();}
+function viewModeles(){
+  clearJobLd();
+  const m=MODELES[MOD_SEL];
+  const tabs=Object.entries(MODELES).map(([k,v])=>`<button onclick="setModele('${k}')" style="padding:9px 14px;border-radius:100px;border:1px solid ${MOD_SEL===k?'#0b0b0d':'var(--line)'};background:${MOD_SEL===k?'#c8f53d':'#fff'};color:#0b0b0d;font-weight:700;font-size:13px;cursor:pointer;font-family:var(--body)">${v.t}</button>`).join('');
+  const fields=m.f.map(([k,l])=>`<div class="field"><label>${l}</label><input id="mf-${k}" oninput="modGen()" placeholder="${l}"></div>`).join('');
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Modèles de documents</h1>
+    <p style="color:var(--ink-soft);max-width:60ch">Remplissez les champs, puis copiez ou téléchargez votre document prêt à l'emploi.</p>
+    <div style="display:flex;gap:9px;flex-wrap:wrap;margin:16px 0 20px">${tabs}</div>
+    <div class="panel">${fields}</div>
+    <div class="field"><label>Aperçu (modifiable)</label><textarea id="mod-out" rows="13" style="width:100%;font-family:inherit;line-height:1.6;padding:14px;border:1px solid var(--line);border-radius:12px"></textarea></div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:6px">
+      <button onclick="modCopy()" class="btn-apply" style="border:0;cursor:pointer">Copier</button>
+      <button onclick="modDownload()" style="border:1px solid var(--line);padding:11px 18px;border-radius:100px;background:#fff;cursor:pointer;font-weight:700;font-family:var(--body)">Télécharger (.txt)</button>
+    </div>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+  modGen();
+}
+const QUIZ_CATS={tech:{t:'Informatique & Tech',j:'Développement, data, support IT, cybersécurité',kw:'développeur'},
+ commerce:{t:'Commerce & Vente',j:'Commercial, téléconseiller, business developer',kw:'commercial'},
+ sante:{t:'Santé & Social',j:'Infirmier, aide-soignant, travail social',kw:'santé'},
+ gestion:{t:'Gestion & Administration',j:'Comptabilité, RH, assistanat, finance',kw:'comptable'},
+ creation:{t:'Création & Communication',j:'Marketing, design, community management',kw:'marketing'},
+ technique:{t:'Industrie & Technique',j:'Maintenance, BTP, production, logistique',kw:'technicien'}};
+const QUIZ=[
+ {q:'Ce qui te motive le plus :',o:[['Résoudre des problèmes logiques','tech'],['Convaincre, négocier, vendre','commerce'],['Aider et accompagner les gens','sante'],['Organiser, planifier, gérer','gestion']]},
+ {q:'Ton point fort :',o:[['La créativité et les idées','creation'],['La rigueur et les chiffres','gestion'],['Le contact humain','commerce'],['La technique et le concret','technique']]},
+ {q:'Ton environnement idéal :',o:[['Devant un écran','tech'],['Sur le terrain ou en atelier','technique'],['Au contact du public','sante'],['Dans un bureau organisé','gestion']]},
+ {q:'Une tâche qui te plaît :',o:[['Créer un visuel ou un contenu','creation'],['Réparer ou assembler quelque chose','technique'],['Conseiller un client','commerce'],['Analyser des données','tech']]},
+ {q:'On te décrit comme :',o:[['Empathique et patient(e)','sante'],['Méthodique et fiable','gestion'],['Persuasif(ve) et énergique','commerce'],['Curieux(se) et logique','tech']]},
+ {q:'Ton objectif de carrière :',o:[['Innover avec la technologie','tech'],['Avoir un impact humain','sante'],['Évoluer vers le management','gestion'],['Exprimer ma créativité','creation']]}
+];
+let QUIZ_PICK={};
+function quizPick(i,cat){QUIZ_PICK[i]=cat;document.querySelectorAll('[data-q="'+i+'"]').forEach(b=>{const on=b.dataset.cat===cat;b.style.background=on?'#c8f53d':'#fff';b.style.borderColor=on?'#0b0b0d':'var(--line)';b.style.fontWeight=on?'700':'400';});}
+function quizResult(){
+  const ans=Object.values(QUIZ_PICK);
+  if(ans.length<QUIZ.length){alert('Réponds à toutes les questions 🙂');return;}
+  const score={};ans.forEach(c=>score[c]=(score[c]||0)+1);
+  const top=Object.keys(score).sort((a,b)=>score[b]-score[a])[0];const c=QUIZ_CATS[top];
+  const box=document.getElementById('quiz-res');
+  box.innerHTML=`<div class="panel"><h4>Ton profil : ${c.t}</h4>
+    <p style="margin:6px 0 14px">Des métiers qui pourraient te correspondre : <b>${c.j}</b>.</p>
+    <a class="btn-apply" href="#" onclick="goSearch('${c.kw}');return false;">Voir les offres ${c.t} →</a></div>
+    <p class="legal-note">Test indicatif et ludique : il donne une piste, pas une vérité absolue. N'hésite pas à explorer aussi les autres secteurs.</p>`;
+  box.scrollIntoView({behavior:'smooth'});
+}
+function viewQuiz(){
+  clearJobLd(); QUIZ_PICK={};
+  const qs=QUIZ.map((Q,i)=>`<div class="panel" style="margin-bottom:14px"><h4 style="margin:0 0 12px">${i+1}. ${Q.q}</h4>
+    <div style="display:grid;gap:9px">${Q.o.map(([txt,cat])=>`<button data-q="${i}" data-cat="${cat}" onclick="quizPick(${i},'${cat}')" style="text-align:left;padding:12px 15px;border:1px solid var(--line);background:#fff;border-radius:11px;cursor:pointer;font-family:var(--body);font-size:15px">${txt}</button>`).join('')}</div></div>`).join('');
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Quel métier est fait pour toi ?</h1>
+    <p style="color:var(--ink-soft);max-width:60ch">Réponds à 6 questions rapides pour découvrir le secteur qui te correspond le mieux.</p>
+    <div style="margin:18px 0">${qs}</div>
+    <button onclick="quizResult()" class="btn-apply" style="border:0;cursor:pointer">Voir mon résultat</button>
+    <div id="quiz-res" style="margin-top:20px"></div>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+function viewOutils(){
+  clearJobLd();
+  const card=(href,emoji,titre,desc,dark)=>`<a href="${href}" style="display:block;padding:24px;border-radius:16px;${dark?'background:var(--bg);color:#fff':'background:#fff;border:1px solid var(--line);color:#0b0b0d'}">
+    <div style="font-size:30px">${emoji}</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">${titre}</h3>
+    <p style="font-size:14px;margin:0;${dark?'color:#b9b9c2':'color:var(--ink-soft)'}">${desc}</p></a>`;
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Outils gratuits</h1>
+    <p style="color:var(--ink-soft);max-width:62ch">Tous nos outils pour réussir votre recherche d'emploi et vos démarches — 100% gratuits, sans inscription.</p>
+    <div style="display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));margin-top:20px">
+      ${card('#/cv','📄','Créateur de CV','3 modèles, en français, anglais ou arabe. Export PDF en un clic.',true)}
+      ${card('#/lettre','✉️','Lettre de motivation','Générez une lettre professionnelle adaptée au poste visé.')}
+      ${card('#/salaire','🧮','Calculateur de salaire','Brut ↔ net : CNSS, AMO et impôt sur le revenu (barème Maroc 2026).')}
+      ${card('#/licenciement','⚖️','Indemnité de licenciement','Estimez vos indemnités et votre préavis selon le Code du travail.')}
+      ${card('#/modeles','📝','Modèles de documents','Démission, congé, attestation, candidature — à copier ou télécharger.')}
+      ${card('#/quiz','🧭','Test d’orientation','6 questions pour découvrir le métier et le secteur faits pour vous.')}
+    </div>
+    <div class="adslot" style="margin-top:26px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
 function viewPublier(){
   clearJobLd();
   app.innerHTML=`<section class="block"><div class="wrap page fade">
@@ -941,6 +1164,11 @@ function setView(seg,arg){
     case'teletravail':PRESET={remote:true};return viewOffres('Télétravail','Toutes les offres en remote, accessibles depuis chez vous.');
     case'stages':PRESET={type_contrat:'Stage'};return viewOffres('Stages','Stages et premières expériences professionnelles.');
     case'offre':return viewOffre(arg);
+    case'outils':return viewOutils();
+    case'salaire':return viewSalaire();
+    case'licenciement':return viewLicenciement();
+    case'modeles':return viewModeles();
+    case'quiz':return viewQuiz();
     case'publier':return viewPublier();
     case'cvtheque':return viewCvtheque();
     case'cv':case'creer-cv':return viewCvGen();
