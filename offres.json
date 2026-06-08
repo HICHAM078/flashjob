@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-7525ec7d25",
+    "titre": "Medical Claims Processor I",
+    "entreprise": "Moda Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "customer support",
+      "accounting",
+      "medical"
+    ],
+    "resume_neutre": "Medical Claims Processor I chez Moda Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-claims-processor-i-moda-health-1132995",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-7525ec7d25"
+  },
+  {
     "id": "jf-824b124cbe",
     "titre": "Data Analyst",
     "entreprise": "Hired",
