@@ -1,5 +1,120 @@
 [
   {
+    "id": "jf-824b124cbe",
+    "titre": "Data Analyst",
+    "entreprise": "Hired",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "data science"
+    ],
+    "resume_neutre": "Data Analyst chez Hired, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-824b124cbe"
+  },
+  {
+    "id": "jf-c017876117",
+    "titre": "Junior Human Resources Executive",
+    "entreprise": "BrezQ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Junior",
+    "remote": true,
+    "competences": [
+      "junior",
+      "hr",
+      "exec"
+    ],
+    "resume_neutre": "Junior Human Resources Executive chez BrezQ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-executive-brezq-1132988",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-c017876117"
+  },
+  {
+    "id": "jf-bfa5f14adf",
+    "titre": "Auxiliar Administrativo Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133000",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-bfa5f14adf"
+  },
+  {
+    "id": "jf-9838fade0a",
+    "titre": "Assistente Administrativo Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Assistente Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133002",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-9838fade0a"
+  },
+  {
+    "id": "jf-e1feebde89",
+    "titre": "Profesor a de Dibujo Modalidad Remota",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Profesor a de Dibujo Modalidad Remota chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-dibujo-modalidad-remota-tus-media-1132987",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-e1feebde89"
+  },
+  {
+    "id": "jf-26d89c57f9",
+    "titre": "Online Data Entry Operator Data Entry Clerk Data Entry Typing Data Entry",
+    "entreprise": "Impact HR &amp; KM Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "legal",
+      "non tech",
+      "hr",
+      "data entry"
+    ],
+    "resume_neutre": "Online Data Entry Operator Data Entry Clerk Data Entry Typing Data Entry chez Impact HR &amp; KM Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-clerk-data-entry-typing-data-entry-impact-hr-amp-km-solutions-1133017",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-26d89c57f9"
+  },
+  {
     "id": "ma-24a73bbc6f",
     "titre": "Offre d’emploi - Conseiller(ère) en Assurance Emprunteur (H/F)",
     "entreprise": "Feniassur",
