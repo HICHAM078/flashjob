@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-94e09cf79b",
+    "titre": "Event Director",
+    "entreprise": "Anheuser-Busch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "testing",
+      "finance",
+      "education"
+    ],
+    "resume_neutre": "Event Director chez Anheuser-Busch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-event-director-anheuser-busch-1132980",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-94e09cf79b"
+  },
+  {
+    "id": "jf-9748f62233",
+    "titre": "Human Resources Representative",
+    "entreprise": "Ross Stores, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "Human Resources Representative chez Ross Stores, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-representative-ross-stores-inc-1132977",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-9748f62233"
+  },
+  {
+    "id": "jf-84b47a33a4",
+    "titre": "VC Associate",
+    "entreprise": "Toyota Research Institute",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "testing",
+      "finance",
+      "education"
+    ],
+    "resume_neutre": "VC Associate chez Toyota Research Institute, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vc-associate-toyota-research-institute-1132978",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-84b47a33a4"
+  },
+  {
+    "id": "jf-8cce7eaabc",
+    "titre": "Graphic Narrator",
+    "entreprise": "Resilient Solutions Plus, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "testing",
+      "finance",
+      "education"
+    ],
+    "resume_neutre": "Graphic Narrator chez Resilient Solutions Plus, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-narrator-resilient-solutions-plus-llc-1132981",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-8cce7eaabc"
+  },
+  {
     "id": "jf-020c9b7c69",
     "titre": "Chief of Staff",
     "entreprise": "Malama Health",
