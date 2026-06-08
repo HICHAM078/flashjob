@@ -1,5 +1,173 @@
 [
   {
+    "id": "jf-020c9b7c69",
+    "titre": "Chief of Staff",
+    "entreprise": "Malama Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Chief of Staff chez Malama Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-malama-health-1132965",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-020c9b7c69"
+  },
+  {
+    "id": "jf-a4994ba6cb",
+    "titre": "Applied AI Engineer",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "python",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Applied AI Engineer chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-bjak-1132964",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-a4994ba6cb"
+  },
+  {
+    "id": "jf-2045d1781a",
+    "titre": "Senior ML Engineer",
+    "entreprise": "Clutch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "sys admin",
+      "python",
+      "education"
+    ],
+    "resume_neutre": "Senior ML Engineer chez Clutch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-ml-engineer-clutch-1132963",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-2045d1781a"
+  },
+  {
+    "id": "jf-14ab2040d9",
+    "titre": "Data Annotator",
+    "entreprise": "CodeGeniusRecruit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Annotation",
+    "remote": true,
+    "competences": [
+      "data annotation"
+    ],
+    "resume_neutre": "Data Annotator chez CodeGeniusRecruit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-annotator-codegeniusrecruit-1132962",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-14ab2040d9"
+  },
+  {
+    "id": "jf-848e8e4ece",
+    "titre": "Multi Grade Geographically Position",
+    "entreprise": "School District No. 27",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "customer support",
+      "travel",
+      "finance"
+    ],
+    "resume_neutre": "Multi Grade Geographically Position chez School District No. 27, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-multi-grade-geographically-position-school-district-no-27-1132973",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-848e8e4ece"
+  },
+  {
+    "id": "jf-98cd6bc2d9",
+    "titre": "Administrative Support",
+    "entreprise": "Vish Consulting IT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "salesforce",
+      "customer support",
+      "dev",
+      "transcribing"
+    ],
+    "resume_neutre": "Administrative Support chez Vish Consulting IT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-support-vish-consulting-it-1132970",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-98cd6bc2d9"
+  },
+  {
+    "id": "jf-34008f4a18",
+    "titre": "Inpatient Claims Processor I",
+    "entreprise": "Moda Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "testing",
+      "finance",
+      "education"
+    ],
+    "resume_neutre": "Inpatient Claims Processor I chez Moda Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-inpatient-claims-processor-i-moda-health-1132979",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-34008f4a18"
+  },
+  {
+    "id": "jf-26b1f9df90",
+    "titre": "Trabaja Remoto con Horario fijo de L a S Con o sin Exp. Planilla Completa+Comisiones+Convenios",
+    "entreprise": "Netcall Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Trabaja Remoto con Horario fijo de L a S Con o sin Exp. Planilla Completa+Comisiones+Convenios chez Netcall Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trabaja-remoto-con-horario-fijo-de-l-a-s-con-o-sin-exp-planilla-completa-comisiones-convenios-netcall-group-1133004",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-08",
+    "ref_unique": "jf-26b1f9df90"
+  },
+  {
     "id": "man-04f8969e03",
     "titre": "توظيف 300 ملحقا قضائيا -العلوم القانونية أو الشريعة - الفوج 50",
     "entreprise": "المجلس الأعلى للسلطة القضائية",
