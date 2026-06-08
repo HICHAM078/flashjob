@@ -331,6 +331,11 @@ footer a:hover{color:var(--accent)}
   #lm-paper,#lm-paper *{visibility:visible!important}
   #lm-paper{position:absolute;left:0;top:0;width:210mm;max-width:none;border:none;box-shadow:none;border-radius:0;padding:18mm}
 }
+#print-paper{position:fixed;left:-9999px;top:0;width:210mm;min-height:297mm;padding:18mm;background:#fff;color:#111;box-sizing:border-box}
+@media print{
+  #print-paper,#print-paper *{visibility:visible!important}
+  #print-paper{position:absolute;left:0;top:0}
+}
 
 
 /* ---- Illustrations articles ---- */
@@ -771,6 +776,13 @@ function viewOffre(id){
   </div></section>`;
 }
 
+function printAsPdf(innerHtml){
+  var old=document.getElementById('print-paper'); if(old) old.remove();
+  var p=document.createElement('div'); p.id='print-paper'; p.innerHTML=innerHtml;
+  document.body.appendChild(p);
+  window.print();
+  setTimeout(function(){p.remove();},800);
+}
 function fmtMAD(n){return (Math.round(n*100)/100).toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' DH';}
 function calcSalaireBrut(brut,charges){
   brut=Math.max(0,+brut||0); charges=Math.min(6,Math.max(0,+charges||0));
@@ -798,6 +810,26 @@ function calcSalaireNet(net,charges){
 }
 let SAL_SENS='brut'; // 'brut' = brut->net, 'net' = net->brut
 function setSalSens(s){SAL_SENS=s;viewSalaire();}
+function printSalaire(){
+  var v=+document.getElementById('sal-montant').value||0;
+  var ch=+document.getElementById('sal-charges').value||0;
+  if(!v){alert('Entrez d’abord un montant.');return;}
+  var r=(SAL_SENS==='brut')?calcSalaireBrut(v,ch):calcSalaireNet(v,ch);
+  var row=function(l,val,b){return '<tr><td style="padding:10px 0;border-bottom:1px solid #eee">'+l+'</td><td style="text-align:right;border-bottom:1px solid #eee">'+(b?'<b>'+val+'</b>':val)+'</td></tr>';};
+  var html='<h1 style="font-family:Georgia,serif;margin:0 0 4px">Simulation de salaire</h1>'
+    +'<p style="color:#666;margin:0 0 22px">FlashJob.ma — barème Maroc 2026 — '+dateFR()+'</p>'
+    +'<table style="width:100%;border-collapse:collapse;font-size:15px">'
+    +row('Salaire brut mensuel',fmtMAD(r.brut),true)
+    +row('CNSS (4,48 %, plafond 6 000 DH)','− '+fmtMAD(r.cnss))
+    +row('AMO (2,26 %)','− '+fmtMAD(r.amo))
+    +row('Frais professionnels',fmtMAD(r.frais))
+    +row('Revenu net imposable',fmtMAD(r.rni))
+    +row('Impôt sur le revenu (IR)','− '+fmtMAD(r.ir))
+    +'<tr><td style="padding:16px 0;font-size:18px"><b>Salaire NET mensuel</b></td><td style="text-align:right;font-size:18px"><b>'+fmtMAD(r.net)+'</b></td></tr>'
+    +'</table>'
+    +'<p style="color:#888;font-size:12px;margin-top:26px">Calcul indicatif (CNSS 4,48 %, AMO 2,26 %, frais professionnels 35 %/25 %, IR 0→37 %, déduction 50 DH par personne à charge). Ne remplace pas un bulletin de paie officiel. Généré sur FlashJob.ma</p>';
+  printAsPdf(html);
+}
 function calcSalaire(){
   const v=+document.getElementById('sal-montant').value||0;
   const ch=+document.getElementById('sal-charges').value||0;
@@ -816,6 +848,7 @@ function calcSalaire(){
         <tr><td style="padding:7px 0;color:var(--ink-soft)">Impôt sur le revenu (IR)</td><td style="text-align:right">− ${fmtMAD(r.ir)}</td></tr>
       </table>
     </div>
+    <button onclick="printSalaire()" class="btn-apply" style="border:0;cursor:pointer;margin-bottom:6px">⬇ Télécharger en PDF</button>
     <p class="legal-note">Calcul indicatif basé sur le barème 2026 (CNSS 4,48 %, AMO 2,26 %, frais professionnels 35 %/25 %, IR 0→37 %, déduction de 50 DH par personne à charge). Il ne tient pas compte de la CIMR, des conventions collectives ni des primes exonérées. Pour un calcul officiel, consultez un comptable ou votre service de paie.</p>`;
 }
 function viewSalaire(){
@@ -896,6 +929,7 @@ function setModele(k){MOD_SEL=k;viewModeles();}
 function modGen(){const m=MODELES[MOD_SEL];const d={};m.f.forEach(([k])=>{const el=document.getElementById('mf-'+k);d[k]=el?el.value:'';});document.getElementById('mod-out').value=m.gen(d);}
 function modCopy(){const t=document.getElementById('mod-out');t.select();try{document.execCommand('copy');}catch(e){}if(navigator.clipboard)navigator.clipboard.writeText(t.value);alert('Texte copié !');}
 function modDownload(){const t=document.getElementById('mod-out').value;const b=new Blob([t],{type:'text/plain;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=MODELES[MOD_SEL].t.replace(/[^a-z0-9]+/gi,'_')+'.txt';a.click();}
+function modPdf(){var t=document.getElementById('mod-out').value;var html='<div style="white-space:pre-wrap;font-family:Georgia,serif;font-size:14px;line-height:1.8">'+esc(t)+'</div>';printAsPdf(html);}
 function viewModeles(){
   clearJobLd();
   const m=MODELES[MOD_SEL];
@@ -909,7 +943,8 @@ function viewModeles(){
     <div class="panel">${fields}</div>
     <div class="field"><label>Aperçu (modifiable)</label><textarea id="mod-out" rows="13" style="width:100%;font-family:inherit;line-height:1.6;padding:14px;border:1px solid var(--line);border-radius:12px"></textarea></div>
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:6px">
-      <button onclick="modCopy()" class="btn-apply" style="border:0;cursor:pointer">Copier</button>
+      <button onclick="modPdf()" class="btn-apply" style="border:0;cursor:pointer">⬇ Télécharger en PDF</button>
+      <button onclick="modCopy()" style="border:1px solid var(--line);padding:11px 18px;border-radius:100px;background:#fff;cursor:pointer;font-weight:700;font-family:var(--body)">Copier</button>
       <button onclick="modDownload()" style="border:1px solid var(--line);padding:11px 18px;border-radius:100px;background:#fff;cursor:pointer;font-weight:700;font-family:var(--body)">Télécharger (.txt)</button>
     </div>
     <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
