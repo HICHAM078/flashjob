@@ -410,6 +410,8 @@ footer a:hover{color:var(--accent)}
           <a href="#/licenciement">⚖️ Indemnité de licenciement</a>
           <a href="#/modeles">📝 Modèles de documents</a>
           <a href="#/quiz">🧭 Test d'orientation</a>
+          <a href="#/traducteur">🌐 Traducteur</a>
+          <a href="#/darija">⌨️ Clavier Darija</a>
         </div></div>
       <a href="#/publier" class="cta">+ Publier</a>
     </nav>
@@ -665,6 +667,12 @@ function viewHome(){
       <a href="#/quiz" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
         <div style="font-size:30px">🧭</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Test d'orientation</h3>
         <p style="color:var(--ink-soft);font-size:14px;margin:0">6 questions pour découvrir le métier et le secteur faits pour vous.</p></a>
+      <a href="#/traducteur" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">🌐</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Traducteur</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Traduisez un texte entre français, arabe, anglais, espagnol et plus.</p></a>
+      <a href="#/darija" style="display:block;padding:26px;background:#fff;border:1px solid var(--line);border-radius:16px;color:#0b0b0d">
+        <div style="font-size:30px">⌨️</div><h3 style="margin:10px 0 6px;font-family:var(--disp)">Clavier Darija</h3>
+        <p style="color:var(--ink-soft);font-size:14px;margin:0">Tapez en lettres latines, obtenez l'arabe (style Yamli).</p></a>
     </div>
   </div></section>
 
@@ -1009,8 +1017,85 @@ function viewOutils(){
       ${card('#/licenciement','⚖️','Indemnité de licenciement','Estimez vos indemnités et votre préavis selon le Code du travail.')}
       ${card('#/modeles','📝','Modèles de documents','Démission, congé, attestation, candidature — à copier ou télécharger.')}
       ${card('#/quiz','🧭','Test d’orientation','6 questions pour découvrir le métier et le secteur faits pour vous.')}
+      ${card('#/traducteur','🌐','Traducteur','Traduisez un texte entre le français, l’arabe, l’anglais, l’espagnol…')}
+      ${card('#/darija','⌨️','Clavier Darija','Tapez en lettres latines, obtenez l’arabe (style Yamli). Ex : 3lik → عليك.')}
     </div>
     <div class="adslot" style="margin-top:26px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+/* ---- Traducteur (API MyMemory, gratuite, sans cle) ---- */
+async function doTranslate(){
+  const q=(document.getElementById('tr-src').value||'').trim();
+  const from=document.getElementById('tr-from').value, to=document.getElementById('tr-to').value;
+  const out=document.getElementById('tr-out');
+  if(!q){out.textContent='';return;}
+  if(q.length>480){out.textContent='Texte trop long (max ~480 caractères par traduction).';return;}
+  out.textContent='Traduction en cours…';
+  try{
+    const res=await fetch('https://api.mymemory.translated.net/get?q='+encodeURIComponent(q)+'&langpair='+from+'%7C'+to);
+    const data=await res.json();
+    const t=data&&data.responseData&&data.responseData.translatedText;
+    out.textContent=t?t:'(pas de résultat)';
+    out.dir=(to==='ar')?'rtl':'ltr';
+    out.style.textAlign=(to==='ar')?'right':'left';
+  }catch(e){out.textContent='Service indisponible pour le moment, réessayez plus tard.';}
+}
+function trCopy(){const t=document.getElementById('tr-out').textContent||'';if(navigator.clipboard)navigator.clipboard.writeText(t);alert('Traduction copiée !');}
+function viewTraducteur(){
+  clearJobLd();
+  const langs=[['fr','Français'],['ar','Arabe'],['en','Anglais'],['es','Espagnol'],['it','Italien'],['de','Allemand'],['nl','Néerlandais'],['pt','Portugais']];
+  const opts=(sel)=>langs.map(([v,l])=>`<option value="${v}" ${v===sel?'selected':''}>${l}</option>`).join('');
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Traducteur</h1>
+    <p style="color:var(--ink-soft);max-width:60ch">Traduisez un texte entre plusieurs langues (français, arabe, anglais, espagnol…).</p>
+    <div class="panel">
+      <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:end;margin-bottom:14px">
+        <div class="field" style="flex:1;min-width:130px"><label>De</label><select id="tr-from">${opts('fr')}</select></div>
+        <div class="field" style="flex:1;min-width:130px"><label>Vers</label><select id="tr-to">${opts('ar')}</select></div>
+      </div>
+      <div class="field"><label>Texte à traduire</label><textarea id="tr-src" rows="5" maxlength="480" placeholder="Tapez votre texte…" style="width:100%;padding:14px;border:1px solid var(--line);border-radius:12px;font-family:inherit"></textarea></div>
+      <button onclick="doTranslate()" class="btn-apply" style="border:0;cursor:pointer">Traduire</button>
+      <div class="field" style="margin-top:16px"><label>Traduction</label>
+        <div id="tr-out" style="min-height:70px;padding:14px;border:1px solid var(--line);border-radius:12px;background:#fff;line-height:1.6"></div></div>
+      <button onclick="trCopy()" style="border:1px solid var(--line);padding:10px 16px;border-radius:100px;background:#fff;cursor:pointer;font-weight:700;font-family:var(--body)">Copier</button>
+    </div>
+    <p class="legal-note">Traduction automatique gratuite (service MyMemory). La qualité peut varier et un quota quotidien s'applique. Pour un document officiel, faites relire par un traducteur.</p>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
+  </div></section>`;
+}
+/* ---- Clavier Darija : translitteration latin -> arabe (hors-ligne) ---- */
+function darijaToArabic(txt){
+  const digra={'kh':'خ','gh':'غ','ch':'ش','sh':'ش','th':'ث','dh':'ذ','ou':'و','aa':'ا','ee':'ي','oo':'و'};
+  const caps={'S':'ص','D':'ض','T':'ط','Z':'ظ','7':'ح','3':'ع','9':'ق','5':'خ','2':'ء','8':'غ','6':'ط','4':'ذ'};
+  const one={'a':'ا','b':'ب','t':'ت','j':'ج','d':'د','r':'ر','z':'ز','s':'س','f':'ف','k':'ك','l':'ل','m':'م','n':'ن','h':'ه','w':'و','y':'ي','i':'ي','o':'و','u':'و','g':'گ','p':'ب','v':'ف','q':'ق','c':'ك','e':''};
+  let out='';
+  for(let i=0;i<txt.length;){
+    const c=txt[i];
+    if(caps[c]!==undefined){out+=caps[c];i++;continue;}
+    const two=txt.substr(i,2).toLowerCase();
+    if(digra[two]!==undefined){out+=digra[two];i+=2;continue;}
+    const lc=c.toLowerCase();
+    if(one[lc]!==undefined){out+=one[lc];i++;continue;}
+    out+=c;i++;
+  }
+  return out;
+}
+function darijaUpd(){const v=document.getElementById('dj-src').value||'';document.getElementById('dj-out').textContent=darijaToArabic(v);}
+function djCopy(){const t=document.getElementById('dj-out').textContent||'';if(navigator.clipboard)navigator.clipboard.writeText(t);alert('Texte arabe copié !');}
+function viewDarija(){
+  clearJobLd();
+  app.innerHTML=`<section class="block"><div class="wrap detail fade">
+    <a class="back" href="#/">← Accueil</a>
+    <h1 style="font-family:var(--disp)">Clavier Darija — Latin → Arabe</h1>
+    <p style="color:var(--ink-soft);max-width:62ch">Tapez en lettres latines (style chat marocain) et obtenez l'écriture arabe. Exemple : <b>salam 3lik</b> → سلام عليك. Les chiffres 3=ع, 7=ح, 9=ق, 5=خ, 2=ء.</p>
+    <div class="panel">
+      <div class="field"><label>Tapez en latin (Darija)</label><textarea id="dj-src" rows="5" placeholder="ex : kifach nta ? labas 3lik" oninput="darijaUpd()" style="width:100%;padding:14px;border:1px solid var(--line);border-radius:12px;font-family:inherit"></textarea></div>
+      <div class="field"><label>Résultat en arabe</label><div id="dj-out" dir="rtl" style="min-height:70px;padding:14px;border:1px solid var(--line);border-radius:12px;background:#fff;text-align:right;font-size:20px;line-height:1.8"></div></div>
+      <button onclick="djCopy()" class="btn-apply" style="border:0;cursor:pointer">Copier l'arabe</button>
+    </div>
+    <p class="legal-note">Translittération automatique approximative (basée sur des règles). Elle peut ne pas correspondre parfaitement à l'orthographe arabe attendue — relisez avant usage officiel.</p>
+    <div class="adslot" style="margin-top:24px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
   </div></section>`;
 }
 function viewPublier(){
@@ -1200,6 +1285,8 @@ function setView(seg,arg){
     case'stages':PRESET={type_contrat:'Stage'};return viewOffres('Stages','Stages et premières expériences professionnelles.');
     case'offre':return viewOffre(arg);
     case'outils':return viewOutils();
+    case'traducteur':return viewTraducteur();
+    case'darija':return viewDarija();
     case'salaire':return viewSalaire();
     case'licenciement':return viewLicenciement();
     case'modeles':return viewModeles();
