@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-79ae71692d",
+    "titre": "Technical Product Manager",
+    "entreprise": "Worth AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "saas",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Technical Product Manager chez Worth AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-worth-ai-1133012",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-79ae71692d"
+  },
+  {
+    "id": "jf-aafa31cfec",
+    "titre": "Communications & External Affairs Manager",
+    "entreprise": "Education Reform Now Advocacy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "teaching",
+      "education",
+      "designer"
+    ],
+    "resume_neutre": "Communications & External Affairs Manager chez Education Reform Now Advocacy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-communications-external-affairs-manager-education-reform-now-advocacy-1133011",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-aafa31cfec"
+  },
+  {
+    "id": "jf-85d383b68a",
+    "titre": "Asistente Administrativo",
+    "entreprise": "Accenture MÃ©xico",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "hr",
+      "exec",
+      "microsoft"
+    ],
+    "resume_neutre": "Asistente Administrativo chez Accenture MÃ©xico, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asistente-administrativo-accenture-mexico-1133020",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-85d383b68a"
+  },
+  {
+    "id": "jf-325b7e2ec9",
+    "titre": "Business Intelligence Analyst",
+    "entreprise": "Joblinxsapp",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Business Intelligence Analyst chez Joblinxsapp, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-intelligence-analyst-joblinxsapp-1133037",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-325b7e2ec9"
+  },
+  {
+    "id": "jf-1a8cc01d36",
+    "titre": "Regional Managing Director Canada",
+    "entreprise": "Little Caesars Pizza",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Regional Managing Director Canada chez Little Caesars Pizza, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-managing-director-canada-little-caesars-pizza-1133042",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-1a8cc01d36"
+  },
+  {
+    "id": "jf-eebbc5ecd6",
+    "titre": "Caretaker",
+    "entreprise": "Suffolk Jobs Direct",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "customer support",
+      "exec",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Caretaker chez Suffolk Jobs Direct, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-caretaker-suffolk-jobs-direct-1133050",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-eebbc5ecd6"
+  },
+  {
     "id": "jf-0781aaa110",
     "titre": "Judicial Law Clerk",
     "entreprise": "LegalTrustAI",
