@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2554513695879251" crossorigin="anonymous"></script>
 <title>FlashJob — Trouvez votre emploi à la vitesse de l'éclair</title>
 <meta name="description" content="FlashJob agrège les meilleures offres d'emploi au Maroc et à l'international (remote inclus). Recherche rapide, filtres simples, candidature en un clic.">
 <link rel="canonical" href="https://flashjob.ma/">
@@ -15,9 +17,6 @@
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-<!-- ========================================================= -->
-<!-- GOOGLE ADSENSE : décommente et remplace ca-pub-XXXX après validation -->
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
 <!-- ========================================================= -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -747,6 +746,7 @@ function viewOffres(title,sub){
       <select id="fsecteur"><option value="">Tout secteur</option>${SECTEURS().map(s=>`<option ${FILTER.secteur===s?'selected':''}>${esc(s)}</option>`).join('')}</select>
       <button class="reset" id="freset">Réinitialiser</button>
     </div>
+    <div class="adslot" style="margin:6px 0 22px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
     <div id="results"></div>
   </div></section>`;
   const apply=()=>{FILTER={q:fq.value,ville:fville.value,contrat:fcontrat.value,secteur:fsecteur.value};renderResults();};
@@ -785,6 +785,7 @@ function viewOffre(id){
       <a class="btn-apply" href="${esc(o.url_source)}" target="_blank" rel="noopener nofollow">Postuler
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M7 17L17 7M9 7h8v8"/></svg></a>
     </div>
+    <div class="adslot" style="margin-top:22px">EMPLACEMENT PUBLICITAIRE — AdSense</div>
   </div></section>`;
 }
 
@@ -1235,7 +1236,7 @@ function viewArticle(id){
     <div class="article-cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
     <h1 style="margin-top:4px${p.lang==='ar'?';text-align:right':''}"${p.lang==='ar'?' dir="rtl"':''}>${esc(p.titre)}</h1>
     <p class="sub"${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${p.date} · par l'équipe FlashJob</p>
-    ${p.body.map(par=>`<p${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${par}</p>`).join('')}
+    ${p.body.map((par,i)=>`<p${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}>${par}</p>`+(i===1?'<div class="adslot">EMPLACEMENT PUBLICITAIRE — AdSense</div>':'')).join('')}
     <div class="apply" style="margin-top:30px"><div class="t">Prêt à postuler ?<small>Des centaines d'offres vous attendent</small></div>
       <a class="btn-apply" href="#/offres">Voir les offres</a></div>
   </div></section>`;
