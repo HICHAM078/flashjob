@@ -1,5 +1,249 @@
 [
   {
+    "id": "jf-51bf7f2cdb",
+    "titre": "Data Analyst",
+    "entreprise": "Fusemachines",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Data Analyst chez Fusemachines, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-fusemachines-1133041",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-51bf7f2cdb"
+  },
+  {
+    "id": "jf-2a1fbaaef6",
+    "titre": "Mortgage Processor",
+    "entreprise": "LBC Mortgage",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "data entry",
+      "exec",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Mortgage Processor chez LBC Mortgage, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mortgage-processor-lbc-mortgage-1133070",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-2a1fbaaef6"
+  },
+  {
+    "id": "jf-96be239bbe",
+    "titre": "Customs Agent",
+    "entreprise": "FedEx",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Customs Agent chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customs-agent-fedex-1133053",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-96be239bbe"
+  },
+  {
+    "id": "jf-13824f5ed8",
+    "titre": "Auxiliar de Dados REMOTO",
+    "entreprise": "ADVBOX",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar de Dados REMOTO chez ADVBOX, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-dados-remoto-advbox-1133028",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-13824f5ed8"
+  },
+  {
+    "id": "jf-fee1094c5c",
+    "titre": "Public Area Attendant",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Public Area Attendant chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1133054",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-fee1094c5c"
+  },
+  {
+    "id": "jf-7037c2bbd2",
+    "titre": "General Expression of Interest",
+    "entreprise": "THE THIRD FLOOR Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Biotech",
+    "remote": true,
+    "competences": [
+      "biotech",
+      "consulting",
+      "design",
+      "infosec",
+      "exec"
+    ],
+    "resume_neutre": "General Expression of Interest chez THE THIRD FLOOR Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-expression-of-interest-the-third-floor-inc-1133034",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-7037c2bbd2"
+  },
+  {
+    "id": "jf-87f436c020",
+    "titre": "Staff Software Engineer Infrastructure",
+    "entreprise": "Docker",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Docker",
+    "remote": true,
+    "competences": [
+      "docker",
+      "dev",
+      "design",
+      "grafana",
+      "infosec"
+    ],
+    "resume_neutre": "Staff Software Engineer Infrastructure chez Docker, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-87f436c020"
+  },
+  {
+    "id": "jf-39984a3a96",
+    "titre": "Junior Market Specialist Analyst",
+    "entreprise": "Shumba",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Crypto",
+    "remote": true,
+    "competences": [
+      "crypto",
+      "blockchain"
+    ],
+    "resume_neutre": "Junior Market Specialist Analyst chez Shumba, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-market-specialist-analyst-shumba-1133023",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-39984a3a96"
+  },
+  {
+    "id": "jf-e27f417fde",
+    "titre": "Environmental Scientists",
+    "entreprise": "STEM Sync AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Biotech",
+    "remote": true,
+    "competences": [
+      "biotech"
+    ],
+    "resume_neutre": "Environmental Scientists chez STEM Sync AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-environmental-scientists-stem-sync-ai-1133022",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-e27f417fde"
+  },
+  {
+    "id": "jf-ff3795370d",
+    "titre": "BACK OF HOUSE",
+    "entreprise": "Buffalo Wild Wings - Fralich, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "math",
+      "exec"
+    ],
+    "resume_neutre": "BACK OF HOUSE chez Buffalo Wild Wings - Fralich, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1133029",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-ff3795370d"
+  },
+  {
+    "id": "jf-5c1007c02b",
+    "titre": "EstÃ¡gio de PrevenÃ§Ã£o a Fraudes",
+    "entreprise": "MÃ©liuz",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "hr",
+      "exec",
+      "microsoft"
+    ],
+    "resume_neutre": "EstÃ¡gio de PrevenÃ§Ã£o a Fraudes chez MÃ©liuz, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estagio-de-prevencao-a-fraudes-meliuz-1133021",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-5c1007c02b"
+  },
+  {
+    "id": "jf-9da34a6815",
+    "titre": "Assistente JurÃ­dico",
+    "entreprise": "MÃ©liuz",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Assistente JurÃ­dico chez MÃ©liuz, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-juridico-meliuz-1133019",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-9da34a6815"
+  },
+  {
     "id": "jf-4497704979",
     "titre": "Functional Assessor",
     "entreprise": "PFAS (Personal Functional Assessment Services)",
