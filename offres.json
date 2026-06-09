@@ -1,5 +1,85 @@
 [
   {
+    "id": "jf-0781aaa110",
+    "titre": "Judicial Law Clerk",
+    "entreprise": "LegalTrustAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "dev",
+      "sales",
+      "non tech"
+    ],
+    "resume_neutre": "Judicial Law Clerk chez LegalTrustAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-judicial-law-clerk-legaltrustai-1133008",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-0781aaa110"
+  },
+  {
+    "id": "jf-da638341df",
+    "titre": "Driving Examiner",
+    "entreprise": "Department of Customer Services, Open Data and Small and Family Business",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Driving Examiner chez Department of Customer Services, Open Data and Small and Family Business, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-driving-examiner-department-of-customer-services-open-data-and-small-and-family-business-1133009",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-da638341df"
+  },
+  {
+    "id": "jf-4d6045b580",
+    "titre": "Farmer REMOTO",
+    "entreprise": "ADVBOX",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Farmer REMOTO chez ADVBOX, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-farmer-remoto-advbox-1133027",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-4d6045b580"
+  },
+  {
+    "id": "jf-74a5d1767e",
+    "titre": "Studio Coordinator",
+    "entreprise": "Rockhunter",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "full time"
+    ],
+    "resume_neutre": "Studio Coordinator chez Rockhunter, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-studio-coordinator-rockhunter-1132998",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-09",
+    "ref_unique": "jf-74a5d1767e"
+  },
+  {
     "id": "jf-7525ec7d25",
     "titre": "Medical Claims Processor I",
     "entreprise": "Moda Health",
