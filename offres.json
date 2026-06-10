@@ -1,5 +1,91 @@
 [
   {
+    "id": "jf-837471e60b",
+    "titre": "Scrum Master",
+    "entreprise": "Avum Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "vfx",
+      "designer",
+      "marketing"
+    ],
+    "resume_neutre": "Scrum Master chez Avum Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-avum-inc-1133092",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-10",
+    "ref_unique": "jf-837471e60b"
+  },
+  {
+    "id": "jf-95471a3721",
+    "titre": "Web Designer",
+    "entreprise": "Regex SEO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web Dev",
+    "remote": true,
+    "competences": [
+      "web dev",
+      "designer",
+      "seo"
+    ],
+    "resume_neutre": "Web Designer chez Regex SEO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-web-designer-regex-seo-1133051",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-10",
+    "ref_unique": "jf-95471a3721"
+  },
+  {
+    "id": "jf-3bddea544d",
+    "titre": "Customer Service Associate Representative Cigna Healthcare",
+    "entreprise": "Cigna Healthcare",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "hr",
+      "sys admin",
+      "education",
+      "coordinator"
+    ],
+    "resume_neutre": "Customer Service Associate Representative Cigna Healthcare chez Cigna Healthcare, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-associate-representative-cigna-healthcare-cigna-healthcare-1133131",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-10",
+    "ref_unique": "jf-3bddea544d"
+  },
+  {
+    "id": "jf-8ff3a22bc2",
+    "titre": "Supply Chain Specialist",
+    "entreprise": "Distoria Technologies INC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "exec",
+      "ops",
+      "digital nomad"
+    ],
+    "resume_neutre": "Supply Chain Specialist chez Distoria Technologies INC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-specialist-distoria-technologies-inc-1133127",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-10",
+    "ref_unique": "jf-8ff3a22bc2"
+  },
+  {
     "id": "jf-1b54284e03",
     "titre": "Asesor a call center remoto",
     "entreprise": "Shalom",
