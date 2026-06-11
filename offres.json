@@ -1,5 +1,197 @@
 [
   {
+    "id": "jf-e0a8dd1f9c",
+    "titre": "Supply &amp; Logistics Coordinator",
+    "entreprise": "Nabu Casa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "Supply &amp; Logistics Coordinator chez Nabu Casa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-amp-logistics-coordinator-nabu-casa-1133208",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-e0a8dd1f9c"
+  },
+  {
+    "id": "jf-2474826c60",
+    "titre": "Data Technician",
+    "entreprise": "Gritter Francona",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "social media",
+      "part time"
+    ],
+    "resume_neutre": "Data Technician chez Gritter Francona, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-technician-gritter-francona-1133194",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-2474826c60"
+  },
+  {
+    "id": "jf-3ae11a8919",
+    "titre": "Design Engineer",
+    "entreprise": "MrBeast",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Design Engineer chez MrBeast, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-design-engineer-mrbeast-1133239",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-3ae11a8919"
+  },
+  {
+    "id": "jf-a10109a65f",
+    "titre": "Junior Supply Chain Analyst",
+    "entreprise": "Helic & Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "virtual assistant",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Junior Supply Chain Analyst chez Helic & Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133182",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-a10109a65f"
+  },
+  {
+    "id": "jf-27d15794d8",
+    "titre": "Social Media Content Creator",
+    "entreprise": "FuseGlobal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "virtual assistant",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Social Media Content Creator chez FuseGlobal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-fuseglobal-1133176",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-27d15794d8"
+  },
+  {
+    "id": "jf-9db392964c",
+    "titre": "HR Administrative Assistant",
+    "entreprise": "Orchestrate Consulting Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "virtual assistant"
+    ],
+    "resume_neutre": "HR Administrative Assistant chez Orchestrate Consulting Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-administrative-assistant-orchestrate-consulting-group-1133174",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-9db392964c"
+  },
+  {
+    "id": "jf-46192f7527",
+    "titre": "International Advertising Growth Manager",
+    "entreprise": "Adoperator.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "International Advertising Growth Manager chez Adoperator.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-international-advertising-growth-manager-adoperator-com-1133171",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-46192f7527"
+  },
+  {
+    "id": "jf-39651d7bcf",
+    "titre": "Executive Assistant",
+    "entreprise": "Adolescent Wellness Academy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "virtual assistant",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Executive Assistant chez Adolescent Wellness Academy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-adolescent-wellness-academy-1133178",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-39651d7bcf"
+  },
+  {
+    "id": "jf-33c8f4eaa6",
+    "titre": "Environmental Health and Safety officer",
+    "entreprise": "The Lunch Bag",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "infosec",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Environmental Health and Safety officer chez The Lunch Bag, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-environmental-health-and-safety-officer-the-lunch-bag-1133188",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-33c8f4eaa6"
+  },
+  {
     "id": "jf-4f4280ce6e",
     "titre": "Underwriter Motor",
     "entreprise": "Coralisle Group Ltd.",
@@ -5625,167 +5817,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-08",
     "ref_unique": "ma-cd9f5983a6"
-  },
-  {
-    "id": "ma-fa0e130be3",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1498823580622649404?ckey=commercial&rgn=938&pos=2&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=111&relb=110&brelb=110&bscr=1757.3851&scr=1757.3851",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-fa0e130be3"
-  },
-  {
-    "id": "ma-69ce88fe89",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7786810848435157549?ckey=commercial&rgn=938&pos=3&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=135&relb=110&brelb=110&bscr=1726.4913&scr=1726.4912999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-69ce88fe89"
-  },
-  {
-    "id": "ma-97d990f68a",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8352378883137237013?ckey=commercial&rgn=938&pos=4&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=423&relb=110&brelb=110&bscr=1656.0183&scr=1656.0183",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-97d990f68a"
-  },
-  {
-    "id": "ma-15033a1e57",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1898566766051505189?ckey=commercial&rgn=938&pos=5&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=87&relb=110&brelb=110&bscr=1636.6118&scr=1636.6118",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-15033a1e57"
-  },
-  {
-    "id": "ma-50b7f9234b",
-    "titre": "Nous recrutons : Commerciaux Experts en Assurance",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons : Commerciaux Experts en Assurance chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1665648664001115125?ckey=commercial&rgn=938&pos=6&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=423&relb=110&brelb=110&bscr=1626.3344&scr=1626.3344",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-50b7f9234b"
-  },
-  {
-    "id": "ma-ca61c3caeb",
-    "titre": "Commercial(e) débutant(e) - Recrutement urgent !",
-    "entreprise": "Smart Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) débutant(e) - Recrutement urgent ! chez Smart Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/115623512738950980?ckey=commercial&rgn=938&pos=7&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=87&relb=110&brelb=110&bscr=1585.1873&scr=1585.1873",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-ca61c3caeb"
-  },
-  {
-    "id": "ma-9cc9bcddca",
-    "titre": "Nous recrutons : commerciaux experts en assurance Santé",
-    "entreprise": "Infocea Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons : commerciaux experts en assurance Santé chez Infocea Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/649772838029137627?ckey=commercial&rgn=938&pos=8&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=327&relb=110&brelb=110&bscr=1579.2858&scr=1579.2858",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-9cc9bcddca"
-  },
-  {
-    "id": "ma-5590a04fd9",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4343617732422704568?ckey=commercial&rgn=938&pos=9&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=687&relb=110&brelb=110&bscr=1536.9402&scr=1536.9402",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-5590a04fd9"
-  },
-  {
-    "id": "ma-41ab7f4822",
-    "titre": "Directeur commercial",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur commercial chez HR SKILLS MAROC, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5748769750657843653?ckey=commercial&rgn=938&pos=10&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=423&relb=100&brelb=100&bscr=1529.8096&scr=1529.8095999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-41ab7f4822"
   }
 ]
