@@ -1,5 +1,35 @@
 [
   {
+    "cat": "العمل عن بعد",
+    "titre": "العمل عن بعد من المغرب: خطوات واقعية",
+    "excerpt": "العمل عن بعد يفتح أبواب مشغّلين دوليين دون مغادرة المغرب. إليك طريقاً واقعياً بلا وعود فارغة.",
+    "body": [
+      "العمل عن بعد لفائدة شركة أوروبية أو زبون دولي لم يعد نادراً: التقنية، خدمة الزبناء، التسويق، التصميم… الفرص موجودة فعلاً. لكن السوق عالمي وتنافسي.",
+      "<b>اختر مهارة قابلة للبيع.</b> تطوير الويب، تدبير الشبكات الاجتماعية، المونتاج، المحاسبة… الأفضل أن تتقن مهارة واضحة بدل أن تكون «متعدد الكفاءات» في كل شيء.",
+      "<b>اعتنِ بلغتك.</b> أغلب العروض الدولية بالإنجليزية كتابةً على الأقل، والسوق الفرنكفوني يتطلب فرنسية مهنية سليمة.",
+      "<b>اِبنِ دليلاً على كفاءتك.</b> ملف أعمال، حساب مهني مكتمل، مشاريع شخصية. المشغّل عن بعد لا يعرفك، فأرِه ما تستطيع إنجازه.",
+      "<b>استبق مسألة الأداء والضرائب.</b> اختر حلاً مناسباً لتلقّي الأجر من زبون أجنبي، واعلم أن المداخيل، ولو من الخارج، يجب التصريح بها."
+    ],
+    "lang": "ar",
+    "id": "news-1781181501-ar",
+    "date": "11 juin 2026"
+  },
+  {
+    "cat": "Jeunes diplômés",
+    "titre": "Réussir ses premiers jours dans un nouveau poste",
+    "excerpt": "La période d'essai se joue dès le premier jour. Voici comment partir du bon pied.",
+    "body": [
+      "Décrocher le poste, c'est une étape ; bien démarrer en est une autre. Les premières semaines forgent l'image que l'équipe se fait de vous.",
+      "<b>Soyez ponctuel et observateur.</b> Au début, écoutez et observez avant de vouloir tout changer. Comprenez la culture de l'entreprise et les habitudes de l'équipe.",
+      "<b>Posez des questions.</b> Demander quand on ne sait pas n'est pas une faiblesse : c'est ce qu'on attend d'un nouveau. Mieux vaut une question qu'une erreur évitable.",
+      "<b>Prenez des notes.</b> On vous donnera beaucoup d'informations en peu de temps. Noter montre votre sérieux et vous évite de redemander dix fois.",
+      "<b>Créez du lien.</b> Apprenez les prénoms, déjeunez avec les collègues, soyez agréable. L'intégration humaine compte autant que la performance technique."
+    ],
+    "lang": "fr",
+    "id": "news-1781181501-fr",
+    "date": "11 juin 2026"
+  },
+  {
     "cat": "البحث عن عمل",
     "titre": "البحث عن عمل عبر الإنترنت: طريقة فعّالة",
     "excerpt": "الإنترنت مليء بالفرص، لكن البحث العشوائي يُضيّع الوقت. إليك منهجية واضحة.",
