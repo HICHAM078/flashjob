@@ -1,5 +1,224 @@
 [
   {
+    "id": "jf-10b4f7e8ce",
+    "titre": "Lawyer",
+    "entreprise": "Queensland Government",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Legal",
+    "remote": true,
+    "competences": [
+      "legal",
+      "telecommuting",
+      "part time",
+      "non tech"
+    ],
+    "resume_neutre": "Lawyer chez Queensland Government, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lawyer-queensland-government-1133195",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-10b4f7e8ce"
+  },
+  {
+    "id": "jf-df19a95b7e",
+    "titre": "Clinical Coding Trainer",
+    "entreprise": "Torbay and South Devon NHS Foundation Trust",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "Clinical Coding Trainer chez Torbay and South Devon NHS Foundation Trust, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-coding-trainer-torbay-and-south-devon-nhs-foundation-trust-1133221",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-df19a95b7e"
+  },
+  {
+    "id": "jf-551cca461e",
+    "titre": "Tutor a E Learning Industria Agroalimentaria",
+    "entreprise": "Grupo Coremsa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "Tutor a E Learning Industria Agroalimentaria chez Grupo Coremsa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tutor-a-e-learning-industria-agroalimentaria-grupo-coremsa-1133213",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-551cca461e"
+  },
+  {
+    "id": "jf-7e7d8525ef",
+    "titre": "Hypercare",
+    "entreprise": "The Citation Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Scheme",
+    "remote": true,
+    "competences": [
+      "scheme",
+      "recruiter",
+      "non tech",
+      "hr",
+      "dev"
+    ],
+    "resume_neutre": "Hypercare chez The Citation Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hypercare-the-citation-group-1133197",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-7e7d8525ef"
+  },
+  {
+    "id": "jf-d227b68215",
+    "titre": "Media Monitoring &amp; Reporting Executive",
+    "entreprise": "AEA Relate",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "data science",
+      "education",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Media Monitoring &amp; Reporting Executive chez AEA Relate, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-media-monitoring-amp-reporting-executive-aea-relate-1133150",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-d227b68215"
+  },
+  {
+    "id": "jf-3189bb7dd3",
+    "titre": "PROJECT SPECIALIST HEALTHCARE",
+    "entreprise": "iMPROve Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "hr",
+      "sys admin",
+      "education",
+      "coordinator"
+    ],
+    "resume_neutre": "PROJECT SPECIALIST HEALTHCARE chez iMPROve Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-specialist-healthcare-improve-health-1133133",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-3189bb7dd3"
+  },
+  {
+    "id": "jf-3f9083552f",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Re-cruit-Lytic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "marketing",
+      "sales",
+      "medical",
+      "sys admin"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Re-cruit-Lytic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-cruit-lytic-1133167",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-3f9083552f"
+  },
+  {
+    "id": "jf-28f4ad7218",
+    "titre": "Card Fraud Specialist",
+    "entreprise": "Nymbus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "accounting",
+      "finance",
+      "video",
+      "cloud"
+    ],
+    "resume_neutre": "Card Fraud Specialist chez Nymbus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-card-fraud-specialist-nymbus-1133144",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-28f4ad7218"
+  },
+  {
+    "id": "jf-1ea0d3d367",
+    "titre": "San Diego",
+    "entreprise": "TECHSICO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "music",
+      "vfx",
+      "education"
+    ],
+    "resume_neutre": "San Diego chez TECHSICO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-san-diego-techsico-1133228",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-1ea0d3d367"
+  },
+  {
+    "id": "jf-2df11814eb",
+    "titre": "Don't See Your Role Apply Here",
+    "entreprise": "Mindbloom",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Don't See Your Role Apply Here chez Mindbloom, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-mindbloom-1133237",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-2df11814eb"
+  },
+  {
     "id": "jf-9e54659c4d",
     "titre": "Inside Sales Team Leader",
     "entreprise": "The CareSide",
@@ -5572,185 +5791,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-07",
     "ref_unique": "ma-04d40ba1c0"
-  },
-  {
-    "id": "ma-b26c8b1236",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=7&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=68&relb=110&brelb=110&bscr=1573.9523&scr=1573.9523",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-b26c8b1236"
-  },
-  {
-    "id": "ma-a0f9148450",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8714050555904566223?ckey=commercial&rgn=938&pos=8&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=620&relb=110&brelb=110&bscr=1566.3978&scr=1566.3978",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-a0f9148450"
-  },
-  {
-    "id": "ma-242ac5ba3d",
-    "titre": "Directeur commercial",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur commercial chez HR SKILLS MAROC, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5748769750657843653?ckey=commercial&rgn=938&pos=9&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=404&relb=100&brelb=100&bscr=1548.1512&scr=1548.1512",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-242ac5ba3d"
-  },
-  {
-    "id": "ma-bc700643e0",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7551585879399867886?ckey=commercial&rgn=938&pos=10&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=644&relb=110&brelb=110&bscr=1518.8591&scr=1518.8591",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-bc700643e0"
-  },
-  {
-    "id": "ma-28fce36adb",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1559919572215071245?ckey=commercial&rgn=938&pos=11&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=140&relb=110&brelb=110&bscr=1506.8201&scr=1506.8201",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-28fce36adb"
-  },
-  {
-    "id": "ma-295f18fe39",
-    "titre": "COMMERCIAUX BTOB (PLUSIEURS PROJETS) Agdal Rabat",
-    "entreprise": "Phone Advisor",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX BTOB (PLUSIEURS PROJETS) Agdal Rabat chez Phone Advisor, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6510563145132413657?ckey=commercial&rgn=938&pos=12&elckey=-5883368747222890671&p=1&aq=-7972289220674849259&cid=20&jobAge=92&relb=110&brelb=110&bscr=1491.717&scr=1491.7170000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-295f18fe39"
-  },
-  {
-    "id": "ma-c028571125",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=1&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=932&relb=100&brelb=100&bscr=2628.9622&scr=2628.9622",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-c028571125"
-  },
-  {
-    "id": "ma-ad4f629f4d",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=2&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=44&relb=110&brelb=110&bscr=2515.7925&scr=2515.7925",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-ad4f629f4d"
-  },
-  {
-    "id": "ma-a7dae8cb43",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=3&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=2348&relb=100&brelb=100&bscr=2501.7285&scr=2501.7285",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-a7dae8cb43"
-  },
-  {
-    "id": "ma-b88f9f8487",
-    "titre": "Technicien Informatique",
-    "entreprise": "CFG Bank",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez CFG Bank, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1588005605708403542?ckey=informatique&rgn=0&pos=4&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=5825&relb=100&brelb=100&bscr=2486.6724&scr=2486.6724",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-b88f9f8487"
   }
 ]
