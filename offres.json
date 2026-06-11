@@ -1,5 +1,389 @@
 [
   {
+    "id": "jf-9e54659c4d",
+    "titre": "Inside Sales Team Leader",
+    "entreprise": "The CareSide",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Inside Sales Team Leader chez The CareSide, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-inside-sales-team-leader-the-careside-1133121",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-9e54659c4d"
+  },
+  {
+    "id": "jf-a39f0a4935",
+    "titre": "Payroll Coordinator",
+    "entreprise": "Honey Bucket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "hr",
+      "sys admin",
+      "education",
+      "coordinator"
+    ],
+    "resume_neutre": "Payroll Coordinator chez Honey Bucket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-payroll-coordinator-honey-bucket-1133128",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-a39f0a4935"
+  },
+  {
+    "id": "jf-04e744e820",
+    "titre": "Don't See A Perfect Role Apply Anyway",
+    "entreprise": "Pogo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "hr",
+      "sys admin",
+      "education",
+      "coordinator"
+    ],
+    "resume_neutre": "Don't See A Perfect Role Apply Anyway chez Pogo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-pogo-1133130",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-04e744e820"
+  },
+  {
+    "id": "jf-6ece7583e2",
+    "titre": "Groundman",
+    "entreprise": "City of Ruston",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Groundman chez City of Ruston, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-groundman-city-of-ruston-1133153",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-6ece7583e2"
+  },
+  {
+    "id": "jf-1f27b5acbd",
+    "titre": "Logistics Coordinator",
+    "entreprise": "Loadsmart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "jira",
+      "hr",
+      "customer support",
+      "finance"
+    ],
+    "resume_neutre": "Logistics Coordinator chez Loadsmart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-loadsmart-1133117",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-1f27b5acbd"
+  },
+  {
+    "id": "jf-c76a84960f",
+    "titre": "Cyber Operations Management System Demonstration MON 22 Jun",
+    "entreprise": "EMW, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "jira",
+      "infosec",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Cyber Operations Management System Demonstration MON 22 Jun chez EMW, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cyber-operations-management-system-demonstration-mon-22-jun-emw-inc-1133115",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-c76a84960f"
+  },
+  {
+    "id": "jf-f56c67bfdf",
+    "titre": "IT Asset Management Program Manager",
+    "entreprise": "Gritter Francona",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "consulting",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "IT Asset Management Program Manager chez Gritter Francona, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-it-asset-management-program-manager-gritter-francona-1133114",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-f56c67bfdf"
+  },
+  {
+    "id": "jf-61842698e9",
+    "titre": "Events Coordinator",
+    "entreprise": "BusPlanner",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "customer support",
+      "dev",
+      "travel",
+      "education"
+    ],
+    "resume_neutre": "Events Coordinator chez BusPlanner, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-events-coordinator-busplanner-1133113",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-61842698e9"
+  },
+  {
+    "id": "jf-5b4eeff4a0",
+    "titre": "Senior Business Analyst",
+    "entreprise": "Upstream Rehabilitation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Senior Business Analyst chez Upstream Rehabilitation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-business-analyst-upstream-rehabilitation-1133112",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-5b4eeff4a0"
+  },
+  {
+    "id": "jf-ee7d70f5d7",
+    "titre": "Scheduling Coordinator Entry Level",
+    "entreprise": "Travel Planning Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "accounting",
+      "finance",
+      "video",
+      "cloud"
+    ],
+    "resume_neutre": "Scheduling Coordinator Entry Level chez Travel Planning Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-travel-planning-careers-1133146",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-ee7d70f5d7"
+  },
+  {
+    "id": "jf-9eec7a8fb8",
+    "titre": "Assistente de Cadastro InBetta TELE TRABALHO",
+    "entreprise": "InBetta",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Assistente de Cadastro InBetta TELE TRABALHO chez InBetta, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-de-cadastro-inbetta-tele-trabalho-inbetta-1133108",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-9eec7a8fb8"
+  },
+  {
+    "id": "jf-05eb724f41",
+    "titre": "Support Analyst",
+    "entreprise": "Netrix Global",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "marketing",
+      "sales",
+      "medical",
+      "sys admin"
+    ],
+    "resume_neutre": "Support Analyst chez Netrix Global, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-support-analyst-netrix-global-1133172",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-05eb724f41"
+  },
+  {
+    "id": "jf-e027574c6b",
+    "titre": "Applied AI Analyst",
+    "entreprise": "Nymbus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Applied AI Analyst chez Nymbus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-applied-ai-analyst-nymbus-1133103",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-e027574c6b"
+  },
+  {
+    "id": "jf-749edb018e",
+    "titre": "SSE",
+    "entreprise": "Dutch Technology Frontiers BV",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "customer support",
+      "travel",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "SSE chez Dutch Technology Frontiers BV, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sse-dutch-technology-frontiers-bv-1133125",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-749edb018e"
+  },
+  {
+    "id": "jf-65cbad5f93",
+    "titre": "Caretaker",
+    "entreprise": "Mears Group PLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "customer support",
+      "travel",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Caretaker chez Mears Group PLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-caretaker-mears-group-plc-1133126",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-65cbad5f93"
+  },
+  {
+    "id": "jf-ebf1c6380e",
+    "titre": "IMAGING CALL CENTER SCHEDULER",
+    "entreprise": "Home Health Focus AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "IMAGING CALL CENTER SCHEDULER chez Home Health Focus AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-imaging-call-center-scheduler-home-health-focus-ai-1133102",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-ebf1c6380e"
+  },
+  {
+    "id": "jf-6b8c39e8d3",
+    "titre": "Human Resources Coordinator",
+    "entreprise": "Sundayy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Human Resources Coordinator chez Sundayy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-sundayy-1133100",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-6b8c39e8d3"
+  },
+  {
+    "id": "jf-f578f93813",
+    "titre": "Public Health Communications Professional",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Public Health Communications Professional chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-health-communications-professional-curasenseai-1133099",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-11",
+    "ref_unique": "jf-f578f93813"
+  },
+  {
     "id": "jf-971fefe719",
     "titre": "Clinical Coordinator",
     "entreprise": "Enable Dental",
@@ -5368,358 +5752,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-07",
     "ref_unique": "ma-b88f9f8487"
-  },
-  {
-    "id": "ma-12a0786fd8",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=6185&relb=100&brelb=100&bscr=2235.2625&scr=2235.2625",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-12a0786fd8"
-  },
-  {
-    "id": "ma-f0969cf1ea",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=6185&relb=100&brelb=100&bscr=2214.905&scr=2214.905",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-f0969cf1ea"
-  },
-  {
-    "id": "ma-7a13d63854",
-    "titre": "Charge It ( SystÈme Et Support Informatique )",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Charge It ( SystÈme Et Support Informatique ) chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/3371045974041765204?ckey=informatique&rgn=0&pos=7&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=1148&relb=100&brelb=100&bscr=2202.663&scr=2202.663",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-7a13d63854"
-  },
-  {
-    "id": "ma-dd58f78c5a",
-    "titre": "Télévendeurs en télétravail BtoB - Informatique - Marché canadien francophone",
-    "entreprise": "Allo Partner",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs en télétravail BtoB - Informatique - Marché canadien francophone chez Allo Partner, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6612526227689073619?ckey=informatique&rgn=0&pos=8&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=668&relb=110&brelb=110&bscr=2169.9683&scr=2169.9683",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-dd58f78c5a"
-  },
-  {
-    "id": "ma-9ede46c84e",
-    "titre": "Profil Support Informatique / Helpdesk (H/F)",
-    "entreprise": "Smile Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Profil Support Informatique / Helpdesk (H/F) chez Smile Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/906422177711326141?ckey=informatique&rgn=0&pos=9&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=3235&relb=100&brelb=100&bscr=2120.842&scr=2120.842",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-9ede46c84e"
-  },
-  {
-    "id": "ma-36e8eb4687",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=10&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=6185&relb=100&brelb=100&bscr=1946.9081&scr=1946.9080999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-36e8eb4687"
-  },
-  {
-    "id": "ma-bc887f01c2",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=informatique&rgn=0&pos=11&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=611&relb=140&brelb=100&bscr=235.8983&scr=330.25762000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-bc887f01c2"
-  },
-  {
-    "id": "ma-4b6a00d693",
-    "titre": "Télévendeurs en FAI - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs en FAI - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4484571805447728255?ckey=informatique&rgn=0&pos=12&elckey=6069110391559293745&p=1&aq=-7033433964264932589&cid=20&jobAge=44&relb=110&brelb=110&bscr=290.76404&scr=290.76404",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-07",
-    "ref_unique": "ma-4b6a00d693"
-  },
-  {
-    "id": "jf-15347ae6ff",
-    "titre": "AtenciÃ³n al cliente",
-    "entreprise": "Singularu",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Salesforce",
-    "remote": true,
-    "competences": [
-      "salesforce",
-      "ecommerce"
-    ],
-    "resume_neutre": "AtenciÃ³n al cliente chez Singularu, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-atencion-al-cliente-singularu-1132966",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-15347ae6ff"
-  },
-  {
-    "id": "jf-27d15794d8",
-    "titre": "Social Media Content Creator",
-    "entreprise": "FuseGlobal",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "exec",
-      "design",
-      "hr",
-      "consulting"
-    ],
-    "resume_neutre": "Social Media Content Creator chez FuseGlobal, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-fuseglobal-1132948",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-27d15794d8"
-  },
-  {
-    "id": "jf-06c3243a6f",
-    "titre": "Behavioral Health Care Coordinator Scheduler",
-    "entreprise": "Ennoble Care",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "exec",
-      "design",
-      "hr",
-      "consulting"
-    ],
-    "resume_neutre": "Behavioral Health Care Coordinator Scheduler chez Ennoble Care, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-behavioral-health-care-coordinator-scheduler-ennoble-care-1132947",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-06c3243a6f"
-  },
-  {
-    "id": "jf-bf89773eb4",
-    "titre": "Chief Financial Officer",
-    "entreprise": "ThisWay Global",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Chief Financial Officer chez ThisWay Global, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-thisway-global-1132945",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-bf89773eb4"
-  },
-  {
-    "id": "jf-e7b4f81c4c",
-    "titre": "Operations staff",
-    "entreprise": "Blue Dart",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Ops",
-    "remote": true,
-    "competences": [
-      "ops"
-    ],
-    "resume_neutre": "Operations staff chez Blue Dart, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1132949",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-e7b4f81c4c"
-  },
-  {
-    "id": "jf-0fd489c301",
-    "titre": "Chief Operating Officer",
-    "entreprise": "Rose, Klein &amp; Marias",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Salesforce",
-    "remote": true,
-    "competences": [
-      "salesforce",
-      "hr",
-      "sys admin",
-      "teaching",
-      "education"
-    ],
-    "resume_neutre": "Chief Operating Officer chez Rose, Klein &amp; Marias, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-rose-klein-amp-marias-1132941",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-0fd489c301"
-  },
-  {
-    "id": "jf-a25f3e89c3",
-    "titre": "Donât See a Perfect Role Apply Anyway",
-    "entreprise": "Reducto",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "finance",
-      "content writing",
-      "medical",
-      "engineer"
-    ],
-    "resume_neutre": "Donât See a Perfect Role Apply Anyway chez Reducto, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-reducto-1132975",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-a25f3e89c3"
-  },
-  {
-    "id": "jf-28c7ff52bf",
-    "titre": "FT PT Nanny",
-    "entreprise": "Jovie",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "finance",
-      "content writing",
-      "medical",
-      "engineer"
-    ],
-    "resume_neutre": "FT PT Nanny chez Jovie, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ft-pt-nanny-jovie-1132976",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-28c7ff52bf"
-  },
-  {
-    "id": "jf-6fbcc40242",
-    "titre": "Sourcing Specialist",
-    "entreprise": "Theoria Medical",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "recruiter",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "Sourcing Specialist chez Theoria Medical, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sourcing-specialist-theoria-medical-1132920",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-6fbcc40242"
-  },
-  {
-    "id": "jf-8d3e646308",
-    "titre": "Head of Banking Operations",
-    "entreprise": "DoorDash USA",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "customer support",
-      "finance",
-      "ruby",
-      "exec"
-    ],
-    "resume_neutre": "Head of Banking Operations chez DoorDash USA, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-banking-operations-doordash-usa-1132919",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-07",
-    "ref_unique": "jf-8d3e646308"
   }
 ]
