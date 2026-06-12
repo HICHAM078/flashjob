@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-a393638e6a",
+    "titre": "Triage Paralegal",
+    "entreprise": "General Legal (YC26)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Triage Paralegal chez General Legal (YC26), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-triage-paralegal-general-legal-yc26-1133241",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-a393638e6a"
+  },
+  {
+    "id": "jf-9f024dc503",
+    "titre": "Virtual Data Entry",
+    "entreprise": "Sundayy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Virtual Data Entry chez Sundayy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-sundayy-1133240",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-9f024dc503"
+  },
+  {
+    "id": "jf-6acc7da1a9",
+    "titre": "Learning Project Manager",
+    "entreprise": "Learnlight",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "scheme",
+      "microsoft",
+      "exec",
+      "excel"
+    ],
+    "resume_neutre": "Learning Project Manager chez Learnlight, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-learning-project-manager-learnlight-1133233",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-6acc7da1a9"
+  },
+  {
+    "id": "jf-bb7a9d861c",
+    "titre": "E&C Estimator",
+    "entreprise": "Shermco Industries",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "finance",
+      "exec",
+      "travel",
+      "c"
+    ],
+    "resume_neutre": "E&C Estimator chez Shermco Industries, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ec-estimator-shermco-industries-1133230",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-bb7a9d861c"
+  },
+  {
+    "id": "jf-7513a81549",
+    "titre": "Administrative Assistant",
+    "entreprise": "Somewhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time",
+      "hr",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Administrative Assistant chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1133226",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-7513a81549"
+  },
+  {
+    "id": "jf-d36bf8c0bd",
+    "titre": "Photographer",
+    "entreprise": "University of Florida",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "technical",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Photographer chez University of Florida, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-photographer-university-of-florida-1133334",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-d36bf8c0bd"
+  },
+  {
     "id": "jf-cf650921b7",
     "titre": "Medical Virtual Assistant",
     "entreprise": "Virtual Rockstar Careers",
@@ -5758,113 +5890,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-08",
     "ref_unique": "ma-2cd26cf867"
-  },
-  {
-    "id": "ma-92fbc3c780",
-    "titre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4669127627816070580?ckey=emploi&rgn=0&pos=5&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=447&relb=110&brelb=110&bscr=2312.923&scr=2312.923",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-92fbc3c780"
-  },
-  {
-    "id": "ma-1b8c94ed07",
-    "titre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7031432135780248972?ckey=emploi&rgn=0&pos=6&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=255&relb=110&brelb=110&bscr=2266.9155&scr=2266.9155",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-1b8c94ed07"
-  },
-  {
-    "id": "ma-664d8c12cf",
-    "titre": "Offre d’emploi pour ouvriers",
-    "entreprise": "Oriental group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour ouvriers chez Oriental group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1831999781843420333?ckey=emploi&rgn=0&pos=7&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=879&relb=100&brelb=100&bscr=2127.2239&scr=2127.2239",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-664d8c12cf"
-  },
-  {
-    "id": "ma-44e495df60",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8529914112207810741?ckey=emploi&rgn=0&pos=8&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=591&relb=110&brelb=110&bscr=2122.2166&scr=2122.2166",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-44e495df60"
-  },
-  {
-    "id": "ma-311b77f0ee",
-    "titre": "Offre d’emploi pour le poste d’ouvriers (h/f)",
-    "entreprise": "BioProGreen",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour le poste d’ouvriers (h/f) chez BioProGreen, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3948229809208149642?ckey=emploi&rgn=0&pos=9&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=783&relb=100&brelb=100&bscr=2070.362&scr=2070.362",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-311b77f0ee"
-  },
-  {
-    "id": "ma-a1e0f0c2c9",
-    "titre": "Offre d’emploi pour le poste d’ouvrier (h/f)",
-    "entreprise": "BioProGreen",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour le poste d’ouvrier (h/f) chez BioProGreen, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5907847846805593663?ckey=emploi&rgn=0&pos=10&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=783&relb=100&brelb=100&bscr=2070.362&scr=2070.362",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-a1e0f0c2c9"
   }
 ]
