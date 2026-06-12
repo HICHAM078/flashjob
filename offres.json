@@ -1,5 +1,324 @@
 [
   {
+    "id": "jf-cf650921b7",
+    "titre": "Medical Virtual Assistant",
+    "entreprise": "Virtual Rockstar Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time"
+    ],
+    "resume_neutre": "Medical Virtual Assistant chez Virtual Rockstar Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-virtual-assistant-virtual-rockstar-careers-1133224",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-cf650921b7"
+  },
+  {
+    "id": "jf-5015de5a10",
+    "titre": "COURIER",
+    "entreprise": "DHL Express",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "COURIER chez DHL Express, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-courier-dhl-express-1133229",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-5015de5a10"
+  },
+  {
+    "id": "jf-c0d6ce9173",
+    "titre": "Casual Customer Service Executive",
+    "entreprise": "Arsenal Football Club",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "scheme",
+      "microsoft",
+      "exec",
+      "excel"
+    ],
+    "resume_neutre": "Casual Customer Service Executive chez Arsenal Football Club, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-casual-customer-service-executive-arsenal-football-club-1133232",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-c0d6ce9173"
+  },
+  {
+    "id": "jf-0aa9544d0d",
+    "titre": "Asistente Ejecutivo a y de Operaciones",
+    "entreprise": "our common home",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "scheme",
+      "microsoft",
+      "exec",
+      "excel"
+    ],
+    "resume_neutre": "Asistente Ejecutivo a y de Operaciones chez our common home, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asistente-ejecutivo-a-y-de-operaciones-our-common-home-1133234",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-0aa9544d0d"
+  },
+  {
+    "id": "jf-d4c44e1b3d",
+    "titre": "Clinical Research Professional",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "Clinical Research Professional chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-research-professional-curasenseai-1133219",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-d4c44e1b3d"
+  },
+  {
+    "id": "jf-761fcd3f52",
+    "titre": "English speaking Support Associate",
+    "entreprise": "Wolt",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "English speaking Support Associate chez Wolt, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-english-speaking-support-associate-wolt-1133210",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-761fcd3f52"
+  },
+  {
+    "id": "jf-03d6263b82",
+    "titre": "Backend Developer",
+    "entreprise": "360Dialog",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "Backend Developer chez 360Dialog, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133201",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-03d6263b82"
+  },
+  {
+    "id": "jf-88d419d63e",
+    "titre": "Service Desk Analyst 11am 8pm",
+    "entreprise": "Slipstream Life Sciences",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "ios",
+      "sys admin",
+      "consulting",
+      "technical"
+    ],
+    "resume_neutre": "Service Desk Analyst 11am 8pm chez Slipstream Life Sciences, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-service-desk-analyst-11am-8pm-slipstream-life-sciences-1133289",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-88d419d63e"
+  },
+  {
+    "id": "jf-6f4723473e",
+    "titre": "Social Media Coordinator",
+    "entreprise": "House of Ruh",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Social Media Coordinator chez House of Ruh, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-house-of-ruh-1133236",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-6f4723473e"
+  },
+  {
+    "id": "jf-75c920510b",
+    "titre": "Associate Brand Manager",
+    "entreprise": "FuseGlobal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "social media",
+      "part time"
+    ],
+    "resume_neutre": "Associate Brand Manager chez FuseGlobal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-brand-manager-fuseglobal-1133193",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-75c920510b"
+  },
+  {
+    "id": "jf-c6a0855113",
+    "titre": "Social Media Manager",
+    "entreprise": "Be Balanced Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "social media",
+      "part time"
+    ],
+    "resume_neutre": "Social Media Manager chez Be Balanced Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-be-balanced-co-1133191",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-c6a0855113"
+  },
+  {
+    "id": "jf-2e623e6758",
+    "titre": "Contact Center Representative IHA Scheduling Team",
+    "entreprise": "Advantmed",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Contact Center Representative IHA Scheduling Team chez Advantmed, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-contact-center-representative-iha-scheduling-team-advantmed-1133190",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-2e623e6758"
+  },
+  {
+    "id": "jf-37b7b92dcb",
+    "titre": "HR Assistant",
+    "entreprise": "Randstad USA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant"
+    ],
+    "resume_neutre": "HR Assistant chez Randstad USA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-assistant-randstad-usa-1133189",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-37b7b92dcb"
+  },
+  {
+    "id": "jf-ae5853481e",
+    "titre": "Learning And Development Specialist",
+    "entreprise": "Dagen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "social media",
+      "part time"
+    ],
+    "resume_neutre": "Learning And Development Specialist chez Dagen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dagen-1133192",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-ae5853481e"
+  },
+  {
+    "id": "jf-2a837606af",
+    "titre": "CANDIDATURA SPONTANEA",
+    "entreprise": "Irion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "teaching",
+      "customer support",
+      "data science",
+      "content writing"
+    ],
+    "resume_neutre": "CANDIDATURA SPONTANEA chez Irion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-candidatura-spontanea-irion-1133202",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-2a837606af"
+  },
+  {
     "id": "jf-e0a8dd1f9c",
     "titre": "Supply &amp; Logistics Coordinator",
     "entreprise": "Nabu Casa",
@@ -5547,275 +5866,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-08",
     "ref_unique": "ma-a1e0f0c2c9"
-  },
-  {
-    "id": "ma-332abc3fb5",
-    "titre": "Infocea Assurances Offre d’emploi - conseiller(ère) en mutuelle santé (expérience requise)",
-    "entreprise": "Infocea Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Infocea Assurances Offre d’emploi - conseiller(ère) en mutuelle santé (expérience requise) chez Infocea Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9098026468554385854?ckey=emploi&rgn=0&pos=11&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=255&relb=110&brelb=110&bscr=1996.7107&scr=1996.7106999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-332abc3fb5"
-  },
-  {
-    "id": "ma-38f0822c28",
-    "titre": "Offre d’emploi à Marrakech : Rejoignez une équipe jeune & dynamique - Débutants acceptés !",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi à Marrakech : Rejoignez une équipe jeune & dynamique - Débutants acceptés ! chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2831681223477799117?ckey=emploi&rgn=0&pos=12&elckey=-5259511818136091415&p=1&aq=3231467827870295209&cid=20&jobAge=711&relb=110&brelb=110&bscr=1996.2352&scr=1996.2352",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-38f0822c28"
-  },
-  {
-    "id": "ma-8d6a9685cf",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=comptable&rgn=946&pos=1&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=631&relb=140&brelb=100&bscr=2261.7598&scr=3166.4637199999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-8d6a9685cf"
-  },
-  {
-    "id": "ma-6fbf43367c",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6817930666664253435?ckey=comptable&rgn=946&pos=2&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=159&relb=100&brelb=100&bscr=2499.213&scr=2499.213",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-6fbf43367c"
-  },
-  {
-    "id": "ma-25b1cabb95",
-    "titre": "Offre de Stage - Finance / Comptabilité - Bouskoura",
-    "entreprise": "SEPALUMIC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre de Stage - Finance / Comptabilité - Bouskoura chez SEPALUMIC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5007694933973666763?ckey=comptable&rgn=946&pos=3&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=159&relb=100&brelb=100&bscr=2337.7878&scr=2337.7878",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-25b1cabb95"
-  },
-  {
-    "id": "ma-c9166a5496",
-    "titre": "Chef Comptable",
-    "entreprise": "SOFITEL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef Comptable chez SOFITEL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6113476391465439851?ckey=comptable&rgn=946&pos=4&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=807&relb=100&brelb=100&bscr=2302.4539&scr=2302.4539",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-c9166a5496"
-  },
-  {
-    "id": "ma-068b74e2b2",
-    "titre": "Comptable Maritime",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Maritime chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/-2446097948669397970?ckey=comptable&rgn=946&pos=5&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=519&relb=100&brelb=100&bscr=2301.1492&scr=2301.1492",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-068b74e2b2"
-  },
-  {
-    "id": "ma-9edeb02205",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "N.C.",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez N.C., a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8341389372544889153?ckey=comptable&rgn=946&pos=6&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=159&relb=100&brelb=100&bscr=2271.058&scr=2271.058",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-9edeb02205"
-  },
-  {
-    "id": "ma-31cbc776fe",
-    "titre": "Consultant comptable Junior H/F",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant comptable Junior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9073172208614485411?ckey=comptable&rgn=946&pos=7&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=159&relb=100&brelb=100&bscr=2237.2417&scr=2237.2417",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-31cbc776fe"
-  },
-  {
-    "id": "ma-72ab48ccf2",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=8&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=183&relb=100&brelb=100&bscr=2216.8347&scr=2216.8347",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-72ab48ccf2"
-  },
-  {
-    "id": "ma-4e8a44add5",
-    "titre": "Comptable Fournisseur - Casablanca",
-    "entreprise": "TECTRA RECRUTEMENT MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Fournisseur - Casablanca chez TECTRA RECRUTEMENT MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3485047135036601680?ckey=comptable&rgn=946&pos=9&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=591&relb=100&brelb=100&bscr=2195.56&scr=2195.56",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-4e8a44add5"
-  },
-  {
-    "id": "ma-36e86c8cb5",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1210109058440761503?ckey=comptable&rgn=946&pos=10&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=303&relb=100&brelb=100&bscr=2190.666&scr=2190.666",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-36e86c8cb5"
-  },
-  {
-    "id": "ma-a8cbe7ee3e",
-    "titre": "Comptable H/F - Mohammedia",
-    "entreprise": "TECTRA",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable H/F - Mohammedia chez TECTRA, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8490073257420500494?ckey=comptable&rgn=946&pos=11&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=423&relb=100&brelb=100&bscr=2169.8882&scr=2169.8882",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-a8cbe7ee3e"
-  },
-  {
-    "id": "ma-8808858267",
-    "titre": "Comptable Senior H/F",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Senior H/F a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1721254853451364649?ckey=comptable&rgn=946&pos=12&elckey=-1379297778242878036&p=1&aq=-6051474870404914082&cid=20&jobAge=591&relb=100&brelb=100&bscr=2167.8958&scr=2167.8958",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-8808858267"
-  },
-  {
-    "id": "ma-cd9f5983a6",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=1&elckey=-5050241421552458853&p=1&aq=-1426821095364777962&cid=20&jobAge=63&relb=110&brelb=110&bscr=1832.3129&scr=1832.3129",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-08",
-    "ref_unique": "ma-cd9f5983a6"
   }
 ]
