@@ -1,5 +1,130 @@
 [
   {
+    "id": "jf-c0dd4f44c3",
+    "titre": "Medical Editor",
+    "entreprise": "Synchrony Group, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "ios",
+      "sys admin",
+      "consulting",
+      "technical"
+    ],
+    "resume_neutre": "Medical Editor chez Synchrony Group, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-c0dd4f44c3"
+  },
+  {
+    "id": "jf-4e50ef2cdd",
+    "titre": "Data Scientist",
+    "entreprise": "Why Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "jira",
+      "designer",
+      "speech",
+      "exec"
+    ],
+    "resume_neutre": "Data Scientist chez Why Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-4e50ef2cdd"
+  },
+  {
+    "id": "jf-bfa5f14adf",
+    "titre": "Auxiliar Administrativo Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133267",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-bfa5f14adf"
+  },
+  {
+    "id": "jf-9838fade0a",
+    "titre": "Assistente Administrativo Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Assistente Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133270",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-9838fade0a"
+  },
+  {
+    "id": "jf-fedf4ed1f9",
+    "titre": "Life Coach for Students Online Role",
+    "entreprise": "FindTutors",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "backend",
+      "digital nomad",
+      "embedded",
+      "sys admin"
+    ],
+    "resume_neutre": "Life Coach for Students Online Role chez FindTutors, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-life-coach-for-students-online-role-findtutors-1133244",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-fedf4ed1f9"
+  },
+  {
+    "id": "jf-7309425aaa",
+    "titre": "Junior Web Designer",
+    "entreprise": "INFUSE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web Dev",
+    "remote": true,
+    "competences": [
+      "web dev",
+      "design",
+      "hr",
+      "infosec",
+      "designer"
+    ],
+    "resume_neutre": "Junior Web Designer chez INFUSE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-infuse-1133315",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-12",
+    "ref_unique": "jf-7309425aaa"
+  },
+  {
     "id": "ma-d0e4206685",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5739,113 +5864,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-09",
     "ref_unique": "ma-67ad634784"
-  },
-  {
-    "id": "ma-d8579bac4a",
-    "titre": "Offre de Stage - Finance / Comptabilité - Bouskoura",
-    "entreprise": "SEPALUMIC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre de Stage - Finance / Comptabilité - Bouskoura chez SEPALUMIC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5007694933973666763?ckey=comptable&rgn=946&pos=4&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=182&relb=100&brelb=100&bscr=2283.2493&scr=2283.2493",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-d8579bac4a"
-  },
-  {
-    "id": "ma-60526b1c18",
-    "titre": "Comptable Maritime",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Maritime chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/-2446097948669397970?ckey=comptable&rgn=946&pos=5&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=542&relb=100&brelb=100&bscr=2281.3098&scr=2281.3098",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-60526b1c18"
-  },
-  {
-    "id": "ma-ddb1b2e396",
-    "titre": "Consultant comptable Junior H/F",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant comptable Junior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9073172208614485411?ckey=comptable&rgn=946&pos=6&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=182&relb=100&brelb=100&bscr=2265.9194&scr=2265.9194",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-ddb1b2e396"
-  },
-  {
-    "id": "ma-045c799430",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "N.C.",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez N.C., a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8341389372544889153?ckey=comptable&rgn=946&pos=7&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=182&relb=100&brelb=100&bscr=2257.8423&scr=2257.8423",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-045c799430"
-  },
-  {
-    "id": "ma-bcc598e09a",
-    "titre": "Chef Comptable",
-    "entreprise": "SOFITEL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef Comptable chez SOFITEL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6113476391465439851?ckey=comptable&rgn=946&pos=8&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=830&relb=100&brelb=100&bscr=2240.264&scr=2240.264",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-bcc598e09a"
-  },
-  {
-    "id": "ma-d96b8de133",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1210109058440761503?ckey=comptable&rgn=946&pos=9&elckey=7186990299130457682&p=1&aq=6208491304147631560&cid=20&jobAge=326&relb=100&brelb=100&bscr=2172.0637&scr=2172.0637",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-09",
-    "ref_unique": "ma-d96b8de133"
   }
 ]
