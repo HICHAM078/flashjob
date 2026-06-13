@@ -1,5 +1,176 @@
 [
   {
+    "id": "jf-4bb3cf89d3",
+    "titre": "Copywriting Lead Freelance",
+    "entreprise": "eStoreLabs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "admin",
+      "content writing",
+      "senior",
+      "legal"
+    ],
+    "resume_neutre": "Copywriting Lead Freelance chez eStoreLabs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-copywriting-lead-freelance-estorelabs-1133354",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-4bb3cf89d3"
+  },
+  {
+    "id": "jf-1fdd0e6af2",
+    "titre": "Skilled Handyman",
+    "entreprise": "Red Deer Polytechnic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical",
+      "full time",
+      "education",
+      "non tech",
+      "customer support"
+    ],
+    "resume_neutre": "Skilled Handyman chez Red Deer Polytechnic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-skilled-handyman-red-deer-polytechnic-1133389",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-1fdd0e6af2"
+  },
+  {
+    "id": "jf-a7ebd94e7b",
+    "titre": "Amo",
+    "entreprise": "Vashi Integrated Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "Amo chez Vashi Integrated Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-amo-vashi-integrated-solutions-1133337",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-a7ebd94e7b"
+  },
+  {
+    "id": "jf-67e6b107eb",
+    "titre": "ð Hiring BlueYonder Professionals PAN INDIA",
+    "entreprise": "Covetus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time",
+      "sys admin",
+      "technical",
+      "dev",
+      "exec"
+    ],
+    "resume_neutre": "ð Hiring BlueYonder Professionals PAN INDIA chez Covetus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hiring-blueyonder-professionals-pan-india-covetus-1133338",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-67e6b107eb"
+  },
+  {
+    "id": "jf-c3e3b1e5f9",
+    "titre": "Localisation Linguist",
+    "entreprise": "DNEG",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Localisation Linguist chez DNEG, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-localisation-linguist-dneg-1133336",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-c3e3b1e5f9"
+  },
+  {
+    "id": "jf-69f2ede6fc",
+    "titre": "Brand Strategist",
+    "entreprise": "Digital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Brand Strategist chez Digital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-strategist-digital-1133380",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-69f2ede6fc"
+  },
+  {
+    "id": "jf-0f6d43a91e",
+    "titre": "Freelance Social Media Strategist",
+    "entreprise": "Digital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Freelance Social Media Strategist chez Digital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-strategist-digital-1133378",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-0f6d43a91e"
+  },
+  {
+    "id": "jf-7211f47ce2",
+    "titre": "Sandwich artist",
+    "entreprise": "Subway",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical",
+      "full time",
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Sandwich artist chez Subway, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1133388",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-7211f47ce2"
+  },
+  {
     "id": "ma-6665aef28e",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5739,149 +5910,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-10",
     "ref_unique": "ma-4b3c0536bc"
-  },
-  {
-    "id": "ma-c7f56723af",
-    "titre": "Offre d’emploi - Conseiller(ère) en Assurance Emprunteur (H/F)",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Conseiller(ère) en Assurance Emprunteur (H/F) chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/524891992273910275?ckey=emploi&rgn=0&pos=3&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=686&relb=110&brelb=110&bscr=2459.5454&scr=2459.5454",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-c7f56723af"
-  },
-  {
-    "id": "ma-bc3d57d048",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=4&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=62&relb=110&brelb=110&bscr=2448.5498&scr=2448.5498000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-bc3d57d048"
-  },
-  {
-    "id": "ma-60f97a2146",
-    "titre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar",
-    "entreprise": "MARJANE MARKET",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar chez MARJANE MARKET, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8182032409462160561?ckey=emploi&rgn=0&pos=5&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=86&relb=100&brelb=100&bscr=2398.2166&scr=2398.2166",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-60f97a2146"
-  },
-  {
-    "id": "ma-4a031690ad",
-    "titre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7031432135780248972?ckey=emploi&rgn=0&pos=6&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=302&relb=110&brelb=110&bscr=2344.757&scr=2344.757",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-4a031690ad"
-  },
-  {
-    "id": "ma-895a935761",
-    "titre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS)",
-    "entreprise": "VGROUP",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS) chez VGROUP, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5303807427430823738?ckey=emploi&rgn=0&pos=7&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=38&relb=110&brelb=110&bscr=2311.4268&scr=2311.4268",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-895a935761"
-  },
-  {
-    "id": "ma-e3ead429d6",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=8&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=38&relb=110&brelb=110&bscr=2285.6418&scr=2285.6418",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-e3ead429d6"
-  },
-  {
-    "id": "ma-bd5c6f8a56",
-    "titre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4669127627816070580?ckey=emploi&rgn=0&pos=9&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=494&relb=110&brelb=110&bscr=2160.4485&scr=2160.4485",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-bd5c6f8a56"
-  },
-  {
-    "id": "ma-d34b534304",
-    "titre": "Votre premier emploi en centre d’appel - pas d’expérience requise",
-    "entreprise": "Access Teleservices",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Votre premier emploi en centre d’appel - pas d’expérience requise chez Access Teleservices, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3753358587244975889?ckey=emploi&rgn=0&pos=10&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=254&relb=110&brelb=110&bscr=2099.8406&scr=2099.8406",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-d34b534304"
   }
 ]
