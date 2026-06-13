@@ -1,5 +1,253 @@
 [
   {
+    "id": "jf-88efd24083",
+    "titre": "Drug Discovery Analyst",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "part time",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Drug Discovery Analyst chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-drug-discovery-analyst-curasenseai-1133333",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-88efd24083"
+  },
+  {
+    "id": "jf-83cab46963",
+    "titre": "Administrative Assistant",
+    "entreprise": "The Asher House",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "part time"
+    ],
+    "resume_neutre": "Administrative Assistant chez The Asher House, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-the-asher-house-1133331",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-83cab46963"
+  },
+  {
+    "id": "jf-e3e358ddd8",
+    "titre": "Trustee",
+    "entreprise": "Pickle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "marketing",
+      "accounting",
+      "finance"
+    ],
+    "resume_neutre": "Trustee chez Pickle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trustee-pickle-1133330",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-e3e358ddd8"
+  },
+  {
+    "id": "jf-d197e3d8e9",
+    "titre": "Experienced English Speaking Freelance Recruiter",
+    "entreprise": "Mercier Consultancy Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "recruiter",
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "Experienced English Speaking Freelance Recruiter chez Mercier Consultancy Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-experienced-english-speaking-freelance-recruiter-mercier-consultancy-group-1133329",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-d197e3d8e9"
+  },
+  {
+    "id": "jf-000d80425d",
+    "titre": "Healthcare Admin Assistant AI Projects",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "dev",
+      "digital nomad",
+      "analyst",
+      "education"
+    ],
+    "resume_neutre": "Healthcare Admin Assistant AI Projects chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-healthcare-admin-assistant-ai-projects-curasenseai-1133328",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-000d80425d"
+  },
+  {
+    "id": "jf-40a82cfb48",
+    "titre": "Cultural Research Specialist",
+    "entreprise": "STEM Sync AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "dev",
+      "digital nomad",
+      "analyst",
+      "education"
+    ],
+    "resume_neutre": "Cultural Research Specialist chez STEM Sync AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cultural-research-specialist-stem-sync-ai-1133327",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-40a82cfb48"
+  },
+  {
+    "id": "jf-f64b38916f",
+    "titre": "Research Analyst Education",
+    "entreprise": "AccessLex Institute",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "dev",
+      "digital nomad",
+      "analyst",
+      "education"
+    ],
+    "resume_neutre": "Research Analyst Education chez AccessLex Institute, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-research-analyst-education-accesslex-institute-1133326",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-f64b38916f"
+  },
+  {
+    "id": "jf-af018a6efe",
+    "titre": "Human Resources Generalist",
+    "entreprise": "Advanced RevCycle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Human Resources Generalist chez Advanced RevCycle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-advanced-revcycle-1133325",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-af018a6efe"
+  },
+  {
+    "id": "jf-6610075a09",
+    "titre": "Head of Customer Experience",
+    "entreprise": "Stars + Honey",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "part time",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Head of Customer Experience chez Stars + Honey, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-customer-experience-stars-honey-1133332",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-6610075a09"
+  },
+  {
+    "id": "jf-17ebb988a4",
+    "titre": "HR Generalist",
+    "entreprise": "RainFocus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "HR Generalist chez RainFocus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-generalist-rainfocus-1133324",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-17ebb988a4"
+  },
+  {
+    "id": "jf-2597753d8d",
+    "titre": "Project Assistant",
+    "entreprise": "Exactus Energy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant"
+    ],
+    "resume_neutre": "Project Assistant chez Exactus Energy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-assistant-exactus-energy-1133322",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-2597753d8d"
+  },
+  {
+    "id": "jf-ee32f97b66",
+    "titre": "VP of Product",
+    "entreprise": "CAKES body",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "VP of Product chez CAKES body, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-of-product-cakes-body-1133319",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-ee32f97b66"
+  },
+  {
     "id": "jf-4b292b68d4",
     "titre": "Client Success Analyst",
     "entreprise": "Termgrid",
@@ -5670,250 +5918,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-10",
     "ref_unique": "jf-6b8bc2189a"
-  },
-  {
-    "id": "jf-e8d4c71429",
-    "titre": "Executive Assistant",
-    "entreprise": "Cyara",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "vfx",
-      "designer",
-      "marketing"
-    ],
-    "resume_neutre": "Executive Assistant chez Cyara, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-cyara-1133079",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-e8d4c71429"
-  },
-  {
-    "id": "jf-10b788edc3",
-    "titre": "&lt;&lt;ENTER DISPLAY JOB TITLE&gt;&gt",
-    "entreprise": "NewCold",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "&lt;&lt;ENTER DISPLAY JOB TITLE&gt;&gt chez NewCold, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ltltenter-display-job-titlegtgt-newcold-1133045",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-10b788edc3"
-  },
-  {
-    "id": "jf-027bcd857d",
-    "titre": "Patient Scheduler",
-    "entreprise": "Pinnacle Method Consulting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech",
-      "consulting"
-    ],
-    "resume_neutre": "Patient Scheduler chez Pinnacle Method Consulting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-pinnacle-method-consulting-1133032",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-027bcd857d"
-  },
-  {
-    "id": "jf-ce22f94536",
-    "titre": "Pharmaceutical & Clinical Research Expert",
-    "entreprise": "CuraSenseAI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech"
-    ],
-    "resume_neutre": "Pharmaceutical & Clinical Research Expert chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-pharmaceutical-clinical-research-expert-curasenseai-1133031",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-ce22f94536"
-  },
-  {
-    "id": "jf-d7b7f888c5",
-    "titre": "Technical support",
-    "entreprise": "LitePOS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "technical",
-      "exec"
-    ],
-    "resume_neutre": "Technical support chez LitePOS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1133035",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-d7b7f888c5"
-  },
-  {
-    "id": "jf-3231ff2cca",
-    "titre": "Director of Total Rewards",
-    "entreprise": "SKIMS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "vfx",
-      "designer",
-      "marketing"
-    ],
-    "resume_neutre": "Director of Total Rewards chez SKIMS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-total-rewards-skims-1133085",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-3231ff2cca"
-  },
-  {
-    "id": "jf-c06ccd48c2",
-    "titre": "Chief Financial Officer",
-    "entreprise": "INFUSE",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech",
-      "consulting",
-      "design",
-      "infosec",
-      "exec"
-    ],
-    "resume_neutre": "Chief Financial Officer chez INFUSE, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-infuse-1133033",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-c06ccd48c2"
-  },
-  {
-    "id": "jf-361c2ae4c4",
-    "titre": "Social Creative Lead Real Time &amp; Reactive",
-    "entreprise": "Airbnb",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "vfx",
-      "designer",
-      "marketing"
-    ],
-    "resume_neutre": "Social Creative Lead Real Time &amp; Reactive chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-creative-lead-real-time-amp-reactive-airbnb-1133091",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-361c2ae4c4"
-  },
-  {
-    "id": "jf-51bf7f2cdb",
-    "titre": "Data Analyst",
-    "entreprise": "Fusemachines",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "sys admin",
-      "infosec",
-      "education"
-    ],
-    "resume_neutre": "Data Analyst chez Fusemachines, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-fusemachines-1133041",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-51bf7f2cdb"
-  },
-  {
-    "id": "jf-2a1fbaaef6",
-    "titre": "Mortgage Processor",
-    "entreprise": "LBC Mortgage",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "data entry",
-      "exec",
-      "marketing",
-      "finance"
-    ],
-    "resume_neutre": "Mortgage Processor chez LBC Mortgage, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mortgage-processor-lbc-mortgage-1133070",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-2a1fbaaef6"
-  },
-  {
-    "id": "jf-96be239bbe",
-    "titre": "Customs Agent",
-    "entreprise": "FedEx",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "education",
-      "non tech"
-    ],
-    "resume_neutre": "Customs Agent chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customs-agent-fedex-1133053",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-96be239bbe"
-  },
-  {
-    "id": "jf-13824f5ed8",
-    "titre": "Auxiliar de Dados REMOTO",
-    "entreprise": "ADVBOX",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Auxiliar de Dados REMOTO chez ADVBOX, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-dados-remoto-advbox-1133028",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-13824f5ed8"
   }
 ]
