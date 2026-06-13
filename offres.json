@@ -1,5 +1,277 @@
 [
   {
+    "id": "jf-4b292b68d4",
+    "titre": "Client Success Analyst",
+    "entreprise": "Termgrid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst"
+    ],
+    "resume_neutre": "Client Success Analyst chez Termgrid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-success-analyst-termgrid-1133318",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-4b292b68d4"
+  },
+  {
+    "id": "jf-79a7bd7118",
+    "titre": "Online Bidder",
+    "entreprise": "JSR Technologies Pvt. Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time",
+      "sys admin",
+      "technical",
+      "dev",
+      "exec"
+    ],
+    "resume_neutre": "Online Bidder chez JSR Technologies Pvt. Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-bidder-jsr-technologies-pvt-ltd-1133339",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-79a7bd7118"
+  },
+  {
+    "id": "jf-ccc04d4c26",
+    "titre": "Especialista de Soporte Service Desk Remoto Horario rotativo",
+    "entreprise": "Canvia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "web dev",
+      "c",
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Especialista de Soporte Service Desk Remoto Horario rotativo chez Canvia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-especialista-de-soporte-service-desk-remoto-horario-rotativo-canvia-1133349",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-ccc04d4c26"
+  },
+  {
+    "id": "jf-b2b2e97476",
+    "titre": "Care Specialist",
+    "entreprise": "Mixlab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "design",
+      "digital nomad",
+      "infosec",
+      "teaching"
+    ],
+    "resume_neutre": "Care Specialist chez Mixlab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-care-specialist-mixlab-1133302",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-b2b2e97476"
+  },
+  {
+    "id": "jf-d03cd7a1e5",
+    "titre": "Pharmaceutical Research Specialist",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "Pharmaceutical Research Specialist chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pharmaceutical-research-specialist-curasenseai-1133298",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-d03cd7a1e5"
+  },
+  {
+    "id": "jf-305a1a4f51",
+    "titre": "Medical Administrative Assistant",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant"
+    ],
+    "resume_neutre": "Medical Administrative Assistant chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-administrative-assistant-curasenseai-1133297",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-305a1a4f51"
+  },
+  {
+    "id": "jf-93e9eb3eb8",
+    "titre": "Director of Technical Solutions",
+    "entreprise": "Triple Whale",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "technical",
+      "senior",
+      "marketing"
+    ],
+    "resume_neutre": "Director of Technical Solutions chez Triple Whale, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-technical-solutions-triple-whale-1133296",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-93e9eb3eb8"
+  },
+  {
+    "id": "jf-ac7c1760ac",
+    "titre": "Chief of Staff GM Advertising",
+    "entreprise": "Instacart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "customer support",
+      "marketing",
+      "speech",
+      "exec"
+    ],
+    "resume_neutre": "Chief of Staff GM Advertising chez Instacart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-gm-advertising-instacart-1133295",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-ac7c1760ac"
+  },
+  {
+    "id": "jf-e0de709449",
+    "titre": "Implementation Project Manager",
+    "entreprise": "Intellum, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "saas",
+      "amazon",
+      "technical"
+    ],
+    "resume_neutre": "Implementation Project Manager chez Intellum, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-implementation-project-manager-intellum-inc-1133294",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-e0de709449"
+  },
+  {
+    "id": "jf-e5fa3134b7",
+    "titre": "Guru Field Representative Orlando",
+    "entreprise": "Brooks Running",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "c",
+      "math",
+      "exec"
+    ],
+    "resume_neutre": "Guru Field Representative Orlando chez Brooks Running, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-guru-field-representative-orlando-brooks-running-1133293",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-e5fa3134b7"
+  },
+  {
+    "id": "jf-1123dd5cf0",
+    "titre": "Healthcare Manager",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "ios",
+      "sys admin",
+      "consulting",
+      "technical"
+    ],
+    "resume_neutre": "Healthcare Manager chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-healthcare-manager-curasenseai-1133290",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-1123dd5cf0"
+  },
+  {
+    "id": "jf-195f2d397b",
+    "titre": "Medical Secretary",
+    "entreprise": "CuraSenseAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Medical Secretary chez CuraSenseAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-secretary-curasenseai-1133288",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-195f2d397b"
+  },
+  {
+    "id": "jf-01724e5896",
+    "titre": "Confidential Search",
+    "entreprise": "Chandos Construction",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "ops",
+      "education",
+      "payroll",
+      "non tech"
+    ],
+    "resume_neutre": "Confidential Search chez Chandos Construction, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-confidential-search-chandos-construction-1133309",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-01724e5896"
+  },
+  {
     "id": "jf-05b2b0984f",
     "titre": "Learning &amp; Development Specialist",
     "entreprise": "HealthCorps",
@@ -5643,271 +5915,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-09",
     "ref_unique": "jf-13824f5ed8"
-  },
-  {
-    "id": "jf-fee1094c5c",
-    "titre": "Public Area Attendant",
-    "entreprise": "Four Seasons",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "education",
-      "non tech"
-    ],
-    "resume_neutre": "Public Area Attendant chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1133054",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-fee1094c5c"
-  },
-  {
-    "id": "jf-7037c2bbd2",
-    "titre": "General Expression of Interest",
-    "entreprise": "THE THIRD FLOOR Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech",
-      "consulting",
-      "design",
-      "infosec",
-      "exec"
-    ],
-    "resume_neutre": "General Expression of Interest chez THE THIRD FLOOR Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-general-expression-of-interest-the-third-floor-inc-1133034",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-7037c2bbd2"
-  },
-  {
-    "id": "jf-87f436c020",
-    "titre": "Staff Software Engineer Infrastructure",
-    "entreprise": "Docker",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Docker",
-    "remote": true,
-    "competences": [
-      "docker",
-      "dev",
-      "design",
-      "grafana",
-      "infosec"
-    ],
-    "resume_neutre": "Staff Software Engineer Infrastructure chez Docker, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-87f436c020"
-  },
-  {
-    "id": "jf-39984a3a96",
-    "titre": "Junior Market Specialist Analyst",
-    "entreprise": "Shumba",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Crypto",
-    "remote": true,
-    "competences": [
-      "crypto",
-      "blockchain"
-    ],
-    "resume_neutre": "Junior Market Specialist Analyst chez Shumba, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-market-specialist-analyst-shumba-1133023",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-39984a3a96"
-  },
-  {
-    "id": "jf-e27f417fde",
-    "titre": "Environmental Scientists",
-    "entreprise": "STEM Sync AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech"
-    ],
-    "resume_neutre": "Environmental Scientists chez STEM Sync AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-environmental-scientists-stem-sync-ai-1133022",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-e27f417fde"
-  },
-  {
-    "id": "jf-ff3795370d",
-    "titre": "BACK OF HOUSE",
-    "entreprise": "Buffalo Wild Wings - Fralich, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "math",
-      "exec"
-    ],
-    "resume_neutre": "BACK OF HOUSE chez Buffalo Wild Wings - Fralich, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1133029",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-ff3795370d"
-  },
-  {
-    "id": "jf-5c1007c02b",
-    "titre": "EstÃ¡gio de PrevenÃ§Ã£o a Fraudes",
-    "entreprise": "MÃ©liuz",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad",
-      "hr",
-      "exec",
-      "microsoft"
-    ],
-    "resume_neutre": "EstÃ¡gio de PrevenÃ§Ã£o a Fraudes chez MÃ©liuz, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-estagio-de-prevencao-a-fraudes-meliuz-1133021",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-5c1007c02b"
-  },
-  {
-    "id": "jf-9da34a6815",
-    "titre": "Assistente JurÃ­dico",
-    "entreprise": "MÃ©liuz",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "Assistente JurÃ­dico chez MÃ©liuz, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-juridico-meliuz-1133019",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-9da34a6815"
-  },
-  {
-    "id": "jf-4497704979",
-    "titre": "Functional Assessor",
-    "entreprise": "PFAS (Personal Functional Assessment Services)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Functional Assessor chez PFAS (Personal Functional Assessment Services), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1133049",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-4497704979"
-  },
-  {
-    "id": "jf-de8657b326",
-    "titre": "ChargÃ©.e de formation H F",
-    "entreprise": "Groupe SOS SolidaritÃ©s",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Biotech",
-    "remote": true,
-    "competences": [
-      "biotech",
-      "customer support",
-      "c",
-      "excel",
-      "non tech"
-    ],
-    "resume_neutre": "ChargÃ©.e de formation H F chez Groupe SOS SolidaritÃ©s, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-charge-e-de-formation-h-f-groupe-sos-solidarites-1133047",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-de8657b326"
-  },
-  {
-    "id": "jf-7b74ca90e7",
-    "titre": "Architectural Drafter",
-    "entreprise": "RemoteVA",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "legal",
-      "non tech",
-      "hr",
-      "data entry"
-    ],
-    "resume_neutre": "Architectural Drafter chez RemoteVA, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1133016",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-7b74ca90e7"
-  },
-  {
-    "id": "jf-d2a17149f8",
-    "titre": "Legal Document Drafting Virtual Assistant",
-    "entreprise": "Outsource Access Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "legal",
-      "non tech"
-    ],
-    "resume_neutre": "Legal Document Drafting Virtual Assistant chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-legal-document-drafting-virtual-assistant-outsource-access-careers-1133014",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-d2a17149f8"
-  },
-  {
-    "id": "jf-80910e6a84",
-    "titre": "Entry Level Administrative Assistant",
-    "entreprise": "RecruitLyticx Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "recruiter",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Entry Level Administrative Assistant chez RecruitLyticx Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticx-hires-1133076",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-09",
-    "ref_unique": "jf-80910e6a84"
   }
 ]
