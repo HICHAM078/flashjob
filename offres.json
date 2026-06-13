@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-3f725b3188",
+    "titre": "Social Media Coordinator",
+    "entreprise": "The Sociable Society",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing",
+      "marketing",
+      "stats",
+      "social media"
+    ],
+    "resume_neutre": "Social Media Coordinator chez The Sociable Society, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-sociable-society-1133362",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-3f725b3188"
+  },
+  {
+    "id": "jf-babde14eef",
+    "titre": "Paralegal",
+    "entreprise": "Obelisk Support",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "admin",
+      "content writing",
+      "senior",
+      "legal"
+    ],
+    "resume_neutre": "Paralegal chez Obelisk Support, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-paralegal-obelisk-support-1133352",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-babde14eef"
+  },
+  {
+    "id": "jf-bdae9ebe1d",
+    "titre": "Data Analyst",
+    "entreprise": "ActivTrak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "education"
+    ],
+    "resume_neutre": "Data Analyst chez ActivTrak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-bdae9ebe1d"
+  },
+  {
+    "id": "jf-28a54dedc9",
+    "titre": "Trade Marketing &amp; Brand Activation Manager",
+    "entreprise": "Cloetta",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "education"
+    ],
+    "resume_neutre": "Trade Marketing &amp; Brand Activation Manager chez Cloetta, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trade-marketing-amp-brand-activation-manager-cloetta-1133344",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-13",
+    "ref_unique": "jf-28a54dedc9"
+  },
+  {
     "id": "jf-4bb3cf89d3",
     "titre": "Copywriting Lead Freelance",
     "entreprise": "eStoreLabs",
@@ -5830,85 +5918,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-10",
     "ref_unique": "jf-477cdf7f79"
-  },
-  {
-    "id": "jf-c33af8ae21",
-    "titre": "Instructional Designer",
-    "entreprise": "Bluefield University",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Travel",
-    "remote": true,
-    "competences": [
-      "travel",
-      "accounting",
-      "finance",
-      "video",
-      "cloud"
-    ],
-    "resume_neutre": "Instructional Designer chez Bluefield University, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-instructional-designer-bluefield-university-1133145",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-c33af8ae21"
-  },
-  {
-    "id": "jf-27c1e9fdfc",
-    "titre": "Global Sales Account Executive",
-    "entreprise": "Delta Air Lines",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "data science",
-      "education",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Global Sales Account Executive chez Delta Air Lines, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-global-sales-account-executive-delta-air-lines-1133151",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-27c1e9fdfc"
-  },
-  {
-    "id": "ma-e99f837c46",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=1&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=86&relb=110&brelb=110&bscr=2513.6301&scr=2513.6301",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-e99f837c46"
-  },
-  {
-    "id": "ma-4b3c0536bc",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1560185854564101088?ckey=emploi&rgn=0&pos=2&elckey=-7100041565479891511&p=1&aq=-5035424890600317748&cid=20&jobAge=470&relb=110&brelb=110&bscr=2479.0862&scr=2479.0862",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-10",
-    "ref_unique": "ma-4b3c0536bc"
   }
 ]
