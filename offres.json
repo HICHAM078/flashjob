@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-c75fb543c3",
+    "titre": "Customer Service Representative",
+    "entreprise": "Point72",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "admin",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Customer Service Representative chez Point72, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-14",
+    "ref_unique": "jf-c75fb543c3"
+  },
+  {
     "id": "ma-3a6732feb9",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5737,23 +5759,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-11",
     "ref_unique": "ma-2b1be84ea3"
-  },
-  {
-    "id": "ma-33ba4cd400",
-    "titre": "Charge It ( SystÈme Et Support Informatique )",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Charge It ( SystÈme Et Support Informatique ) chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/3371045974041765204?ckey=informatique&rgn=0&pos=5&elckey=-3009402373126776082&p=1&aq=-4044848031770475304&cid=20&jobAge=1239&relb=100&brelb=100&bscr=2239.6597&scr=2239.6597",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-33ba4cd400"
   }
 ]
