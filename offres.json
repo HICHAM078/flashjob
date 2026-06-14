@@ -1,5 +1,46 @@
 [
   {
+    "id": "jf-1f862d7715",
+    "titre": "Various Positions",
+    "entreprise": "Northern News Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical",
+      "full time"
+    ],
+    "resume_neutre": "Various Positions chez Northern News Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-positions-northern-news-services-1133385",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-14",
+    "ref_unique": "jf-1f862d7715"
+  },
+  {
+    "id": "jf-bed7c2c3cc",
+    "titre": "Chat Suppore",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "technical",
+      "customer support",
+      "dev",
+      "ops"
+    ],
+    "resume_neutre": "Chat Suppore chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chat-suppore-onlinejobs-ph-1133367",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-14",
+    "ref_unique": "jf-bed7c2c3cc"
+  },
+  {
     "id": "jf-36a4d10ec1",
     "titre": "Junior ML Engineer",
     "entreprise": "Work Force Nexus",
@@ -5861,49 +5902,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-10",
     "ref_unique": "jf-3f0f814e7a"
-  },
-  {
-    "id": "jf-ae5575ce42",
-    "titre": "Facilities Technician",
-    "entreprise": "Optimum",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "embedded",
-      "sys admin",
-      "infosec",
-      "education"
-    ],
-    "resume_neutre": "Facilities Technician chez Optimum, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-facilities-technician-optimum-1133119",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-ae5575ce42"
-  },
-  {
-    "id": "jf-7897ef05b3",
-    "titre": "Executive Assistant",
-    "entreprise": "Maximus Partners, LLC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "technical",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Executive Assistant chez Maximus Partners, LLC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-maximus-partners-llc-1133106",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-10",
-    "ref_unique": "jf-7897ef05b3"
   }
 ]
