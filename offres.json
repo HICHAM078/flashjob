@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-2d42599ba7",
+    "titre": "Production Utility",
+    "entreprise": "FXI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "design",
+      "dev",
+      "recruiter",
+      "digital nomad"
+    ],
+    "resume_neutre": "Production Utility chez FXI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-production-utility-fxi-1133415",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-15",
+    "ref_unique": "jf-2d42599ba7"
+  },
+  {
     "id": "jf-82d4e3d767",
     "titre": "Medical Scribe Female Only",
     "entreprise": "Angel City VA Recruitment",
@@ -5750,23 +5772,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-11",
     "ref_unique": "ma-209e332859"
-  },
-  {
-    "id": "ma-6b44109099",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4343617732422704568?ckey=commercial&rgn=938&pos=12&elckey=3484862561800591118&p=1&aq=-1024680247727195395&cid=20&jobAge=759&relb=110&brelb=110&bscr=1482.3358&scr=1482.3358",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-6b44109099"
   }
 ]
