@@ -1,5 +1,35 @@
 [
   {
+    "cat": "سوق الشغل",
+    "titre": "ما القطاعات التي توظّف أكثر في المغرب؟",
+    "excerpt": "توجيه البحث نحو القطاعات الواعدة يغيّر كل شيء. جولة على المجالات التي توظّف باستمرار.",
+    "body": [
+      "البحث عن عمل دون النظر إلى مواطن الحاجة يشبه التجديف ضد التيار. بعض القطاعات توظّف بنيوياً في المغرب سنة بعد سنة، ومعرفتها تساعد على توجيه التكوين والترشيحات.",
+      "<b>خدمة الزبناء والترحيل.</b> مراكز الاتصال والخدمات المُسنَدة تظل من كبار المشغّلين، خاصة بالدار البيضاء والرباط وفاس، وغالباً مع تكوين عند الالتحاق.",
+      "<b>صناعة السيارات والطيران.</b> حول طنجة والقنيطرة للسيارات، والدار البيضاء للطيران، تجذب هذه الصناعات اليد العاملة المؤهَّلة من تقنيين ومهندسين.",
+      "<b>الرقمي والتقنية.</b> المطوّرون والمعطيات والأمن السيبراني والتسويق الرقمي: الطلب يفوق العرض، وهو القطاع الأكثر فتحاً لأبواب العمل عن بعد.",
+      "<b>السياحة والصحة والطاقات المتجددة.</b> قطاعات تخلق حاجات دائمة على مناصب مؤهَّلة. النصيحة: لا تختر قطاعاً «لأنه يوظّف» فقط، بل لأنه يناسبك أيضاً."
+    ],
+    "lang": "ar",
+    "id": "news-1781535572-ar",
+    "date": "15 juin 2026"
+  },
+  {
+    "cat": "Réseau pro",
+    "titre": "Soigner son personal branding pour se démarquer",
+    "excerpt": "Votre image professionnelle parle pour vous, en ligne comme en personne. Voici comment la travailler.",
+    "body": [
+      "Le personal branding, c'est l'image professionnelle que vous renvoyez. Bien maîtrisée, elle vous rend mémorable et crédible aux yeux des recruteurs et de votre réseau.",
+      "<b>Définissez votre message.</b> En une phrase : qui êtes-vous professionnellement, et qu'apportez-vous ? Cette clarté guide tout le reste.",
+      "<b>Harmonisez vos présences.</b> CV, profil LinkedIn, signature email : assurez-vous que tout raconte la même histoire cohérente.",
+      "<b>Partagez ce que vous savez.</b> Un avis, un retour d'expérience, un article utile de votre secteur : montrer votre expertise, même modestement, renforce votre crédibilité.",
+      "<b>Restez authentique.</b> Le personal branding n'est pas un déguisement : c'est mettre en valeur ce que vous êtes vraiment. La sincérité finit toujours par se voir."
+    ],
+    "lang": "fr",
+    "id": "news-1781535572-fr",
+    "date": "15 juin 2026"
+  },
+  {
     "cat": "العمل عن بعد",
     "titre": "العمل عن بعد من المغرب: خطوات واقعية",
     "excerpt": "العمل عن بعد يفتح أبواب مشغّلين دوليين دون مغادرة المغرب. إليك طريقاً واقعياً بلا وعود فارغة.",
