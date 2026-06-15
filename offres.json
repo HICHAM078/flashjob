@@ -1,5 +1,86 @@
 [
   {
+    "id": "jf-82d4e3d767",
+    "titre": "Medical Scribe Female Only",
+    "entreprise": "Angel City VA Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Medical Scribe Female Only chez Angel City VA Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-15",
+    "ref_unique": "jf-82d4e3d767"
+  },
+  {
+    "id": "jf-c882d8abc6",
+    "titre": "test",
+    "entreprise": "Fluidstack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "design",
+      "dev",
+      "recruiter",
+      "digital nomad"
+    ],
+    "resume_neutre": "test chez Fluidstack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-15",
+    "ref_unique": "jf-c882d8abc6"
+  },
+  {
+    "id": "jf-b00ea5e1f8",
+    "titre": "Illustrator",
+    "entreprise": "Odixcity Consulting",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "microsoft",
+      "exec",
+      "junior",
+      "consulting"
+    ],
+    "resume_neutre": "Illustrator chez Odixcity Consulting, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-15",
+    "ref_unique": "jf-b00ea5e1f8"
+  },
+  {
+    "id": "jf-1f10ceb9ee",
+    "titre": "Programa Futuros Profesionales Productos Digitales",
+    "entreprise": "Universia Argentina",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Programa Futuros Profesionales Productos Digitales chez Universia Argentina, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-programa-futuros-profesionales-productos-digitales-universia-argentina-1133398",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-15",
+    "ref_unique": "jf-1f10ceb9ee"
+  },
+  {
     "id": "jf-c75fb543c3",
     "titre": "Customer Service Representative",
     "entreprise": "Point72",
@@ -5687,77 +5768,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-11",
     "ref_unique": "ma-6b44109099"
-  },
-  {
-    "id": "ma-57394a20c9",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=1&elckey=-3009402373126776082&p=1&aq=-4044848031770475304&cid=20&jobAge=1023&relb=100&brelb=100&bscr=2571.2102&scr=2571.2102",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-57394a20c9"
-  },
-  {
-    "id": "ma-04ec23aabb",
-    "titre": "Technicien Informatique",
-    "entreprise": "CFG Bank",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez CFG Bank, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1588005605708403542?ckey=informatique&rgn=0&pos=2&elckey=-3009402373126776082&p=1&aq=-4044848031770475304&cid=20&jobAge=5917&relb=100&brelb=100&bscr=2531.925&scr=2531.925",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-04ec23aabb"
-  },
-  {
-    "id": "ma-0263b4c0cc",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=3&elckey=-3009402373126776082&p=1&aq=-4044848031770475304&cid=20&jobAge=2439&relb=100&brelb=100&bscr=2518.9514&scr=2518.9514",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-0263b4c0cc"
-  },
-  {
-    "id": "ma-2b1be84ea3",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=4&elckey=-3009402373126776082&p=1&aq=-4044848031770475304&cid=20&jobAge=37&relb=100&brelb=100&bscr=2475.9292&scr=2475.9292",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-11",
-    "ref_unique": "ma-2b1be84ea3"
   }
 ]
