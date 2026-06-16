@@ -1,5 +1,221 @@
 [
   {
+    "id": "jf-f772c82131",
+    "titre": "Public Relation Freelance",
+    "entreprise": "Tiket.com (PT. Global Tiket Network)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "exec",
+      "marketing"
+    ],
+    "resume_neutre": "Public Relation Freelance chez Tiket.com (PT. Global Tiket Network), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-relation-freelance-tiket-com-pt-global-tiket-network-1133433",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-f772c82131"
+  },
+  {
+    "id": "jf-af87c5a653",
+    "titre": "Water Plant Coordinator",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Water Plant Coordinator chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-water-plant-coordinator-four-seasons-1133475",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-af87c5a653"
+  },
+  {
+    "id": "jf-6229458d61",
+    "titre": "Financial Data Application Specialist Corporate",
+    "entreprise": "AlphaSense",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "marketing",
+      "exec",
+      "finance",
+      "content writing"
+    ],
+    "resume_neutre": "Financial Data Application Specialist Corporate chez AlphaSense, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-financial-data-application-specialist-corporate-alphasense-1133432",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-6229458d61"
+  },
+  {
+    "id": "jf-257fe21867",
+    "titre": "TEST Australia",
+    "entreprise": "Faculty",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "technical",
+      "finance",
+      "medical",
+      "recruiter"
+    ],
+    "resume_neutre": "TEST Australia chez Faculty, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-australia-faculty-1133486",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-257fe21867"
+  },
+  {
+    "id": "jf-6f0ee78cf2",
+    "titre": "Design Engineer",
+    "entreprise": "USB Club",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "senior",
+      "design",
+      "dev",
+      "front end"
+    ],
+    "resume_neutre": "Design Engineer chez USB Club, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-design-engineer-usb-club-1133430",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-6f0ee78cf2"
+  },
+  {
+    "id": "jf-f7a84b3bb3",
+    "titre": "Creative Project Manager",
+    "entreprise": "YunoJuno",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Creative Project Manager chez YunoJuno, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-project-manager-yunojuno-1133452",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-f7a84b3bb3"
+  },
+  {
+    "id": "jf-3ddaf5ebfc",
+    "titre": "Receptionist",
+    "entreprise": "INVICTA SOFTWARE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Receptionist chez INVICTA SOFTWARE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-receptionist-invicta-software-1133429",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-3ddaf5ebfc"
+  },
+  {
+    "id": "jf-974af08fbb",
+    "titre": "Executive Assistant",
+    "entreprise": "Triwill Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "technical",
+      "customer support",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Executive Assistant chez Triwill Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-triwill-group-1133431",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-974af08fbb"
+  },
+  {
+    "id": "jf-23bbf186ee",
+    "titre": "Chief of Staff Operating Partner CEO Office",
+    "entreprise": "Stableton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "consulting",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Chief of Staff Operating Partner CEO Office chez Stableton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operating-partner-ceo-office-stableton-1133434",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-23bbf186ee"
+  },
+  {
+    "id": "jf-a3ea775718",
+    "titre": "Chief of Staff Operating Partner CEO Office",
+    "entreprise": "Stableton Financial AG",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "consulting",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Chief of Staff Operating Partner CEO Office chez Stableton Financial AG, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operating-partner-ceo-office-stableton-financial-ag-1133436",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-a3ea775718"
+  },
+  {
     "id": "ma-6b0ce4ace3",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5479,185 +5695,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-12",
     "ref_unique": "ma-ed8df4e499"
-  },
-  {
-    "id": "ma-f867c44ee2",
-    "titre": "Offre d’emploi pour ouvriers",
-    "entreprise": "Oriental group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour ouvriers chez Oriental group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1831999781843420333?ckey=emploi&rgn=0&pos=10&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=975&relb=100&brelb=100&bscr=2265.982&scr=2265.982",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-f867c44ee2"
-  },
-  {
-    "id": "ma-22c2f18420",
-    "titre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi — Confirmatrice EXPERIENCE EXIGEE en énergie renouvelable! ( CANADA ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7031432135780248972?ckey=emploi&rgn=0&pos=11&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=351&relb=110&brelb=110&bscr=2238.5854&scr=2238.5854",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-22c2f18420"
-  },
-  {
-    "id": "ma-40deee0e87",
-    "titre": "Offre d’emploi pour le poste d’ouvriers (h/f)",
-    "entreprise": "BioProGreen",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour le poste d’ouvriers (h/f) chez BioProGreen, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3948229809208149642?ckey=emploi&rgn=0&pos=12&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=879&relb=100&brelb=100&bscr=2210.5142&scr=2210.5142",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-40deee0e87"
-  },
-  {
-    "id": "ma-03bc21a64f",
-    "titre": "Aide comptable",
-    "entreprise": "ARCO TRAVAUX SPECIAUX",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide comptable chez ARCO TRAVAUX SPECIAUX, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1364046121436269195?ckey=comptable&rgn=946&pos=1&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=23&relb=140&brelb=100&bscr=2411.2507&scr=3375.75098",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-03bc21a64f"
-  },
-  {
-    "id": "ma-d0488fb23f",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=comptable&rgn=946&pos=2&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=726&relb=140&brelb=100&bscr=2085.5613&scr=2919.78582",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-d0488fb23f"
-  },
-  {
-    "id": "ma-181c9a6c1f",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=3&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=111&relb=100&brelb=100&bscr=2485.3777&scr=2485.3777",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-181c9a6c1f"
-  },
-  {
-    "id": "ma-c5a9c3a0ba",
-    "titre": "Chef Comptable",
-    "entreprise": "Cash Plus",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9183143139911651963?ckey=comptable&rgn=946&pos=4&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=84&relb=100&brelb=100&bscr=2402.58&scr=2402.58",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-c5a9c3a0ba"
-  },
-  {
-    "id": "ma-e7061ebfb0",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6817930666664253435?ckey=comptable&rgn=946&pos=5&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=255&relb=100&brelb=100&bscr=2265.1694&scr=2265.1694",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-e7061ebfb0"
-  },
-  {
-    "id": "ma-5e7d436e32",
-    "titre": "Comptable Maritime",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Maritime chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/-2446097948669397970?ckey=comptable&rgn=946&pos=6&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=615&relb=100&brelb=100&bscr=2264.1558&scr=2264.1558",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-5e7d436e32"
-  },
-  {
-    "id": "ma-d49116fa0d",
-    "titre": "Offre de Stage - Finance / Comptabilité - Bouskoura",
-    "entreprise": "SEPALUMIC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre de Stage - Finance / Comptabilité - Bouskoura chez SEPALUMIC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5007694933973666763?ckey=comptable&rgn=946&pos=7&elckey=-5859042520812491166&p=1&aq=8967041104156257513&cid=20&jobAge=63&relb=100&brelb=100&bscr=2187.5671&scr=2187.5671",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-d49116fa0d"
   }
 ]
