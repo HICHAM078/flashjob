@@ -1,5 +1,135 @@
 [
   {
+    "id": "jf-9ae72c01e7",
+    "titre": "Graphic Designer",
+    "entreprise": "The Fountain Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "salesforce",
+      "hr",
+      "designer",
+      "technical"
+    ],
+    "resume_neutre": "Graphic Designer chez The Fountain Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-the-fountain-group-1133453",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-9ae72c01e7"
+  },
+  {
+    "id": "jf-47c965dfad",
+    "titre": "Medical Scribe",
+    "entreprise": "Angel City VA Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "medical",
+      "excel",
+      "non tech",
+      "dev"
+    ],
+    "resume_neutre": "Medical Scribe chez Angel City VA Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-scribe-angel-city-va-recruitment-1133442",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-47c965dfad"
+  },
+  {
+    "id": "jf-a5bc272a9a",
+    "titre": "Director National Accounts",
+    "entreprise": "Recess",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Director National Accounts chez Recess, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-national-accounts-recess-1133450",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-a5bc272a9a"
+  },
+  {
+    "id": "jf-138c54b390",
+    "titre": "Junior Front End Developer",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "consulting",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Junior Front End Developer chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-work-force-nexus-1133435",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-138c54b390"
+  },
+  {
+    "id": "jf-088fa225e1",
+    "titre": "Supply Chain Management",
+    "entreprise": "Tava Partners",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Supply Chain Management chez Tava Partners, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-management-tava-partners-1133490",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-088fa225e1"
+  },
+  {
+    "id": "jf-87a23a7951",
+    "titre": "Lead Specialist",
+    "entreprise": "Autoliv",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "exec"
+    ],
+    "resume_neutre": "Lead Specialist chez Autoliv, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-specialist-autoliv-1133485",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-87a23a7951"
+  },
+  {
     "id": "jf-f772c82131",
     "titre": "Public Relation Freelance",
     "entreprise": "Tiket.com (PT. Global Tiket Network)",
@@ -5587,113 +5717,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-12",
     "ref_unique": "ma-89f39a6749"
-  },
-  {
-    "id": "ma-03e9c8d1fb",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=4&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=39&relb=110&brelb=110&bscr=2477.7083&scr=2477.7083",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-03e9c8d1fb"
-  },
-  {
-    "id": "ma-cc10d6b17b",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=5&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=135&relb=110&brelb=110&bscr=2476.5947&scr=2476.5947",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-cc10d6b17b"
-  },
-  {
-    "id": "ma-2e4aff50f3",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7244491895311872239?ckey=emploi&rgn=0&pos=6&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=279&relb=110&brelb=110&bscr=2465.4485&scr=2465.4485",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-2e4aff50f3"
-  },
-  {
-    "id": "ma-c8d0a5965f",
-    "titre": "Offre d’emploi - Conseiller(ère) en Assurance Emprunteur (H/F)",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Conseiller(ère) en Assurance Emprunteur (H/F) chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/524891992273910275?ckey=emploi&rgn=0&pos=7&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=735&relb=110&brelb=110&bscr=2434.2173&scr=2434.2173",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-c8d0a5965f"
-  },
-  {
-    "id": "ma-6e05c02310",
-    "titre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4669127627816070580?ckey=emploi&rgn=0&pos=8&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=543&relb=110&brelb=110&bscr=2369.737&scr=2369.737",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-6e05c02310"
-  },
-  {
-    "id": "ma-ed8df4e499",
-    "titre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar",
-    "entreprise": "MARJANE MARKET",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar chez MARJANE MARKET, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8182032409462160561?ckey=emploi&rgn=0&pos=9&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=39&relb=100&brelb=100&bscr=2286.8982&scr=2286.8982",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-ed8df4e499"
   }
 ]
