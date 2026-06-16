@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-900381f8aa",
+    "titre": "Learning And Development Specialist",
+    "entreprise": "DTI (Diversified Technology Inc.)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Learning And Development Specialist chez DTI (Diversified Technology Inc.), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dti-diversified-technology-inc-1133417",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-900381f8aa"
+  },
+  {
+    "id": "jf-f466d0ad2c",
+    "titre": "Sports Events Coordinator",
+    "entreprise": "Work From Home Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "salesforce",
+      "hr",
+      "designer",
+      "technical"
+    ],
+    "resume_neutre": "Sports Events Coordinator chez Work From Home Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sports-events-coordinator-work-from-home-co-1133454",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-16",
+    "ref_unique": "jf-f466d0ad2c"
+  },
+  {
     "id": "jf-1b2785eeb3",
     "titre": "Executive Assistant the Founders",
     "entreprise": "Silhouette Group Inc.",
@@ -5687,49 +5727,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-11",
     "ref_unique": "jf-2474826c60"
-  },
-  {
-    "id": "jf-3ae11a8919",
-    "titre": "Design Engineer",
-    "entreprise": "MrBeast",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "technical",
-      "customer support",
-      "dev",
-      "testing"
-    ],
-    "resume_neutre": "Design Engineer chez MrBeast, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-design-engineer-mrbeast-1133239",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-11",
-    "ref_unique": "jf-3ae11a8919"
-  },
-  {
-    "id": "jf-a10109a65f",
-    "titre": "Junior Supply Chain Analyst",
-    "entreprise": "Helic & Co.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "consulting",
-      "virtual assistant",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "Junior Supply Chain Analyst chez Helic & Co., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133182",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-11",
-    "ref_unique": "jf-a10109a65f"
   }
 ]
