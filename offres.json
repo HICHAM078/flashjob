@@ -1,5 +1,130 @@
 [
   {
+    "id": "jf-5cd74a18eb",
+    "titre": "Supply Chain Manager",
+    "entreprise": "Ignite",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "amazon",
+      "sys admin",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Supply Chain Manager chez Ignite, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-ignite-1133497",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-5cd74a18eb"
+  },
+  {
+    "id": "jf-122814e602",
+    "titre": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only",
+    "entreprise": "PNC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "education",
+      "exec",
+      "customer support"
+    ],
+    "resume_neutre": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only chez PNC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-support-representative-customer-care-center-eastern-central-time-zones-only-pnc-1133495",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-122814e602"
+  },
+  {
+    "id": "jf-1dc2d17da3",
+    "titre": "Learning & Education Executive",
+    "entreprise": "Ignite Your Success",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Learning & Education Executive chez Ignite Your Success, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-learning-education-executive-ignite-your-success-1133494",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-1dc2d17da3"
+  },
+  {
+    "id": "jf-e02381d44b",
+    "titre": "Executive Assistant Fully Inside IR35",
+    "entreprise": "VPA London",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "amazon",
+      "sys admin",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Executive Assistant Fully Inside IR35 chez VPA London, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-inside-ir35-vpa-london-1133498",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-e02381d44b"
+  },
+  {
+    "id": "jf-059f26d4a6",
+    "titre": "AI ML Associate",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "AI ML Associate chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-ml-associate-work-force-nexus-1133493",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-059f26d4a6"
+  },
+  {
+    "id": "jf-d3d5b12479",
+    "titre": "Marketing &amp; Communication Lead Italy",
+    "entreprise": "Base.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "amazon",
+      "sys admin",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Marketing &amp; Communication Lead Italy chez Base.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-amp-communication-lead-italy-base-com-1133496",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-d3d5b12479"
+  },
+  {
     "id": "ma-6217f365fa",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5540,113 +5665,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-13",
     "ref_unique": "ma-f6a5e4b190"
-  },
-  {
-    "id": "ma-dd648a4ada",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=2&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=181&relb=110&brelb=110&bscr=1771.7952&scr=1771.7952",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-dd648a4ada"
-  },
-  {
-    "id": "ma-56d3fe04ec",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4443528278429374769?ckey=commercial&rgn=938&pos=3&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=109&relb=110&brelb=110&bscr=1764.4889&scr=1764.4889",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-56d3fe04ec"
-  },
-  {
-    "id": "ma-f2c0f01718",
-    "titre": "COMMERCIAL EN ASSURANCE PROFESSIONNELLE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PROFESSIONNELLE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5362892058667653026?ckey=commercial&rgn=938&pos=4&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=85&relb=110&brelb=110&bscr=1596.8922&scr=1596.8922",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-f2c0f01718"
-  },
-  {
-    "id": "ma-c751745226",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=5&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=37&relb=110&brelb=110&bscr=1582.7117&scr=1582.7117",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-c751745226"
-  },
-  {
-    "id": "ma-987ff6c33b",
-    "titre": "Commercial(e) débutant(e) - Recrutement urgent !",
-    "entreprise": "Smart Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) débutant(e) - Recrutement urgent ! chez Smart Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/115623512738950980?ckey=commercial&rgn=938&pos=6&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=37&relb=110&brelb=110&bscr=1582.7117&scr=1582.7117",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-987ff6c33b"
-  },
-  {
-    "id": "ma-a0fb9b6935",
-    "titre": "Nous recrutons : Commerciaux Experts en Assurance",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons : Commerciaux Experts en Assurance chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1665648664001115125?ckey=commercial&rgn=938&pos=7&elckey=964009076491504501&p=1&aq=4439502196448796744&cid=20&jobAge=541&relb=110&brelb=110&bscr=1563.7012&scr=1563.7011999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-13",
-    "ref_unique": "ma-a0fb9b6935"
   }
 ]
