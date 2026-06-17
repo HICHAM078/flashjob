@@ -1,5 +1,111 @@
 [
   {
+    "id": "jf-60b55ebc52",
+    "titre": "Administrator 19966",
+    "entreprise": "Somewhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Administrator 19966 chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrator-19966-somewhere-1133492",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-60b55ebc52"
+  },
+  {
+    "id": "jf-300d5c06d6",
+    "titre": "Customer Support Specialist Tier 1",
+    "entreprise": "Yembo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Customer Support Specialist Tier 1 chez Yembo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-tier-1-yembo-1133491",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-300d5c06d6"
+  },
+  {
+    "id": "jf-1d1c22a4af",
+    "titre": "Expressions of Interest UK Expression of Interest",
+    "entreprise": "SYOS Aerospace",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "marketing",
+      "robotics"
+    ],
+    "resume_neutre": "Expressions of Interest UK Expression of Interest chez SYOS Aerospace, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-uk-expression-of-interest-syos-aerospace-1133537",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-1d1c22a4af"
+  },
+  {
+    "id": "jf-f5d4ac2820",
+    "titre": "Become a Student Life Coach Flexible Role UK Â£20 Â£40 hr",
+    "entreprise": "FindTutors",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Become a Student Life Coach Flexible Role UK Â£20 Â£40 hr chez FindTutors, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-become-a-student-life-coach-flexible-role-uk-20-40-hr-findtutors-1133462",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-f5d4ac2820"
+  },
+  {
+    "id": "jf-1919513876",
+    "titre": "Application Support Associate",
+    "entreprise": "TurningPoint Healthcare Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "content writing",
+      "ops",
+      "marketing"
+    ],
+    "resume_neutre": "Application Support Associate chez TurningPoint Healthcare Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-application-support-associate-turningpoint-healthcare-solutions-1133534",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-1919513876"
+  },
+  {
     "id": "jf-7b17a48188",
     "titre": "Startup Investment & Strategy Specialist",
     "entreprise": "CapitexAI",
@@ -5634,109 +5740,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-12",
     "ref_unique": "jf-b38fc98c1f"
-  },
-  {
-    "id": "jf-e8b5e6ca91",
-    "titre": "Program Manager Fulfillment Operations",
-    "entreprise": "SupplyHouse.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "sys admin",
-      "marketing",
-      "finance",
-      "ops"
-    ],
-    "resume_neutre": "Program Manager Fulfillment Operations chez SupplyHouse.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-program-manager-fulfillment-operations-supplyhouse-com-1133277",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-e8b5e6ca91"
-  },
-  {
-    "id": "jf-462cd22820",
-    "titre": "Rural and Suburban Mail Carrier",
-    "entreprise": "Canada Post / Postes Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "ops",
-      "education",
-      "payroll",
-      "non tech"
-    ],
-    "resume_neutre": "Rural and Suburban Mail Carrier chez Canada Post / Postes Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1133312",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-462cd22820"
-  },
-  {
-    "id": "jf-8c3d3ab6da",
-    "titre": "Director Operations Logistics",
-    "entreprise": "Cloetta",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "infosec",
-      "teaching",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Director Operations Logistics chez Cloetta, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-operations-logistics-cloetta-1133321",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-8c3d3ab6da"
-  },
-  {
-    "id": "jf-aeafb9a0d1",
-    "titre": "sdf",
-    "entreprise": "Women Builders Council",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Full Time",
-    "remote": true,
-    "competences": [
-      "full time",
-      "other"
-    ],
-    "resume_neutre": "sdf chez Women Builders Council, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sdf-women-builders-council-1133263",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-aeafb9a0d1"
-  },
-  {
-    "id": "jf-214affe6f1",
-    "titre": "asdffd",
-    "entreprise": "Women Builders Council",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Full Time",
-    "remote": true,
-    "competences": [
-      "full time",
-      "other"
-    ],
-    "resume_neutre": "asdffd chez Women Builders Council, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-asdffd-women-builders-council-1133262",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-214affe6f1"
   }
 ]
