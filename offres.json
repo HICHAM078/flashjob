@@ -1,5 +1,286 @@
 [
   {
+    "id": "jf-7b17a48188",
+    "titre": "Startup Investment & Strategy Specialist",
+    "entreprise": "CapitexAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "analyst",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Startup Investment & Strategy Specialist chez CapitexAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-startup-investment-strategy-specialist-capitexai-1133461",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-7b17a48188"
+  },
+  {
+    "id": "jf-c0a802aa81",
+    "titre": "Founding Designer",
+    "entreprise": "Leap",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Founding Designer chez Leap, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-founding-designer-leap-1133489",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-c0a802aa81"
+  },
+  {
+    "id": "jf-5481ddfed1",
+    "titre": "Venture Capital & Startup Investment Expert",
+    "entreprise": "CapitexAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "customer support",
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "Venture Capital & Startup Investment Expert chez CapitexAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-venture-capital-startup-investment-expert-capitexai-1133460",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-5481ddfed1"
+  },
+  {
+    "id": "jf-e322024260",
+    "titre": "FP&A Analyst",
+    "entreprise": "CapitexAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "customer support",
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "FP&A Analyst chez CapitexAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fpa-analyst-capitexai-1133459",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-e322024260"
+  },
+  {
+    "id": "jf-7b94402e03",
+    "titre": "North America Field Marketing and Events Manager",
+    "entreprise": "Rithum",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "dev",
+      "marketing",
+      "content writing",
+      "senior"
+    ],
+    "resume_neutre": "North America Field Marketing and Events Manager chez Rithum, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-north-america-field-marketing-and-events-manager-rithum-1133458",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-7b94402e03"
+  },
+  {
+    "id": "jf-e488dfc14c",
+    "titre": "Talent Acquisition Partner",
+    "entreprise": "Peak Credit Union",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Talent Acquisition Partner chez Peak Credit Union, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-partner-peak-credit-union-1133457",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-e488dfc14c"
+  },
+  {
+    "id": "jf-b59fed31f5",
+    "titre": "DevSecOps Engineer",
+    "entreprise": "TrueML",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "infosec",
+      "python",
+      "education"
+    ],
+    "resume_neutre": "DevSecOps Engineer chez TrueML, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-devsecops-engineer-trueml-1133456",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-b59fed31f5"
+  },
+  {
+    "id": "jf-ee8b194244",
+    "titre": "Senior Product Manager",
+    "entreprise": "Distru",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "jira",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior Product Manager chez Distru, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-distru-1133455",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-ee8b194244"
+  },
+  {
+    "id": "jf-bf9321ca7d",
+    "titre": "Research Analyst",
+    "entreprise": "Gritter Francona",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "senior",
+      "payroll",
+      "admin",
+      "design"
+    ],
+    "resume_neutre": "Research Analyst chez Gritter Francona, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-research-analyst-gritter-francona-1133518",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-bf9321ca7d"
+  },
+  {
+    "id": "jf-a3bdf84c2c",
+    "titre": "Marketing Assistant",
+    "entreprise": "Sleek Marketing",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "education",
+      "exec",
+      "strategy"
+    ],
+    "resume_neutre": "Marketing Assistant chez Sleek Marketing, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-sleek-marketing-1133502",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-a3bdf84c2c"
+  },
+  {
+    "id": "jf-19626401b1",
+    "titre": "Junior Business &amp; Data Analyst",
+    "entreprise": "Upgrade, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Junior Business &amp; Data Analyst chez Upgrade, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-business-amp-data-analyst-upgrade-inc-1133488",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-19626401b1"
+  },
+  {
+    "id": "jf-d3c577cec5",
+    "titre": "Communications Associate",
+    "entreprise": "Discord",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Communications Associate chez Discord, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-communications-associate-discord-1133487",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-d3c577cec5"
+  },
+  {
+    "id": "jf-e1d5911488",
+    "titre": "Pharmacology Research Specialist",
+    "entreprise": "STEM Sync AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Pharmacology Research Specialist chez STEM Sync AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pharmacology-research-specialist-stem-sync-ai-1133451",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-17",
+    "ref_unique": "jf-e1d5911488"
+  },
+  {
     "id": "jf-9ae72c01e7",
     "titre": "Graphic Designer",
     "entreprise": "The Fountain Group",
@@ -5457,265 +5738,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-12",
     "ref_unique": "jf-214affe6f1"
-  },
-  {
-    "id": "jf-0acd5f9277",
-    "titre": "sadfsdf",
-    "entreprise": "Women Builders Council",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Full Time",
-    "remote": true,
-    "competences": [
-      "full time",
-      "other"
-    ],
-    "resume_neutre": "sadfsdf chez Women Builders Council, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sadfsdf-women-builders-council-1133261",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-0acd5f9277"
-  },
-  {
-    "id": "jf-84727c6b88",
-    "titre": "sdsfda",
-    "entreprise": "Women Builders Council",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Full Time",
-    "remote": true,
-    "competences": [
-      "full time",
-      "other"
-    ],
-    "resume_neutre": "sdsfda chez Women Builders Council, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sdsfda-women-builders-council-1133260",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-84727c6b88"
-  },
-  {
-    "id": "jf-5e2dc1d0e4",
-    "titre": "E Commerce Sales Executive",
-    "entreprise": "FoodMe Global / Dine Palace",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "junior",
-      "engineer",
-      "digital nomad",
-      "hr"
-    ],
-    "resume_neutre": "E Commerce Sales Executive chez FoodMe Global / Dine Palace, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-e-commerce-sales-executive-foodme-global-dine-palace-1133259",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-5e2dc1d0e4"
-  },
-  {
-    "id": "jf-694c28833c",
-    "titre": "Junior Software Engineer",
-    "entreprise": "StatusNeo",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "junior",
-      "engineer",
-      "digital nomad"
-    ],
-    "resume_neutre": "Junior Software Engineer chez StatusNeo, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-statusneo-1133251",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-694c28833c"
-  },
-  {
-    "id": "jf-c0dd4f44c3",
-    "titre": "Medical Editor",
-    "entreprise": "Synchrony Group, LLC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "ios",
-      "sys admin",
-      "consulting",
-      "technical"
-    ],
-    "resume_neutre": "Medical Editor chez Synchrony Group, LLC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-c0dd4f44c3"
-  },
-  {
-    "id": "jf-4e50ef2cdd",
-    "titre": "Data Scientist",
-    "entreprise": "Why Hiring",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "jira",
-      "designer",
-      "speech",
-      "exec"
-    ],
-    "resume_neutre": "Data Scientist chez Why Hiring, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-4e50ef2cdd"
-  },
-  {
-    "id": "jf-bfa5f14adf",
-    "titre": "Auxiliar Administrativo Remoto",
-    "entreprise": "Empresa Confidencial",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Auxiliar Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133267",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-bfa5f14adf"
-  },
-  {
-    "id": "jf-9838fade0a",
-    "titre": "Assistente Administrativo Remoto",
-    "entreprise": "Empresa Confidencial",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "non tech"
-    ],
-    "resume_neutre": "Assistente Administrativo Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133270",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-9838fade0a"
-  },
-  {
-    "id": "jf-fedf4ed1f9",
-    "titre": "Life Coach for Students Online Role",
-    "entreprise": "FindTutors",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "backend",
-      "digital nomad",
-      "embedded",
-      "sys admin"
-    ],
-    "resume_neutre": "Life Coach for Students Online Role chez FindTutors, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-life-coach-for-students-online-role-findtutors-1133244",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-fedf4ed1f9"
-  },
-  {
-    "id": "jf-7309425aaa",
-    "titre": "Junior Web Designer",
-    "entreprise": "INFUSE",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web Dev",
-    "remote": true,
-    "competences": [
-      "web dev",
-      "design",
-      "hr",
-      "infosec",
-      "designer"
-    ],
-    "resume_neutre": "Junior Web Designer chez INFUSE, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-infuse-1133315",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-12",
-    "ref_unique": "jf-7309425aaa"
-  },
-  {
-    "id": "ma-d0e4206685",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=1&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=39&relb=110&brelb=110&bscr=2907.1328&scr=2907.1328",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-d0e4206685"
-  },
-  {
-    "id": "ma-ab850efb35",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6348665148464256431?ckey=emploi&rgn=0&pos=2&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=63&relb=100&brelb=100&bscr=2750.162&scr=2750.1619999999994",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-ab850efb35"
-  },
-  {
-    "id": "ma-89f39a6749",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186795501426464658?ckey=emploi&rgn=0&pos=3&elckey=8707487513003847071&p=1&aq=3514067231035010632&cid=20&jobAge=63&relb=100&brelb=100&bscr=2512.3855&scr=2512.3855",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-12",
-    "ref_unique": "ma-89f39a6749"
   }
 ]
