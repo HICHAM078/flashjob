@@ -1,5 +1,35 @@
 [
   {
+    "cat": "الترشيح",
+    "titre": "رسالة تحفيزية مقنعة: قصيرة ومُوجَّهة",
+    "excerpt": "كثيرون يهملونها أو يطيلونها بلا فائدة. حين تُكتب جيداً، تصنع الفرق.",
+    "body": [
+      "الرسالة التحفيزية لم تمت، بل غيّرت شكلها. اليوم تتسع غالباً في نص بريد إلكتروني قصير، ويجب أن تدخل في صلب الموضوع. الرسالة العامة المنسوخة تضرّ أكثر مما تنفع.",
+      "<b>القاعدة الذهبية: الإيجاز.</b> ثلاث إلى أربع فقرات، صفحة واحدة كحد أقصى. الموظِّف يريد أن يفهم في ثلاثين ثانية لماذا تكتب وما الذي تقدّمه.",
+      "<b>الفقرة الأولى — الجذب.</b> قل مباشرة أي منصب تستهدف وما الذي يحفّزك تحديداً في هذه الشركة. تجنّب العبارات الجاهزة الفارغة.",
+      "<b>الفقرة الثانية — أنت.</b> اربط مسارك بحاجة الشركة، وأعطِ مثالاً أو مثالين ملموسين، ويُفضَّل بالأرقام. لا تكرّر سيرتك بل أضِئها.",
+      "<b>الخاتمة.</b> جملة بسيطة تقترح مقابلة، تليها صيغة تأدّب. ولا تنسَ تكييف الجذب ومثال واحد على الأقل مع كل عرض."
+    ],
+    "lang": "ar",
+    "id": "news-1781785117-ar",
+    "date": "18 juin 2026"
+  },
+  {
+    "cat": "Conseil CV",
+    "titre": "CV vidéo : utile ou risqué ?",
+    "excerpt": "Le CV vidéo intrigue les recruteurs mais ne convient pas à tous les métiers. Faut-il s'y mettre ?",
+    "body": [
+      "Le CV vidéo — une courte présentation filmée de soi — séduit certains candidats. Il peut marquer les esprits… ou desservir, selon le contexte. Voici comment décider.",
+      "<b>Quand il aide.</b> Pour les métiers de communication, vente, marketing ou création, où l'aisance à l'oral et la personnalité comptent, une vidéo bien faite peut faire la différence.",
+      "<b>Quand il dessert.</b> Pour des postes techniques ou administratifs, il peut paraître hors sujet. Et une vidéo mal réalisée laisse une pire impression qu'un bon CV classique.",
+      "<b>Les règles d'or.</b> Court (moins d'une minute), soigné (lumière, son, cadre net), et complémentaire au CV écrit, jamais à sa place.",
+      "<b>Le bon réflexe.</b> Proposez-le en option (un lien dans le CV), sans imposer. Le recruteur le regarde s'il le souhaite, et vous ne perdez rien."
+    ],
+    "lang": "fr",
+    "id": "news-1781785117-fr",
+    "date": "18 juin 2026"
+  },
+  {
     "cat": "سوق الشغل",
     "titre": "ما القطاعات التي توظّف أكثر في المغرب؟",
     "excerpt": "توجيه البحث نحو القطاعات الواعدة يغيّر كل شيء. جولة على المجالات التي توظّف باستمرار.",
