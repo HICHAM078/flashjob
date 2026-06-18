@@ -1,5 +1,434 @@
 [
   {
+    "id": "jf-ae29e2456b",
+    "titre": "Executive Assistant",
+    "entreprise": "GrowthAssistant",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "dev",
+      "travel",
+      "finance"
+    ],
+    "resume_neutre": "Executive Assistant chez GrowthAssistant, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-growthassistant-1133569",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-ae29e2456b"
+  },
+  {
+    "id": "jf-1169c29a97",
+    "titre": "Data Entry Specialist",
+    "entreprise": "Somewhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "dev",
+      "travel",
+      "finance"
+    ],
+    "resume_neutre": "Data Entry Specialist chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-somewhere-1133567",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-1169c29a97"
+  },
+  {
+    "id": "jf-2f57f1b1cc",
+    "titre": "Data Entry",
+    "entreprise": "Smart IT Frame LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing",
+      "junior",
+      "marketing",
+      "legal"
+    ],
+    "resume_neutre": "Data Entry chez Smart IT Frame LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-smart-it-frame-llc-1133577",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-2f57f1b1cc"
+  },
+  {
+    "id": "jf-3ca57ec088",
+    "titre": "Help Desk",
+    "entreprise": "Zenius Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "medical",
+      "customer support",
+      "amazon"
+    ],
+    "resume_neutre": "Help Desk chez Zenius Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-3ca57ec088"
+  },
+  {
+    "id": "jf-b2f32c9ccb",
+    "titre": "Scrum Master",
+    "entreprise": "SIRITECH SOLUTIONS CORP",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Scrum Master chez SIRITECH SOLUTIONS CORP, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-siritech-solutions-corp-1133563",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-b2f32c9ccb"
+  },
+  {
+    "id": "jf-4d2da95cf8",
+    "titre": "Payroll Specialist",
+    "entreprise": "Elevate LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Payroll Specialist chez Elevate LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-elevate-llc-1133562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-4d2da95cf8"
+  },
+  {
+    "id": "jf-c9249482e4",
+    "titre": "Document Specialist",
+    "entreprise": "CapitexAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Document Specialist chez CapitexAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-document-specialist-capitexai-1133559",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-c9249482e4"
+  },
+  {
+    "id": "jf-ed8b3de2e4",
+    "titre": "Operations Coordinator",
+    "entreprise": "CapitexAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Operations Coordinator chez CapitexAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-coordinator-capitexai-1133557",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-ed8b3de2e4"
+  },
+  {
+    "id": "jf-0340ea0c2f",
+    "titre": "Assistant Director Convenings",
+    "entreprise": "AccessLex Institute",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Assistant Director Convenings chez AccessLex Institute, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-director-convenings-accesslex-institute-1133554",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-0340ea0c2f"
+  },
+  {
+    "id": "jf-90b11e2bc0",
+    "titre": "Elementary Teacher K 5",
+    "entreprise": "Stellar Virtual",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Elementary Teacher K 5 chez Stellar Virtual, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-elementary-teacher-k-5-stellar-virtual-1133552",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-90b11e2bc0"
+  },
+  {
+    "id": "jf-2a3f6d342c",
+    "titre": "Social Media Manager",
+    "entreprise": "NeoReach",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time"
+    ],
+    "resume_neutre": "Social Media Manager chez NeoReach, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-neoreach-1133551",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-2a3f6d342c"
+  },
+  {
+    "id": "jf-99a6cc11b9",
+    "titre": "Paralegal Senior Paralegal Fully",
+    "entreprise": "Leadenhall Search & Selection",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior"
+    ],
+    "resume_neutre": "Paralegal Senior Paralegal Fully chez Leadenhall Search & Selection, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-paralegal-senior-paralegal-fully-leadenhall-search-selection-1133550",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-99a6cc11b9"
+  },
+  {
+    "id": "jf-e3da79658b",
+    "titre": "People Operations",
+    "entreprise": "NABIS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "People Operations chez NABIS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-people-operations-nabis-1133555",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-e3da79658b"
+  },
+  {
+    "id": "jf-a4dc727267",
+    "titre": "Social Media and YouTube Content Manager",
+    "entreprise": "Podcast Monkey",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "exec",
+      "social media",
+      "part time",
+      "teaching"
+    ],
+    "resume_neutre": "Social Media and YouTube Content Manager chez Podcast Monkey, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-and-youtube-content-manager-podcast-monkey-1133556",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-a4dc727267"
+  },
+  {
+    "id": "jf-5783398f91",
+    "titre": "Auxiliar Administrativo",
+    "entreprise": "Foursys",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar Administrativo chez Foursys, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-foursys-1133549",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-5783398f91"
+  },
+  {
+    "id": "jf-80408c6313",
+    "titre": "Client Success Manager",
+    "entreprise": "Empathy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "finance",
+      "c"
+    ],
+    "resume_neutre": "Client Success Manager chez Empathy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-success-manager-empathy-1133591",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-80408c6313"
+  },
+  {
+    "id": "jf-06111c08f4",
+    "titre": "Virtual Assistant",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing",
+      "junior",
+      "marketing",
+      "legal"
+    ],
+    "resume_neutre": "Virtual Assistant chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-onlinejobs-ph-1133575",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-06111c08f4"
+  },
+  {
+    "id": "jf-66cac0b260",
+    "titre": "Farm Hand",
+    "entreprise": "Department of Education and Training",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Farm Hand chez Department of Education and Training, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-farm-hand-department-of-education-and-training-1133571",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-66cac0b260"
+  },
+  {
+    "id": "jf-8b6ba33381",
+    "titre": "Receptionist Front Office Executive",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "designer",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "Receptionist Front Office Executive chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-receptionist-front-office-executive-work-force-nexus-1133547",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-8b6ba33381"
+  },
+  {
+    "id": "jf-d1e4fbd363",
+    "titre": "Sales Representative State and Local Education",
+    "entreprise": "NOBLE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "virtual assistant",
+      "customer support",
+      "non tech",
+      "exec"
+    ],
+    "resume_neutre": "Sales Representative State and Local Education chez NOBLE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-representative-state-and-local-education-noble-1133686",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-18",
+    "ref_unique": "jf-d1e4fbd363"
+  },
+  {
     "id": "jf-e3ee189614",
     "titre": "Designer",
     "entreprise": "Newsquest Media Group",
@@ -5353,382 +5782,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-15",
     "ref_unique": "ma-b8652b9973"
-  },
-  {
-    "id": "ma-7b168b2f74",
-    "titre": "Profil Support Informatique / Helpdesk (H/F)",
-    "entreprise": "Smile Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Profil Support Informatique / Helpdesk (H/F) chez Smile Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/906422177711326141?ckey=informatique&rgn=0&pos=7&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=3425&relb=100&brelb=100&bscr=2234.101&scr=2234.101",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-7b168b2f74"
-  },
-  {
-    "id": "ma-767dd1843e",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=8&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=6374&relb=100&brelb=100&bscr=2219.1663&scr=2219.1663",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-767dd1843e"
-  },
-  {
-    "id": "ma-30d1af6e91",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=9&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=6374&relb=100&brelb=100&bscr=1965.8866&scr=1965.8866",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-30d1af6e91"
-  },
-  {
-    "id": "ma-00c380c351",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=informatique&rgn=0&pos=10&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=800&relb=140&brelb=100&bscr=238.41292&scr=333.77808799999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-00c380c351"
-  },
-  {
-    "id": "ma-74d6e5f7ab",
-    "titre": "Team-Leader",
-    "entreprise": "Consort Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Team-Leader chez Consort Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2294378550238924965?ckey=informatique&rgn=0&pos=11&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=329&relb=110&brelb=110&bscr=286.43762&scr=286.43762",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-74d6e5f7ab"
-  },
-  {
-    "id": "ma-98503da6a2",
-    "titre": "Télévendeurs dynamiques",
-    "entreprise": "Smart Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs dynamiques chez Smart Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/215007376972066564?ckey=informatique&rgn=0&pos=12&elckey=-7204036081207874481&p=1&aq=7000525838164755433&cid=20&jobAge=89&relb=110&brelb=110&bscr=275.20312&scr=275.20312",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-98503da6a2"
-  },
-  {
-    "id": "jf-2d42599ba7",
-    "titre": "Production Utility",
-    "entreprise": "FXI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "design",
-      "dev",
-      "recruiter",
-      "digital nomad"
-    ],
-    "resume_neutre": "Production Utility chez FXI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-production-utility-fxi-1133415",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-15",
-    "ref_unique": "jf-2d42599ba7"
-  },
-  {
-    "id": "jf-82d4e3d767",
-    "titre": "Medical Scribe Female Only",
-    "entreprise": "Angel City VA Recruitment",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Recruiter",
-    "remote": true,
-    "competences": [
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "Medical Scribe Female Only chez Angel City VA Recruitment, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-15",
-    "ref_unique": "jf-82d4e3d767"
-  },
-  {
-    "id": "jf-c882d8abc6",
-    "titre": "test",
-    "entreprise": "Fluidstack",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "design",
-      "dev",
-      "recruiter",
-      "digital nomad"
-    ],
-    "resume_neutre": "test chez Fluidstack, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-15",
-    "ref_unique": "jf-c882d8abc6"
-  },
-  {
-    "id": "jf-b00ea5e1f8",
-    "titre": "Illustrator",
-    "entreprise": "Odixcity Consulting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "microsoft",
-      "exec",
-      "junior",
-      "consulting"
-    ],
-    "resume_neutre": "Illustrator chez Odixcity Consulting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-15",
-    "ref_unique": "jf-b00ea5e1f8"
-  },
-  {
-    "id": "jf-1f10ceb9ee",
-    "titre": "Programa Futuros Profesionales Productos Digitales",
-    "entreprise": "Universia Argentina",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Programa Futuros Profesionales Productos Digitales chez Universia Argentina, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-programa-futuros-profesionales-productos-digitales-universia-argentina-1133398",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-15",
-    "ref_unique": "jf-1f10ceb9ee"
-  },
-  {
-    "id": "jf-c75fb543c3",
-    "titre": "Customer Service Representative",
-    "entreprise": "Point72",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "admin",
-      "education",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Customer Service Representative chez Point72, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-14",
-    "ref_unique": "jf-c75fb543c3"
-  },
-  {
-    "id": "ma-3a6732feb9",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=1&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=62&relb=110&brelb=110&bscr=2882.0525&scr=2882.0525",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-3a6732feb9"
-  },
-  {
-    "id": "ma-f98413e501",
-    "titre": "OFFRE D'EMPLOI : Développeur Web Full Stack",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Développeur Web Full Stack chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4459371398309759540?ckey=emploi&rgn=0&pos=2&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=62&relb=110&brelb=110&bscr=2709.6711&scr=2709.6711",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-f98413e501"
-  },
-  {
-    "id": "ma-d4dd375bfa",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=3&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=110&relb=100&brelb=100&bscr=2610.4062&scr=2610.4062",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-d4dd375bfa"
-  },
-  {
-    "id": "ma-bc6ca78ccc",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=4&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=62&relb=110&brelb=110&bscr=2574.4302&scr=2574.4302",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-bc6ca78ccc"
-  },
-  {
-    "id": "ma-93730cc6f3",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1560185854564101088?ckey=emploi&rgn=0&pos=5&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=566&relb=110&brelb=110&bscr=2497.785&scr=2497.785",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-93730cc6f3"
-  },
-  {
-    "id": "ma-ba3f8d6ccf",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186795501426464658?ckey=emploi&rgn=0&pos=6&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=110&relb=100&brelb=100&bscr=2454.273&scr=2454.273",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-ba3f8d6ccf"
-  },
-  {
-    "id": "ma-5cdecdf3b4",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=7&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=38&relb=110&brelb=110&bscr=2445.5247&scr=2445.5247",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-5cdecdf3b4"
-  },
-  {
-    "id": "ma-9106514b8a",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=8&elckey=-7316371663104829610&p=1&aq=-2760887647392396508&cid=20&jobAge=38&relb=110&brelb=110&bscr=2382.6318&scr=2382.6318",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-14",
-    "ref_unique": "ma-9106514b8a"
   }
 ]
