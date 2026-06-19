@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-1405885b25",
+    "titre": "Staff Product Manager Product Information Management",
+    "entreprise": "HighLevel",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Staff Product Manager Product Information Management chez HighLevel, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-1405885b25"
+  },
+  {
+    "id": "jf-6c753cd0af",
+    "titre": "Junior Data Analyst",
+    "entreprise": "Haystack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "python",
+      "education",
+      "microsoft",
+      "data science"
+    ],
+    "resume_neutre": "Junior Data Analyst chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-6c753cd0af"
+  },
+  {
+    "id": "jf-85c87078b8",
+    "titre": "Administrative Assistant",
+    "entreprise": "GreenPump Energy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "customer support",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Administrative Assistant chez GreenPump Energy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-greenpump-energy-1133597",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-85c87078b8"
+  },
+  {
     "id": "jf-93e6b37d14",
     "titre": "Social Media Manager",
     "entreprise": "Crypto.com",
@@ -5756,59 +5822,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-15",
     "ref_unique": "ma-1ea3abfa8a"
-  },
-  {
-    "id": "ma-17aa8b2568",
-    "titre": "Commercial en assurance décennale",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial en assurance décennale chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1853586320333477339?ckey=commercial&rgn=938&pos=3&elckey=-709771146280507281&p=1&aq=-9073489711148266235&cid=20&jobAge=425&relb=110&brelb=110&bscr=1722.482&scr=1722.482",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-17aa8b2568"
-  },
-  {
-    "id": "ma-3ac8009ee3",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1898566766051505189?ckey=commercial&rgn=938&pos=4&elckey=-709771146280507281&p=1&aq=-9073489711148266235&cid=20&jobAge=113&relb=110&brelb=110&bscr=1699.1077&scr=1699.1077",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-3ac8009ee3"
-  },
-  {
-    "id": "ma-cb432ae63e",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6091666468503139445?ckey=commercial&rgn=938&pos=5&elckey=-709771146280507281&p=1&aq=-9073489711148266235&cid=20&jobAge=329&relb=110&brelb=110&bscr=1685.9308&scr=1685.9308",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-15",
-    "ref_unique": "ma-cb432ae63e"
   }
 ]
