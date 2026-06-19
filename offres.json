@@ -1,5 +1,132 @@
 [
   {
+    "id": "jf-2d31587db9",
+    "titre": "Operations Administrator",
+    "entreprise": "RECSEEKERS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "medical",
+      "customer support",
+      "amazon"
+    ],
+    "resume_neutre": "Operations Administrator chez RECSEEKERS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-administrator-recseekers-1133675",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-2d31587db9"
+  },
+  {
+    "id": "jf-4df003116c",
+    "titre": "HR Administrative Assistant",
+    "entreprise": "Atlantic Health Strategiesâ¢",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "medical"
+    ],
+    "resume_neutre": "HR Administrative Assistant chez Atlantic Health Strategiesâ¢, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-administrative-assistant-atlantic-health-strategiestm-1133671",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-4df003116c"
+  },
+  {
+    "id": "jf-95e052dc93",
+    "titre": "Documentation Specialist",
+    "entreprise": "Pinnacle Home Care",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "dev",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Documentation Specialist chez Pinnacle Home Care, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-documentation-specialist-pinnacle-home-care-1133694",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-95e052dc93"
+  },
+  {
+    "id": "jf-b80833ffe1",
+    "titre": "Senior Backend Engineer Studio AI",
+    "entreprise": "Creative Fabrica",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "technical",
+      "dev",
+      "senior",
+      "engineer"
+    ],
+    "resume_neutre": "Senior Backend Engineer Studio AI chez Creative Fabrica, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-b80833ffe1"
+  },
+  {
+    "id": "jf-e26d2f5bdc",
+    "titre": "Customer Solutions Technician",
+    "entreprise": "Johnson Controls",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "exec"
+    ],
+    "resume_neutre": "Customer Solutions Technician chez Johnson Controls, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-solutions-technician-johnson-controls-1133699",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-e26d2f5bdc"
+  },
+  {
+    "id": "jf-ce87a4652a",
+    "titre": "Graphic Designer",
+    "entreprise": "Swoon",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "medical",
+      "customer support",
+      "amazon"
+    ],
+    "resume_neutre": "Graphic Designer chez Swoon, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-19",
+    "ref_unique": "jf-ce87a4652a"
+  },
+  {
     "id": "jf-56488f808b",
     "titre": "Sales Director Dairy Ingredients",
     "entreprise": "Kinisla",
@@ -5715,113 +5842,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-16",
     "ref_unique": "ma-8c974e564e"
-  },
-  {
-    "id": "ma-6143932e7f",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1349205964444540409?ckey=comptable&rgn=946&pos=11&elckey=-4628801650590408256&p=1&aq=3962665532737542133&cid=20&jobAge=160&relb=100&brelb=100&bscr=2108.4944&scr=2108.4944",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-6143932e7f"
-  },
-  {
-    "id": "ma-72ebaa6eed",
-    "titre": "Chef Comptable",
-    "entreprise": "SOFITEL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef Comptable chez SOFITEL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6113476391465439851?ckey=comptable&rgn=946&pos=12&elckey=-4628801650590408256&p=1&aq=3962665532737542133&cid=20&jobAge=1000&relb=100&brelb=100&bscr=2106.2046&scr=2106.2046",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-72ebaa6eed"
-  },
-  {
-    "id": "ma-7c717609e2",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4361851844518967016?ckey=commercial&rgn=938&pos=1&elckey=-8299745293899989073&p=1&aq=31156724040000027&cid=20&jobAge=184&relb=110&brelb=110&bscr=1807.7532&scr=1807.7532",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-7c717609e2"
-  },
-  {
-    "id": "ma-fc3216cb6e",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=2&elckey=-8299745293899989073&p=1&aq=31156724040000027&cid=20&jobAge=256&relb=110&brelb=110&bscr=1794.483&scr=1794.483",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-fc3216cb6e"
-  },
-  {
-    "id": "ma-4101fab9d1",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8665152798313974671?ckey=commercial&rgn=938&pos=3&elckey=-8299745293899989073&p=1&aq=31156724040000027&cid=20&jobAge=328&relb=110&brelb=110&bscr=1775.527&scr=1775.527",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-4101fab9d1"
-  },
-  {
-    "id": "ma-d8945b1ac5",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1358942003401293643?ckey=commercial&rgn=938&pos=4&elckey=-8299745293899989073&p=1&aq=31156724040000027&cid=20&jobAge=352&relb=110&brelb=110&bscr=1712.2954&scr=1712.2954",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-d8945b1ac5"
   }
 ]
