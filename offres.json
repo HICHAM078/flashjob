@@ -1,5 +1,83 @@
 [
   {
+    "id": "jf-85db4b73a5",
+    "titre": "Executive Assistant France",
+    "entreprise": "Zirtual",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "exec"
+    ],
+    "resume_neutre": "Executive Assistant France chez Zirtual, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-85db4b73a5"
+  },
+  {
+    "id": "jf-fa0b181a43",
+    "titre": "Employment Lawyer Fully",
+    "entreprise": "KMA Legal Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Legal",
+    "remote": true,
+    "competences": [
+      "legal",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Employment Lawyer Fully chez KMA Legal Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-fa0b181a43"
+  },
+  {
+    "id": "jf-68fbce7953",
+    "titre": "Junior Graphic Designer",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "junior"
+    ],
+    "resume_neutre": "Junior Graphic Designer chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-work-force-nexus-1133696",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-68fbce7953"
+  },
+  {
+    "id": "jf-6b1a6cdc21",
+    "titre": "Executive & Admin Assistant",
+    "entreprise": "Nexist",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Executive & Admin Assistant chez Nexist, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-admin-assistant-nexist-1133695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-6b1a6cdc21"
+  },
+  {
     "id": "jf-a8d9602409",
     "titre": "Corporate Commercial Paralegal Fully",
     "entreprise": "Leadenhall Search & Selection",
@@ -5793,77 +5871,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-16",
     "ref_unique": "ma-68f7809618"
-  },
-  {
-    "id": "ma-658c7a268e",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=8&elckey=-8509015690483621635&p=1&aq=2528430650451971397&cid=20&jobAge=40&relb=110&brelb=110&bscr=2421.1958&scr=2421.1958",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-658c7a268e"
-  },
-  {
-    "id": "ma-70e701bbc0",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7852488847259269047?ckey=emploi&rgn=0&pos=9&elckey=-8509015690483621635&p=1&aq=2528430650451971397&cid=20&jobAge=160&relb=100&brelb=100&bscr=2407.6357&scr=2407.6357",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-70e701bbc0"
-  },
-  {
-    "id": "ma-5e582c6ccc",
-    "titre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar",
-    "entreprise": "MARJANE MARKET",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar chez MARJANE MARKET, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8182032409462160561?ckey=emploi&rgn=0&pos=10&elckey=-8509015690483621635&p=1&aq=2528430650451971397&cid=20&jobAge=112&relb=100&brelb=100&bscr=2262.1777&scr=2262.1777",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-5e582c6ccc"
-  },
-  {
-    "id": "ma-69e2f83b1b",
-    "titre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4669127627816070580?ckey=emploi&rgn=0&pos=11&elckey=-8509015690483621635&p=1&aq=2528430650451971397&cid=20&jobAge=640&relb=110&brelb=110&bscr=2210.4287&scr=2210.4287",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-16",
-    "ref_unique": "ma-69e2f83b1b"
   }
 ]
