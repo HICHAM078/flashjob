@@ -1,5 +1,47 @@
 [
   {
+    "id": "jf-902c6de41b",
+    "titre": "Election Officials",
+    "entreprise": "City of New Westminster",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Election Officials chez City of New Westminster, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-election-officials-city-of-new-westminster-1133723",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-902c6de41b"
+  },
+  {
+    "id": "jf-8b9b750d16",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Recruitlytixs HR",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Recruitlytixs HR, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hr-1133743",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-20",
+    "ref_unique": "jf-8b9b750d16"
+  },
+  {
     "id": "ma-9e5d5f7349",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5714,41 +5756,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-17",
     "ref_unique": "ma-f21aff1617"
-  },
-  {
-    "id": "ma-c4c7537151",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=4&elckey=643723394696181763&p=1&aq=6736929328945598094&cid=20&jobAge=279&relb=110&brelb=110&bscr=2517.2312&scr=2517.2312",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-c4c7537151"
-  },
-  {
-    "id": "ma-337ffc8ad4",
-    "titre": "Charge It ( SystÈme Et Support Informatique )",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Charge It ( SystÈme Et Support Informatique ) chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/3371045974041765204?ckey=informatique&rgn=0&pos=5&elckey=643723394696181763&p=1&aq=6736929328945598094&cid=20&jobAge=1383&relb=100&brelb=100&bscr=2277.4385&scr=2277.4385",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-337ffc8ad4"
   }
 ]
