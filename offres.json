@@ -1,5 +1,86 @@
 [
   {
+    "id": "jf-2dce0b3d8d",
+    "titre": "CHRO",
+    "entreprise": "NeuLife Rehabilitation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "video",
+      "exec",
+      "content writing",
+      "digital nomad"
+    ],
+    "resume_neutre": "CHRO chez NeuLife Rehabilitation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chro-neulife-rehabilitation-1133813",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-2dce0b3d8d"
+  },
+  {
+    "id": "jf-5ec07ef99a",
+    "titre": "Agente de Viajes Online",
+    "entreprise": "Viajes Marchante",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Agente de Viajes Online chez Viajes Marchante, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-5ec07ef99a"
+  },
+  {
+    "id": "jf-e0da1fa25b",
+    "titre": "Social Media Manager Fashion Brand",
+    "entreprise": "Twine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "social media"
+    ],
+    "resume_neutre": "Social Media Manager Fashion Brand chez Twine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-fashion-brand-twine-1133748",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-e0da1fa25b"
+  },
+  {
+    "id": "jf-2aed0ddc93",
+    "titre": "Retoucher",
+    "entreprise": "Agency MJ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "video",
+      "exec",
+      "content writing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Retoucher chez Agency MJ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-retoucher-agency-mj-1133811",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-2aed0ddc93"
+  },
+  {
     "id": "jf-695ea1cda9",
     "titre": "Assistant Store Manager",
     "entreprise": "Ross Stores, Inc.",
@@ -5646,85 +5727,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-18",
     "ref_unique": "ma-90632a155a"
-  },
-  {
-    "id": "ma-3a1c64eef7",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3439400492292443989?ckey=informatique&rgn=0&pos=11&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=111&relb=110&brelb=110&bscr=273.62473&scr=273.62473",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-3a1c64eef7"
-  },
-  {
-    "id": "ma-dc3c481218",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=12&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=63&relb=110&brelb=110&bscr=271.93408&scr=271.93408",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-dc3c481218"
-  },
-  {
-    "id": "jf-245cb9f1d5",
-    "titre": "Entry Level Administrative Assistant",
-    "entreprise": "RecruitLytixs Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "travel",
-      "finance"
-    ],
-    "resume_neutre": "Entry Level Administrative Assistant chez RecruitLytixs Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hires-1133566",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-245cb9f1d5"
-  },
-  {
-    "id": "jf-4cfd06a77c",
-    "titre": "Operations Support Manager",
-    "entreprise": "The Chartered Institute for Securities &amp; Investment (The CISI)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "travel",
-      "finance"
-    ],
-    "resume_neutre": "Operations Support Manager chez The Chartered Institute for Securities &amp; Investment (The CISI), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-support-manager-the-chartered-institute-for-securities-amp-investment-the-cisi-1133565",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-4cfd06a77c"
   }
 ]
