@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-99740d28dc",
+    "titre": "Manufacturing Operator I",
+    "entreprise": "Eaton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "technical",
+      "supervisor",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Manufacturing Operator I chez Eaton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-99740d28dc"
+  },
+  {
+    "id": "jf-52b4de7e76",
+    "titre": "Scrum Master",
+    "entreprise": "Haystack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "video",
+      "exec",
+      "content writing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Scrum Master chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-haystack-1133814",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-52b4de7e76"
+  },
+  {
+    "id": "jf-a8f43e632c",
+    "titre": "æ°åªä½è¿è¥ï¼çº¿ä¸ï¼",
+    "entreprise": "å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "æ°åªä½è¿è¥ï¼çº¿ä¸ï¼ chez å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-a8f43e632c"
+  },
+  {
+    "id": "jf-4c2046a0e2",
+    "titre": "Language Arts Teacher",
+    "entreprise": "Think Academy U.S",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "video",
+      "exec",
+      "content writing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Language Arts Teacher chez Think Academy U.S, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-language-arts-teacher-think-academy-u-s-1133816",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-4c2046a0e2"
+  },
+  {
     "id": "jf-d7f40c30c8",
     "titre": "Product Manager",
     "entreprise": "Cambridge Spark",
@@ -5768,77 +5852,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-17",
     "ref_unique": "ma-c9b0830df6"
-  },
-  {
-    "id": "ma-dc912b8ee2",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=12&elckey=6928717933039916401&p=1&aq=-1523584877609161333&cid=20&jobAge=39&relb=110&brelb=110&bscr=2203.6516&scr=2203.6516",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-dc912b8ee2"
-  },
-  {
-    "id": "ma-c90aa98c90",
-    "titre": "Aide comptable",
-    "entreprise": "ARCO TRAVAUX SPECIAUX",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide comptable chez ARCO TRAVAUX SPECIAUX, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1364046121436269195?ckey=comptable&rgn=946&pos=1&elckey=-7637812100776421836&p=1&aq=6459222490905319332&cid=20&jobAge=144&relb=140&brelb=100&bscr=2268.2058&scr=3175.4881200000004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-c90aa98c90"
-  },
-  {
-    "id": "ma-c175ab9614",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=comptable&rgn=946&pos=2&elckey=-7637812100776421836&p=1&aq=6459222490905319332&cid=20&jobAge=846&relb=140&brelb=100&bscr=2037.7058&scr=2852.7881199999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-c175ab9614"
-  },
-  {
-    "id": "ma-975faea67c",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=3&elckey=-7637812100776421836&p=1&aq=6459222490905319332&cid=20&jobAge=39&relb=100&brelb=100&bscr=2441.6453&scr=2441.6453",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-17",
-    "ref_unique": "ma-975faea67c"
   }
 ]
