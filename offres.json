@@ -1,5 +1,64 @@
 [
   {
+    "id": "jf-695ea1cda9",
+    "titre": "Assistant Store Manager",
+    "entreprise": "Ross Stores, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "technical",
+      "supervisor",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Assistant Store Manager chez Ross Stores, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-ross-stores-inc-1133775",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-695ea1cda9"
+  },
+  {
+    "id": "jf-ef23a03226",
+    "titre": "Content Creator UGC",
+    "entreprise": "Twine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing"
+    ],
+    "resume_neutre": "Content Creator UGC chez Twine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-creator-ugc-twine-1133744",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-ef23a03226"
+  },
+  {
+    "id": "jf-1e5bb6aee2",
+    "titre": "Content Creator",
+    "entreprise": "Vive Social + PR",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Content Creator chez Vive Social + PR, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-creator-vive-social-pr-1133820",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-21",
+    "ref_unique": "jf-1e5bb6aee2"
+  },
+  {
     "id": "ma-fa01cfdbd7",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5667,71 +5726,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-18",
     "ref_unique": "jf-4cfd06a77c"
-  },
-  {
-    "id": "jf-c0d7e3ce24",
-    "titre": "Head of Content",
-    "entreprise": "OnTheGoSystems",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Writer",
-    "remote": true,
-    "competences": [
-      "writer",
-      "strategy",
-      "customer support",
-      "marketing",
-      "seo"
-    ],
-    "resume_neutre": "Head of Content chez OnTheGoSystems, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-content-onthegosystems-1133539",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-c0d7e3ce24"
-  },
-  {
-    "id": "jf-c8e3e8562d",
-    "titre": "Social Support Coordinator",
-    "entreprise": "Focusrite",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "exec",
-      "social media",
-      "part time",
-      "teaching"
-    ],
-    "resume_neutre": "Social Support Coordinator chez Focusrite, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-support-coordinator-focusrite-1133553",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-c8e3e8562d"
-  },
-  {
-    "id": "jf-dd02107328",
-    "titre": "FX Dealer",
-    "entreprise": "RBC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "accounting",
-      "finance"
-    ],
-    "resume_neutre": "FX Dealer chez RBC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-fx-dealer-rbc-1133536",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-dd02107328"
   }
 ]
