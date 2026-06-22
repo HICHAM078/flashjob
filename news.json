@@ -1,5 +1,35 @@
 [
   {
+    "cat": "المسار المهني",
+    "titre": "المهارات الشخصية التي يبحث عنها المشغّلون",
+    "excerpt": "عند تساوي الشهادات، غالباً ما تصنع المهارات الشخصية الفرق. إليك أهمها وكيف تُثبتها.",
+    "body": [
+      "يُكثر الحديث عن المهارات التقنية، لكن المشغّلين يوظّفون أشخاصاً أيضاً. المهارات الشخصية والسلوكية تزن أكثر فأكثر في قرار التوظيف، والخبر السار أنها تُكتسب وتُبرهَن.",
+      "<b>التواصل.</b> القدرة على التعبير بوضوح والإنصات وتكييف الخطاب أساسٌ في أغلب المهن.",
+      "<b>القدرة على التكيّف.</b> الشركات تتغير بسرعة، وإظهارك القدرة على التعلّم واستيعاب المفاجآت يطمئن المشغّل كثيراً.",
+      "<b>روح الفريق وحل المشكلات.</b> قلّة من المناصب تُنجَز منفرداً. قدرتك على التعاون واقتراح حلول بدل الاكتفاء بالإبلاغ عن المشكل ميزة كبرى.",
+      "<b>كيف تُثبتها؟</b> لا تكتفِ بسردها، بل أرفِقها بأمثلة ملموسة. «نسّقت فريقاً من 4 أشخاص في مشروع سُلِّم قبل الأجل» أبلغ بكثير من عبارة «روح الفريق»."
+    ],
+    "lang": "ar",
+    "id": "news-1782138614-ar",
+    "date": "22 juin 2026"
+  },
+  {
+    "cat": "Réseau pro",
+    "titre": "Demander une recommandation : à qui, et comment",
+    "excerpt": "Une bonne recommandation rassure un recruteur. Encore faut-il la demander correctement.",
+    "body": [
+      "Une recommandation d'un ancien responsable ou collègue ajoute de la crédibilité à votre candidature. Mais une demande maladroite met mal à l'aise. Voici comment bien s'y prendre.",
+      "<b>Choisissez la bonne personne.</b> Quelqu'un qui a vu votre travail de près et qui en parlera positivement. La proximité et la sincérité valent mieux qu'un titre prestigieux.",
+      "<b>Demandez clairement et poliment.</b> Expliquez pourquoi vous sollicitez cette personne et pour quel type de poste. Laissez-lui la liberté de refuser sans gêne.",
+      "<b>Facilitez-lui la tâche.</b> Rappelez-lui vos réalisations marquantes et le contexte. Une personne occupée appréciera que vous lui mâchiez le travail.",
+      "<b>Remerciez, toujours.</b> Un mot de remerciement, et tenez-la informée de la suite. C'est ainsi qu'on entretient un réseau sur la durée."
+    ],
+    "lang": "fr",
+    "id": "news-1782138614-fr",
+    "date": "22 juin 2026"
+  },
+  {
     "cat": "الترشيح",
     "titre": "رسالة تحفيزية مقنعة: قصيرة ومُوجَّهة",
     "excerpt": "كثيرون يهملونها أو يطيلونها بلا فائدة. حين تُكتب جيداً، تصنع الفرق.",
