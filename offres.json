@@ -1,5 +1,156 @@
 [
   {
+    "id": "jf-be4b24a808",
+    "titre": "Freelance Designer",
+    "entreprise": "Houseink Studio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "testing",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "Freelance Designer chez Houseink Studio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-houseink-studio-1133817",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-be4b24a808"
+  },
+  {
+    "id": "jf-957a2cbb76",
+    "titre": "Director of Operations MSP Service Delivery",
+    "entreprise": "bdManagedIT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "coordinator",
+      "exec",
+      "web dev",
+      "speech"
+    ],
+    "resume_neutre": "Director of Operations MSP Service Delivery chez bdManagedIT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-operations-msp-service-delivery-bdmanagedit-1133848",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-957a2cbb76"
+  },
+  {
+    "id": "jf-6d790f16a6",
+    "titre": "TRANSPORT",
+    "entreprise": "Mississippi Army National Guard Biloxi Office",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "TRANSPORT chez Mississippi Army National Guard Biloxi Office, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-transport-mississippi-army-national-guard-biloxi-office-1133802",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-6d790f16a6"
+  },
+  {
+    "id": "jf-df7a5f7165",
+    "titre": "CYBER",
+    "entreprise": "Mississippi Army National Guard Biloxi Office",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "finance",
+      "c",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "CYBER chez Mississippi Army National Guard Biloxi Office, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cyber-mississippi-army-national-guard-biloxi-office-1133824",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-df7a5f7165"
+  },
+  {
+    "id": "jf-a64824c3f7",
+    "titre": "Corporate",
+    "entreprise": "Valpak of Southeastern Wisconsin",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "accounting"
+    ],
+    "resume_neutre": "Corporate chez Valpak of Southeastern Wisconsin, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-valpak-of-southeastern-wisconsin-1133840",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-a64824c3f7"
+  },
+  {
+    "id": "jf-8575ccde05",
+    "titre": "Data Analyst Data Warehouse Analytics and BI",
+    "entreprise": "OWL Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Data Analyst Data Warehouse Analytics and BI chez OWL Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-8575ccde05"
+  },
+  {
+    "id": "jf-2a94094297",
+    "titre": "Project Assistant",
+    "entreprise": "Talentoma",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Project Assistant chez Talentoma, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-assistant-talentoma-1133838",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-2a94094297"
+  },
+  {
     "id": "jf-2dce0b3d8d",
     "titre": "CHRO",
     "entreprise": "NeuLife Rehabilitation",
@@ -5601,131 +5752,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-18",
     "ref_unique": "ma-7493f44aa8"
-  },
-  {
-    "id": "ma-758f40d0c9",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=4&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=6444&relb=100&brelb=100&bscr=2229.986&scr=2229.986",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-758f40d0c9"
-  },
-  {
-    "id": "ma-a1e784a49b",
-    "titre": "Charge It ( SystÈme Et Support Informatique )",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Charge It ( SystÈme Et Support Informatique ) chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/3371045974041765204?ckey=informatique&rgn=0&pos=5&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=1407&relb=100&brelb=100&bscr=2226.2822&scr=2226.2822",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-a1e784a49b"
-  },
-  {
-    "id": "ma-f67ae6147d",
-    "titre": "Profil Support Informatique / Helpdesk (H/F)",
-    "entreprise": "Smile Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Profil Support Informatique / Helpdesk (H/F) chez Smile Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/906422177711326141?ckey=informatique&rgn=0&pos=6&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=3494&relb=100&brelb=100&bscr=2200.0957&scr=2200.0957",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-f67ae6147d"
-  },
-  {
-    "id": "ma-45ec710005",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=7&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=6444&relb=100&brelb=100&bscr=2173.7644&scr=2173.7644",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-45ec710005"
-  },
-  {
-    "id": "ma-b3702f0398",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=6444&relb=100&brelb=100&bscr=1919.8209&scr=1919.8209",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-b3702f0398"
-  },
-  {
-    "id": "ma-55338cd932",
-    "titre": "Comptable",
-    "entreprise": "MTB INVEST",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez MTB INVEST, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7589076371568474126?ckey=informatique&rgn=0&pos=9&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=870&relb=140&brelb=100&bscr=224.68309&scr=314.55632599999996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-55338cd932"
-  },
-  {
-    "id": "ma-90632a155a",
-    "titre": "Caissier / Caissière",
-    "entreprise": "SOFITEL",
-    "ville": "Marrakesh-Safi Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Caissier / Caissière chez SOFITEL, a Marrakesh-Safi Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5473781239871548499?ckey=informatique&rgn=0&pos=10&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=87&relb=100&brelb=100&bscr=274.21014&scr=274.21014",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-90632a155a"
   }
 ]
