@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-3810c1712f",
+    "titre": "Outside Sales Representative",
+    "entreprise": "Omada.ai",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "teaching",
+      "game dev",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Outside Sales Representative chez Omada.ai, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-outside-sales-representative-omada-ai-1133826",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-3810c1712f"
+  },
+  {
+    "id": "jf-5fc93b06fc",
+    "titre": "Operations Roles",
+    "entreprise": "Edirq",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "finance",
+      "c",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Operations Roles chez Edirq, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-roles-edirq-1133825",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-5fc93b06fc"
+  },
+  {
+    "id": "jf-9c7eb1e6bc",
+    "titre": "æ°åªä½è¿è¥çº¿ä¸",
+    "entreprise": "å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "æ°åªä½è¿è¥çº¿ä¸ chez å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-9c7eb1e6bc"
+  },
+  {
+    "id": "jf-cde619a832",
+    "titre": "ãè¿ç¨çº¿ä¸ãæ°åªä½è¿è",
+    "entreprise": "å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "ãè¿ç¨çº¿ä¸ãæ°åªä½è¿è chez å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-cde619a832"
+  },
+  {
     "id": "ma-6c5e3b56d8",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5642,85 +5730,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-18",
     "ref_unique": "jf-2a3f6d342c"
-  },
-  {
-    "id": "jf-99a6cc11b9",
-    "titre": "Paralegal Senior Paralegal Fully",
-    "entreprise": "Leadenhall Search & Selection",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior"
-    ],
-    "resume_neutre": "Paralegal Senior Paralegal Fully chez Leadenhall Search & Selection, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-paralegal-senior-paralegal-fully-leadenhall-search-selection-1133550",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-99a6cc11b9"
-  },
-  {
-    "id": "jf-e3da79658b",
-    "titre": "People Operations",
-    "entreprise": "NABIS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "exec",
-      "social media",
-      "part time",
-      "teaching"
-    ],
-    "resume_neutre": "People Operations chez NABIS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-people-operations-nabis-1133555",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-e3da79658b"
-  },
-  {
-    "id": "jf-a4dc727267",
-    "titre": "Social Media and YouTube Content Manager",
-    "entreprise": "Podcast Monkey",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "exec",
-      "social media",
-      "part time",
-      "teaching"
-    ],
-    "resume_neutre": "Social Media and YouTube Content Manager chez Podcast Monkey, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-and-youtube-content-manager-podcast-monkey-1133556",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-a4dc727267"
-  },
-  {
-    "id": "jf-5783398f91",
-    "titre": "Auxiliar Administrativo",
-    "entreprise": "Foursys",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Auxiliar Administrativo chez Foursys, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-foursys-1133549",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-5783398f91"
   }
 ]
