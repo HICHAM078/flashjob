@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-07c7b980df",
+    "titre": "Research and Quality Assistant",
+    "entreprise": "Cardiovascular Associates of America - CVAUSA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "video",
+      "exec",
+      "content writing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Research and Quality Assistant chez Cardiovascular Associates of America - CVAUSA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-research-and-quality-assistant-cardiovascular-associates-of-america-cvausa-1133812",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-07c7b980df"
+  },
+  {
+    "id": "jf-f647d31f5a",
+    "titre": "Members Don't Join for Dollar Value",
+    "entreprise": "Steward",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "finance",
+      "c",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Members Don't Join for Dollar Value chez Steward, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-members-dont-join-for-dollar-value-steward-1133822",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-f647d31f5a"
+  },
+  {
+    "id": "jf-32d8d4665e",
+    "titre": "Differentiating Membership Offers",
+    "entreprise": "Steward",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "finance",
+      "c",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Differentiating Membership Offers chez Steward, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-differentiating-membership-offers-steward-1133823",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-32d8d4665e"
+  },
+  {
+    "id": "jf-8aee43fb69",
+    "titre": "Project Scheduling Assistant",
+    "entreprise": "Talentoma",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "exec",
+      "customer support",
+      "dev",
+      "ops"
+    ],
+    "resume_neutre": "Project Scheduling Assistant chez Talentoma, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-scheduling-assistant-talentoma-1133856",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-22",
+    "ref_unique": "jf-8aee43fb69"
+  },
+  {
     "id": "jf-be4b24a808",
     "titre": "Freelance Designer",
     "entreprise": "Houseink Studio",
@@ -5680,77 +5768,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-18",
     "ref_unique": "ma-99ae0ca4b6"
-  },
-  {
-    "id": "ma-0fe67d7bfc",
-    "titre": "Nous recrutons : commerciaux experts en assurance Santé",
-    "entreprise": "Infocea Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons : commerciaux experts en assurance Santé chez Infocea Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/649772838029137627?ckey=commercial&rgn=938&pos=12&elckey=-8167342245015848244&p=1&aq=-85634495933345818&cid=20&jobAge=567&relb=110&brelb=110&bscr=1527.3601&scr=1527.3601",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-0fe67d7bfc"
-  },
-  {
-    "id": "ma-781e46b86e",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=1&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=2607&relb=100&brelb=100&bscr=2619.8733&scr=2619.8733",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-781e46b86e"
-  },
-  {
-    "id": "ma-0e19a929d2",
-    "titre": "Technicien Informatique",
-    "entreprise": "CFG Bank",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez CFG Bank, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1588005605708403542?ckey=informatique&rgn=0&pos=2&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=6084&relb=100&brelb=100&bscr=2605.4712&scr=2605.4712",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-0e19a929d2"
-  },
-  {
-    "id": "ma-7493f44aa8",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=3&elckey=3785136893766336172&p=1&aq=-1865455698217683686&cid=20&jobAge=231&relb=100&brelb=100&bscr=2547.6006&scr=2547.6006",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-18",
-    "ref_unique": "ma-7493f44aa8"
   }
 ]
