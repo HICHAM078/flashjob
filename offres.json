@@ -1,5 +1,159 @@
 [
   {
+    "id": "jf-11a57cb8cc",
+    "titre": "Digital Marketing Manager",
+    "entreprise": "Hunt St",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "technical",
+      "customer support",
+      "seo"
+    ],
+    "resume_neutre": "Digital Marketing Manager chez Hunt St, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-hunt-st-1133850",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-11a57cb8cc"
+  },
+  {
+    "id": "jf-defc2bcd98",
+    "titre": "Human Resources Assistant",
+    "entreprise": "Recruit Lytics Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "hr",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Human Resources Assistant chez Recruit Lytics Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytics-hires-1133851",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-defc2bcd98"
+  },
+  {
+    "id": "jf-d6c7730ca4",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Recruit Lytics Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Recruit Lytics Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytics-hires-1133887",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-d6c7730ca4"
+  },
+  {
+    "id": "jf-653b66cd6d",
+    "titre": "Data Entry Specialist Assistant Administrator",
+    "entreprise": "Recruit Lytics Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Data Entry Specialist Assistant Administrator chez Recruit Lytics Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruit-lytics-hires-1133888",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-653b66cd6d"
+  },
+  {
+    "id": "jf-9201f9a9f1",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "Recruit Lytics Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "hr",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez Recruit Lytics Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytics-hires-1133852",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-9201f9a9f1"
+  },
+  {
+    "id": "jf-2aab7130fb",
+    "titre": "Digital Marketing Designer",
+    "entreprise": "Format",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "recruiter",
+      "non tech",
+      "design",
+      "saas"
+    ],
+    "resume_neutre": "Digital Marketing Designer chez Format, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-2aab7130fb"
+  },
+  {
+    "id": "jf-ba00cdc734",
+    "titre": "Hiring For Air Ticketing Executive Ground Staff",
+    "entreprise": "MILLENNIUM GLOBAL SERVICE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "dev",
+      "education",
+      "api",
+      "exec"
+    ],
+    "resume_neutre": "Hiring For Air Ticketing Executive Ground Staff chez MILLENNIUM GLOBAL SERVICE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-executive-ground-staff-millennium-global-service-1133945",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-ba00cdc734"
+  },
+  {
     "id": "jf-d35cdc98c8",
     "titre": "Data Analyst",
     "entreprise": "iConsultera",
@@ -5581,155 +5735,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-19",
     "ref_unique": "jf-0df078e9e5"
-  },
-  {
-    "id": "jf-57e24a3d58",
-    "titre": "MTM II",
-    "entreprise": "Integer Holdings Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "non tech",
-      "embedded"
-    ],
-    "resume_neutre": "MTM II chez Integer Holdings Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mtm-ii-integer-holdings-corporation-1133657",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-57e24a3d58"
-  },
-  {
-    "id": "jf-d690597aae",
-    "titre": "Junior Director",
-    "entreprise": "Newhouse",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "content writing",
-      "junior",
-      "marketing",
-      "legal"
-    ],
-    "resume_neutre": "Junior Director chez Newhouse, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-director-newhouse-1133574",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-d690597aae"
-  },
-  {
-    "id": "jf-de37d65c98",
-    "titre": "Junior Data Scientist",
-    "entreprise": "Why Hiring",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Science",
-    "remote": true,
-    "competences": [
-      "data science",
-      "junior"
-    ],
-    "resume_neutre": "Junior Data Scientist chez Why Hiring, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-de37d65c98"
-  },
-  {
-    "id": "jf-6077cffa56",
-    "titre": "Interested future Corporate positions",
-    "entreprise": "Weedmaps",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "virtual assistant",
-      "medical",
-      "customer support",
-      "amazon"
-    ],
-    "resume_neutre": "Interested future Corporate positions chez Weedmaps, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-interested-future-corporate-positions-weedmaps-1133673",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-6077cffa56"
-  },
-  {
-    "id": "jf-ae29e2456b",
-    "titre": "Executive Assistant",
-    "entreprise": "GrowthAssistant",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "travel",
-      "finance"
-    ],
-    "resume_neutre": "Executive Assistant chez GrowthAssistant, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-growthassistant-1133569",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-ae29e2456b"
-  },
-  {
-    "id": "jf-1169c29a97",
-    "titre": "Data Entry Specialist",
-    "entreprise": "Somewhere",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "travel",
-      "finance"
-    ],
-    "resume_neutre": "Data Entry Specialist chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-somewhere-1133567",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-1169c29a97"
-  },
-  {
-    "id": "jf-2f57f1b1cc",
-    "titre": "Data Entry",
-    "entreprise": "Smart IT Frame LLC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "content writing",
-      "junior",
-      "marketing",
-      "legal"
-    ],
-    "resume_neutre": "Data Entry chez Smart IT Frame LLC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-smart-it-frame-llc-1133577",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-18",
-    "ref_unique": "jf-2f57f1b1cc"
   }
 ]
