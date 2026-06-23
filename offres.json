@@ -1,5 +1,214 @@
 [
   {
+    "id": "jf-b916a2ac07",
+    "titre": "General Interest Applications",
+    "entreprise": "Vermont SportsCar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "General Interest Applications chez Vermont SportsCar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-interest-applications-vermont-sportscar-1133983",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-b916a2ac07"
+  },
+  {
+    "id": "jf-3e657912cd",
+    "titre": "Labor",
+    "entreprise": "Innovative Cleaning Services, LLC.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Labor chez Innovative Cleaning Services, LLC., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-labor-innovative-cleaning-services-llc-1133982",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-3e657912cd"
+  },
+  {
+    "id": "jf-b3e35a89f2",
+    "titre": "CREATIVE PRODUCER FREELANCE",
+    "entreprise": "FRED &amp; FARID",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "customer support",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "CREATIVE PRODUCER FREELANCE chez FRED &amp; FARID, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-producer-freelance-fred-amp-farid-1133975",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-b3e35a89f2"
+  },
+  {
+    "id": "jf-397210458e",
+    "titre": "Houseman",
+    "entreprise": "The Abaco Club",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "ops",
+      "sys admin",
+      "medical"
+    ],
+    "resume_neutre": "Houseman chez The Abaco Club, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-houseman-the-abaco-club-1133892",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-397210458e"
+  },
+  {
+    "id": "jf-ca475fb85b",
+    "titre": "NEW YOUTUBE VIDEO EDITOR",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Video",
+    "remote": true,
+    "competences": [
+      "video",
+      "exec",
+      "full time",
+      "part time"
+    ],
+    "resume_neutre": "NEW YOUTUBE VIDEO EDITOR chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-new-youtube-video-editor-onlinejobs-ph-1133904",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-ca475fb85b"
+  },
+  {
+    "id": "jf-82cc63111f",
+    "titre": "Regional Sales Director EMEA",
+    "entreprise": "SpyCloud",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "travel",
+      "sales"
+    ],
+    "resume_neutre": "Regional Sales Director EMEA chez SpyCloud, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-emea-spycloud-1133886",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-82cc63111f"
+  },
+  {
+    "id": "jf-ef7b9e5ebd",
+    "titre": "HPC Engineer Services",
+    "entreprise": "Rescale",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "python",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "HPC Engineer Services chez Rescale, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hpc-engineer-services-rescale-1133885",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-ef7b9e5ebd"
+  },
+  {
+    "id": "jf-345ce81753",
+    "titre": "Director Senior Director Sales New York",
+    "entreprise": "Super League",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "virtual assistant",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Director Senior Director Sales New York chez Super League, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-senior-director-sales-new-york-super-league-1133971",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-345ce81753"
+  },
+  {
+    "id": "jf-4097a94ca1",
+    "titre": "Freelance Designer",
+    "entreprise": "Celsius Studios",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "testing",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "Freelance Designer chez Celsius Studios, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-celsius-studios-1133893",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-4097a94ca1"
+  },
+  {
+    "id": "jf-80a7cc9d6d",
+    "titre": "Art Director",
+    "entreprise": "Celsius Studios",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "testing",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "Art Director chez Celsius Studios, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-art-director-celsius-studios-1133895",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-80a7cc9d6d"
+  },
+  {
     "id": "jf-95a802a1c1",
     "titre": "Events Co ordinator",
     "entreprise": "PiXL",
@@ -5528,213 +5737,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-19",
     "ref_unique": "jf-ce87a4652a"
-  },
-  {
-    "id": "jf-56488f808b",
-    "titre": "Sales Director Dairy Ingredients",
-    "entreprise": "Kinisla",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "virtual assistant",
-      "customer support",
-      "non tech",
-      "exec"
-    ],
-    "resume_neutre": "Sales Director Dairy Ingredients chez Kinisla, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-director-dairy-ingredients-kinisla-1133684",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-56488f808b"
-  },
-  {
-    "id": "jf-e936d8c571",
-    "titre": "VP Strategic Customer Programs",
-    "entreprise": "Karbon",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "virtual assistant",
-      "customer support",
-      "non tech",
-      "exec"
-    ],
-    "resume_neutre": "VP Strategic Customer Programs chez Karbon, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-strategic-customer-programs-karbon-1133685",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-e936d8c571"
-  },
-  {
-    "id": "jf-dab56cc409",
-    "titre": "VP GM East &amp; Control",
-    "entreprise": "Mast-JÃ¤germeister US, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "virtual assistant",
-      "medical",
-      "customer support",
-      "amazon"
-    ],
-    "resume_neutre": "VP GM East &amp; Control chez Mast-JÃ¤germeister US, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-gm-east-amp-control-mast-jagermeister-us-inc-1133678",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-dab56cc409"
-  },
-  {
-    "id": "jf-74e3e7fe1a",
-    "titre": "Scrum Master",
-    "entreprise": "Blackstone Talent Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "virtual assistant",
-      "medical",
-      "customer support",
-      "amazon"
-    ],
-    "resume_neutre": "Scrum Master chez Blackstone Talent Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-74e3e7fe1a"
-  },
-  {
-    "id": "jf-d0ecf2f307",
-    "titre": "Agent",
-    "entreprise": "Kier Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Agent chez Kier Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-agent-kier-group-1133662",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-d0ecf2f307"
-  },
-  {
-    "id": "jf-0304e2f764",
-    "titre": "Call Center Agent Quality",
-    "entreprise": "Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "supervisor",
-      "customer support",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Call Center Agent Quality chez Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-call-center-agent-quality-aljazira-bank-1133706",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-0304e2f764"
-  },
-  {
-    "id": "jf-27b1daab7e",
-    "titre": "IT Infrastructure Systems Lead",
-    "entreprise": "Monde Nissin Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "supervisor",
-      "customer support",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "IT Infrastructure Systems Lead chez Monde Nissin Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-it-infrastructure-systems-lead-monde-nissin-corporation-1133707",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-27b1daab7e"
-  },
-  {
-    "id": "jf-c31e44d28d",
-    "titre": "Call Center Agent Social Media",
-    "entreprise": "Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "supervisor",
-      "customer support",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Call Center Agent Social Media chez Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-call-center-agent-social-media-aljazira-bank-1133705",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-19",
-    "ref_unique": "jf-c31e44d28d"
-  },
-  {
-    "id": "ma-a70fc18b51",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=1&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=39&relb=100&brelb=100&bscr=2895.8442&scr=2895.8442",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-a70fc18b51"
-  },
-  {
-    "id": "ma-15c6c80065",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=2&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=87&relb=110&brelb=110&bscr=2890.0586&scr=2890.0586",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-15c6c80065"
   }
 ]
