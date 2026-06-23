@@ -1,5 +1,214 @@
 [
   {
+    "id": "jf-95a802a1c1",
+    "titre": "Events Co ordinator",
+    "entreprise": "PiXL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Events Co ordinator chez PiXL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-events-co-ordinator-pixl-1133884",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-95a802a1c1"
+  },
+  {
+    "id": "jf-f01911ce95",
+    "titre": "Video Editor",
+    "entreprise": "Marz",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "testing",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "Video Editor chez Marz, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-marz-1133894",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-f01911ce95"
+  },
+  {
+    "id": "jf-636eafcfd2",
+    "titre": "Project Coordinator",
+    "entreprise": "INFUSE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "supervisor",
+      "dev",
+      "junior"
+    ],
+    "resume_neutre": "Project Coordinator chez INFUSE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-coordinator-infuse-1133913",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-636eafcfd2"
+  },
+  {
+    "id": "jf-8bbc081d6c",
+    "titre": "Graphic Designer",
+    "entreprise": "Creative Cove Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "virtual assistant",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Graphic Designer chez Creative Cove Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-creative-cove-inc-1133972",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-8bbc081d6c"
+  },
+  {
+    "id": "jf-dc930bbaf1",
+    "titre": "IMRO",
+    "entreprise": "HCLTech",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "IMRO chez HCLTech, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-imro-hcltech-1133883",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-dc930bbaf1"
+  },
+  {
+    "id": "jf-c72dae535e",
+    "titre": "District Manager Denver North",
+    "entreprise": "Divisions Maintenance Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Video",
+    "remote": true,
+    "competences": [
+      "video",
+      "exec",
+      "full time",
+      "part time",
+      "customer support"
+    ],
+    "resume_neutre": "District Manager Denver North chez Divisions Maintenance Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-district-manager-denver-north-divisions-maintenance-group-1133907",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-c72dae535e"
+  },
+  {
+    "id": "jf-c848a76faf",
+    "titre": "Administrative Assistant",
+    "entreprise": "Orchestrate Consulting Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "analyst",
+      "data science",
+      "excel"
+    ],
+    "resume_neutre": "Administrative Assistant chez Orchestrate Consulting Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-orchestrate-consulting-group-1133881",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-c848a76faf"
+  },
+  {
+    "id": "jf-5da1234ee6",
+    "titre": "Data Analyst",
+    "entreprise": "YO HR Consultancy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "analyst",
+      "data science",
+      "excel"
+    ],
+    "resume_neutre": "Data Analyst chez YO HR Consultancy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-hr-consultancy-1133880",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-5da1234ee6"
+  },
+  {
+    "id": "jf-cd8661539c",
+    "titre": "Service Planner Guwahati",
+    "entreprise": "Rentokil Initial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "dev",
+      "education",
+      "api",
+      "exec"
+    ],
+    "resume_neutre": "Service Planner Guwahati chez Rentokil Initial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-service-planner-guwahati-rentokil-initial-1133930",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-cd8661539c"
+  },
+  {
+    "id": "jf-c5617b1890",
+    "titre": "Executive Assistant Fully",
+    "entreprise": "CoTrain",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "exec"
+    ],
+    "resume_neutre": "Executive Assistant Fully chez CoTrain, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-cotrain-1133854",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-23",
+    "ref_unique": "jf-c5617b1890"
+  },
+  {
     "id": "ma-cfd0c951f2",
     "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5527,185 +5736,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-19",
     "ref_unique": "ma-15c6c80065"
-  },
-  {
-    "id": "ma-131800353f",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=3&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=63&relb=110&brelb=110&bscr=2682.552&scr=2682.552",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-131800353f"
-  },
-  {
-    "id": "ma-0e93729940",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=4&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=39&relb=110&brelb=110&bscr=2547.263&scr=2547.263",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-0e93729940"
-  },
-  {
-    "id": "ma-5c7e2b12f6",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1560185854564101088?ckey=emploi&rgn=0&pos=5&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=687&relb=110&brelb=110&bscr=2492.7517&scr=2492.7517",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-5c7e2b12f6"
-  },
-  {
-    "id": "ma-c579fcde86",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=6&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=39&relb=110&brelb=110&bscr=2435.5667&scr=2435.5667",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-c579fcde86"
-  },
-  {
-    "id": "ma-969c5cb7fc",
-    "titre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar",
-    "entreprise": "MARJANE MARKET",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar chez MARJANE MARKET, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8182032409462160561?ckey=emploi&rgn=0&pos=7&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=183&relb=100&brelb=100&bscr=2415.469&scr=2415.469",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-969c5cb7fc"
-  },
-  {
-    "id": "ma-65aeaf53ed",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=8&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=63&relb=110&brelb=110&bscr=2414.9187&scr=2414.9187",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-65aeaf53ed"
-  },
-  {
-    "id": "ma-565df2fb88",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7852488847259269047?ckey=emploi&rgn=0&pos=9&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=231&relb=100&brelb=100&bscr=2401.3079&scr=2401.3079",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-565df2fb88"
-  },
-  {
-    "id": "ma-98b376f098",
-    "titre": "OFFRE D’EMPLOI - Téléopérateur / Téléconseiller (H/F) - TELEVENTE B2B",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Téléopérateur / Téléconseiller (H/F) - TELEVENTE B2B chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1531233688865113279?ckey=emploi&rgn=0&pos=10&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=711&relb=110&brelb=110&bscr=2271.315&scr=2271.315",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-98b376f098"
-  },
-  {
-    "id": "ma-a69f454626",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=11&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=303&relb=110&brelb=110&bscr=2191.6055&scr=2191.6055",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-a69f454626"
-  },
-  {
-    "id": "ma-34282fe6e0",
-    "titre": "Offre d’emploi pour le poste d’ouvriers (h/f)",
-    "entreprise": "BioProGreen",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi pour le poste d’ouvriers (h/f) chez BioProGreen, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3948229809208149642?ckey=emploi&rgn=0&pos=12&elckey=-8732366557592266940&p=1&aq=-4458939455934857412&cid=20&jobAge=1047&relb=100&brelb=100&bscr=2127.5188&scr=2127.5188",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-19",
-    "ref_unique": "ma-34282fe6e0"
   }
 ]
