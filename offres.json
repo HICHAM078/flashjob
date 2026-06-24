@@ -1,5 +1,179 @@
 [
   {
+    "id": "jf-371e33a9e4",
+    "titre": "Executive Assistant &amp; HR Administrator",
+    "entreprise": "People Architects",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Executive Assistant &amp; HR Administrator chez People Architects, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-amp-hr-administrator-people-architects-1134006",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-371e33a9e4"
+  },
+  {
+    "id": "jf-3f215e815e",
+    "titre": "Social Media Video Editor",
+    "entreprise": "Adoreal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "infosec",
+      "customer support",
+      "dev",
+      "exec"
+    ],
+    "resume_neutre": "Social Media Video Editor chez Adoreal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-video-editor-adoreal-1134001",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-3f215e815e"
+  },
+  {
+    "id": "jf-dd9341b871",
+    "titre": "Social Media Content Creator",
+    "entreprise": "Wripple",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Social Media Content Creator chez Wripple, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-wripple-1134009",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-dd9341b871"
+  },
+  {
+    "id": "jf-62e78c1a14",
+    "titre": "Trim",
+    "entreprise": "Clayton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "finance",
+      "medical",
+      "recruiter",
+      "full time"
+    ],
+    "resume_neutre": "Trim chez Clayton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trim-clayton-1133990",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-62e78c1a14"
+  },
+  {
+    "id": "jf-2fd86c1197",
+    "titre": "Computer Science Specialist",
+    "entreprise": "G.S. International Public School",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "python"
+    ],
+    "resume_neutre": "Computer Science Specialist chez G.S. International Public School, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-computer-science-specialist-g-s-international-public-school-1133998",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-2fd86c1197"
+  },
+  {
+    "id": "jf-0d6ff81926",
+    "titre": "Team Lead Customer care",
+    "entreprise": "Capgemini",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Team Lead Customer care chez Capgemini, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-lead-customer-care-capgemini-1134005",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-0d6ff81926"
+  },
+  {
+    "id": "jf-21122e2066",
+    "titre": "Senior Backend Software Developer",
+    "entreprise": "BitPay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "backend",
+      "javascript",
+      "crypto",
+      "mongo"
+    ],
+    "resume_neutre": "Senior Backend Software Developer chez BitPay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-21122e2066"
+  },
+  {
+    "id": "jf-3bc966a86e",
+    "titre": "Human Resources Administrator",
+    "entreprise": "Lingraphica",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Human Resources Administrator chez Lingraphica, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-administrator-lingraphica-1134011",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-3bc966a86e"
+  },
+  {
     "id": "jf-fe038a6256",
     "titre": "Junior Data Analyst",
     "entreprise": "Caterpillar Inc.",
@@ -5578,176 +5752,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-21",
     "ref_unique": "jf-a6700e0e76"
-  },
-  {
-    "id": "jf-e12def5bc4",
-    "titre": "Live Chat Support",
-    "entreprise": "Ateneo de Manila University",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Accounting",
-    "remote": true,
-    "competences": [
-      "accounting",
-      "finance",
-      "cloud",
-      "microsoft",
-      "exec"
-    ],
-    "resume_neutre": "Live Chat Support chez Ateneo de Manila University, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-live-chat-support-ateneo-de-manila-university-1133741",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-e12def5bc4"
-  },
-  {
-    "id": "jf-d3c6b0eb46",
-    "titre": "Bookkeeper",
-    "entreprise": "Ateneo de Manila University",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Accounting",
-    "remote": true,
-    "competences": [
-      "accounting",
-      "finance",
-      "cloud",
-      "microsoft",
-      "exec"
-    ],
-    "resume_neutre": "Bookkeeper chez Ateneo de Manila University, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-bookkeeper-ateneo-de-manila-university-1133740",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-d3c6b0eb46"
-  },
-  {
-    "id": "jf-40121f345c",
-    "titre": "Tax Manager",
-    "entreprise": "AppleOne Employment Services",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "technical",
-      "supervisor",
-      "customer support",
-      "testing"
-    ],
-    "resume_neutre": "Tax Manager chez AppleOne Employment Services, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-tax-manager-appleone-employment-services-1133756",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-40121f345c"
-  },
-  {
-    "id": "jf-ec2a98a802",
-    "titre": "Care Coordinator",
-    "entreprise": "Empassion Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "architecture",
-      "recruiter",
-      "strategy"
-    ],
-    "resume_neutre": "Care Coordinator chez Empassion Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-care-coordinator-empassion-health-1133721",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-ec2a98a802"
-  },
-  {
-    "id": "jf-f6fa095cc2",
-    "titre": "Pharmacy Technician",
-    "entreprise": "Coralisle Group Ltd.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C Sharp",
-    "remote": true,
-    "competences": [
-      "c sharp",
-      "sys admin",
-      "technical",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Pharmacy Technician chez Coralisle Group Ltd., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-pharmacy-technician-coralisle-group-ltd-1133739",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-f6fa095cc2"
-  },
-  {
-    "id": "jf-45452b64c0",
-    "titre": "All Other Roles",
-    "entreprise": "Collate",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "All Other Roles chez Collate, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1133733",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-45452b64c0"
-  },
-  {
-    "id": "jf-6532f86fdd",
-    "titre": "Register Now",
-    "entreprise": "CREW Resources Worldwide",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "Register Now chez CREW Resources Worldwide, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-register-now-crew-resources-worldwide-1133803",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-6532f86fdd"
-  },
-  {
-    "id": "jf-0cc3277fb8",
-    "titre": "Junior Human Resources Assistant",
-    "entreprise": "Helic & Co",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "education",
-      "marketing",
-      "content writing"
-    ],
-    "resume_neutre": "Junior Human Resources Assistant chez Helic & Co, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133714",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-0cc3277fb8"
   }
 ]
