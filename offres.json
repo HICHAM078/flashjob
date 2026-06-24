@@ -1,5 +1,131 @@
 [
   {
+    "id": "jf-bf5aba186a",
+    "titre": "Virtual Assistant",
+    "entreprise": "Torentify",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "virtual assistant",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Virtual Assistant chez Torentify, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-torentify-1133970",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-bf5aba186a"
+  },
+  {
+    "id": "jf-2bd0be109f",
+    "titre": "MSK Physiotherapist Virtual",
+    "entreprise": "IPRS Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "customer support",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "MSK Physiotherapist Virtual chez IPRS Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-msk-physiotherapist-virtual-iprs-health-1133974",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-2bd0be109f"
+  },
+  {
+    "id": "jf-bf740e3b05",
+    "titre": "Marketing Coordinator",
+    "entreprise": "RESOLUTE HR CONSULTING",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Marketing Coordinator chez RESOLUTE HR CONSULTING, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-resolute-hr-consulting-1133917",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-bf740e3b05"
+  },
+  {
+    "id": "jf-56560863b3",
+    "titre": "Logistics Coordinator",
+    "entreprise": "Altis Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Logistics Coordinator chez Altis Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-altis-recruitment-1133915",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-56560863b3"
+  },
+  {
+    "id": "jf-231f539b09",
+    "titre": "Assistant Project Manager Fragrance",
+    "entreprise": "Slate Brands",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "virtual assistant",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Assistant Project Manager Fragrance chez Slate Brands, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-project-manager-fragrance-slate-brands-1133969",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-231f539b09"
+  },
+  {
+    "id": "jf-d527670dc8",
+    "titre": "Head of Public Understanding",
+    "entreprise": "NOPE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "communications",
+      "content writing",
+      "ai",
+      "part time"
+    ],
+    "resume_neutre": "Head of Public Understanding chez NOPE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-24",
+    "ref_unique": "jf-d527670dc8"
+  },
+  {
     "id": "jf-cdcc58553d",
     "titre": "Freelance Website Copywriter Content Strategist",
     "entreprise": "N4 StudioÂ®",
@@ -5628,119 +5754,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-20",
     "ref_unique": "ma-0bd143be83"
-  },
-  {
-    "id": "ma-eeba76d517",
-    "titre": "Commerciaux francophones : Besoin immédiat !!!",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones : Besoin immédiat !!! chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1668285482317190129?ckey=informatique&rgn=0&pos=12&elckey=1944607146422536076&p=1&aq=-2270394282141592817&cid=20&jobAge=38&relb=110&brelb=110&bscr=283.0537&scr=283.0537",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-20",
-    "ref_unique": "ma-eeba76d517"
-  },
-  {
-    "id": "jf-85db4b73a5",
-    "titre": "Executive Assistant France",
-    "entreprise": "Zirtual",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "exec"
-    ],
-    "resume_neutre": "Executive Assistant France chez Zirtual, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-85db4b73a5"
-  },
-  {
-    "id": "jf-fa0b181a43",
-    "titre": "Employment Lawyer Fully",
-    "entreprise": "KMA Legal Recruitment",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Legal",
-    "remote": true,
-    "competences": [
-      "legal",
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "Employment Lawyer Fully chez KMA Legal Recruitment, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-fa0b181a43"
-  },
-  {
-    "id": "jf-68fbce7953",
-    "titre": "Junior Graphic Designer",
-    "entreprise": "Work Force Nexus",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Designer",
-    "remote": true,
-    "competences": [
-      "designer",
-      "junior"
-    ],
-    "resume_neutre": "Junior Graphic Designer chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-work-force-nexus-1133696",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-68fbce7953"
-  },
-  {
-    "id": "jf-6b1a6cdc21",
-    "titre": "Executive & Admin Assistant",
-    "entreprise": "Nexist",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "admin",
-      "exec"
-    ],
-    "resume_neutre": "Executive & Admin Assistant chez Nexist, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-admin-assistant-nexist-1133695",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-6b1a6cdc21"
-  },
-  {
-    "id": "jf-a8d9602409",
-    "titre": "Corporate Commercial Paralegal Fully",
-    "entreprise": "Leadenhall Search & Selection",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Corporate Commercial Paralegal Fully chez Leadenhall Search & Selection, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-commercial-paralegal-fully-leadenhall-search-selection-1133693",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-20",
-    "ref_unique": "jf-a8d9602409"
   }
 ]
