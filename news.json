@@ -1,5 +1,35 @@
 [
   {
+    "cat": "نصائح",
+    "titre": "احذر إعلانات التوظيف المزيفة: 6 إشارات إنذار",
+    "excerpt": "تتكاثر الإعلانات المزيفة وتستهدف الباحثين عن عمل المستعجلين. إليك كيف تكشفها وتحمي معطياتك.",
+    "body": [
+      "لسوء الحظ، يجذب البحث عن عمل بعض المحتالين. بعض «العروض» لا تهدف إلا إلى ابتزاز المال أو المعطيات الشخصية. تعلُّم كشفها يجنّبك مفاجآت سيئة.",
+      "<b>1. يُطلب منك الدفع.</b> القاعدة الذهبية: المشغّل الجاد لا يطلب مالاً مقابل «ملف» أو «تكوين إجباري» أو «رسوم معالجة». إذا طُلب منك الدفع، انسحب.",
+      "<b>2. أجر مبالغ فيه.</b> راتب مرتفع بشكل غير طبيعي لعمل بسيط بلا تأهيل هو غالباً فخ.",
+      "<b>3. طلب معطيات حساسة مبكراً.</b> رقم بطاقة بنكية أو نسخة من البطاقة الوطنية قبل أي مقابلة هو إشارة إنذار كبرى.",
+      "<b>4. بريد غير مهني وأخطاء كثيرة وضغط زمني.</b> عنوان بريد عام، أخطاء إملائية كثيرة، و«أجب خلال ساعة»: الاستعجال المفتعَل أسلوب كلاسيكي. عند الشك، لا تدفع أبداً ولا تشارك معطيات بنكية."
+    ],
+    "lang": "ar",
+    "id": "news-1782387275-ar",
+    "date": "25 juin 2026"
+  },
+  {
+    "cat": "Carrière",
+    "titre": "Concilier emploi et formation continue",
+    "excerpt": "Continuer à se former tout en travaillant est un investissement payant. Voici comment tenir le rythme.",
+    "body": [
+      "Se former tout au long de sa carrière n'est plus optionnel : les métiers évoluent vite. Mais concilier travail et apprentissage demande de l'organisation.",
+      "<b>Fixez un objectif clair.</b> Une compétence précise, un certificat, un logiciel à maîtriser : un but défini motive plus qu'une vague envie de « se former ».",
+      "<b>Bloquez du temps réaliste.</b> Mieux vaut trente minutes régulières que des sessions marathon impossibles à tenir. La constance bat l'intensité.",
+      "<b>Privilégiez le format souple.</b> Cours en ligne, modules courts, apprentissage le soir ou le week-end : adaptez le format à votre vie, pas l'inverse.",
+      "<b>Appliquez vite.</b> Mettez en pratique ce que vous apprenez dans votre travail actuel. Rien n'ancre mieux une compétence que de s'en servir."
+    ],
+    "lang": "fr",
+    "id": "news-1782387275-fr",
+    "date": "25 juin 2026"
+  },
+  {
     "cat": "المسار المهني",
     "titre": "المهارات الشخصية التي يبحث عنها المشغّلون",
     "excerpt": "عند تساوي الشهادات، غالباً ما تصنع المهارات الشخصية الفرق. إليك أهمها وكيف تُثبتها.",
