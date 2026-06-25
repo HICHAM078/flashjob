@@ -1,5 +1,192 @@
 [
   {
+    "id": "jf-cafd9fa2ff",
+    "titre": "Continuous Improvement Specialist",
+    "entreprise": "InProduction",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Continuous Improvement Specialist chez InProduction, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-continuous-improvement-specialist-inproduction-1134071",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-cafd9fa2ff"
+  },
+  {
+    "id": "jf-0bd81547b9",
+    "titre": "Chief of Staff the CEO",
+    "entreprise": "Valiantys",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Chief of Staff the CEO chez Valiantys, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-valiantys-1134069",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-0bd81547b9"
+  },
+  {
+    "id": "jf-13b2a91083",
+    "titre": "Assistant de formation F H",
+    "entreprise": "UniversitÃ© de Bordeaux",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "finance",
+      "exec",
+      "marketing"
+    ],
+    "resume_neutre": "Assistant de formation F H chez UniversitÃ© de Bordeaux, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-de-formation-f-h-universite-de-bordeaux-1134077",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-13b2a91083"
+  },
+  {
+    "id": "jf-c0ca213d49",
+    "titre": "Test Job Post",
+    "entreprise": "Halma plc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job Post chez Halma plc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-post-halma-plc-1134053",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-c0ca213d49"
+  },
+  {
+    "id": "jf-41e814fb02",
+    "titre": "Senior DevOps Engineer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "devops",
+      "engineer",
+      "kubernetes",
+      "aws"
+    ],
+    "resume_neutre": "Senior DevOps Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-41e814fb02"
+  },
+  {
+    "id": "jf-456c19a951",
+    "titre": "Mid Senior AI Cinematic Video Editor",
+    "entreprise": "EverAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ai",
+      "other",
+      "art direction"
+    ],
+    "resume_neutre": "Mid Senior AI Cinematic Video Editor chez EverAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-456c19a951"
+  },
+  {
+    "id": "jf-5623905a3b",
+    "titre": "Human Resources Specialist",
+    "entreprise": "Mavida Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical",
+      "hr",
+      "full time"
+    ],
+    "resume_neutre": "Human Resources Specialist chez Mavida Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-mavida-health-1134013",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-5623905a3b"
+  },
+  {
+    "id": "jf-48965c5bb9",
+    "titre": "Patient Care Advocate",
+    "entreprise": "Hey Jane",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Patient Care Advocate chez Hey Jane, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-care-advocate-hey-jane-1134012",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-48965c5bb9"
+  },
+  {
+    "id": "jf-897b2c5370",
+    "titre": "Retail Marketing Coordinator",
+    "entreprise": "Crown Affair",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "education"
+    ],
+    "resume_neutre": "Retail Marketing Coordinator chez Crown Affair, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-897b2c5370"
+  },
+  {
     "id": "ma-0511132e1b",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5573,193 +5760,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-22",
     "ref_unique": "jf-be4b24a808"
-  },
-  {
-    "id": "jf-957a2cbb76",
-    "titre": "Director of Operations MSP Service Delivery",
-    "entreprise": "bdManagedIT",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "coordinator",
-      "exec",
-      "web dev",
-      "speech"
-    ],
-    "resume_neutre": "Director of Operations MSP Service Delivery chez bdManagedIT, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-operations-msp-service-delivery-bdmanagedit-1133848",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-957a2cbb76"
-  },
-  {
-    "id": "jf-6d790f16a6",
-    "titre": "TRANSPORT",
-    "entreprise": "Mississippi Army National Guard Biloxi Office",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "TRANSPORT chez Mississippi Army National Guard Biloxi Office, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-transport-mississippi-army-national-guard-biloxi-office-1133802",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-6d790f16a6"
-  },
-  {
-    "id": "jf-df7a5f7165",
-    "titre": "CYBER",
-    "entreprise": "Mississippi Army National Guard Biloxi Office",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "finance",
-      "c",
-      "exec",
-      "golang"
-    ],
-    "resume_neutre": "CYBER chez Mississippi Army National Guard Biloxi Office, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-cyber-mississippi-army-national-guard-biloxi-office-1133824",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-df7a5f7165"
-  },
-  {
-    "id": "jf-a64824c3f7",
-    "titre": "Corporate",
-    "entreprise": "Valpak of Southeastern Wisconsin",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "exec",
-      "accounting"
-    ],
-    "resume_neutre": "Corporate chez Valpak of Southeastern Wisconsin, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-valpak-of-southeastern-wisconsin-1133840",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-a64824c3f7"
-  },
-  {
-    "id": "jf-8575ccde05",
-    "titre": "Data Analyst Data Warehouse Analytics and BI",
-    "entreprise": "OWL Services",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "sys admin",
-      "infosec",
-      "education"
-    ],
-    "resume_neutre": "Data Analyst Data Warehouse Analytics and BI chez OWL Services, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-8575ccde05"
-  },
-  {
-    "id": "jf-2a94094297",
-    "titre": "Project Assistant",
-    "entreprise": "Talentoma",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "sys admin",
-      "infosec",
-      "education"
-    ],
-    "resume_neutre": "Project Assistant chez Talentoma, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-project-assistant-talentoma-1133838",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-22",
-    "ref_unique": "jf-2a94094297"
-  },
-  {
-    "id": "jf-2dce0b3d8d",
-    "titre": "CHRO",
-    "entreprise": "NeuLife Rehabilitation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "video",
-      "exec",
-      "content writing",
-      "digital nomad"
-    ],
-    "resume_neutre": "CHRO chez NeuLife Rehabilitation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chro-neulife-rehabilitation-1133813",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-2dce0b3d8d"
-  },
-  {
-    "id": "jf-5ec07ef99a",
-    "titre": "Agente de Viajes Online",
-    "entreprise": "Viajes Marchante",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Agente de Viajes Online chez Viajes Marchante, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-5ec07ef99a"
-  },
-  {
-    "id": "jf-e0da1fa25b",
-    "titre": "Social Media Manager Fashion Brand",
-    "entreprise": "Twine",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "social media"
-    ],
-    "resume_neutre": "Social Media Manager Fashion Brand chez Twine, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-fashion-brand-twine-1133748",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-e0da1fa25b"
   }
 ]
