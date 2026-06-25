@@ -1,5 +1,152 @@
 [
   {
+    "id": "jf-5cdffdb9d5",
+    "titre": "Nurse Advice Swing Shift 5a 10a 10p 5a CST",
+    "entreprise": "IntellaTriage",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "virtual assistant",
+      "exec",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Nurse Advice Swing Shift 5a 10a 10p 5a CST chez IntellaTriage, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nurse-advice-swing-shift-5a-10a-10p-5a-cst-intellatriage-1134010",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-5cdffdb9d5"
+  },
+  {
+    "id": "jf-ae3f01a076",
+    "titre": "Human Resources Assistant",
+    "entreprise": "Recruit Lytixs Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "hr",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Human Resources Assistant chez Recruit Lytixs Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytixs-hire-1134017",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-ae3f01a076"
+  },
+  {
+    "id": "jf-f4a08840e2",
+    "titre": "Halwai",
+    "entreprise": "jÃ¼STa Hotels &amp; Resorts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Halwai chez jÃ¼STa Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-f4a08840e2"
+  },
+  {
+    "id": "jf-85cdab4fc7",
+    "titre": "Director of Procurement",
+    "entreprise": "Kardion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "infosec",
+      "customer support",
+      "dev",
+      "exec"
+    ],
+    "resume_neutre": "Director of Procurement chez Kardion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-procurement-kardion-1134002",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-85cdab4fc7"
+  },
+  {
+    "id": "jf-3e1f350b2a",
+    "titre": "Junior Business Analyst",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech",
+      "customer support",
+      "marketing",
+      "c"
+    ],
+    "resume_neutre": "Junior Business Analyst chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-3e1f350b2a"
+  },
+  {
+    "id": "jf-cdb7a4ca7c",
+    "titre": "Bookkeeper",
+    "entreprise": "Pickle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "Bookkeeper chez Pickle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bookkeeper-pickle-1133991",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-cdb7a4ca7c"
+  },
+  {
+    "id": "jf-c516d915ae",
+    "titre": "Technical Project Manager",
+    "entreprise": "Nuvolar Works",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "finance",
+      "exec",
+      "marketing",
+      "analyst"
+    ],
+    "resume_neutre": "Technical Project Manager chez Nuvolar Works, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-nuvolar-works-1134080",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-25",
+    "ref_unique": "jf-c516d915ae"
+  },
+  {
     "id": "jf-23c4186433",
     "titre": "Youth Mental Wellness Coach",
     "entreprise": "ð Clayful",
@@ -5623,139 +5770,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-21",
     "ref_unique": "ma-37949fd7a7"
-  },
-  {
-    "id": "ma-c1cdcc1e0b",
-    "titre": "Manager - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Manager - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-920936733297585638?ckey=informatique&rgn=0&pos=9&elckey=-6489277882066658813&p=1&aq=7125232122119730522&cid=20&jobAge=182&relb=110&brelb=110&bscr=299.7102&scr=299.7102",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-21",
-    "ref_unique": "ma-c1cdcc1e0b"
-  },
-  {
-    "id": "ma-a51b1cd688",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=10&elckey=-6489277882066658813&p=1&aq=7125232122119730522&cid=20&jobAge=62&relb=110&brelb=110&bscr=287.87595&scr=287.87595",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-21",
-    "ref_unique": "ma-a51b1cd688"
-  },
-  {
-    "id": "ma-400946ffcd",
-    "titre": "Télévendeurs en FAI - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs en FAI - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4484571805447728255?ckey=informatique&rgn=0&pos=11&elckey=-6489277882066658813&p=1&aq=7125232122119730522&cid=20&jobAge=62&relb=110&brelb=110&bscr=287.38483&scr=287.38483",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-21",
-    "ref_unique": "ma-400946ffcd"
-  },
-  {
-    "id": "ma-18b8ad16a0",
-    "titre": "RECRUTEMENT - COMPTABLE",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT - COMPTABLE chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1509633216695604545?ckey=informatique&rgn=0&pos=12&elckey=-6489277882066658813&p=1&aq=7125232122119730522&cid=20&jobAge=254&relb=110&brelb=110&bscr=283.01306&scr=283.01306",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-21",
-    "ref_unique": "ma-18b8ad16a0"
-  },
-  {
-    "id": "jf-99740d28dc",
-    "titre": "Manufacturing Operator I",
-    "entreprise": "Eaton",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "technical",
-      "supervisor",
-      "customer support",
-      "testing"
-    ],
-    "resume_neutre": "Manufacturing Operator I chez Eaton, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-99740d28dc"
-  },
-  {
-    "id": "jf-52b4de7e76",
-    "titre": "Scrum Master",
-    "entreprise": "Haystack",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "video",
-      "exec",
-      "content writing",
-      "digital nomad"
-    ],
-    "resume_neutre": "Scrum Master chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-haystack-1133814",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-52b4de7e76"
-  },
-  {
-    "id": "jf-a8f43e632c",
-    "titre": "æ°åªä½è¿è¥ï¼çº¿ä¸ï¼",
-    "entreprise": "å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "æ°åªä½è¿è¥ï¼çº¿ä¸ï¼ chez å¤§ä¼æ±½è½¦ï¼ä¸­å½ï¼, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-21",
-    "ref_unique": "jf-a8f43e632c"
   }
 ]
