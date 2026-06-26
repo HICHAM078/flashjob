@@ -1,5 +1,152 @@
 [
   {
+    "id": "jf-1eabb20eb9",
+    "titre": "Clinical Trial Associate",
+    "entreprise": "Ollin Biosciences",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "microsoft",
+      "ops"
+    ],
+    "resume_neutre": "Clinical Trial Associate chez Ollin Biosciences, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-trial-associate-ollin-biosciences-1134124",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-1eabb20eb9"
+  },
+  {
+    "id": "jf-e2116092d4",
+    "titre": "Test Job",
+    "entreprise": "Newcastle Digest",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job chez Newcastle Digest, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-newcastle-digest-1134114",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-e2116092d4"
+  },
+  {
+    "id": "jf-23f83fbf03",
+    "titre": "Product",
+    "entreprise": "fashionxyz",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Product chez fashionxyz, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-fashionxyz-1134115",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-23f83fbf03"
+  },
+  {
+    "id": "jf-79f831dcd2",
+    "titre": "Assistant Marketing Manager",
+    "entreprise": "Little Caesars Pizza",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "exec",
+      "virtual assistant",
+      "sys admin",
+      "supervisor"
+    ],
+    "resume_neutre": "Assistant Marketing Manager chez Little Caesars Pizza, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-marketing-manager-little-caesars-pizza-1134117",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-79f831dcd2"
+  },
+  {
+    "id": "jf-c37cd9c779",
+    "titre": "Scheduling Coordinator Entry Level No Experience Needed",
+    "entreprise": "Travel Planning Professionals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "coordinator",
+      "customer support",
+      "marketing",
+      "recruiter"
+    ],
+    "resume_neutre": "Scheduling Coordinator Entry Level No Experience Needed chez Travel Planning Professionals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-no-experience-needed-travel-planning-professionals-1134108",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-c37cd9c779"
+  },
+  {
+    "id": "jf-e470ebb823",
+    "titre": "Scheduling Coordinator Entry Level",
+    "entreprise": "Travel Planning Professionals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "microsoft",
+      "ops"
+    ],
+    "resume_neutre": "Scheduling Coordinator Entry Level chez Travel Planning Professionals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-travel-planning-professionals-1134127",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-e470ebb823"
+  },
+  {
+    "id": "jf-22e401dd28",
+    "titre": "Entry Level Online Scheduling Coordinator",
+    "entreprise": "Travel Planning Professionals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "coordinator",
+      "customer support",
+      "marketing",
+      "recruiter"
+    ],
+    "resume_neutre": "Entry Level Online Scheduling Coordinator chez Travel Planning Professionals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-online-scheduling-coordinator-travel-planning-professionals-1134109",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-22e401dd28"
+  },
+  {
     "id": "jf-4f0fb50f27",
     "titre": "Preparador de Vehiculos Hatillo",
     "entreprise": "Enterprise",
@@ -5652,131 +5799,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-23",
     "ref_unique": "ma-dfe7eb7eab"
-  },
-  {
-    "id": "ma-de6e133bfb",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=182&relb=110&brelb=110&bscr=1524.1682&scr=1524.1682",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-de6e133bfb"
-  },
-  {
-    "id": "ma-b36a980901",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=11&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=38&relb=110&brelb=110&bscr=1522.8481&scr=1522.8481",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-b36a980901"
-  },
-  {
-    "id": "ma-79865bf4e6",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=12&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=14&relb=110&brelb=110&bscr=1518.3577&scr=1518.3577",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-79865bf4e6"
-  },
-  {
-    "id": "ma-df626af1ef",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=1&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=350&relb=100&brelb=100&bscr=2733.0444&scr=2733.0444",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-df626af1ef"
-  },
-  {
-    "id": "ma-d4a8e0142a",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=2&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=2726&relb=100&brelb=100&bscr=2687.7568&scr=2687.7568",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-d4a8e0142a"
-  },
-  {
-    "id": "ma-859360cea6",
-    "titre": "Technicien Informatique",
-    "entreprise": "CFG Bank",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez CFG Bank, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1588005605708403542?ckey=informatique&rgn=0&pos=3&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=6204&relb=100&brelb=100&bscr=2547.015&scr=2547.015",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-859360cea6"
-  },
-  {
-    "id": "ma-4142c70ea5",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=4&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=422&relb=110&brelb=110&bscr=2455.9792&scr=2455.9792",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-4142c70ea5"
   }
 ]
