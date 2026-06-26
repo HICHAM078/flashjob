@@ -1,5 +1,136 @@
 [
   {
+    "id": "jf-142946ab13",
+    "titre": "Architectural Designer Assistant",
+    "entreprise": "Archisearch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "design",
+      "vfx",
+      "architecture",
+      "designer"
+    ],
+    "resume_neutre": "Architectural Designer Assistant chez Archisearch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-142946ab13"
+  },
+  {
+    "id": "jf-1d2a65d4c1",
+    "titre": "Freelance Designer",
+    "entreprise": "La Vena Creativa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "design",
+      "vfx",
+      "architecture",
+      "designer"
+    ],
+    "resume_neutre": "Freelance Designer chez La Vena Creativa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-la-vena-creativa-1134112",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-1d2a65d4c1"
+  },
+  {
+    "id": "jf-dd5befd24c",
+    "titre": "Freelance Transcriptionist â Sinhalese",
+    "entreprise": "Perle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "transcribing",
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Freelance Transcriptionist â Sinhalese chez Perle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-sinhalese-perle-1134088",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-dd5befd24c"
+  },
+  {
+    "id": "jf-3717ddd689",
+    "titre": "Freelance Transcriptionist â Akan",
+    "entreprise": "Perle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "transcribing",
+      "testing",
+      "non tech",
+      "customer support"
+    ],
+    "resume_neutre": "Freelance Transcriptionist â Akan chez Perle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-akan-perle-1134091",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-3717ddd689"
+  },
+  {
+    "id": "jf-be1f0362a8",
+    "titre": "System Software Engineer",
+    "entreprise": "Hewlett Packard Enterprise",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "sys admin",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "System Software Engineer chez Hewlett Packard Enterprise, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-be1f0362a8"
+  },
+  {
+    "id": "jf-677ee51b40",
+    "titre": "Staff Housing Caretaker",
+    "entreprise": "Fairmont Hotels &amp; Resorts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "technical",
+      "coordinator",
+      "customer support"
+    ],
+    "resume_neutre": "Staff Housing Caretaker chez Fairmont Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-housing-caretaker-fairmont-hotels-amp-resorts-1134129",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-677ee51b40"
+  },
+  {
     "id": "jf-429334dcec",
     "titre": "Account Coordinator",
     "entreprise": "Acast",
@@ -5701,113 +5832,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-22",
     "ref_unique": "ma-152a4ef52a"
-  },
-  {
-    "id": "ma-70d611198b",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6775389215911815693?ckey=commercial&rgn=938&pos=4&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=136&relb=110&brelb=110&bscr=1776.559&scr=1776.559",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-70d611198b"
-  },
-  {
-    "id": "ma-fa2624584e",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=5&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=40&relb=110&brelb=110&bscr=1723.4773&scr=1723.4773",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-fa2624584e"
-  },
-  {
-    "id": "ma-0740670d21",
-    "titre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7470248089598318684?ckey=commercial&rgn=938&pos=6&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=160&relb=110&brelb=110&bscr=1673.7302&scr=1673.7302",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-0740670d21"
-  },
-  {
-    "id": "ma-b3e5db8c7e",
-    "titre": "Commercial en assurance décennale",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial en assurance décennale chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1853586320333477339?ckey=commercial&rgn=938&pos=7&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=592&relb=110&brelb=110&bscr=1665.5854&scr=1665.5854",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-b3e5db8c7e"
-  },
-  {
-    "id": "ma-03e5a09d51",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=8&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=160&relb=110&brelb=110&bscr=1639.681&scr=1639.681",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-03e5a09d51"
-  },
-  {
-    "id": "ma-49d04425a3",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=9&elckey=3749060638908170708&p=1&aq=8555593652523261276&cid=20&jobAge=64&relb=110&brelb=110&bscr=1536.8169&scr=1536.8169",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-22",
-    "ref_unique": "ma-49d04425a3"
   }
 ]
