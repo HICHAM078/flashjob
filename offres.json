@@ -1,5 +1,135 @@
 [
   {
+    "id": "jf-4f0fb50f27",
+    "titre": "Preparador de Vehiculos Hatillo",
+    "entreprise": "Enterprise",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "sys admin",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Preparador de Vehiculos Hatillo chez Enterprise, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-preparador-de-vehiculos-hatillo-enterprise-1134099",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-4f0fb50f27"
+  },
+  {
+    "id": "jf-b755f467ee",
+    "titre": "Kerendia Task Force",
+    "entreprise": "Bayer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "product manager",
+      "dev",
+      "medical"
+    ],
+    "resume_neutre": "Kerendia Task Force chez Bayer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-kerendia-task-force-bayer-1134145",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-b755f467ee"
+  },
+  {
+    "id": "jf-1ee5832a1e",
+    "titre": "Speculative application",
+    "entreprise": "Wenzel DesignTec",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "technical",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Speculative application chez Wenzel DesignTec, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-speculative-application-wenzel-designtec-1134119",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-1ee5832a1e"
+  },
+  {
+    "id": "jf-714d339182",
+    "titre": "hh2",
+    "entreprise": "Biztech",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "product manager",
+      "dev",
+      "medical"
+    ],
+    "resume_neutre": "hh2 chez Biztech, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hh2-biztech-1134146",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-714d339182"
+  },
+  {
+    "id": "jf-fa1475fd62",
+    "titre": "LABORER",
+    "entreprise": "Portales Fire Department",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "product manager",
+      "dev",
+      "medical"
+    ],
+    "resume_neutre": "LABORER chez Portales Fire Department, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-laborer-portales-fire-department-1134147",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-fa1475fd62"
+  },
+  {
+    "id": "jf-03bb2faec0",
+    "titre": "Product manager",
+    "entreprise": "DUÄAST",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "product manager"
+    ],
+    "resume_neutre": "Product manager chez DUÄAST, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-26",
+    "ref_unique": "jf-03bb2faec0"
+  },
+  {
     "id": "ma-055bb712a4",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5648,113 +5778,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-23",
     "ref_unique": "ma-4142c70ea5"
-  },
-  {
-    "id": "ma-c278e64732",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=6563&relb=100&brelb=100&bscr=2290.9106&scr=2290.9106",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-c278e64732"
-  },
-  {
-    "id": "ma-d631a5d915",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=6563&relb=100&brelb=100&bscr=2250.971&scr=2250.971",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-d631a5d915"
-  },
-  {
-    "id": "ma-cd6bab4736",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=6563&relb=100&brelb=100&bscr=1959.0066&scr=1959.0066",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-cd6bab4736"
-  },
-  {
-    "id": "ma-c73d67c4e4",
-    "titre": "Manager - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Manager - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-920936733297585638?ckey=informatique&rgn=0&pos=8&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=230&relb=110&brelb=110&bscr=294.55048&scr=294.55048",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-c73d67c4e4"
-  },
-  {
-    "id": "ma-c3c6ce361e",
-    "titre": "Commerciaux francophones : Besoin immédiat !!!",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones : Besoin immédiat !!! chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1668285482317190129?ckey=informatique&rgn=0&pos=9&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=110&relb=110&brelb=110&bscr=281.56137&scr=281.56137",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-c3c6ce361e"
-  },
-  {
-    "id": "ma-08d548d78f",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3439400492292443989?ckey=informatique&rgn=0&pos=10&elckey=8955476510940586429&p=1&aq=3098982901632001003&cid=20&jobAge=230&relb=110&brelb=110&bscr=277.87247&scr=277.87247",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-08d548d78f"
   }
 ]
