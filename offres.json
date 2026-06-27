@@ -1,5 +1,192 @@
 [
   {
+    "id": "jf-a534328fc1",
+    "titre": "View Open Positions",
+    "entreprise": "Minds Worth Meeting Podcast",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "wordpress",
+      "exec",
+      "designer",
+      "ads"
+    ],
+    "resume_neutre": "View Open Positions chez Minds Worth Meeting Podcast, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-view-open-positions-minds-worth-meeting-podcast-1134149",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-a534328fc1"
+  },
+  {
+    "id": "jf-dec13c26a0",
+    "titre": "Vice President Supply Chain",
+    "entreprise": "Ramp Talent",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "microsoft",
+      "ops"
+    ],
+    "resume_neutre": "Vice President Supply Chain chez Ramp Talent, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vice-president-supply-chain-ramp-talent-1134128",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-dec13c26a0"
+  },
+  {
+    "id": "jf-48c9324046",
+    "titre": "Asistente de Cuentas Marketing BTL Weldon",
+    "entreprise": "Universia Argentina",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Linguistics",
+    "remote": true,
+    "competences": [
+      "linguistics",
+      "legal",
+      "non tech",
+      "marketing"
+    ],
+    "resume_neutre": "Asistente de Cuentas Marketing BTL Weldon chez Universia Argentina, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asistente-de-cuentas-marketing-btl-weldon-universia-argentina-1134134",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-48c9324046"
+  },
+  {
+    "id": "jf-e6d7bb7ab9",
+    "titre": "Water Safety Specialist",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "technical",
+      "coordinator",
+      "customer support"
+    ],
+    "resume_neutre": "Water Safety Specialist chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-water-safety-specialist-four-seasons-1134130",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-e6d7bb7ab9"
+  },
+  {
+    "id": "jf-fb2cef6bb9",
+    "titre": "Chief Growth Officer",
+    "entreprise": "Berni and Mick Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "design",
+      "exec",
+      "coordinator",
+      "customer support"
+    ],
+    "resume_neutre": "Chief Growth Officer chez Berni and Mick Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-growth-officer-berni-and-mick-ireland-1134139",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-fb2cef6bb9"
+  },
+  {
+    "id": "jf-d12ce4736e",
+    "titre": "Leakage Inspector",
+    "entreprise": "Williams Tucker Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "exec"
+    ],
+    "resume_neutre": "Leakage Inspector chez Williams Tucker Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-leakage-inspector-williams-tucker-limited-1134163",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-d12ce4736e"
+  },
+  {
+    "id": "jf-b3ffb21661",
+    "titre": "Line inspector",
+    "entreprise": "Job Buzzer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Line inspector chez Job Buzzer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-line-inspector-job-buzzer-1134140",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-b3ffb21661"
+  },
+  {
+    "id": "jf-4b085ebbd0",
+    "titre": "School Crossing Patrol",
+    "entreprise": "Education Authority (Northern Ireland)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "exec",
+      "sys admin",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "School Crossing Patrol chez Education Authority (Northern Ireland), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-school-crossing-patrol-education-authority-northern-ireland-1134166",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-4b085ebbd0"
+  },
+  {
+    "id": "jf-d9baf261d9",
+    "titre": "Team leader supervisor",
+    "entreprise": "Clean Bees",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "exec"
+    ],
+    "resume_neutre": "Team leader supervisor chez Clean Bees, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-leader-supervisor-clean-bees-1134161",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-d9baf261d9"
+  },
+  {
     "id": "jf-1eabb20eb9",
     "titre": "Clinical Trial Associate",
     "entreprise": "Ollin Biosciences",
@@ -5637,167 +5824,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-23",
     "ref_unique": "ma-4b454e3072"
-  },
-  {
-    "id": "ma-96fe3a3c7f",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=1&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=422&relb=110&brelb=110&bscr=1744.4259&scr=1744.4259",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-96fe3a3c7f"
-  },
-  {
-    "id": "ma-9ebac175cd",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4361851844518967016?ckey=commercial&rgn=938&pos=2&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=350&relb=110&brelb=110&bscr=1734.3406&scr=1734.3405999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-9ebac175cd"
-  },
-  {
-    "id": "ma-f7f88f2d8c",
-    "titre": "Agents commerciaux (Emission)",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux (Emission) chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4371443298694939804?ckey=commercial&rgn=938&pos=3&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=38&relb=110&brelb=110&bscr=1726.8582&scr=1726.8582000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-f7f88f2d8c"
-  },
-  {
-    "id": "ma-c1b7116e81",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8665152798313974671?ckey=commercial&rgn=938&pos=4&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=494&relb=110&brelb=110&bscr=1720.6484&scr=1720.6484",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-c1b7116e81"
-  },
-  {
-    "id": "ma-646cf56ca6",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4899061601753872994?ckey=commercial&rgn=938&pos=5&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=38&relb=110&brelb=110&bscr=1697.687&scr=1697.687",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-646cf56ca6"
-  },
-  {
-    "id": "ma-2882bb9589",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1898566766051505189?ckey=commercial&rgn=938&pos=6&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=110&relb=110&brelb=110&bscr=1629.7797&scr=1629.7796999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-2882bb9589"
-  },
-  {
-    "id": "ma-8377cf0afc",
-    "titre": "Commercial en assurance décennale",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial en assurance décennale chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1853586320333477339?ckey=commercial&rgn=938&pos=7&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=614&relb=110&brelb=110&bscr=1588.7803&scr=1588.7803",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-8377cf0afc"
-  },
-  {
-    "id": "ma-213df694fd",
-    "titre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7470248089598318684?ckey=commercial&rgn=938&pos=8&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=182&relb=110&brelb=110&bscr=1583.6195&scr=1583.6195",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-213df694fd"
-  },
-  {
-    "id": "ma-dfe7eb7eab",
-    "titre": "Commercial(e) débutant(e) - Recrutement urgent !",
-    "entreprise": "Smart Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) débutant(e) - Recrutement urgent ! chez Smart Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/115623512738950980?ckey=commercial&rgn=938&pos=9&elckey=-2997002627841597987&p=1&aq=-4986622310260417870&cid=20&jobAge=38&relb=110&brelb=110&bscr=1543.1782&scr=1543.1782",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-23",
-    "ref_unique": "ma-dfe7eb7eab"
   }
 ]
