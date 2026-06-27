@@ -1,5 +1,108 @@
 [
   {
+    "id": "jf-ada67c93d4",
+    "titre": "Aeronautical Information Service Cadet",
+    "entreprise": "Grenada Airports Authority",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "non tech",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Aeronautical Information Service Cadet chez Grenada Airports Authority, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-aeronautical-information-service-cadet-grenada-airports-authority-1134169",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-ada67c93d4"
+  },
+  {
+    "id": "jf-7649c5e21d",
+    "titre": "Collections Manager",
+    "entreprise": "National Service Bureau",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "design",
+      "jira",
+      "saas",
+      "hr"
+    ],
+    "resume_neutre": "Collections Manager chez National Service Bureau, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-collections-manager-national-service-bureau-1134155",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-7649c5e21d"
+  },
+  {
+    "id": "jf-1c82e38966",
+    "titre": "Process Specialist",
+    "entreprise": "Betfred",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "ops"
+    ],
+    "resume_neutre": "Process Specialist chez Betfred, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-process-specialist-betfred-1134181",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-1c82e38966"
+  },
+  {
+    "id": "jf-2bfe035c8e",
+    "titre": "Human Resources Assistant",
+    "entreprise": "Recruit Lytics Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Human Resources Assistant chez Recruit Lytics Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytics-hiring-1134179",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-2bfe035c8e"
+  },
+  {
+    "id": "jf-7904d8627a",
+    "titre": "Learn more",
+    "entreprise": "Get Vetted",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Learn more chez Get Vetted, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-learn-more-get-vetted-1134180",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-27",
+    "ref_unique": "jf-7904d8627a"
+  },
+  {
     "id": "ma-f4f1c6a25c",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5656,109 +5759,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-24",
     "ref_unique": "jf-bf5aba186a"
-  },
-  {
-    "id": "jf-2bd0be109f",
-    "titre": "MSK Physiotherapist Virtual",
-    "entreprise": "IPRS Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "education",
-      "customer support",
-      "dev",
-      "video"
-    ],
-    "resume_neutre": "MSK Physiotherapist Virtual chez IPRS Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-msk-physiotherapist-virtual-iprs-health-1133974",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-24",
-    "ref_unique": "jf-2bd0be109f"
-  },
-  {
-    "id": "jf-bf740e3b05",
-    "titre": "Marketing Coordinator",
-    "entreprise": "RESOLUTE HR CONSULTING",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing"
-    ],
-    "resume_neutre": "Marketing Coordinator chez RESOLUTE HR CONSULTING, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-resolute-hr-consulting-1133917",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-24",
-    "ref_unique": "jf-bf740e3b05"
-  },
-  {
-    "id": "jf-56560863b3",
-    "titre": "Logistics Coordinator",
-    "entreprise": "Altis Recruitment",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Coordinator",
-    "remote": true,
-    "competences": [
-      "coordinator",
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "Logistics Coordinator chez Altis Recruitment, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-altis-recruitment-1133915",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-24",
-    "ref_unique": "jf-56560863b3"
-  },
-  {
-    "id": "jf-231f539b09",
-    "titre": "Assistant Project Manager Fragrance",
-    "entreprise": "Slate Brands",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "virtual assistant",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Assistant Project Manager Fragrance chez Slate Brands, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-project-manager-fragrance-slate-brands-1133969",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-24",
-    "ref_unique": "jf-231f539b09"
-  },
-  {
-    "id": "jf-d527670dc8",
-    "titre": "Head of Public Understanding",
-    "entreprise": "NOPE",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "communications",
-      "content writing",
-      "ai",
-      "part time"
-    ],
-    "resume_neutre": "Head of Public Understanding chez NOPE, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-24",
-    "ref_unique": "jf-d527670dc8"
   }
 ]
