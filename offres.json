@@ -1,5 +1,201 @@
 [
   {
+    "id": "jf-7b45211956",
+    "titre": "Freelance Designer",
+    "entreprise": "SAN Creatives Agency",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "teaching",
+      "exec",
+      "testing",
+      "video"
+    ],
+    "resume_neutre": "Freelance Designer chez SAN Creatives Agency, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-san-creatives-agency-1134185",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-7b45211956"
+  },
+  {
+    "id": "jf-31f0f80fb8",
+    "titre": "Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados",
+    "entreprise": "Neon Pagamentos",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "python",
+      "c",
+      "node",
+      "excel"
+    ],
+    "resume_neutre": "Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados chez Neon Pagamentos, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-growth-expert-acquisition-afirmativa-para-pessoas-de-grupos-sub-representados-neon-pagamentos-1134159",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-31f0f80fb8"
+  },
+  {
+    "id": "jf-61dd717d9d",
+    "titre": "Property Maintenance &amp; Operations Coordinator",
+    "entreprise": "Dart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "non tech",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Property Maintenance &amp; Operations Coordinator chez Dart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-property-maintenance-amp-operations-coordinator-dart-1134171",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-61dd717d9d"
+  },
+  {
+    "id": "jf-a05aad6607",
+    "titre": "Common Energy",
+    "entreprise": "Office of Energy &amp; Sustainability",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "exec",
+      "sys admin",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Common Energy chez Office of Energy &amp; Sustainability, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-common-energy-office-of-energy-amp-sustainability-1134164",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-a05aad6607"
+  },
+  {
+    "id": "jf-634e541f74",
+    "titre": "Stok",
+    "entreprise": "Office of Energy &amp; Sustainability",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "content writing",
+      "dev",
+      "web dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Stok chez Office of Energy &amp; Sustainability, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-stok-office-of-energy-amp-sustainability-1134197",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-634e541f74"
+  },
+  {
+    "id": "jf-51bb1eb824",
+    "titre": "IoT Specialist",
+    "entreprise": "Jasper Solutions Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "content writing",
+      "dev",
+      "web dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "IoT Specialist chez Jasper Solutions Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-iot-specialist-jasper-solutions-inc-1134196",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-51bb1eb824"
+  },
+  {
+    "id": "jf-21449bef9b",
+    "titre": "People Operations Specialist",
+    "entreprise": "VulnCheck",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "infosec",
+      "coordinator",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "People Operations Specialist chez VulnCheck, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-vulncheck-1134172",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-21449bef9b"
+  },
+  {
+    "id": "jf-89da715f0d",
+    "titre": "Frontend Developer Junior",
+    "entreprise": "Universia PerÃº",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "dev",
+      "web dev",
+      "javascript",
+      "junior"
+    ],
+    "resume_neutre": "Frontend Developer Junior chez Universia PerÃº, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-frontend-developer-junior-universia-peru-1134158",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-89da715f0d"
+  },
+  {
+    "id": "jf-a3adada716",
+    "titre": "Owner",
+    "entreprise": "Cultur'Elles - L'association des femmes du ministÃ¨re de la Culture",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "exec",
+      "consulting"
+    ],
+    "resume_neutre": "Owner chez Cultur'Elles - L'association des femmes du ministÃ¨re de la Culture, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-owner-culturelles-lassociation-des-femmes-du-ministere-de-la-culture-1134200",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-a3adada716"
+  },
+  {
     "id": "jf-1756f58694",
     "titre": "Analyst Customer Routing",
     "entreprise": "Gildan",
@@ -5622,167 +5818,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-24",
     "ref_unique": "ma-f1b481f803"
-  },
-  {
-    "id": "ma-5337d17bd3",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=8&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=38&relb=110&brelb=110&bscr=1557.9535&scr=1557.9535",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-5337d17bd3"
-  },
-  {
-    "id": "ma-11689a76e1",
-    "titre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7470248089598318684?ckey=commercial&rgn=938&pos=9&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=206&relb=110&brelb=110&bscr=1555.1299&scr=1555.1299",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-11689a76e1"
-  },
-  {
-    "id": "ma-aa910d7ea8",
-    "titre": "Commercial en assurance décennale",
-    "entreprise": "Feniassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial en assurance décennale chez Feniassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1853586320333477339?ckey=commercial&rgn=938&pos=10&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=638&relb=110&brelb=110&bscr=1554.9015&scr=1554.9014999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-aa910d7ea8"
-  },
-  {
-    "id": "ma-2d8f8a7f6f",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=11&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=62&relb=110&brelb=110&bscr=1467.4949&scr=1467.4949",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-2d8f8a7f6f"
-  },
-  {
-    "id": "ma-c4260f5802",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1559919572215071245?ckey=commercial&rgn=938&pos=12&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=38&relb=110&brelb=110&bscr=1466.0474&scr=1466.0473999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-c4260f5802"
-  },
-  {
-    "id": "ma-9d1352ce11",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=1&elckey=6309240746231066189&p=1&aq=-7011847578703416218&cid=20&jobAge=2750&relb=100&brelb=100&bscr=2689.9395&scr=2689.9395",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-9d1352ce11"
-  },
-  {
-    "id": "ma-dc2200fd20",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/952829697474303323?ckey=informatique&rgn=0&pos=2&elckey=6309240746231066189&p=1&aq=-7011847578703416218&cid=20&jobAge=62&relb=100&brelb=100&bscr=2658.7769&scr=2658.7769",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-dc2200fd20"
-  },
-  {
-    "id": "ma-57a47d260b",
-    "titre": "Technicien Informatique",
-    "entreprise": "CFG Bank",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez CFG Bank, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1588005605708403542?ckey=informatique&rgn=0&pos=3&elckey=6309240746231066189&p=1&aq=-7011847578703416218&cid=20&jobAge=6228&relb=100&brelb=100&bscr=2627.1313&scr=2627.1313",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-57a47d260b"
-  },
-  {
-    "id": "ma-a2c30ca450",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=4&elckey=6309240746231066189&p=1&aq=-7011847578703416218&cid=20&jobAge=374&relb=100&brelb=100&bscr=2419.439&scr=2419.439",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-a2c30ca450"
   }
 ]
