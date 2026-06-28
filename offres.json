@@ -1,5 +1,26 @@
 [
   {
+    "id": "jf-39406545b1",
+    "titre": "Industry Analysis",
+    "entreprise": "Citofield",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "devops",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Industry Analysis chez Citofield, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-industry-analysis-citofield-1134182",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-39406545b1"
+  },
+  {
     "id": "ma-8b0c182cb9",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5729,27 +5750,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-25",
     "ref_unique": "jf-b09d8d985f"
-  },
-  {
-    "id": "jf-d5dbcf445d",
-    "titre": "Senior Estimator",
-    "entreprise": "Aecon Group Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "education",
-      "technical",
-      "customer support",
-      "dev"
-    ],
-    "resume_neutre": "Senior Estimator chez Aecon Group Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-estimator-aecon-group-inc-1133989",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-d5dbcf445d"
   }
 ]
