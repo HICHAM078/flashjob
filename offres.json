@@ -1,5 +1,109 @@
 [
   {
+    "id": "jf-23c99b3049",
+    "titre": "Technical Lead",
+    "entreprise": "IT FUTURZ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "exec"
+    ],
+    "resume_neutre": "Technical Lead chez IT FUTURZ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-lead-it-futurz-1134198",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-23c99b3049"
+  },
+  {
+    "id": "jf-b83f2c638a",
+    "titre": "Ut Facere Aut",
+    "entreprise": "Innodrei",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "content writing",
+      "dev",
+      "web dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Ut Facere Aut chez Innodrei, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ut-facere-aut-innodrei-1134193",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-b83f2c638a"
+  },
+  {
+    "id": "jf-1f95d28abc",
+    "titre": "Error Odio",
+    "entreprise": "Innodrei",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "content writing"
+    ],
+    "resume_neutre": "Error Odio chez Innodrei, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-error-odio-innodrei-1134191",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-1f95d28abc"
+  },
+  {
+    "id": "jf-2fc9e5416f",
+    "titre": "Video Editor",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "teaching",
+      "exec",
+      "testing",
+      "video"
+    ],
+    "resume_neutre": "Video Editor chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-onlinejobs-ph-1134184",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-2fc9e5416f"
+  },
+  {
+    "id": "jf-ae4dc990c3",
+    "titre": "Creative Strategist",
+    "entreprise": "Happy Mammoth",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Strategy",
+    "remote": true,
+    "competences": [
+      "strategy",
+      "copywriting",
+      "testing",
+      "marketing",
+      "ads"
+    ],
+    "resume_neutre": "Creative Strategist chez Happy Mammoth, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-happy-mammoth-1134205",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-28",
+    "ref_unique": "jf-ae4dc990c3"
+  },
+  {
     "id": "jf-7b45211956",
     "titre": "Freelance Designer",
     "entreprise": "SAN Creatives Agency",
@@ -5728,95 +5832,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-24",
     "ref_unique": "ma-f3ac54f637"
-  },
-  {
-    "id": "ma-21f5ce7bd0",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8665152798313974671?ckey=commercial&rgn=938&pos=3&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=518&relb=110&brelb=110&bscr=1685.111&scr=1685.111",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-21f5ce7bd0"
-  },
-  {
-    "id": "ma-9d37b4334b",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=4&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=38&relb=110&brelb=110&bscr=1681.3287&scr=1681.3287",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-9d37b4334b"
-  },
-  {
-    "id": "ma-7e4586ccf8",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4899061601753872994?ckey=commercial&rgn=938&pos=5&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=62&relb=110&brelb=110&bscr=1669.5568&scr=1669.5568000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-7e4586ccf8"
-  },
-  {
-    "id": "ma-5d0f43eebc",
-    "titre": "Commercial(e) débutant(e) - Recrutement urgent !",
-    "entreprise": "Smart Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) débutant(e) - Recrutement urgent ! chez Smart Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/115623512738950980?ckey=commercial&rgn=938&pos=6&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=62&relb=110&brelb=110&bscr=1579.6666&scr=1579.6666",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-5d0f43eebc"
-  },
-  {
-    "id": "ma-f1b481f803",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-196497125328522850?ckey=commercial&rgn=938&pos=7&elckey=-5643238392551118227&p=1&aq=6955139536765424391&cid=20&jobAge=38&relb=110&brelb=110&bscr=1578.9818&scr=1578.9818",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-24",
-    "ref_unique": "ma-f1b481f803"
   }
 ]
