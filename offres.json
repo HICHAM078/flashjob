@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-248a4aef00",
+    "titre": "JANITOR",
+    "entreprise": "Buffalo Wild Wings - Fralich, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "math",
+      "exec"
+    ],
+    "resume_neutre": "JANITOR chez Buffalo Wild Wings - Fralich, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1134206",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-29",
+    "ref_unique": "jf-248a4aef00"
+  },
+  {
+    "id": "jf-92934960af",
+    "titre": "AI Filmmaker",
+    "entreprise": "Foxelli Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "sys admin",
+      "python",
+      "consulting",
+      "customer support"
+    ],
+    "resume_neutre": "AI Filmmaker chez Foxelli Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-29",
+    "ref_unique": "jf-92934960af"
+  },
+  {
+    "id": "jf-df0e56ae8c",
+    "titre": "Competency Assessor Operations",
+    "entreprise": "NextDecade",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "ops",
+      "non tech"
+    ],
+    "resume_neutre": "Competency Assessor Operations chez NextDecade, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-competency-assessor-operations-nextdecade-1134225",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-29",
+    "ref_unique": "jf-df0e56ae8c"
+  },
+  {
     "id": "jf-abe98ffe2c",
     "titre": "Manager Social Art Director",
     "entreprise": "Starface World",
@@ -5689,67 +5751,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-25",
     "ref_unique": "jf-5cdffdb9d5"
-  },
-  {
-    "id": "jf-ae3f01a076",
-    "titre": "Human Resources Assistant",
-    "entreprise": "Recruit Lytixs Hire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "hr",
-      "education",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Human Resources Assistant chez Recruit Lytixs Hire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytixs-hire-1134017",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-ae3f01a076"
-  },
-  {
-    "id": "jf-f4a08840e2",
-    "titre": "Halwai",
-    "entreprise": "jÃ¼STa Hotels &amp; Resorts",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Halwai chez jÃ¼STa Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-f4a08840e2"
-  },
-  {
-    "id": "jf-85cdab4fc7",
-    "titre": "Director of Procurement",
-    "entreprise": "Kardion",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "infosec",
-      "customer support",
-      "dev",
-      "exec"
-    ],
-    "resume_neutre": "Director of Procurement chez Kardion, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-procurement-kardion-1134002",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-85cdab4fc7"
   }
 ]
