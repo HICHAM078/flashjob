@@ -1,5 +1,20 @@
 [
   {
+    "cat": "Carrière",
+    "titre": "Postuler à l'étranger : ce qu'il faut préparer",
+    "excerpt": "Travailler à l'international se prépare. Voici les bases à anticiper avant de se lancer.",
+    "body": [
+      "Chercher un emploi à l'étranger ouvre des perspectives, mais demande plus de préparation qu'une candidature locale. Voici les points à anticiper, sans se précipiter.",
+      "<b>Renseignez-vous sur les règles du pays.</b> Conditions de travail, démarches administratives, reconnaissance des diplômes : consultez les sources officielles du pays visé, car tout varie d'un pays à l'autre.",
+      "<b>Adaptez votre CV au format local.</b> Un CV attendu en France n'est pas présenté comme ailleurs. Renseignez-vous sur les usages du pays ciblé.",
+      "<b>Soignez la langue.</b> Un bon niveau dans la langue de travail est souvent décisif. Anticipez si une certification est demandée.",
+      "<b>Méfiez-vous des promesses trop belles.</b> Une offre à l'étranger qui demande de l'argent à l'avance est presque toujours une arnaque. Restez vigilant."
+    ],
+    "lang": "fr",
+    "id": "news-1782738007-fr",
+    "date": "29 juin 2026"
+  },
+  {
     "cat": "نصائح",
     "titre": "احذر إعلانات التوظيف المزيفة: 6 إشارات إنذار",
     "excerpt": "تتكاثر الإعلانات المزيفة وتستهدف الباحثين عن عمل المستعجلين. إليك كيف تكشفها وتحمي معطياتك.",
