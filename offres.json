@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-abe98ffe2c",
+    "titre": "Manager Social Art Director",
+    "entreprise": "Starface World",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Art Direction",
+    "remote": true,
+    "competences": [
+      "art direction",
+      "exec",
+      "coordinator",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Manager Social Art Director chez Starface World, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-social-art-director-starface-world-1134222",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-29",
+    "ref_unique": "jf-abe98ffe2c"
+  },
+  {
     "id": "jf-9bac26ef60",
     "titre": "Senior Counsel Project Finance &amp; Commercial",
     "entreprise": "Energy Vault",
@@ -5729,27 +5751,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-25",
     "ref_unique": "jf-85cdab4fc7"
-  },
-  {
-    "id": "jf-3e1f350b2a",
-    "titre": "Junior Business Analyst",
-    "entreprise": "Work Force Nexus",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "non tech",
-      "customer support",
-      "marketing",
-      "c"
-    ],
-    "resume_neutre": "Junior Business Analyst chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-3e1f350b2a"
   }
 ]
