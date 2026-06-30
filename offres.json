@@ -1,5 +1,183 @@
 [
   {
+    "id": "jf-24e3f906f7",
+    "titre": "Cuidador a de NiÃ±os",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Cuidador a de NiÃ±os chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cuidador-a-de-ninos-tus-media-1134230",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-24e3f906f7"
+  },
+  {
+    "id": "jf-98ba7e9420",
+    "titre": "Expressions of Interest",
+    "entreprise": "RACQ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "finance",
+      "medical",
+      "recruiter"
+    ],
+    "resume_neutre": "Expressions of Interest chez RACQ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-racq-1134236",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-98ba7e9420"
+  },
+  {
+    "id": "jf-3984f77372",
+    "titre": "NiÃ±era Ayuda con los deberes Sin experiencia",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "NiÃ±era Ayuda con los deberes Sin experiencia chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ninera-ayuda-con-los-deberes-sin-experiencia-tus-media-1134250",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-3984f77372"
+  },
+  {
+    "id": "jf-f70f629ab3",
+    "titre": "Graduate Business Operations Associate",
+    "entreprise": "Bezos.AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "sys admin",
+      "python",
+      "consulting",
+      "customer support"
+    ],
+    "resume_neutre": "Graduate Business Operations Associate chez Bezos.AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graduate-business-operations-associate-bezos-ai-1134231",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-f70f629ab3"
+  },
+  {
+    "id": "jf-e68ab74202",
+    "titre": "1419",
+    "entreprise": "4BUILD Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "1419 chez 4BUILD Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-1419-4build-group-1134234",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-e68ab74202"
+  },
+  {
+    "id": "jf-e6bf2f579a",
+    "titre": "2035",
+    "entreprise": "4BUILD Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "2035 chez 4BUILD Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-2035-4build-group-1134229",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-e6bf2f579a"
+  },
+  {
+    "id": "jf-4579d0e629",
+    "titre": "Customer Support Helpdesk Specialist",
+    "entreprise": "Empathy Talent",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time",
+      "design"
+    ],
+    "resume_neutre": "Customer Support Helpdesk Specialist chez Empathy Talent, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-helpdesk-specialist-empathy-talent-1134244",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-4579d0e629"
+  },
+  {
+    "id": "jf-b02231d8fe",
+    "titre": "Freelance Designer",
+    "entreprise": "Img.creators",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "testing",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "Freelance Designer chez Img.creators, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-img-creators-1134254",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-b02231d8fe"
+  },
+  {
+    "id": "jf-c8ad2191b2",
+    "titre": "Job Title",
+    "entreprise": "QB Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Job Title chez QB Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-title-qb-corporation-1134248",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-c8ad2191b2"
+  },
+  {
     "id": "jf-946e82cd08",
     "titre": "Admissions Coordinator",
     "entreprise": "Discovery Institute Drug &amp; Alcohol Rehab New Jersey",
@@ -5563,189 +5741,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-25",
     "ref_unique": "jf-f0fbfbe9b5"
-  },
-  {
-    "id": "jf-645f773f32",
-    "titre": "Social Media & Partnerships Manager Lifestyle",
-    "entreprise": "Caramel Talent",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "social media"
-    ],
-    "resume_neutre": "Social Media & Partnerships Manager Lifestyle chez Caramel Talent, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-partnerships-manager-lifestyle-caramel-talent-1134021",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-645f773f32"
-  },
-  {
-    "id": "jf-cafd9fa2ff",
-    "titre": "Continuous Improvement Specialist",
-    "entreprise": "InProduction",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "sys admin",
-      "infosec",
-      "education",
-      "technical"
-    ],
-    "resume_neutre": "Continuous Improvement Specialist chez InProduction, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-continuous-improvement-specialist-inproduction-1134071",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-cafd9fa2ff"
-  },
-  {
-    "id": "jf-0bd81547b9",
-    "titre": "Chief of Staff the CEO",
-    "entreprise": "Valiantys",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "sys admin",
-      "infosec",
-      "education",
-      "technical"
-    ],
-    "resume_neutre": "Chief of Staff the CEO chez Valiantys, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-valiantys-1134069",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-0bd81547b9"
-  },
-  {
-    "id": "jf-13b2a91083",
-    "titre": "Assistant de formation F H",
-    "entreprise": "UniversitÃ© de Bordeaux",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "finance",
-      "exec",
-      "marketing"
-    ],
-    "resume_neutre": "Assistant de formation F H chez UniversitÃ© de Bordeaux, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-de-formation-f-h-universite-de-bordeaux-1134077",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-13b2a91083"
-  },
-  {
-    "id": "jf-c0ca213d49",
-    "titre": "Test Job Post",
-    "entreprise": "Halma plc",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Test Job Post chez Halma plc, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-post-halma-plc-1134053",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-c0ca213d49"
-  },
-  {
-    "id": "jf-41e814fb02",
-    "titre": "Senior DevOps Engineer",
-    "entreprise": "Lemon.io",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "devops",
-      "engineer",
-      "kubernetes",
-      "aws"
-    ],
-    "resume_neutre": "Senior DevOps Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-41e814fb02"
-  },
-  {
-    "id": "jf-456c19a951",
-    "titre": "Mid Senior AI Cinematic Video Editor",
-    "entreprise": "EverAI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "ai",
-      "other",
-      "art direction"
-    ],
-    "resume_neutre": "Mid Senior AI Cinematic Video Editor chez EverAI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-456c19a951"
-  },
-  {
-    "id": "jf-5623905a3b",
-    "titre": "Human Resources Specialist",
-    "entreprise": "Mavida Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Medical",
-    "remote": true,
-    "competences": [
-      "medical",
-      "hr",
-      "full time"
-    ],
-    "resume_neutre": "Human Resources Specialist chez Mavida Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-mavida-health-1134013",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-5623905a3b"
-  },
-  {
-    "id": "jf-48965c5bb9",
-    "titre": "Patient Care Advocate",
-    "entreprise": "Hey Jane",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Patient Care Advocate chez Hey Jane, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-care-advocate-hey-jane-1134012",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-48965c5bb9"
   }
 ]
