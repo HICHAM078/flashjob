@@ -1,5 +1,195 @@
 [
   {
+    "id": "jf-8b8c2892bd",
+    "titre": "LEAD",
+    "entreprise": "ABM Industries",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "exec",
+      "engineer"
+    ],
+    "resume_neutre": "LEAD chez ABM Industries, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-abm-industries-1134249",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-8b8c2892bd"
+  },
+  {
+    "id": "jf-d202c7ce59",
+    "titre": "Housekeeper Kabannas Newcastle",
+    "entreprise": "Kabannas",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Housekeeper Kabannas Newcastle chez Kabannas, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-housekeeper-kabannas-newcastle-kabannas-1134271",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-d202c7ce59"
+  },
+  {
+    "id": "jf-a2a26d861b",
+    "titre": "Freelance Designer",
+    "entreprise": "Haus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time",
+      "design"
+    ],
+    "resume_neutre": "Freelance Designer chez Haus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-haus-1134241",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-a2a26d861b"
+  },
+  {
+    "id": "jf-3ddba238b0",
+    "titre": "Senior Director of Brand Marketing",
+    "entreprise": "Coleto Brands",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time",
+      "design"
+    ],
+    "resume_neutre": "Senior Director of Brand Marketing chez Coleto Brands, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-director-of-brand-marketing-coleto-brands-1134246",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-3ddba238b0"
+  },
+  {
+    "id": "jf-3b3bb930ff",
+    "titre": "Business Administration",
+    "entreprise": "Brainkind",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web Dev",
+    "remote": true,
+    "competences": [
+      "web dev",
+      "content writing"
+    ],
+    "resume_neutre": "Business Administration chez Brainkind, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-administration-brainkind-1134238",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-3b3bb930ff"
+  },
+  {
+    "id": "jf-59b1e70efb",
+    "titre": "Freelance Social Copywriter",
+    "entreprise": "Milk Makeup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time"
+    ],
+    "resume_neutre": "Freelance Social Copywriter chez Milk Makeup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-social-copywriter-milk-makeup-1134240",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-59b1e70efb"
+  },
+  {
+    "id": "jf-ef9e3eb5a7",
+    "titre": "Director of Service",
+    "entreprise": "Marchay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time",
+      "design"
+    ],
+    "resume_neutre": "Director of Service chez Marchay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-service-marchay-1134243",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-ef9e3eb5a7"
+  },
+  {
+    "id": "jf-af1ebf08ab",
+    "titre": "Painter",
+    "entreprise": "Ian Williams Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Painter chez Ian Williams Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-painter-ian-williams-ltd-1134261",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-af1ebf08ab"
+  },
+  {
+    "id": "jf-49fe1b0939",
+    "titre": "Pengajar Biologi Online",
+    "entreprise": "Ruangguru for Business",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching"
+    ],
+    "resume_neutre": "Pengajar Biologi Online chez Ruangguru for Business, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pengajar-biologi-online-ruangguru-for-business-1134309",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-49fe1b0939"
+  },
+  {
     "id": "jf-263ea62317",
     "titre": "Sharetea Edmonton City Centre",
     "entreprise": "Edmonton City Centre",
@@ -5495,167 +5685,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-26",
     "ref_unique": "ma-312e0a9cc8"
-  },
-  {
-    "id": "ma-d1af866b80",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=2&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=206&relb=100&brelb=100&bscr=2387.0183&scr=2387.0183",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-d1af866b80"
-  },
-  {
-    "id": "ma-fd97e89e6b",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=3&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=254&relb=100&brelb=100&bscr=2330.9714&scr=2330.9714",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-fd97e89e6b"
-  },
-  {
-    "id": "ma-a94119ff76",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6817930666664253435?ckey=comptable&rgn=946&pos=4&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=398&relb=100&brelb=100&bscr=2255.1719&scr=2255.1719",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-a94119ff76"
-  },
-  {
-    "id": "ma-a0446ccdfa",
-    "titre": "Comptable - Meknès",
-    "entreprise": "SOMACOS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Meknès chez SOMACOS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2402882206848639806?ckey=comptable&rgn=946&pos=5&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=182&relb=100&brelb=100&bscr=2222.9568&scr=2222.9568",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-a0446ccdfa"
-  },
-  {
-    "id": "ma-3315b041d5",
-    "titre": "Comptable Sénior - Casablanca",
-    "entreprise": "ELITE INTERIM MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Sénior - Casablanca chez ELITE INTERIM MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4209492511139154816?ckey=comptable&rgn=946&pos=6&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=206&relb=100&brelb=100&bscr=2221.313&scr=2221.313",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-3315b041d5"
-  },
-  {
-    "id": "ma-b39281e415",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=7&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=614&relb=100&brelb=100&bscr=2220.195&scr=2220.195",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-b39281e415"
-  },
-  {
-    "id": "ma-f8f746ae5f",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=8&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=156&relb=100&brelb=100&bscr=2211.4978&scr=2211.4978",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-f8f746ae5f"
-  },
-  {
-    "id": "ma-c40bc4384d",
-    "titre": "Comptable Clients et Fournisseurs - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Clients et Fournisseurs - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7826311843277577332?ckey=comptable&rgn=946&pos=9&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=110&relb=100&brelb=100&bscr=2119.32&scr=2119.32",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-c40bc4384d"
-  },
-  {
-    "id": "ma-ff664327ff",
-    "titre": "Comptable Confirmé (H/F) - Dar Bouazza",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé (H/F) - Dar Bouazza chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7964146927049696805?ckey=comptable&rgn=946&pos=10&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=182&relb=100&brelb=100&bscr=2103.875&scr=2103.875",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-ff664327ff"
   }
 ]
