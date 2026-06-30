@@ -1,5 +1,66 @@
 [
   {
+    "id": "jf-263ea62317",
+    "titre": "Sharetea Edmonton City Centre",
+    "entreprise": "Edmonton City Centre",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "golang",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "Sharetea Edmonton City Centre chez Edmonton City Centre, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sharetea-edmonton-city-centre-edmonton-city-centre-1134251",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-263ea62317"
+  },
+  {
+    "id": "jf-90ede346b4",
+    "titre": "Testing",
+    "entreprise": "Macquarie Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "finance",
+      "medical",
+      "recruiter"
+    ],
+    "resume_neutre": "Testing chez Macquarie Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-macquarie-group-1134237",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-90ede346b4"
+  },
+  {
+    "id": "jf-3b0c15b8d1",
+    "titre": "Various",
+    "entreprise": "Glenrands Jaguar &amp; Land Rover",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical"
+    ],
+    "resume_neutre": "Various chez Glenrands Jaguar &amp; Land Rover, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-glenrands-jaguar-amp-land-rover-1134256",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-3b0c15b8d1"
+  },
+  {
     "id": "ma-392425fd3b",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5596,59 +5657,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-26",
     "ref_unique": "ma-ff664327ff"
-  },
-  {
-    "id": "ma-8c57b13a2b",
-    "titre": "Adjoint Responsable Comptable - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Adjoint Responsable Comptable - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4584797171913633706?ckey=comptable&rgn=946&pos=11&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=110&relb=100&brelb=100&bscr=2097.9006&scr=2097.9006",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-8c57b13a2b"
-  },
-  {
-    "id": "ma-48383ec9d7",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "N.C.",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez N.C., a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8341389372544889153?ckey=comptable&rgn=946&pos=12&elckey=-4974284429943843784&p=1&aq=2323200807320672604&cid=20&jobAge=590&relb=100&brelb=100&bscr=2072.9153&scr=2072.9153",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-48383ec9d7"
-  },
-  {
-    "id": "ma-7c7ce1b28a",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=1&elckey=-8645228073253424601&p=1&aq=1449862689662363695&cid=20&jobAge=38&relb=110&brelb=110&bscr=1696.8499&scr=1696.8499",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-26",
-    "ref_unique": "ma-7c7ce1b28a"
   }
 ]
