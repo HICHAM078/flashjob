@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-946e82cd08",
+    "titre": "Admissions Coordinator",
+    "entreprise": "Discovery Institute Drug &amp; Alcohol Rehab New Jersey",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "customer support",
+      "exec",
+      "part time",
+      "design"
+    ],
+    "resume_neutre": "Admissions Coordinator chez Discovery Institute Drug &amp; Alcohol Rehab New Jersey, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-admissions-coordinator-discovery-institute-drug-amp-alcohol-rehab-new-jersey-1134247",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-946e82cd08"
+  },
+  {
+    "id": "jf-f8805474e0",
+    "titre": "WAREHOUSE OFFICER",
+    "entreprise": "COACTUM RPE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "WAREHOUSE OFFICER chez COACTUM RPE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-coactum-rpe-1134235",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-06-30",
+    "ref_unique": "jf-f8805474e0"
+  },
+  {
     "id": "ma-8c55e4a458",
     "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
     "entreprise": "Infinity Buisness Group",
@@ -5707,45 +5747,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-06-25",
     "ref_unique": "jf-48965c5bb9"
-  },
-  {
-    "id": "jf-897b2c5370",
-    "titre": "Retail Marketing Coordinator",
-    "entreprise": "Crown Affair",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Coordinator",
-    "remote": true,
-    "competences": [
-      "coordinator",
-      "customer support",
-      "marketing",
-      "exec",
-      "education"
-    ],
-    "resume_neutre": "Retail Marketing Coordinator chez Crown Affair, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-06-25",
-    "ref_unique": "jf-897b2c5370"
-  },
-  {
-    "id": "ma-0511132e1b",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=1&elckey=-8498744553844271029&p=1&aq=-1003831365477837517&cid=20&jobAge=158&relb=110&brelb=110&bscr=2829.8323&scr=2829.8323",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-25",
-    "ref_unique": "ma-0511132e1b"
   }
 ]
