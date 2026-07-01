@@ -1,5 +1,111 @@
 [
   {
+    "id": "jf-32e5a06755",
+    "titre": "MANAGER TECHNOLOGY MET",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "customer support",
+      "non tech",
+      "exec",
+      "marketing"
+    ],
+    "resume_neutre": "MANAGER TECHNOLOGY MET chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-technology-met-the-home-depot-canada-1134316",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-32e5a06755"
+  },
+  {
+    "id": "jf-7d4e6cf36a",
+    "titre": "Mortgage Operations Loan Processor",
+    "entreprise": "Wealthfront",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Art Direction",
+    "remote": true,
+    "competences": [
+      "art direction",
+      "exec",
+      "design",
+      "embedded",
+      "customer support"
+    ],
+    "resume_neutre": "Mortgage Operations Loan Processor chez Wealthfront, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mortgage-operations-loan-processor-wealthfront-1134311",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-7d4e6cf36a"
+  },
+  {
+    "id": "jf-2aa9822de8",
+    "titre": "Full crew",
+    "entreprise": "Atlantic Oceanic LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Full crew chez Atlantic Oceanic LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-full-crew-atlantic-oceanic-llc-1134321",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-2aa9822de8"
+  },
+  {
+    "id": "jf-845f3d025d",
+    "titre": "Captain",
+    "entreprise": "UICGS / Bowhead Family of Companies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "sys admin",
+      "ops",
+      "infosec",
+      "customer support"
+    ],
+    "resume_neutre": "Captain chez UICGS / Bowhead Family of Companies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-845f3d025d"
+  },
+  {
+    "id": "jf-77e5de87e1",
+    "titre": "Vice President of Customer Growth",
+    "entreprise": "PatientIQ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Art Direction",
+    "remote": true,
+    "competences": [
+      "art direction",
+      "exec",
+      "design",
+      "embedded",
+      "customer support"
+    ],
+    "resume_neutre": "Vice President of Customer Growth chez PatientIQ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vice-president-of-customer-growth-patientiq-1134312",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-77e5de87e1"
+  },
+  {
     "id": "jf-bab6a9adac",
     "titre": "Creative Director",
     "entreprise": "PadSplit",
@@ -5544,95 +5650,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-27",
     "ref_unique": "ma-9ae3032188"
-  },
-  {
-    "id": "ma-3185a6e9b0",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=4&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=517&relb=110&brelb=110&bscr=1638.1576&scr=1638.1576",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-3185a6e9b0"
-  },
-  {
-    "id": "ma-354412b11a",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8665152798313974671?ckey=commercial&rgn=938&pos=5&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=589&relb=110&brelb=110&bscr=1613.1526&scr=1613.1526",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-354412b11a"
-  },
-  {
-    "id": "ma-df4fe34100",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-196497125328522850?ckey=commercial&rgn=938&pos=6&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=109&relb=110&brelb=110&bscr=1568.6746&scr=1568.6746",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-df4fe34100"
-  },
-  {
-    "id": "ma-28370bdfb6",
-    "titre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL CONFIRMÉ EN ASSURANCE AUTOMOBILE chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7470248089598318684?ckey=commercial&rgn=938&pos=7&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=61&relb=110&brelb=110&bscr=1538.085&scr=1538.085",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-28370bdfb6"
-  },
-  {
-    "id": "ma-9e2a319fc4",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=8&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=61&relb=110&brelb=110&bscr=1490.8878&scr=1490.8878",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-9e2a319fc4"
   }
 ]
