@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-bab6a9adac",
+    "titre": "Creative Director",
+    "entreprise": "PadSplit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Art Direction",
+    "remote": true,
+    "competences": [
+      "art direction",
+      "exec",
+      "design",
+      "embedded",
+      "customer support"
+    ],
+    "resume_neutre": "Creative Director chez PadSplit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-director-padsplit-1134310",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-bab6a9adac"
+  },
+  {
+    "id": "jf-b33673d0fd",
+    "titre": "Chief Financial Officer",
+    "entreprise": "Hospitable.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "product manager",
+      "exec",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Chief Financial Officer chez Hospitable.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-hospitable-com-1134320",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-b33673d0fd"
+  },
+  {
+    "id": "jf-78d4007b0f",
+    "titre": "Maintenance &amp; MEP Technician",
+    "entreprise": "Scales and Associates",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "sys admin",
+      "ops",
+      "infosec",
+      "customer support"
+    ],
+    "resume_neutre": "Maintenance &amp; MEP Technician chez Scales and Associates, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-78d4007b0f"
+  },
+  {
+    "id": "jf-893c72316a",
+    "titre": "Total Rewards Manager",
+    "entreprise": "PGIM Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Total Rewards Manager chez PGIM Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-total-rewards-manager-pgim-ireland-1134296",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-893c72316a"
+  },
+  {
+    "id": "jf-3b61444973",
+    "titre": "Bid Manager",
+    "entreprise": "Razorblue Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "marketing",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Bid Manager chez Razorblue Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bid-manager-razorblue-group-1134276",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-01",
+    "ref_unique": "jf-3b61444973"
+  },
+  {
     "id": "ma-55ebe7b3c4",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5524,95 +5634,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-27",
     "ref_unique": "ma-9e2a319fc4"
-  },
-  {
-    "id": "ma-ec4dec2c48",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=9&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=61&relb=110&brelb=110&bscr=1471.2897&scr=1471.2897",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-ec4dec2c48"
-  },
-  {
-    "id": "ma-a6f728f86e",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=10&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=37&relb=110&brelb=110&bscr=1464.496&scr=1464.4959999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-a6f728f86e"
-  },
-  {
-    "id": "ma-3246cba793",
-    "titre": "Téléconseiller Commercial - Marché Belge (CDI)",
-    "entreprise": "Vocal Vibe",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Téléconseiller Commercial - Marché Belge (CDI) chez Vocal Vibe, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-168244779006633990?ckey=commercial&rgn=938&pos=11&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=349&relb=110&brelb=110&bscr=1448.4155&scr=1448.4155",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-3246cba793"
-  },
-  {
-    "id": "ma-f32745811f",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1559919572215071245?ckey=commercial&rgn=938&pos=12&elckey=2211541852836645223&p=1&aq=-7276329278682124136&cid=20&jobAge=37&relb=110&brelb=110&bscr=1432.8761&scr=1432.8761",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-f32745811f"
-  },
-  {
-    "id": "ma-a4a907052c",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-4282723082090721977&p=1&aq=6472115287747664330&cid=20&jobAge=58&relb=100&brelb=100&bscr=3154.9207&scr=3154.9207",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-27",
-    "ref_unique": "ma-a4a907052c"
   }
 ]
