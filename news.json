@@ -1,6 +1,21 @@
 [
   {
     "cat": "Carrière",
+    "titre": "Gérer le stress de la recherche d'emploi",
+    "excerpt": "Chercher un emploi peut être éprouvant moralement. Voici comment tenir le coup.",
+    "body": [
+      "La recherche d'emploi est un marathon, pas un sprint. Entre les refus et l'attente, le moral peut flancher. Préserver son énergie fait partie de la réussite.",
+      "<b>Structurez vos journées.</b> Se fixer des plages dédiées à la recherche, puis couper, évite de se sentir « en recherche » 24h/24 et préserve l'équilibre.",
+      "<b>Ne prenez pas les refus personnellement.</b> Un « non » tient souvent à des critères qui n'ont rien à voir avec votre valeur. Chaque candidature vous fait progresser.",
+      "<b>Fixez-vous de petits objectifs.</b> Trois candidatures ciblées valent mieux que vingt envoyées au hasard. Célébrez les petites victoires, comme un entretien décroché.",
+      "<b>Entourez-vous.</b> Parler de sa recherche, demander de l'aide, garder une activité physique et sociale : tout cela protège le moral et la motivation."
+    ],
+    "lang": "fr",
+    "id": "news-1782991684-fr",
+    "date": "2 juillet 2026"
+  },
+  {
+    "cat": "Carrière",
     "titre": "Postuler à l'étranger : ce qu'il faut préparer",
     "excerpt": "Travailler à l'international se prépare. Voici les bases à anticiper avant de se lancer.",
     "body": [
