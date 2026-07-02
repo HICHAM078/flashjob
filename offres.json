@@ -1,5 +1,62 @@
 [
   {
+    "id": "jf-b95b3cd04f",
+    "titre": "India posts require 17 Staff Car Drivers Fast track your application",
+    "entreprise": "The Kashmir Monitor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech",
+      "engineer"
+    ],
+    "resume_neutre": "India posts require 17 Staff Car Drivers Fast track your application chez The Kashmir Monitor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-india-posts-require-17-staff-car-drivers-fast-track-your-application-the-kashmir-monitor-1134373",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-02",
+    "ref_unique": "jf-b95b3cd04f"
+  },
+  {
+    "id": "jf-42ef5d47c3",
+    "titre": "BRENTWOOD CHAGUANAS",
+    "entreprise": "Tommy's Brewing Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor"
+    ],
+    "resume_neutre": "BRENTWOOD CHAGUANAS chez Tommy's Brewing Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brentwood-chaguanas-tommys-brewing-company-1134374",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-02",
+    "ref_unique": "jf-42ef5d47c3"
+  },
+  {
+    "id": "jf-46bc30971b",
+    "titre": "Docente Tiempo Parcial Derecho Remoto",
+    "entreprise": "Universidad Privada del Norte",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Excel",
+    "remote": true,
+    "competences": [
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Docente Tiempo Parcial Derecho Remoto chez Universidad Privada del Norte, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-remoto-universidad-privada-del-norte-1134390",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-02",
+    "ref_unique": "jf-46bc30971b"
+  },
+  {
     "id": "ma-b2203cbbe1",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5528,59 +5585,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-28",
     "ref_unique": "ma-1b84adcd06"
-  },
-  {
-    "id": "ma-455029159b",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=9&elckey=-1985220463890280665&p=1&aq=693600133529002265&cid=20&jobAge=6683&relb=100&brelb=100&bscr=2135.8298&scr=2135.8298",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-455029159b"
-  },
-  {
-    "id": "ma-34085b5635",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=10&elckey=-1985220463890280665&p=1&aq=693600133529002265&cid=20&jobAge=6683&relb=100&brelb=100&bscr=1969.5996&scr=1969.5996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-34085b5635"
-  },
-  {
-    "id": "ma-b8ba077166",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=11&elckey=-1985220463890280665&p=1&aq=693600133529002265&cid=20&jobAge=38&relb=110&brelb=110&bscr=288.44952&scr=288.44952",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-b8ba077166"
   }
 ]
