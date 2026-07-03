@@ -1,5 +1,130 @@
 [
   {
+    "id": "jf-6ad080fc9c",
+    "titre": "Heading",
+    "entreprise": "bankari.sk",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Heading chez bankari.sk, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-heading-bankari-sk-1134386",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-6ad080fc9c"
+  },
+  {
+    "id": "jf-edf8b44065",
+    "titre": "Industry Officer",
+    "entreprise": "Department of Justice and Community Safety, Victoria",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Industry Officer chez Department of Justice and Community Safety, Victoria, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-industry-officer-department-of-justice-and-community-safety-victoria-1134377",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-edf8b44065"
+  },
+  {
+    "id": "jf-0ed94eb2ab",
+    "titre": "Customer Service Representative",
+    "entreprise": "NestlÃ© Health Science",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Customer Service Representative chez NestlÃ© Health Science, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-nestle-health-science-1134401",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-0ed94eb2ab"
+  },
+  {
+    "id": "jf-efe13f5cdc",
+    "titre": "12 jobs that pay well without a degree",
+    "entreprise": "Bluefield Daily Telegraph",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Video",
+    "remote": true,
+    "competences": [
+      "video",
+      "non tech"
+    ],
+    "resume_neutre": "12 jobs that pay well without a degree chez Bluefield Daily Telegraph, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-bluefield-daily-telegraph-1134387",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-efe13f5cdc"
+  },
+  {
+    "id": "jf-d77f1b8911",
+    "titre": "Clinical Proofreader Editor",
+    "entreprise": "4 Corner Resources",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Clinical Proofreader Editor chez 4 Corner Resources, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-proofreader-editor-4-corner-resources-1134406",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-d77f1b8911"
+  },
+  {
+    "id": "jf-f6aec0b063",
+    "titre": "Social Media Coordinator",
+    "entreprise": "The Nature Conservancy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "dev",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Social Media Coordinator chez The Nature Conservancy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-nature-conservancy-1134360",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-f6aec0b063"
+  },
+  {
     "id": "jf-551b35c4c1",
     "titre": "Executive Assistant",
     "entreprise": "EfficientAide",
@@ -5530,113 +5655,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-28",
     "ref_unique": "ma-2d4435db8f"
-  },
-  {
-    "id": "ma-796f4a1a5e",
-    "titre": "Comptable Clients et Fournisseurs - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Clients et Fournisseurs - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7826311843277577332?ckey=comptable&rgn=946&pos=10&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=158&relb=100&brelb=100&bscr=2118.1016&scr=2118.1016",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-796f4a1a5e"
-  },
-  {
-    "id": "ma-b861126feb",
-    "titre": "Comptable Confirmé (H/F) - Dar Bouazza",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé (H/F) - Dar Bouazza chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7964146927049696805?ckey=comptable&rgn=946&pos=11&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=230&relb=100&brelb=100&bscr=2100.167&scr=2100.167",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-b861126feb"
-  },
-  {
-    "id": "ma-aa3bfd14f4",
-    "titre": "Adjoint Responsable Comptable - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Adjoint Responsable Comptable - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4584797171913633706?ckey=comptable&rgn=946&pos=12&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=158&relb=100&brelb=100&bscr=2080.0977&scr=2080.0977",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-aa3bfd14f4"
-  },
-  {
-    "id": "ma-7f1e59c810",
-    "titre": "Nous recrutons des conseillers commerciaux en B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9218539078184611839?ckey=commercial&rgn=938&pos=1&elckey=4509044471037086535&p=1&aq=-1360499489133434423&cid=20&jobAge=38&relb=110&brelb=110&bscr=1738.5538&scr=1738.5537999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-7f1e59c810"
-  },
-  {
-    "id": "ma-7c33e9d0cb",
-    "titre": "Agents commerciaux (Emission)",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux (Emission) chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4371443298694939804?ckey=commercial&rgn=938&pos=2&elckey=4509044471037086535&p=1&aq=-1360499489133434423&cid=20&jobAge=86&relb=110&brelb=110&bscr=1733.2152&scr=1733.2152",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-7c33e9d0cb"
-  },
-  {
-    "id": "ma-4196e1ebef",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4361851844518967016?ckey=commercial&rgn=938&pos=3&elckey=4509044471037086535&p=1&aq=-1360499489133434423&cid=20&jobAge=470&relb=110&brelb=110&bscr=1706.4856&scr=1706.4856",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-4196e1ebef"
   }
 ]
