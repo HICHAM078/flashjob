@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-12c1220a66",
+    "titre": "Asesor call center Remoto lima o provincia",
+    "entreprise": "Shalom",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Microsoft",
+    "remote": true,
+    "competences": [
+      "microsoft"
+    ],
+    "resume_neutre": "Asesor call center Remoto lima o provincia chez Shalom, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asesor-call-center-remoto-lima-o-provincia-shalom-1134427",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-12c1220a66"
+  },
+  {
+    "id": "jf-f087e741fb",
+    "titre": "Creative",
+    "entreprise": "The Elites",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "react",
+      "consulting",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Creative chez The Elites, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-f087e741fb"
+  },
+  {
+    "id": "jf-e38709d39a",
+    "titre": "Orientador a Laboral Freelance Remoto",
+    "entreprise": "Ironhack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "react",
+      "consulting",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Orientador a Laboral Freelance Remoto chez Ironhack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-orientador-a-laboral-freelance-remoto-ironhack-1134414",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-e38709d39a"
+  },
+  {
     "id": "jf-6ad080fc9c",
     "titre": "Heading",
     "entreprise": "bankari.sk",
@@ -5601,59 +5663,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-28",
     "ref_unique": "ma-3e9d4654b6"
-  },
-  {
-    "id": "ma-184cd5d6d0",
-    "titre": "Collaborateur Comptable - H/F_ MARRAKECH",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ MARRAKECH chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2784842751564940707?ckey=comptable&rgn=946&pos=7&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=35&relb=100&brelb=100&bscr=2206.4949&scr=2206.4949",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-184cd5d6d0"
-  },
-  {
-    "id": "ma-abd207509f",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=8&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=203&relb=100&brelb=100&bscr=2191.0205&scr=2191.0205",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-abd207509f"
-  },
-  {
-    "id": "ma-2d4435db8f",
-    "titre": "Comptable - Meknès",
-    "entreprise": "SOMACOS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Meknès chez SOMACOS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2402882206848639806?ckey=comptable&rgn=946&pos=9&elckey=8179988114346667352&p=1&aq=-3984456605712302543&cid=20&jobAge=230&relb=100&brelb=100&bscr=2176.3506&scr=2176.3506",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-28",
-    "ref_unique": "ma-2d4435db8f"
   }
 ]
