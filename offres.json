@@ -1,5 +1,151 @@
 [
   {
+    "id": "jf-7e7bf2c7f3",
+    "titre": "Department Supervisor",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor"
+    ],
+    "resume_neutre": "Department Supervisor chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-department-supervisor-the-home-depot-canada-1134409",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-7e7bf2c7f3"
+  },
+  {
+    "id": "jf-e899ca9868",
+    "titre": "Business Development Executive",
+    "entreprise": "Fresha",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "react",
+      "consulting",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Business Development Executive chez Fresha, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-development-executive-fresha-1134417",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-e899ca9868"
+  },
+  {
+    "id": "jf-44a9f239d8",
+    "titre": "Un Una capoprogetto per la revisione della Classificazione Svizzera degli Interventi Chirurgici CHOP",
+    "entreprise": "Bundesamt fÃ¼r Statistik BFS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Un Una capoprogetto per la revisione della Classificazione Svizzera degli Interventi Chirurgici CHOP chez Bundesamt fÃ¼r Statistik BFS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-un-una-capoprogetto-per-la-revisione-della-classificazione-svizzera-degli-interventi-chirurgici-chop-bundesamt-fur-statistik-bfs-1134412",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-44a9f239d8"
+  },
+  {
+    "id": "jf-fc5b789b87",
+    "titre": "Asset Management Analyst Multifamily Real Estate",
+    "entreprise": "Bluecore Residential",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Asset Management Analyst Multifamily Real Estate chez Bluecore Residential, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asset-management-analyst-multifamily-real-estate-bluecore-residential-1134402",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-fc5b789b87"
+  },
+  {
+    "id": "jf-08bd35c55c",
+    "titre": "Associate Account Strategist Donut Studios",
+    "entreprise": "New Engen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Associate Account Strategist Donut Studios chez New Engen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-account-strategist-donut-studios-new-engen-1134405",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-08bd35c55c"
+  },
+  {
+    "id": "jf-a73d7f71fd",
+    "titre": "Digital Marketing Specialist",
+    "entreprise": "Wish You Were Here Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Digital Marketing Specialist chez Wish You Were Here Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-marketing-specialist-wish-you-were-here-group-1134403",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-a73d7f71fd"
+  },
+  {
+    "id": "jf-7083845485",
+    "titre": "Operations Supervisor Healthcare Atlanta",
+    "entreprise": "Belle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Operations Supervisor Healthcare Atlanta chez Belle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-atlanta-belle-1134404",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-03",
+    "ref_unique": "jf-7083845485"
+  },
+  {
     "id": "jf-d48d986eba",
     "titre": "Facility Maintenance Technician",
     "entreprise": "PriceSmart",
@@ -5526,131 +5672,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-29",
     "ref_unique": "ma-1b9bf6dfb8"
-  },
-  {
-    "id": "ma-aacca98d2d",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=1&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=280&relb=100&brelb=100&bscr=2452.1099&scr=2452.1099",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-aacca98d2d"
-  },
-  {
-    "id": "ma-f14ecfd39b",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1271730987592177532?ckey=comptable&rgn=946&pos=2&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=328&relb=100&brelb=100&bscr=2371.1294&scr=2371.1294",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-f14ecfd39b"
-  },
-  {
-    "id": "ma-16bc6b9472",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=3&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=328&relb=100&brelb=100&bscr=2323.4897&scr=2323.4897",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-16bc6b9472"
-  },
-  {
-    "id": "ma-8ffa1a755b",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=4&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=688&relb=100&brelb=100&bscr=2263.406&scr=2263.406",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-8ffa1a755b"
-  },
-  {
-    "id": "ma-29938426fa",
-    "titre": "Collaborateur Comptable - H/F_ MARRAKECH",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ MARRAKECH chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2784842751564940707?ckey=comptable&rgn=946&pos=5&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=61&relb=100&brelb=100&bscr=2231.1008&scr=2231.1008",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-29938426fa"
-  },
-  {
-    "id": "ma-7e1e139b94",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6817930666664253435?ckey=comptable&rgn=946&pos=6&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=472&relb=100&brelb=100&bscr=2169.989&scr=2169.989",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-7e1e139b94"
-  },
-  {
-    "id": "ma-667a162c9f",
-    "titre": "Comptable - Meknès",
-    "entreprise": "SOMACOS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Meknès chez SOMACOS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2402882206848639806?ckey=comptable&rgn=946&pos=7&elckey=-8813164222032156049&p=1&aq=-723319701404591762&cid=20&jobAge=256&relb=100&brelb=100&bscr=2151.3547&scr=2151.3547",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-667a162c9f"
   }
 ]
