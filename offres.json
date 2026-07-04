@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-421ebaef87",
+    "titre": "Residential Real Estate Title Search Quality Control",
+    "entreprise": "Pippin Title",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Residential Real Estate Title Search Quality Control chez Pippin Title, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-residential-real-estate-title-search-quality-control-pippin-title-1134453",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-421ebaef87"
+  },
+  {
+    "id": "jf-1ec43d974d",
+    "titre": "Chief Executive Officer",
+    "entreprise": "Community HealthCare Association of the Dakotas",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Chief Executive Officer chez Community HealthCare Association of the Dakotas, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-executive-officer-community-healthcare-association-of-the-dakotas-1134449",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-1ec43d974d"
+  },
+  {
     "id": "jf-ed615afdae",
     "titre": "Technician 3",
     "entreprise": "Sunbelt Rentals, Inc.",
@@ -5664,41 +5708,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-29",
     "ref_unique": "ma-ce539d1ad7"
-  },
-  {
-    "id": "ma-25844849cd",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=3&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=256&relb=110&brelb=110&bscr=2487.6733&scr=2487.6732999999995",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-25844849cd"
-  },
-  {
-    "id": "ma-951e0e54ea",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=4&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=280&relb=100&brelb=100&bscr=2456.3818&scr=2456.3818",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-951e0e54ea"
   }
 ]
