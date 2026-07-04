@@ -1,5 +1,104 @@
 [
   {
+    "id": "jf-f724917bc2",
+    "titre": "Special Services Associate AIRDRIE",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Special Services Associate AIRDRIE chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-special-services-associate-airdrie-the-home-depot-canada-1134446",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-f724917bc2"
+  },
+  {
+    "id": "jf-833d9e7170",
+    "titre": "f",
+    "entreprise": "Ajax Systems",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "recruiter"
+    ],
+    "resume_neutre": "f chez Ajax Systems, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-f-ajax-systems-1134445",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-833d9e7170"
+  },
+  {
+    "id": "jf-271e3e195e",
+    "titre": "Senior Quality Engineer",
+    "entreprise": "Tellent",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "graphql",
+      "hr",
+      "sys admin",
+      "technical"
+    ],
+    "resume_neutre": "Senior Quality Engineer chez Tellent, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-271e3e195e"
+  },
+  {
+    "id": "jf-19df17e92e",
+    "titre": "General Operative Northern Ireland",
+    "entreprise": "ABP Food Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "General Operative Northern Ireland chez ABP Food Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-operative-northern-ireland-abp-food-group-1134483",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-19df17e92e"
+  },
+  {
+    "id": "jf-90f371af78",
+    "titre": "Temp HR Coordinator People Operations",
+    "entreprise": "Headspace",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "coordinator",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Temp HR Coordinator People Operations chez Headspace, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-temp-hr-coordinator-people-operations-headspace-1134475",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-90f371af78"
+  },
+  {
     "id": "jf-7af8452d68",
     "titre": "Supply Chain Director",
     "entreprise": "Novaris Search",
@@ -5619,95 +5718,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-30",
     "ref_unique": "ma-392425fd3b"
-  },
-  {
-    "id": "ma-48bef4e59e",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=2&elckey=-6462797666256467975&p=1&aq=-3802365339609845039&cid=20&jobAge=278&relb=110&brelb=110&bscr=2677.4045&scr=2677.4045",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-30",
-    "ref_unique": "ma-48bef4e59e"
-  },
-  {
-    "id": "ma-c01e0ed387",
-    "titre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6295522464577779105?ckey=emploi&rgn=0&pos=3&elckey=-6462797666256467975&p=1&aq=-3802365339609845039&cid=20&jobAge=38&relb=110&brelb=110&bscr=2579.3242&scr=2579.3242",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-30",
-    "ref_unique": "ma-c01e0ed387"
-  },
-  {
-    "id": "ma-48d7636dc8",
-    "titre": "OFFRE D'EMPLOI : Développeur Web Full Stack",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Développeur Web Full Stack chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4459371398309759540?ckey=emploi&rgn=0&pos=4&elckey=-6462797666256467975&p=1&aq=-3802365339609845039&cid=20&jobAge=206&relb=110&brelb=110&bscr=2523.379&scr=2523.379",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-30",
-    "ref_unique": "ma-48d7636dc8"
-  },
-  {
-    "id": "ma-a80b7926f8",
-    "titre": "Nous recrutons des Employé (Homme - Femmes) - Back...",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Employé (Homme - Femmes) - Back... chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7223444517657726862?ckey=emploi&rgn=0&pos=5&elckey=-6462797666256467975&p=1&aq=-3802365339609845039&cid=20&jobAge=12&relb=100&brelb=100&bscr=2477.2688&scr=2477.2688",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-30",
-    "ref_unique": "ma-a80b7926f8"
-  },
-  {
-    "id": "ma-4fe75ece44",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=6&elckey=-6462797666256467975&p=1&aq=-3802365339609845039&cid=20&jobAge=278&relb=110&brelb=110&bscr=2425.5024&scr=2425.5024",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-30",
-    "ref_unique": "ma-4fe75ece44"
   }
 ]
