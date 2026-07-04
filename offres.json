@@ -1,5 +1,177 @@
 [
   {
+    "id": "jf-ed615afdae",
+    "titre": "Technician 3",
+    "entreprise": "Sunbelt Rentals, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Technician 3 chez Sunbelt Rentals, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technician-3-sunbelt-rentals-inc-1134419",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-ed615afdae"
+  },
+  {
+    "id": "jf-86edf8002f",
+    "titre": "Specialist Payroll",
+    "entreprise": "Delta Air Lines",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Specialist Payroll chez Delta Air Lines, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-specialist-payroll-delta-air-lines-1134421",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-86edf8002f"
+  },
+  {
+    "id": "jf-802a0853e0",
+    "titre": "Product Manager Solar Inverters",
+    "entreprise": "TMEIC Corporation Americas",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Product Manager Solar Inverters chez TMEIC Corporation Americas, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-solar-inverters-tmeic-corporation-americas-1134410",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-802a0853e0"
+  },
+  {
+    "id": "jf-ca950b0213",
+    "titre": "5 Ways Be a Better Listener",
+    "entreprise": "Unigo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "5 Ways Be a Better Listener chez Unigo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-5-ways-be-a-better-listener-unigo-1134411",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-ca950b0213"
+  },
+  {
+    "id": "jf-69ce6e1428",
+    "titre": "VP Creative",
+    "entreprise": "Kanahoma",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "VP Creative chez Kanahoma, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-creative-kanahoma-1134447",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-69ce6e1428"
+  },
+  {
+    "id": "jf-5ce003f963",
+    "titre": "VP Paid Media",
+    "entreprise": "Kanahoma",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "VP Paid Media chez Kanahoma, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-paid-media-kanahoma-1134459",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-5ce003f963"
+  },
+  {
+    "id": "jf-5638129d29",
+    "titre": "Peer Specialist Maternal Health",
+    "entreprise": "Canopie",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Peer Specialist Maternal Health chez Canopie, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-peer-specialist-maternal-health-canopie-1134450",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-5638129d29"
+  },
+  {
+    "id": "jf-79b67d4aea",
+    "titre": "Project Manager Donut Studios",
+    "entreprise": "New Engen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Project Manager Donut Studios chez New Engen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-donut-studios-new-engen-1134458",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-04",
+    "ref_unique": "jf-79b67d4aea"
+  },
+  {
     "id": "jf-7e7bf2c7f3",
     "titre": "Department Supervisor",
     "entreprise": "The Home Depot Canada",
@@ -5528,149 +5700,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-06-29",
     "ref_unique": "ma-951e0e54ea"
-  },
-  {
-    "id": "ma-94fe70225c",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7244491895311872239?ckey=emploi&rgn=0&pos=5&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=688&relb=110&brelb=110&bscr=2321.9658&scr=2321.9658",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-94fe70225c"
-  },
-  {
-    "id": "ma-5068c9b8c3",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186795501426464658?ckey=emploi&rgn=0&pos=6&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=472&relb=100&brelb=100&bscr=2308.7026&scr=2308.7026",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-5068c9b8c3"
-  },
-  {
-    "id": "ma-5bc30d0725",
-    "titre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar",
-    "entreprise": "MARJANE MARKET",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé(e) Polyvalent(e) - Bouskoura Izdihar chez MARJANE MARKET, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8182032409462160561?ckey=emploi&rgn=0&pos=7&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=424&relb=100&brelb=100&bscr=2275.2554&scr=2275.2554",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-5bc30d0725"
-  },
-  {
-    "id": "ma-89bb7136a7",
-    "titre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8305761684791742930?ckey=emploi&rgn=0&pos=8&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=136&relb=110&brelb=110&bscr=2101.394&scr=2101.394",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-89bb7136a7"
-  },
-  {
-    "id": "ma-f74578d7bc",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=9&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=544&relb=110&brelb=110&bscr=2053.8352&scr=2053.8352",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-f74578d7bc"
-  },
-  {
-    "id": "ma-1a6c40dbd5",
-    "titre": "Offre d’emploi à Marrakech : Rejoignez une équipe jeune & dynamique - Débutants acceptés !",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi à Marrakech : Rejoignez une équipe jeune & dynamique - Débutants acceptés ! chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8174822621997499326?ckey=emploi&rgn=0&pos=10&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=304&relb=110&brelb=110&bscr=1992.1595&scr=1992.1594999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-1a6c40dbd5"
-  },
-  {
-    "id": "ma-0a41fd7bb3",
-    "titre": "Marrakchi(e) et ambitieux(se) ? Ce job est fait pour vous Premier emploi ?",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakchi(e) et ambitieux(se) ? Ce job est fait pour vous Premier emploi ? chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4198098399918166678?ckey=emploi&rgn=0&pos=11&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=40&relb=110&brelb=110&bscr=1954.0883&scr=1954.0883",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-0a41fd7bb3"
-  },
-  {
-    "id": "ma-1b9bf6dfb8",
-    "titre": "Marrakchi(e) et ambitieux(se) ? Ce job est fait pour vous Premier emploi ? On croit en vous",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakchi(e) et ambitieux(se) ? Ce job est fait pour vous Premier emploi ? On croit en vous chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7711779445933509779?ckey=emploi&rgn=0&pos=12&elckey=5753365811784182188&p=1&aq=6285063040257778849&cid=20&jobAge=448&relb=110&brelb=110&bscr=1881.0735&scr=1881.0735",
-    "source_nom": "Jooble",
-    "date_pub": "2026-06-29",
-    "ref_unique": "ma-1b9bf6dfb8"
   }
 ]
