@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-571dd51332",
+    "titre": "Lead Data Scientist",
+    "entreprise": "Brigit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python",
+      "education",
+      "customer support",
+      "testing",
+      "marketing"
+    ],
+    "resume_neutre": "Lead Data Scientist chez Brigit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-05",
+    "ref_unique": "jf-571dd51332"
+  },
+  {
+    "id": "jf-e7465488e6",
+    "titre": "Administrative Assistant",
+    "entreprise": "Pickle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "embedded",
+      "hr",
+      "consulting",
+      "exec"
+    ],
+    "resume_neutre": "Administrative Assistant chez Pickle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-05",
+    "ref_unique": "jf-e7465488e6"
+  },
+  {
+    "id": "jf-690c9a1c9a",
+    "titre": "Founder Ghostwriter for a U.S. based Google Ads Agency",
+    "entreprise": "Paired",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "embedded",
+      "hr",
+      "consulting",
+      "exec"
+    ],
+    "resume_neutre": "Founder Ghostwriter for a U.S. based Google Ads Agency chez Paired, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-05",
+    "ref_unique": "jf-690c9a1c9a"
+  },
+  {
     "id": "jf-313ed5d7c9",
     "titre": "Administrative Data Entry File Clerk",
     "entreprise": "Recruitlytics Hiring",
@@ -5636,59 +5702,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-01",
     "ref_unique": "ma-eb4dcf2664"
-  },
-  {
-    "id": "ma-f9438a7cff",
-    "titre": "OFFRE D'EMPLOI : Développeur Web Full Stack",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Développeur Web Full Stack chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4459371398309759540?ckey=emploi&rgn=0&pos=8&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=230&relb=110&brelb=110&bscr=2468.835&scr=2468.8349999999996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-f9438a7cff"
-  },
-  {
-    "id": "ma-1c08ffdaea",
-    "titre": "Nous recrutons des Employé (Homme - Femmes) - Back...",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Employé (Homme - Femmes) - Back... chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7223444517657726862?ckey=emploi&rgn=0&pos=9&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=36&relb=100&brelb=100&bscr=2428.914&scr=2428.914",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-1c08ffdaea"
-  },
-  {
-    "id": "ma-74bdce859e",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=10&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=326&relb=100&brelb=100&bscr=2426.7332&scr=2426.7332",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-74bdce859e"
   }
 ]
