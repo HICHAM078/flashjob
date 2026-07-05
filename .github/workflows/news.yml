@@ -12,10 +12,12 @@ jobs:
       - uses: actions/checkout@v4
       - name: Publier un article du stock
         run: python3 scripts/publish_news.py
+      - name: Generer les pages d'articles + hub + sitemap
+        run: python3 scripts/generate_articles.py
       - name: Enregistrer
         run: |
           git config user.name "FlashJob Robot"
           git config user.email "robot@flashjob.ma"
-          git add news.json
-          git diff --staged --quiet || git commit -m "Robot News : nouvel article"
+          git add news.json articles articles.html sitemap.xml
+          git diff --staged --quiet || git commit -m "Robot News : nouvel article + pages regenerees"
           git push
