@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-313ed5d7c9",
+    "titre": "Administrative Data Entry File Clerk",
+    "entreprise": "Recruitlytics Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "embedded",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Administrative Data Entry File Clerk chez Recruitlytics Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-05",
+    "ref_unique": "jf-313ed5d7c9"
+  },
+  {
+    "id": "jf-3d5e133d3e",
+    "titre": "Business Operations Analyst",
+    "entreprise": "TextUs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Business Operations Analyst chez TextUs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-operations-analyst-textus-1134500",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-05",
+    "ref_unique": "jf-3d5e133d3e"
+  },
+  {
     "id": "ma-b337327887",
     "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
     "entreprise": "Expert Call Center",
@@ -5646,41 +5690,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-01",
     "ref_unique": "ma-74bdce859e"
-  },
-  {
-    "id": "ma-142200ae24",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=11&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=38&relb=110&brelb=110&bscr=2357.2102&scr=2357.2102",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-142200ae24"
-  },
-  {
-    "id": "ma-efacc7030c",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=12&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=38&relb=110&brelb=110&bscr=2305.8308&scr=2305.8308",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-efacc7030c"
   }
 ]
