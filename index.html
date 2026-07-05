@@ -446,6 +446,7 @@ footer a:hover{color:var(--accent)}
       </div>
       <div>
         <h5>Entreprise</h5>
+        <a href="/articles.html">Conseils &amp; articles</a>
         <a href="#/a-propos">À propos</a>
         <a href="#/contact">Contact</a>
       </div>
@@ -595,7 +596,7 @@ function viewHome(){
   const villes=['Casablanca','Rabat','Marrakech','Tanger','Fès','Agadir','Meknès','Kénitra'];
   const cardCity='display:flex;align-items:center;gap:8px;padding:14px 16px;background:#fff;border:1px solid var(--line);border-radius:12px;font-weight:600;color:#0b0b0d';
   const villeCards=villes.map(v=>`<a href="#/emploi-maroc/${encodeURIComponent(v)}" style="${cardCity}">📍 ${v}</a>`).join('');
-  const postCards=posts.map(p=>`<a class="src-card" href="#/article/${p.id}"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
+  const postCards=posts.map(p=>`<a class="src-card" href="/articles/${p.id}.html"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
   const grid='display:grid;gap:12px';
   app.innerHTML=`
   <section class="hero"><div class="hero-grid"></div>
@@ -1220,7 +1221,7 @@ function viewActus(){
     <h1>Actualités &amp; conseils</h1>
     <p class="sub">Conseils CV, tendances du marché et analyses — basés sur les données de la plateforme.</p>
     ${langTabs(NEWS_LANG,'setNewsLang')}
-    <div class="posts">${POSTS.filter(p=>NEWS_LANG==='all'||(p.lang||'fr')===NEWS_LANG).map(p=>`<article class="post" onclick="location.hash='#/article/${p.id}'">
+    <div class="posts">${POSTS.filter(p=>NEWS_LANG==='all'||(p.lang||'fr')===NEWS_LANG).map(p=>`<article class="post" onclick="location.href='/articles/${p.id}.html'">
       <div class="cover">${p.image?`<img class="cover-svg" src="${esc(p.image)}" alt="${esc(p.titre)}">`:coverSvg(p.cat)}<span class="cat">${p.cat}</span></div>
       <div class="body"${p.lang==='ar'?' dir="rtl" style="text-align:right"':''}><span class="date">${p.date}</span><h3>${esc(p.titre)}</h3><p>${esc(p.excerpt)}</p></div>
     </article>`).join('')}</div>
@@ -1467,7 +1468,7 @@ function viewLettre(){
 
 function viewOrientation(){
   clearJobLd();
-  const links=POSTS.slice(0,4).map(p=>`<a class="src-card" href="#/article/${p.id}"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
+  const links=POSTS.slice(0,4).map(p=>`<a class="src-card" href="/articles/${p.id}.html"><div><b>${esc(p.titre)}</b><span>${esc(p.cat)}</span></div><span class="arr">→</span></a>`).join('');
   app.innerHTML=`<section class="block"><div class="wrap page fade">
     <h1>Orientation</h1>
     <p class="sub">Des repères concrets pour construire votre carrière : CV, entretiens, choix de secteur, télétravail.</p>
