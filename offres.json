@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-2eba20777a",
+    "titre": "Supply Chain Analyst",
+    "entreprise": "DIVA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "sys admin",
+      "customer support",
+      "travel",
+      "accounting"
+    ],
+    "resume_neutre": "Supply Chain Analyst chez DIVA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-2eba20777a"
+  },
+  {
+    "id": "jf-e7da589829",
+    "titre": "Junior Front End Developer",
+    "entreprise": "PULSEMEDIA (MENA)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "dev",
+      "design",
+      "react",
+      "wordpress"
+    ],
+    "resume_neutre": "Junior Front End Developer chez PULSEMEDIA (MENA), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-e7da589829"
+  },
+  {
+    "id": "jf-cc8ff99dca",
+    "titre": "Editor Paginator",
+    "entreprise": "The Canadian Press",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "sys admin",
+      "customer support",
+      "travel",
+      "accounting"
+    ],
+    "resume_neutre": "Editor Paginator chez The Canadian Press, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-editor-paginator-the-canadian-press-1134517",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-cc8ff99dca"
+  },
+  {
     "id": "jf-c58cdfcd1b",
     "titre": "dishwasher",
     "entreprise": "PÃ¼r &amp; Simple",
@@ -5658,59 +5724,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-01",
     "ref_unique": "ma-55ebe7b3c4"
-  },
-  {
-    "id": "ma-9964da0dda",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=2&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=302&relb=110&brelb=110&bscr=2679.2737&scr=2679.2737",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-9964da0dda"
-  },
-  {
-    "id": "ma-5c96aba85d",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=3&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=38&relb=110&brelb=110&bscr=2635.235&scr=2635.235",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-5c96aba85d"
-  },
-  {
-    "id": "ma-7ac4705158",
-    "titre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6295522464577779105?ckey=emploi&rgn=0&pos=4&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=38&relb=110&brelb=110&bscr=2612.353&scr=2612.353",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-7ac4705158"
   }
 ]
