@@ -1,5 +1,46 @@
 [
   {
+    "id": "jf-c9ddccd976",
+    "titre": "Innovation",
+    "entreprise": "Doshi Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Innovation chez Doshi Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-c9ddccd976"
+  },
+  {
+    "id": "jf-ec5e1f71ed",
+    "titre": "Public Relations Manager",
+    "entreprise": "Temu",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "infosec",
+      "technical",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Public Relations Manager chez Temu, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-relations-manager-temu-1134532",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-ec5e1f71ed"
+  },
+  {
     "id": "ma-3e223906ec",
     "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
     "entreprise": "Expert Call Center",
@@ -5630,41 +5671,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-02",
     "ref_unique": "ma-74b12da81f"
-  },
-  {
-    "id": "ma-73e0559413",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=6&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=398&relb=100&brelb=100&bscr=2195.7322&scr=2195.7322",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-73e0559413"
-  },
-  {
-    "id": "ma-3474af4eb3",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=7&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=254&relb=100&brelb=100&bscr=2160.0884&scr=2160.0884",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-3474af4eb3"
   }
 ]
