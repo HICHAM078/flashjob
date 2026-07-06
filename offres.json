@@ -1,5 +1,69 @@
 [
   {
+    "id": "jf-c58cdfcd1b",
+    "titre": "dishwasher",
+    "entreprise": "PÃ¼r &amp; Simple",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "exec",
+      "recruiter",
+      "education"
+    ],
+    "resume_neutre": "dishwasher chez PÃ¼r &amp; Simple, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dishwasher-pur-amp-simple-1134492",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-c58cdfcd1b"
+  },
+  {
+    "id": "jf-8a0519b5e5",
+    "titre": "Human Resources Generalist",
+    "entreprise": "CoberonChronos",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Human Resources Generalist chez CoberonChronos, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-8a0519b5e5"
+  },
+  {
+    "id": "jf-4f697efb49",
+    "titre": "Assistente de Processos",
+    "entreprise": "Sicoob",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "excel",
+      "non tech",
+      "digital nomad"
+    ],
+    "resume_neutre": "Assistente de Processos chez Sicoob, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-de-processos-sicoob-1134513",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-4f697efb49"
+  },
+  {
     "id": "jf-571dd51332",
     "titre": "Lead Data Scientist",
     "entreprise": "Brigit",
@@ -5648,59 +5712,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-01",
     "ref_unique": "ma-7ac4705158"
-  },
-  {
-    "id": "ma-e5706918ed",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=5&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=302&relb=110&brelb=110&bscr=2538.4692&scr=2538.4692",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-e5706918ed"
-  },
-  {
-    "id": "ma-c4b64e6ec9",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=6&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=62&relb=110&brelb=110&bscr=2532.0488&scr=2532.0488",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-c4b64e6ec9"
-  },
-  {
-    "id": "ma-eb4dcf2664",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=7&elckey=-7408914735396119255&p=1&aq=-4390571706794929511&cid=20&jobAge=62&relb=110&brelb=110&bscr=2500.3518&scr=2500.3518",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-01",
-    "ref_unique": "ma-eb4dcf2664"
   }
 ]
