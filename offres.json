@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-b47b69a003",
+    "titre": "Content Creator",
+    "entreprise": "medicomedics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "video",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Content Creator chez medicomedics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-creator-medicomedics-1134523",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-b47b69a003"
+  },
+  {
+    "id": "jf-dea55e9896",
+    "titre": "Business Analyst",
+    "entreprise": "Rotaract Club of NIBM Kandy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "sys admin",
+      "customer support",
+      "dev",
+      "scrum"
+    ],
+    "resume_neutre": "Business Analyst chez Rotaract Club of NIBM Kandy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-06",
+    "ref_unique": "jf-dea55e9896"
+  },
+  {
     "id": "jf-c9ddccd976",
     "titre": "Innovation",
     "entreprise": "Doshi Group",
@@ -5635,41 +5679,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-02",
     "ref_unique": "ma-c21d047f38"
-  },
-  {
-    "id": "ma-54a377b174",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1271730987592177532?ckey=comptable&rgn=946&pos=4&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=398&relb=100&brelb=100&bscr=2227.6548&scr=2227.6548",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-54a377b174"
-  },
-  {
-    "id": "ma-74b12da81f",
-    "titre": "Collaborateur Comptable - H/F_ MARRAKECH",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ MARRAKECH chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2784842751564940707?ckey=comptable&rgn=946&pos=5&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=131&relb=100&brelb=100&bscr=2207.0254&scr=2207.0254",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-74b12da81f"
   }
 ]
