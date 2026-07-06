@@ -1,6 +1,21 @@
 [
   {
     "cat": "Carrière",
+    "titre": "Freelance ou salarié : comment choisir ?",
+    "excerpt": "Stabilité ou liberté ? Le bon choix dépend de votre situation. Voici les vraies questions à se poser.",
+    "body": [
+      "Entre le statut de salarié et celui de freelance, il n'y a pas de bonne réponse universelle — seulement celle qui vous correspond à un moment donné. Posez-vous les bonnes questions.",
+      "<b>Sécurité ou autonomie ?</b> Le salariat offre un revenu régulier et une protection ; le freelance, plus de liberté mais des revenus variables. Qu'est-ce qui compte le plus pour vous aujourd'hui ?",
+      "<b>Êtes-vous prêt à gérer le reste ?</b> Un freelance gère sa prospection, ses factures, ses impôts et ses périodes creuses. C'est un métier en plus du métier.",
+      "<b>Avez-vous un filet ?</b> Se lancer en freelance est plus serein avec quelques économies d'avance et, idéalement, un premier client.",
+      "<b>Rien n'est définitif.</b> Beaucoup alternent les deux au fil de leur carrière, ou commencent en freelance le soir avant de se lancer pleinement. Testez avant de trancher."
+    ],
+    "lang": "fr",
+    "id": "news-1783341590-fr",
+    "date": "6 juillet 2026"
+  },
+  {
+    "cat": "Carrière",
     "titre": "Gérer le stress de la recherche d'emploi",
     "excerpt": "Chercher un emploi peut être éprouvant moralement. Voici comment tenir le coup.",
     "body": [
