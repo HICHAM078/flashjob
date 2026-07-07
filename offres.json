@@ -1,5 +1,69 @@
 [
   {
+    "id": "jf-9210b8a9b1",
+    "titre": "Expression of Interest",
+    "entreprise": "Easygo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "game dev",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Expression of Interest chez Easygo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-easygo-1134525",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-9210b8a9b1"
+  },
+  {
+    "id": "jf-a0f03499e7",
+    "titre": "Head of Hiring and Training South FL",
+    "entreprise": "7 Brew Coffee",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "hr",
+      "exec"
+    ],
+    "resume_neutre": "Head of Hiring and Training South FL chez 7 Brew Coffee, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-a0f03499e7"
+  },
+  {
+    "id": "jf-4ed072d5e8",
+    "titre": "Human Resources Generalist Manager",
+    "entreprise": "Seasoned Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "infosec",
+      "technical",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Human Resources Generalist Manager chez Seasoned Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-manager-seasoned-recruitment-1134533",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-4ed072d5e8"
+  },
+  {
     "id": "jf-b47b69a003",
     "titre": "Content Creator",
     "entreprise": "medicomedics",
@@ -5625,59 +5689,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-02",
     "ref_unique": "ma-1380c6e3ff"
-  },
-  {
-    "id": "ma-12476b631e",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=1&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=350&relb=100&brelb=100&bscr=2433.477&scr=2433.477",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-12476b631e"
-  },
-  {
-    "id": "ma-0e960f8a8b",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-153838199394590855?ckey=comptable&rgn=946&pos=2&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=10&relb=100&brelb=100&bscr=2348.7065&scr=2348.7065",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-0e960f8a8b"
-  },
-  {
-    "id": "ma-c21d047f38",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=3&elckey=-8465418308929160222&p=1&aq=-3398172170109588177&cid=20&jobAge=758&relb=100&brelb=100&bscr=2230.4194&scr=2230.4194",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-c21d047f38"
   }
 ]
