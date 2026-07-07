@@ -1,5 +1,87 @@
 [
   {
+    "id": "jf-a913df5942",
+    "titre": "GET",
+    "entreprise": "Yokogawa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "GET chez Yokogawa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-a913df5942"
+  },
+  {
+    "id": "jf-029d98300d",
+    "titre": "CRO specialist",
+    "entreprise": "sofatutor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "marketing"
+    ],
+    "resume_neutre": "CRO specialist chez sofatutor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-029d98300d"
+  },
+  {
+    "id": "jf-0f9aac1764",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Recruitlytic Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Recruitlytic Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hiring-1134524",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-0f9aac1764"
+  },
+  {
+    "id": "jf-5adfdcd23e",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "Recruitlytic Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez Recruitlytic Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytic-hiring-1134546",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-5adfdcd23e"
+  },
+  {
     "id": "jf-9210b8a9b1",
     "titre": "Expression of Interest",
     "entreprise": "Easygo",
@@ -5617,77 +5699,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-02",
     "ref_unique": "ma-9eda10a613"
-  },
-  {
-    "id": "ma-9f72e750ca",
-    "titre": "Offre d’emploi - HUMAN CONNECT CALL CENTER",
-    "entreprise": "Human Connect",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - HUMAN CONNECT CALL CENTER chez Human Connect, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7244491895311872239?ckey=emploi&rgn=0&pos=9&elckey=6101111724887178015&p=1&aq=-5037526717151728049&cid=20&jobAge=758&relb=110&brelb=110&bscr=2306.4163&scr=2306.4163",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-9f72e750ca"
-  },
-  {
-    "id": "ma-6c33528f27",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=10&elckey=6101111724887178015&p=1&aq=-5037526717151728049&cid=20&jobAge=38&relb=110&brelb=110&bscr=2279.0574&scr=2279.0574",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-6c33528f27"
-  },
-  {
-    "id": "ma-8e01717605",
-    "titre": "Employé Libre Service (Magasinier) - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre Service (Magasinier) - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186795501426464658?ckey=emploi&rgn=0&pos=11&elckey=6101111724887178015&p=1&aq=-5037526717151728049&cid=20&jobAge=542&relb=100&brelb=100&bscr=2215.768&scr=2215.768",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-8e01717605"
-  },
-  {
-    "id": "ma-1380c6e3ff",
-    "titre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3767854952027910593?ckey=emploi&rgn=0&pos=12&elckey=6101111724887178015&p=1&aq=-5037526717151728049&cid=20&jobAge=206&relb=110&brelb=110&bscr=2155.936&scr=2155.936",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-02",
-    "ref_unique": "ma-1380c6e3ff"
   }
 ]
