@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-070e7d4959",
+    "titre": "SCL Agent",
+    "entreprise": "Skanska Costain STRABAG Joint Venture",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops",
+      "finance",
+      "golang",
+      "non tech",
+      "exec"
+    ],
+    "resume_neutre": "SCL Agent chez Skanska Costain STRABAG Joint Venture, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-070e7d4959"
+  },
+  {
+    "id": "jf-fa4110c119",
+    "titre": "Agent",
+    "entreprise": "Skanska Costain STRABAG Joint Venture",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops",
+      "finance",
+      "golang",
+      "non tech",
+      "exec"
+    ],
+    "resume_neutre": "Agent chez Skanska Costain STRABAG Joint Venture, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-fa4110c119"
+  },
+  {
+    "id": "jf-e72ef50544",
+    "titre": "Scrum Master",
+    "entreprise": "Holliday Systems Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "infosec",
+      "technical",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Scrum Master chez Holliday Systems Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-e72ef50544"
+  },
+  {
+    "id": "jf-f957304e9e",
+    "titre": "Expression of Interest Transition of Candidate",
+    "entreprise": "Accenture Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "game dev",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Expression of Interest Transition of Candidate chez Accenture Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-f957304e9e"
+  },
+  {
+    "id": "jf-2feb8247ed",
+    "titre": "Wireless Systems Technical Support Engineer",
+    "entreprise": "Intracom Telecom",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "infosec",
+      "technical",
+      "dev",
+      "travel"
+    ],
+    "resume_neutre": "Wireless Systems Technical Support Engineer chez Intracom Telecom, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-2feb8247ed"
+  },
+  {
     "id": "ma-5476faac70",
     "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
     "entreprise": "Expert Call Center",
@@ -5528,95 +5638,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-03",
     "ref_unique": "ma-fbe4d77b64"
-  },
-  {
-    "id": "ma-be63eeb3ce",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=9&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=38&relb=110&brelb=110&bscr=1524.491&scr=1524.491",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-be63eeb3ce"
-  },
-  {
-    "id": "ma-9dce1bfaa8",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-196497125328522850?ckey=commercial&rgn=938&pos=10&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=254&relb=110&brelb=110&bscr=1524.134&scr=1524.134",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-9dce1bfaa8"
-  },
-  {
-    "id": "ma-4dc9bd938e",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=11&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=662&relb=100&brelb=100&bscr=1446.3055&scr=1446.3055",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-4dc9bd938e"
-  },
-  {
-    "id": "ma-2540bad5ab",
-    "titre": "CDI - Technico-Commerciaux (H/F) pour un Leader Télécom Français",
-    "entreprise": "Foundever",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CDI - Technico-Commerciaux (H/F) pour un Leader Télécom Français chez Foundever, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6144501287188333242?ckey=commercial&rgn=938&pos=12&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=38&relb=110&brelb=110&bscr=1443.4707&scr=1443.4707",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-2540bad5ab"
-  },
-  {
-    "id": "ma-1029300adb",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-2830118578166076863&p=1&aq=6816361150570858215&cid=20&jobAge=203&relb=100&brelb=100&bscr=3075.7773&scr=3075.7773",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-1029300adb"
   }
 ]
