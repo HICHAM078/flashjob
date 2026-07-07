@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-679d780966",
+    "titre": "Operator Red days",
+    "entreprise": "Princes Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Operator Red days chez Princes Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-679d780966"
+  },
+  {
+    "id": "jf-79d9039b27",
+    "titre": "Proposal Manager",
+    "entreprise": "LinkedIn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "saas",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Proposal Manager chez LinkedIn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-proposal-manager-linkedin-1134548",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-79d9039b27"
+  },
+  {
+    "id": "jf-83cc93b77d",
+    "titre": "File Clerk",
+    "entreprise": "Recruitlytic Hiring",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "customer support",
+      "marketing",
+      "education",
+      "senior"
+    ],
+    "resume_neutre": "File Clerk chez Recruitlytic Hiring, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytic-hiring-1134559",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-07",
+    "ref_unique": "jf-83cc93b77d"
+  },
+  {
     "id": "jf-070e7d4959",
     "titre": "SCL Agent",
     "entreprise": "Skanska Costain STRABAG Joint Venture",
@@ -5584,59 +5646,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-03",
     "ref_unique": "ma-7a6a72b88a"
-  },
-  {
-    "id": "ma-e531a2d22d",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4899061601753872994?ckey=commercial&rgn=938&pos=6&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=278&relb=110&brelb=110&bscr=1608.3685&scr=1608.3685",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-e531a2d22d"
-  },
-  {
-    "id": "ma-f2766236c7",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=7&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=38&relb=110&brelb=110&bscr=1583.0635&scr=1583.0635",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-f2766236c7"
-  },
-  {
-    "id": "ma-fbe4d77b64",
-    "titre": "Agents commerciaux (Emission)",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux (Emission) chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4371443298694939804?ckey=commercial&rgn=938&pos=8&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=206&relb=100&brelb=100&bscr=1535.6182&scr=1535.6182",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-fbe4d77b64"
   }
 ]
