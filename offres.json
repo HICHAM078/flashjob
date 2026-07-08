@@ -1,5 +1,154 @@
 [
   {
+    "id": "jf-b333fa22c1",
+    "titre": "Freelance TÃ©cnico Audiovisual Sevilla",
+    "entreprise": "OpenWebinars",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "Freelance TÃ©cnico Audiovisual Sevilla chez OpenWebinars, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-tecnico-audiovisual-sevilla-openwebinars-1134563",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-b333fa22c1"
+  },
+  {
+    "id": "jf-28301ab397",
+    "titre": "Creative Director YouTube",
+    "entreprise": "Flick",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Creative Director YouTube chez Flick, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-director-youtube-flick-1134582",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-28301ab397"
+  },
+  {
+    "id": "jf-3e5ea6a87e",
+    "titre": "Regional Training Supervisor",
+    "entreprise": "Guild Garage Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Regional Training Supervisor chez Guild Garage Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-3e5ea6a87e"
+  },
+  {
+    "id": "jf-8fba322e11",
+    "titre": "Replacement for Joe test",
+    "entreprise": "Infinity Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Replacement for Joe test chez Infinity Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-replacement-for-joe-test-infinity-group-1134556",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-8fba322e11"
+  },
+  {
+    "id": "jf-9958e3a74e",
+    "titre": "Associate Data Analyst",
+    "entreprise": "Arabian Private Holdings",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "Associate Data Analyst chez Arabian Private Holdings, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-9958e3a74e"
+  },
+  {
+    "id": "jf-7b7a42e5fd",
+    "titre": "Junior Business Analyst",
+    "entreprise": "Arabian Private Holdings",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "coordinator",
+      "customer support",
+      "admin"
+    ],
+    "resume_neutre": "Junior Business Analyst chez Arabian Private Holdings, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-arabian-private-holdings-1134577",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-7b7a42e5fd"
+  },
+  {
+    "id": "jf-043262e0f1",
+    "titre": "Tutor Virtual MatemÃ¡ticas",
+    "entreprise": "Universidad del Valle de Guatemala",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "teaching"
+    ],
+    "resume_neutre": "Tutor Virtual MatemÃ¡ticas chez Universidad del Valle de Guatemala, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tutor-virtual-matematicas-universidad-del-valle-de-guatemala-1134593",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-043262e0f1"
+  },
+  {
     "id": "ma-9a810ca31a",
     "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
     "entreprise": "Expert Call Center",
@@ -5489,131 +5638,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-04",
     "ref_unique": "ma-3a5238c68b"
-  },
-  {
-    "id": "ma-61a02b836c",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=11&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=37&relb=110&brelb=110&bscr=1539.1956&scr=1539.1956",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-61a02b836c"
-  },
-  {
-    "id": "ma-c3ad4b95e5",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=12&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=37&relb=110&brelb=110&bscr=1516.8608&scr=1516.8608",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-c3ad4b95e5"
-  },
-  {
-    "id": "ma-b511d00621",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-8129610877068824549&p=1&aq=5168689828031172260&cid=20&jobAge=226&relb=100&brelb=100&bscr=3121.0178&scr=3121.0178",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-b511d00621"
-  },
-  {
-    "id": "ma-28070368ca",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=2&elckey=-8129610877068824549&p=1&aq=5168689828031172260&cid=20&jobAge=301&relb=100&brelb=100&bscr=2613.6177&scr=2613.6177",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-28070368ca"
-  },
-  {
-    "id": "ma-cacd10300b",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=3&elckey=-8129610877068824549&p=1&aq=5168689828031172260&cid=20&jobAge=2989&relb=100&brelb=100&bscr=2544.4702&scr=2544.4702",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-cacd10300b"
-  },
-  {
-    "id": "ma-8199c23824",
-    "titre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3767854952027910593?ckey=informatique&rgn=0&pos=4&elckey=-8129610877068824549&p=1&aq=5168689828031172260&cid=20&jobAge=253&relb=110&brelb=110&bscr=2467.6226&scr=2467.6226",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-8199c23824"
-  },
-  {
-    "id": "ma-bb3a28d1d5",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=5&elckey=-8129610877068824549&p=1&aq=5168689828031172260&cid=20&jobAge=613&relb=100&brelb=100&bscr=2318.3496&scr=2318.3496",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-bb3a28d1d5"
   }
 ]
