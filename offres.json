@@ -1,5 +1,107 @@
 [
   {
+    "id": "jf-e9f58324c9",
+    "titre": "Â SUPERVISEUR 26 27",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Â SUPERVISEUR 26 27 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1134570",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-e9f58324c9"
+  },
+  {
+    "id": "jf-53015079fd",
+    "titre": "Â SUPERVISEUR 25",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Â SUPERVISEUR 25 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-25-the-home-depot-canada-1134571",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-53015079fd"
+  },
+  {
+    "id": "jf-d6d4262f41",
+    "titre": "Compliance Market Surveillance Analyst",
+    "entreprise": "Crypto.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web3",
+    "remote": true,
+    "competences": [
+      "web3",
+      "crypto",
+      "blockchain",
+      "analyst",
+      "infosec"
+    ],
+    "resume_neutre": "Compliance Market Surveillance Analyst chez Crypto.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-compliance-market-surveillance-analyst-crypto-com-1134599",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-d6d4262f41"
+  },
+  {
+    "id": "jf-306aefd2ff",
+    "titre": "Human Resources Administrative Coordinator",
+    "entreprise": "Enstar Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Human Resources Administrative Coordinator chez Enstar Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-administrative-coordinator-enstar-group-1134583",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-306aefd2ff"
+  },
+  {
+    "id": "jf-98bb5b0fda",
+    "titre": "CAD Assistant",
+    "entreprise": "RecruitGo Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web3",
+    "remote": true,
+    "competences": [
+      "web3",
+      "crypto",
+      "blockchain",
+      "analyst",
+      "infosec"
+    ],
+    "resume_neutre": "CAD Assistant chez RecruitGo Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cad-assistant-recruitgo-careers-1134601",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-98bb5b0fda"
+  },
+  {
     "id": "jf-b333fa22c1",
     "titre": "Freelance TÃ©cnico Audiovisual Sevilla",
     "entreprise": "OpenWebinars",
@@ -5548,95 +5650,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-04",
     "ref_unique": "ma-80d62e44f1"
-  },
-  {
-    "id": "ma-3ef3984a26",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7786810848435157549?ckey=commercial&rgn=938&pos=6&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=757&relb=110&brelb=110&bscr=1595.2793&scr=1595.2793",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-3ef3984a26"
-  },
-  {
-    "id": "ma-b83e7e514c",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=7&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=685&relb=110&brelb=110&bscr=1575.5779&scr=1575.5779",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-b83e7e514c"
-  },
-  {
-    "id": "ma-117227c396",
-    "titre": "Conseiller commercial b2b (h/f) - expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial b2b (h/f) - expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6385666403936019724?ckey=commercial&rgn=938&pos=8&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=37&relb=110&brelb=110&bscr=1565.0626&scr=1565.0626",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-117227c396"
-  },
-  {
-    "id": "ma-0574452b46",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-253976989062666548?ckey=commercial&rgn=938&pos=9&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=109&relb=110&brelb=110&bscr=1557.2126&scr=1557.2126",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-0574452b46"
-  },
-  {
-    "id": "ma-3a5238c68b",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3962187445341443648?ckey=commercial&rgn=938&pos=10&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=37&relb=110&brelb=110&bscr=1539.1956&scr=1539.1956",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-3a5238c68b"
   }
 ]
