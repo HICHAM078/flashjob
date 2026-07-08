@@ -1,5 +1,156 @@
 [
   {
+    "id": "jf-c6cb5e185c",
+    "titre": "Lifeguard",
+    "entreprise": "Accor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Lifeguard chez Accor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lifeguard-accor-1134547",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-c6cb5e185c"
+  },
+  {
+    "id": "jf-7c61e368e1",
+    "titre": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
+    "entreprise": "Mercier Consultancy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "work from home",
+      "customer support",
+      "c",
+      "medical"
+    ],
+    "resume_neutre": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece chez Mercier Consultancy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-7c61e368e1"
+  },
+  {
+    "id": "jf-ed52d9c960",
+    "titre": "Testing Testing Test",
+    "entreprise": "Gold Standard",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "finance",
+      "exec",
+      "part time"
+    ],
+    "resume_neutre": "Testing Testing Test chez Gold Standard, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-testing-test-gold-standard-1134544",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-ed52d9c960"
+  },
+  {
+    "id": "jf-36bced0081",
+    "titre": "Operations Supervisor Healthcare South Georgia",
+    "entreprise": "Belle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "supervisor",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Operations Supervisor Healthcare South Georgia chez Belle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-south-georgia-belle-1134553",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-36bced0081"
+  },
+  {
+    "id": "jf-7ac31ca0a3",
+    "titre": "Construction Inspector",
+    "entreprise": "AECOM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "consulting",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Construction Inspector chez AECOM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-construction-inspector-aecom-1134555",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-7ac31ca0a3"
+  },
+  {
+    "id": "jf-ea6b653766",
+    "titre": "AttachÃ© Juridique F H",
+    "entreprise": "AFE (Audit Finance Expert)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "AttachÃ© Juridique F H chez AFE (Audit Finance Expert), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-attache-juridique-f-h-afe-audit-finance-expert-1134564",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-ea6b653766"
+  },
+  {
+    "id": "jf-032a275273",
+    "titre": "Pedagogy Specialist Spanish",
+    "entreprise": "CloudFactory",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "Pedagogy Specialist Spanish chez CloudFactory, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-spanish-cloudfactory-1134562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-032a275273"
+  },
+  {
     "id": "jf-679d780966",
     "titre": "Operator Red days",
     "entreprise": "Princes Group",
@@ -5520,131 +5671,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-03",
     "ref_unique": "ma-746ccc13ac"
-  },
-  {
-    "id": "ma-75779c34f5",
-    "titre": "Comptable Sénior - Casablanca",
-    "entreprise": "ELITE INTERIM MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Sénior - Casablanca chez ELITE INTERIM MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4209492511139154816?ckey=comptable&rgn=946&pos=11&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=374&relb=100&brelb=100&bscr=2034.8925&scr=2034.8925",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-75779c34f5"
-  },
-  {
-    "id": "ma-52bea4aa5e",
-    "titre": "Adjoint Responsable Comptable - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Adjoint Responsable Comptable - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4584797171913633706?ckey=comptable&rgn=946&pos=12&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=278&relb=100&brelb=100&bscr=2030.061&scr=2030.0610000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-52bea4aa5e"
-  },
-  {
-    "id": "ma-5ea27c4595",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=1&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=62&relb=110&brelb=110&bscr=1807.8435&scr=1807.8435",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-5ea27c4595"
-  },
-  {
-    "id": "ma-55a96b0922",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8812168837364054785?ckey=commercial&rgn=938&pos=2&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=350&relb=110&brelb=110&bscr=1671.191&scr=1671.191",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-55a96b0922"
-  },
-  {
-    "id": "ma-2e5b5b0346",
-    "titre": "Nous recrutons des conseillers commerciaux en b2b",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en b2b chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3894262970380716761?ckey=commercial&rgn=938&pos=3&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=38&relb=110&brelb=110&bscr=1668.5573&scr=1668.5573",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-2e5b5b0346"
-  },
-  {
-    "id": "ma-7cd01d3721",
-    "titre": "Nous recrutons des conseillers commerciaux en B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/174806695315651651?ckey=commercial&rgn=938&pos=4&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=62&relb=110&brelb=110&bscr=1666.2627&scr=1666.2627",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-7cd01d3721"
-  },
-  {
-    "id": "ma-7a6a72b88a",
-    "titre": "Conseiller Commercial B2B (H/F) - Expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial B2B (H/F) - Expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5621724903683695504?ckey=commercial&rgn=938&pos=5&elckey=3664146356761290337&p=1&aq=1798135171496133666&cid=20&jobAge=38&relb=110&brelb=110&bscr=1635.9335&scr=1635.9334999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-7a6a72b88a"
   }
 ]
