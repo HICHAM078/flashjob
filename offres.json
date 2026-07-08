@@ -1,5 +1,153 @@
 [
   {
+    "id": "jf-8b3076730b",
+    "titre": "Online Bidder",
+    "entreprise": "Digitex Technologies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "web dev",
+      "mobile",
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Online Bidder chez Digitex Technologies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-bidder-digitex-technologies-1134567",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-8b3076730b"
+  },
+  {
+    "id": "jf-cf862504ed",
+    "titre": "Designer",
+    "entreprise": "Archisearch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "Designer chez Archisearch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-cf862504ed"
+  },
+  {
+    "id": "jf-053019aea6",
+    "titre": "Paid Media Specialist Meta & Google Ads",
+    "entreprise": "Noventra Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "Marketing",
+      "Paid Media",
+      "Meta Ads",
+      "Facebook Ads",
+      "Google Ads"
+    ],
+    "resume_neutre": "Paid Media Specialist Meta & Google Ads chez Noventra Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-053019aea6"
+  },
+  {
+    "id": "jf-92cc39a953",
+    "titre": "Custodian",
+    "entreprise": "Hospitality Newfoundland and Labrador",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "c",
+      "exec",
+      "full time"
+    ],
+    "resume_neutre": "Custodian chez Hospitality Newfoundland and Labrador, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-custodian-hospitality-newfoundland-and-labrador-1134554",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-92cc39a953"
+  },
+  {
+    "id": "jf-7893d9c74c",
+    "titre": "Multi Trader",
+    "entreprise": "B&amp;R HOME",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Multi Trader chez B&amp;R HOME, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-multi-trader-bampr-home-1134574",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-7893d9c74c"
+  },
+  {
+    "id": "jf-95f64b4577",
+    "titre": "Skilled Operator blue shift days",
+    "entreprise": "Princes Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech",
+      "ops"
+    ],
+    "resume_neutre": "Skilled Operator blue shift days chez Princes Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-skilled-operator-blue-shift-days-princes-group-1134575",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-95f64b4577"
+  },
+  {
+    "id": "jf-6f0508d9bd",
+    "titre": "Junior Project Manager",
+    "entreprise": "ASG International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "coordinator",
+      "customer support",
+      "admin"
+    ],
+    "resume_neutre": "Junior Project Manager chez ASG International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-asg-international-1134576",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-08",
+    "ref_unique": "jf-6f0508d9bd"
+  },
+  {
     "id": "jf-c6cb5e185c",
     "titre": "Lifeguard",
     "entreprise": "Accor",
@@ -5545,131 +5693,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-03",
     "ref_unique": "ma-572178f2e6"
-  },
-  {
-    "id": "ma-5d9b1b45b2",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=4&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=782&relb=100&brelb=100&bscr=2251.9194&scr=2251.9194",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-5d9b1b45b2"
-  },
-  {
-    "id": "ma-5f44ed433a",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1271730987592177532?ckey=comptable&rgn=946&pos=5&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=422&relb=100&brelb=100&bscr=2242.0225&scr=2242.0225",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-5f44ed433a"
-  },
-  {
-    "id": "ma-05bb2e86bb",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=6&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=422&relb=100&brelb=100&bscr=2212.6968&scr=2212.6968",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-05bb2e86bb"
-  },
-  {
-    "id": "ma-9822b7975e",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6817930666664253435?ckey=comptable&rgn=946&pos=7&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=566&relb=100&brelb=100&bscr=2153.5776&scr=2153.5776",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-9822b7975e"
-  },
-  {
-    "id": "ma-fef211fcbd",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=8&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=323&relb=100&brelb=100&bscr=2134.7883&scr=2134.7883",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-fef211fcbd"
-  },
-  {
-    "id": "ma-fd8cc03faf",
-    "titre": "Comptable Confirmé (H/F) - Dar Bouazza",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé (H/F) - Dar Bouazza chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6406051316603948897?ckey=comptable&rgn=946&pos=9&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=278&relb=100&brelb=100&bscr=2111.6958&scr=2111.6958",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-fd8cc03faf"
-  },
-  {
-    "id": "ma-746ccc13ac",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=10&elckey=7335090000070871154&p=1&aq=173525988505501604&cid=20&jobAge=110&relb=100&brelb=100&bscr=2106.893&scr=2106.893",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-03",
-    "ref_unique": "ma-746ccc13ac"
   }
 ]
