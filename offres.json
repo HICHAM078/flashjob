@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-d65ec4988d",
+    "titre": "Events Manager",
+    "entreprise": "Lantern",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "coordinator",
+      "customer support",
+      "dev",
+      "mobile"
+    ],
+    "resume_neutre": "Events Manager chez Lantern, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-d65ec4988d"
+  },
+  {
+    "id": "jf-ad3c8f5b7f",
+    "titre": "Influencer &amp; Community Marketing Executive",
+    "entreprise": "UBT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Influencer &amp; Community Marketing Executive chez UBT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-influencer-amp-community-marketing-executive-ubt-1134631",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-ad3c8f5b7f"
+  },
+  {
+    "id": "jf-918cf60f89",
+    "titre": "Data center technician Dispatch",
+    "entreprise": "Sharp Brains",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Data center technician Dispatch chez Sharp Brains, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-center-technician-dispatch-sharp-brains-1134595",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-918cf60f89"
+  },
+  {
+    "id": "jf-05ce801057",
+    "titre": "Mali",
+    "entreprise": "Ghar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Mali chez Ghar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mali-ghar-1134606",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-05ce801057"
+  },
+  {
     "id": "ma-c232a21a71",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5577,77 +5661,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-05",
     "ref_unique": "ma-8f35d3d9c8"
-  },
-  {
-    "id": "ma-34a7c02772",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4361851844518967016?ckey=commercial&rgn=938&pos=5&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=637&relb=110&brelb=110&bscr=1627.3899&scr=1627.3899",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-34a7c02772"
-  },
-  {
-    "id": "ma-45c85d47bb",
-    "titre": "Conseiller Commercial B2B (H/F) - Expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial B2B (H/F) - Expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5621724903683695504?ckey=commercial&rgn=938&pos=6&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=85&relb=110&brelb=110&bscr=1593.251&scr=1593.251",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-45c85d47bb"
-  },
-  {
-    "id": "ma-35ccfe504d",
-    "titre": "URGENT // COMMERCIAUX EN TELEVENTE",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT // COMMERCIAUX EN TELEVENTE chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4732897553604032170?ckey=commercial&rgn=938&pos=7&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=709&relb=110&brelb=110&bscr=1536.3273&scr=1536.3273",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-35ccfe504d"
-  },
-  {
-    "id": "ma-615ae884cd",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-253976989062666548?ckey=commercial&rgn=938&pos=8&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=133&relb=110&brelb=110&bscr=1524.1842&scr=1524.1842",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-615ae884cd"
   }
 ]
