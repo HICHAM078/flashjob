@@ -1,5 +1,263 @@
 [
   {
+    "id": "jf-02d4da2a59",
+    "titre": "Vendor Partner Lead",
+    "entreprise": "LinkedIn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Vendor Partner Lead chez LinkedIn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vendor-partner-lead-linkedin-1134596",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-02d4da2a59"
+  },
+  {
+    "id": "jf-b5457e1b0b",
+    "titre": "Test",
+    "entreprise": "Solvay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test chez Solvay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-solvay-1134589",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-b5457e1b0b"
+  },
+  {
+    "id": "jf-6996f1d628",
+    "titre": "Social Content Lead",
+    "entreprise": "KAST",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "coordinator",
+      "customer support",
+      "dev",
+      "mobile"
+    ],
+    "resume_neutre": "Social Content Lead chez KAST, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-content-lead-kast-1134618",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-6996f1d628"
+  },
+  {
+    "id": "jf-34576f3423",
+    "titre": "RESTAURANT JOBS",
+    "entreprise": "Boudin Bakery Cafe",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "RESTAURANT JOBS chez Boudin Bakery Cafe, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-restaurant-jobs-boudin-bakery-cafe-1134590",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-34576f3423"
+  },
+  {
+    "id": "jf-619447e84d",
+    "titre": "Social Media Manager",
+    "entreprise": "Digital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "coordinator",
+      "customer support",
+      "dev",
+      "mobile"
+    ],
+    "resume_neutre": "Social Media Manager chez Digital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-digital-1134621",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-619447e84d"
+  },
+  {
+    "id": "jf-580ea9104d",
+    "titre": "Architectural Drafter Designer",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Architectural Drafter Designer chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-580ea9104d"
+  },
+  {
+    "id": "jf-78945950fa",
+    "titre": "Data Entry Specialist Assistant Administrator",
+    "entreprise": "ReLytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web3",
+    "remote": true,
+    "competences": [
+      "web3",
+      "crypto",
+      "blockchain",
+      "analyst",
+      "infosec"
+    ],
+    "resume_neutre": "Data Entry Specialist Assistant Administrator chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-relytics-hire-1134602",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-78945950fa"
+  },
+  {
+    "id": "jf-acffdc8115",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "ReLytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-relytics-hire-1134588",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-acffdc8115"
+  },
+  {
+    "id": "jf-ad01b2af10",
+    "titre": "Customer Support",
+    "entreprise": "ReLytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web3",
+    "remote": true,
+    "competences": [
+      "web3",
+      "crypto",
+      "blockchain",
+      "analyst",
+      "infosec"
+    ],
+    "resume_neutre": "Customer Support chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-relytics-hire-1134600",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-ad01b2af10"
+  },
+  {
+    "id": "jf-e5d6dc1d35",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "ReLytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hire-1134597",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-e5d6dc1d35"
+  },
+  {
+    "id": "jf-1981ad2960",
+    "titre": "Project Manager",
+    "entreprise": "Queensland Government",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Project Manager chez Queensland Government, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-queensland-government-1134623",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-1981ad2960"
+  },
+  {
+    "id": "jf-2c5965b9d8",
+    "titre": "Data Entry Typist",
+    "entreprise": "Argus Medical Management, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Data Entry Typist chez Argus Medical Management, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-argus-medical-management-llc-1134579",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-2c5965b9d8"
+  },
+  {
     "id": "jf-a2d43a46e7",
     "titre": "RTW Driver",
     "entreprise": "Parkland Corporation",
@@ -5458,221 +5716,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-04",
     "ref_unique": "ma-4c6dca72e8"
-  },
-  {
-    "id": "ma-d91ac4c615",
-    "titre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b",
-    "entreprise": "Alphonica",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - téléopérateur / téléconseiller (h/f) - televente b2b chez Alphonica, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4669127627816070580?ckey=emploi&rgn=0&pos=10&elckey=-1844616338725089911&p=1&aq=-8232923248604206869&cid=20&jobAge=277&relb=110&brelb=110&bscr=2434.9543&scr=2434.9543",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-d91ac4c615"
-  },
-  {
-    "id": "ma-d963c7fb59",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=11&elckey=-1844616338725089911&p=1&aq=-8232923248604206869&cid=20&jobAge=397&relb=100&brelb=100&bscr=2365.3206&scr=2365.3206",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-d963c7fb59"
-  },
-  {
-    "id": "ma-fb769055a8",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=12&elckey=-1844616338725089911&p=1&aq=-8232923248604206869&cid=20&jobAge=37&relb=110&brelb=110&bscr=2348.2712&scr=2348.2712",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-fb769055a8"
-  },
-  {
-    "id": "ma-ce225ef239",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-153838199394590855?ckey=comptable&rgn=946&pos=1&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=57&relb=100&brelb=100&bscr=2410.3801&scr=2410.3801",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-ce225ef239"
-  },
-  {
-    "id": "ma-c58c94da72",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=2&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=397&relb=100&brelb=100&bscr=2403.8225&scr=2403.8225",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-c58c94da72"
-  },
-  {
-    "id": "ma-247a5db1c9",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1271730987592177532?ckey=comptable&rgn=946&pos=3&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=445&relb=100&brelb=100&bscr=2285.4326&scr=2285.4326",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-247a5db1c9"
-  },
-  {
-    "id": "ma-4989c790df",
-    "titre": "Collaborateur Comptable - H/F_ MARRAKECH",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ MARRAKECH chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2784842751564940707?ckey=comptable&rgn=946&pos=4&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=179&relb=100&brelb=100&bscr=2258.2642&scr=2258.2642",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-4989c790df"
-  },
-  {
-    "id": "ma-e5d6edf580",
-    "titre": "Comptable fournisseurs anglophone",
-    "entreprise": "SVC - Skills and Values Consulting",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable fournisseurs anglophone chez SVC - Skills and Values Consulting, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5573335134607539188?ckey=comptable&rgn=946&pos=5&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=805&relb=100&brelb=100&bscr=2192.937&scr=2192.937",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-e5d6edf580"
-  },
-  {
-    "id": "ma-f56e3734d1",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=6&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=445&relb=100&brelb=100&bscr=2169.0842&scr=2169.0842",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-f56e3734d1"
-  },
-  {
-    "id": "ma-894082a197",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=7&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=133&relb=100&brelb=100&bscr=2152.3025&scr=2152.3025",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-894082a197"
-  },
-  {
-    "id": "ma-ad453fbdaf",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=8&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=301&relb=100&brelb=100&bscr=2121.4324&scr=2121.4324",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-ad453fbdaf"
-  },
-  {
-    "id": "ma-3f7839bb29",
-    "titre": "Comptable Confirmé (H/F) - Dar Bouazza",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé (H/F) - Dar Bouazza chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6406051316603948897?ckey=comptable&rgn=946&pos=9&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=301&relb=100&brelb=100&bscr=2098.5708&scr=2098.5708",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-3f7839bb29"
   }
 ]
