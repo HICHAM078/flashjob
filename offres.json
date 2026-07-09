@@ -1,5 +1,195 @@
 [
   {
+    "id": "jf-8078d5378d",
+    "titre": "Territory Sales Manager",
+    "entreprise": "CELSIUS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "coordinator",
+      "customer support",
+      "dev",
+      "mobile"
+    ],
+    "resume_neutre": "Territory Sales Manager chez CELSIUS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-territory-sales-manager-celsius-1134619",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-8078d5378d"
+  },
+  {
+    "id": "jf-2526fbc1c8",
+    "titre": "Â SUPERVISEUR 31 94",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Â SUPERVISEUR 31 94 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-31-94-the-home-depot-canada-1134603",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-2526fbc1c8"
+  },
+  {
+    "id": "jf-2202ca6e4f",
+    "titre": "Analista Marketing JR Social Media",
+    "entreprise": "Bradesco",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Excel",
+    "remote": true,
+    "competences": [
+      "excel",
+      "non tech",
+      "marketing",
+      "social media"
+    ],
+    "resume_neutre": "Analista Marketing JR Social Media chez Bradesco, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-marketing-jr-social-media-bradesco-1134612",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-2202ca6e4f"
+  },
+  {
+    "id": "jf-c79e37ccf4",
+    "titre": "Analista de Recrutamento e SeleÃ§Ã£o Comercial JÃºnior",
+    "entreprise": "Stone",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Excel",
+    "remote": true,
+    "competences": [
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Analista de Recrutamento e SeleÃ§Ã£o Comercial JÃºnior chez Stone, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-recrutamento-e-selecao-comercial-junior-stone-1134610",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-c79e37ccf4"
+  },
+  {
+    "id": "jf-c4d9c58b44",
+    "titre": "Project Coordinator",
+    "entreprise": "Franklin Fitch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Project Coordinator chez Franklin Fitch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-coordinator-franklin-fitch-1134634",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-c4d9c58b44"
+  },
+  {
+    "id": "jf-1d99df7976",
+    "titre": "Controller Financiero",
+    "entreprise": "Veolia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Controller Financiero chez Veolia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-controller-financiero-veolia-1134632",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-1d99df7976"
+  },
+  {
+    "id": "jf-152f905496",
+    "titre": "Test 1 posting",
+    "entreprise": "Sonic Healthcare UK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "education",
+      "customer support",
+      "travel",
+      "finance"
+    ],
+    "resume_neutre": "Test 1 posting chez Sonic Healthcare UK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-1-posting-sonic-healthcare-uk-1134608",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-152f905496"
+  },
+  {
+    "id": "jf-598be9dbad",
+    "titre": "Attractions Instructor",
+    "entreprise": "Royal Caribbean International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "sys admin",
+      "infosec",
+      "education",
+      "supervisor"
+    ],
+    "resume_neutre": "Attractions Instructor chez Royal Caribbean International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-attractions-instructor-royal-caribbean-international-1134598",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-598be9dbad"
+  },
+  {
+    "id": "jf-7e777cbbca",
+    "titre": "Joiner Multi",
+    "entreprise": "United Infrastructure Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "digital nomad",
+      "design",
+      "customer support"
+    ],
+    "resume_neutre": "Joiner Multi chez United Infrastructure Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-joiner-multi-united-infrastructure-ltd-1134638",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-7e777cbbca"
+  },
+  {
     "id": "jf-d65ec4988d",
     "titre": "Events Manager",
     "entreprise": "Lantern",
@@ -5499,167 +5689,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-05",
     "ref_unique": "ma-3005a2a120"
-  },
-  {
-    "id": "ma-a8536ed27e",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=8&elckey=-6398287327321071421&p=1&aq=3784495714023824069&cid=20&jobAge=325&relb=100&brelb=100&bscr=2121.9146&scr=2121.9146",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-a8536ed27e"
-  },
-  {
-    "id": "ma-b4cee981e8",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=9&elckey=-6398287327321071421&p=1&aq=3784495714023824069&cid=20&jobAge=157&relb=100&brelb=100&bscr=2109.0542&scr=2109.0542",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-b4cee981e8"
-  },
-  {
-    "id": "ma-994d8ed0c5",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=10&elckey=-6398287327321071421&p=1&aq=3784495714023824069&cid=20&jobAge=371&relb=100&brelb=100&bscr=2046.1882&scr=2046.1882",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-994d8ed0c5"
-  },
-  {
-    "id": "ma-ba76c9ccc7",
-    "titre": "Comptable - Meknès",
-    "entreprise": "SOMACOS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Meknès chez SOMACOS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2402882206848639806?ckey=comptable&rgn=946&pos=11&elckey=-6398287327321071421&p=1&aq=3784495714023824069&cid=20&jobAge=397&relb=100&brelb=100&bscr=2031.6465&scr=2031.6464999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-ba76c9ccc7"
-  },
-  {
-    "id": "ma-b085dbfd96",
-    "titre": "Comptable Sénior - Casablanca",
-    "entreprise": "ELITE INTERIM MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Sénior - Casablanca chez ELITE INTERIM MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4209492511139154816?ckey=comptable&rgn=946&pos=12&elckey=-6398287327321071421&p=1&aq=3784495714023824069&cid=20&jobAge=421&relb=100&brelb=100&bscr=2029.3855&scr=2029.3855",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-b085dbfd96"
-  },
-  {
-    "id": "ma-694361af6b",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=1&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=109&relb=110&brelb=110&bscr=1786.944&scr=1786.944",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-694361af6b"
-  },
-  {
-    "id": "ma-8a387ead08",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4758315232309467945?ckey=commercial&rgn=938&pos=2&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=85&relb=110&brelb=110&bscr=1710.6506&scr=1710.6506",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-8a387ead08"
-  },
-  {
-    "id": "ma-88aa970630",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=3&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=253&relb=110&brelb=110&bscr=1665.4509&scr=1665.4509",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-88aa970630"
-  },
-  {
-    "id": "ma-8f35d3d9c8",
-    "titre": "Nous recrutons des conseillers commerciaux en b2b",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en b2b chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3894262970380716761?ckey=commercial&rgn=938&pos=4&elckey=8377513103078899378&p=1&aq=9206446913229327262&cid=20&jobAge=85&relb=110&brelb=110&bscr=1640.9918&scr=1640.9918",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-8f35d3d9c8"
   }
 ]
