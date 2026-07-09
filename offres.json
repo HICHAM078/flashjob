@@ -1,5 +1,173 @@
 [
   {
+    "id": "jf-a2d43a46e7",
+    "titre": "RTW Driver",
+    "entreprise": "Parkland Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "RTW Driver chez Parkland Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rtw-driver-parkland-corporation-1134587",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-a2d43a46e7"
+  },
+  {
+    "id": "jf-d51dc529ab",
+    "titre": "Asset Management Specialist Water Wastewater Treatment",
+    "entreprise": "Woodard &amp; Curran",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "customer support",
+      "marketing",
+      "design",
+      "travel"
+    ],
+    "resume_neutre": "Asset Management Specialist Water Wastewater Treatment chez Woodard &amp; Curran, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asset-management-specialist-water-wastewater-treatment-woodard-amp-curran-1134569",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-d51dc529ab"
+  },
+  {
+    "id": "jf-05bb13c200",
+    "titre": "12 jobs that pay well without a degree",
+    "entreprise": "Unigo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "12 jobs that pay well without a degree chez Unigo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-unigo-1134605",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-05bb13c200"
+  },
+  {
+    "id": "jf-0eccfd8bfb",
+    "titre": "Social Media Manager TikTok and Founder",
+    "entreprise": "Once Upon a Farm",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Social Media Manager TikTok and Founder chez Once Upon a Farm, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-tiktok-and-founder-once-upon-a-farm-1134578",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-0eccfd8bfb"
+  },
+  {
+    "id": "jf-081cd563e8",
+    "titre": "Creative Strategist",
+    "entreprise": "Ramen Bae",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Creative Strategist chez Ramen Bae, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-ramen-bae-1134585",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-081cd563e8"
+  },
+  {
+    "id": "jf-61479bb6cf",
+    "titre": "Assistente Financeiro",
+    "entreprise": "Sicoob",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Assistente Financeiro chez Sicoob, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-financeiro-sicoob-1134592",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-61479bb6cf"
+  },
+  {
+    "id": "jf-9f166b1580",
+    "titre": "Lead Paralegal",
+    "entreprise": "Finch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Lead Paralegal chez Finch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-paralegal-finch-1134580",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-9f166b1580"
+  },
+  {
+    "id": "jf-49acf80ad5",
+    "titre": "Director Educational Partnerships",
+    "entreprise": "Sonic Automotive",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting"
+    ],
+    "resume_neutre": "Director Educational Partnerships chez Sonic Automotive, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-educational-partnerships-sonic-automotive-1134581",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-09",
+    "ref_unique": "jf-49acf80ad5"
+  },
+  {
     "id": "jf-e9f58324c9",
     "titre": "Â SUPERVISEUR 26 27",
     "entreprise": "The Home Depot Canada",
@@ -5506,149 +5674,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-04",
     "ref_unique": "ma-3f7839bb29"
-  },
-  {
-    "id": "ma-f7f4f9480a",
-    "titre": "Comptable Sénior - Casablanca",
-    "entreprise": "ELITE INTERIM MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Sénior - Casablanca chez ELITE INTERIM MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4209492511139154816?ckey=comptable&rgn=946&pos=10&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=397&relb=100&brelb=100&bscr=2074.8767&scr=2074.8767",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-f7f4f9480a"
-  },
-  {
-    "id": "ma-507c987151",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=11&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=347&relb=100&brelb=100&bscr=2045.1348&scr=2045.1348",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-507c987151"
-  },
-  {
-    "id": "ma-fcf4119ea5",
-    "titre": "Comptable - Meknès",
-    "entreprise": "SOMACOS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Meknès chez SOMACOS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2402882206848639806?ckey=comptable&rgn=946&pos=12&elckey=2035597701168123468&p=1&aq=-8193765175090373314&cid=20&jobAge=373&relb=100&brelb=100&bscr=2012.7357&scr=2012.7357000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-fcf4119ea5"
-  },
-  {
-    "id": "ma-1b5addcc0f",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=1&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=85&relb=110&brelb=110&bscr=1798.2241&scr=1798.2241",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-1b5addcc0f"
-  },
-  {
-    "id": "ma-15a3b4d1ac",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4758315232309467945?ckey=commercial&rgn=938&pos=2&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=61&relb=110&brelb=110&bscr=1746.8009&scr=1746.8009",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-15a3b4d1ac"
-  },
-  {
-    "id": "ma-58015bcdf8",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=3&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=229&relb=110&brelb=110&bscr=1678.0388&scr=1678.0388",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-58015bcdf8"
-  },
-  {
-    "id": "ma-9ed3acfa96",
-    "titre": "Nous recrutons des conseillers commerciaux en b2b",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en b2b chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3894262970380716761?ckey=commercial&rgn=938&pos=4&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=61&relb=110&brelb=110&bscr=1633.2046&scr=1633.2046",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-9ed3acfa96"
-  },
-  {
-    "id": "ma-80d62e44f1",
-    "titre": "Nous recrutons des conseillers commerciaux en B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des conseillers commerciaux en B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/174806695315651651?ckey=commercial&rgn=938&pos=5&elckey=-1635345942141457349&p=1&aq=3924709562051188596&cid=20&jobAge=85&relb=110&brelb=110&bscr=1630.4409&scr=1630.4409",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-04",
-    "ref_unique": "ma-80d62e44f1"
   }
 ]
