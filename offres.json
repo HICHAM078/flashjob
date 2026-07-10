@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-2208af3e52",
+    "titre": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
+    "entreprise": "BuscarVagas - Empregos Brasil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Operador de Portaria Remota Recife PE Seu Novo Emprego chez BuscarVagas - Empregos Brasil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-seu-novo-emprego-buscarvagas-empregos-brasil-1134659",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-2208af3e52"
+  },
+  {
+    "id": "jf-cb5a9ce6da",
+    "titre": "Houseperson",
+    "entreprise": "Accor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "medical",
+      "non tech",
+      "infosec"
+    ],
+    "resume_neutre": "Houseperson chez Accor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-houseperson-accor-1134656",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-cb5a9ce6da"
+  },
+  {
+    "id": "jf-ef87316d45",
+    "titre": "Update Add Your Resume Any Position EOI Infrastructure Projects",
+    "entreprise": "Bellwether Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "medical",
+      "non tech",
+      "infosec"
+    ],
+    "resume_neutre": "Update Add Your Resume Any Position EOI Infrastructure Projects chez Bellwether Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-update-add-your-resume-any-position-eoi-infrastructure-projects-bellwether-group-1134658",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-ef87316d45"
+  },
+  {
     "id": "jf-8e30acc04e",
     "titre": "Coordinador de Medio Ambiente y Desarrollo Comunitario",
     "entreprise": "Wisefind",
@@ -5684,59 +5746,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-05",
     "ref_unique": "jf-3d5e133d3e"
-  },
-  {
-    "id": "ma-b337327887",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=1&elckey=8168242706495266816&p=1&aq=8189967738215951946&cid=20&jobAge=37&relb=110&brelb=110&bscr=2747.635&scr=2747.635",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-b337327887"
-  },
-  {
-    "id": "ma-6d252773c2",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=2&elckey=8168242706495266816&p=1&aq=8189967738215951946&cid=20&jobAge=397&relb=110&brelb=110&bscr=2627.4417&scr=2627.4417",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-6d252773c2"
-  },
-  {
-    "id": "ma-bbd9cd7be2",
-    "titre": "offre d'emploi- chargé(e) d'Affaires B2B",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "offre d'emploi- chargé(e) d'Affaires B2B chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5461186878903053724?ckey=emploi&rgn=0&pos=3&elckey=8168242706495266816&p=1&aq=8189967738215951946&cid=20&jobAge=61&relb=110&brelb=110&bscr=2493.959&scr=2493.959",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-05",
-    "ref_unique": "ma-bbd9cd7be2"
   }
 ]
