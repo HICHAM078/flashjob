@@ -1,5 +1,90 @@
 [
   {
+    "id": "jf-be11d013f0",
+    "titre": "Health Navigator I",
+    "entreprise": "Moda Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching"
+    ],
+    "resume_neutre": "Health Navigator I chez Moda Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-be11d013f0"
+  },
+  {
+    "id": "jf-2352f16bfb",
+    "titre": "Caretaker City Buildings",
+    "entreprise": "City of Kalgoorlie-Boulder",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Caretaker City Buildings chez City of Kalgoorlie-Boulder, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-city-of-kalgoorlie-boulder-1134655",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-2352f16bfb"
+  },
+  {
+    "id": "jf-00a925b65e",
+    "titre": "Mason",
+    "entreprise": "United Infrastructure Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "digital nomad",
+      "design",
+      "customer support"
+    ],
+    "resume_neutre": "Mason chez United Infrastructure Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mason-united-infrastructure-ltd-1134639",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-00a925b65e"
+  },
+  {
+    "id": "jf-38345325ae",
+    "titre": "General Consideration",
+    "entreprise": "CertaSite",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "General Consideration chez CertaSite, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-38345325ae"
+  },
+  {
     "id": "jf-57a89a10bd",
     "titre": "Firefighter ARFF",
     "entreprise": "Adani Airport Holdings Ltd",
@@ -5644,77 +5729,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-06",
     "ref_unique": "ma-9861f71faf"
-  },
-  {
-    "id": "ma-bdd817e786",
-    "titre": "offre d'emploi- chargé(e) d'Affaires B2B",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "offre d'emploi- chargé(e) d'Affaires B2B chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6375134151172902011?ckey=emploi&rgn=0&pos=5&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=63&relb=110&brelb=110&bscr=2463.6775&scr=2463.6775",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-bdd817e786"
-  },
-  {
-    "id": "ma-f5190ff191",
-    "titre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6295522464577779105?ckey=emploi&rgn=0&pos=6&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=135&relb=110&brelb=110&bscr=2458.1785&scr=2458.1785",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-f5190ff191"
-  },
-  {
-    "id": "ma-5a81a06746",
-    "titre": "OFFRE D'EMPLOI : Traffic Manager Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Traffic Manager Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3798056736994234828?ckey=emploi&rgn=0&pos=7&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=423&relb=110&brelb=110&bscr=2424.832&scr=2424.8319999999994",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-5a81a06746"
-  },
-  {
-    "id": "ma-27a775a60f",
-    "titre": "OFFRE D'EMPLOI : Développeur Web Full Stack",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Développeur Web Full Stack chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4459371398309759540?ckey=emploi&rgn=0&pos=8&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=351&relb=110&brelb=110&bscr=2404.875&scr=2404.875",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-27a775a60f"
   }
 ]
