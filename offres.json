@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-57a89a10bd",
+    "titre": "Firefighter ARFF",
+    "entreprise": "Adani Airport Holdings Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "dev",
+      "photoshop",
+      "digital nomad",
+      "education"
+    ],
+    "resume_neutre": "Firefighter ARFF chez Adani Airport Holdings Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-57a89a10bd"
+  },
+  {
+    "id": "jf-d567b66d7b",
+    "titre": "Junior Ecommerce Specialist",
+    "entreprise": "Haystack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching"
+    ],
+    "resume_neutre": "Junior Ecommerce Specialist chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-ecommerce-specialist-haystack-1134653",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-d567b66d7b"
+  },
+  {
+    "id": "jf-2baa0ad38a",
+    "titre": "Non USA",
+    "entreprise": "New Relic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "dev",
+      "photoshop",
+      "digital nomad",
+      "education"
+    ],
+    "resume_neutre": "Non USA chez New Relic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-10",
+    "ref_unique": "jf-2baa0ad38a"
+  },
+  {
     "id": "ma-d4bab04cd9",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5650,59 +5716,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-06",
     "ref_unique": "ma-27a775a60f"
-  },
-  {
-    "id": "ma-2b78ea28bb",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=9&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=39&relb=110&brelb=110&bscr=2386.6936&scr=2386.6936",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-2b78ea28bb"
-  },
-  {
-    "id": "ma-8b3e6d3583",
-    "titre": "offre d'emploi- chargé(e) d'Affaires B2B",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "offre d'emploi- chargé(e) d'Affaires B2B chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5461186878903053724?ckey=emploi&rgn=0&pos=10&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=87&relb=110&brelb=110&bscr=2379.2583&scr=2379.2583",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-8b3e6d3583"
-  },
-  {
-    "id": "ma-80026d9942",
-    "titre": "Employé Libre-Service - Marrakech",
-    "entreprise": "ATACADAO",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Employé Libre-Service - Marrakech chez ATACADAO, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7871325245846053276?ckey=emploi&rgn=0&pos=11&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=447&relb=100&brelb=100&bscr=2336.8223&scr=2336.8223",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-80026d9942"
   }
 ]
