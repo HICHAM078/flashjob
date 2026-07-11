@@ -1,5 +1,44 @@
 [
   {
+    "id": "jf-30df5159b5",
+    "titre": "WAREHOUSE OFFICER",
+    "entreprise": "Nexilon Energy Systems Pvt. Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "WAREHOUSE OFFICER chez Nexilon Energy Systems Pvt. Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-nexilon-energy-systems-pvt-ltd-1134694",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-30df5159b5"
+  },
+  {
+    "id": "jf-b8152369a5",
+    "titre": "ASSISTENTE ADMINISTRATIVO BARUERI SP",
+    "entreprise": "SGS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "excel",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "ASSISTENTE ADMINISTRATIVO BARUERI SP chez SGS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-barueri-sp-sgs-1134705",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-b8152369a5"
+  },
+  {
     "id": "jf-2b72e28435",
     "titre": "Resume Inbox",
     "entreprise": "Mark Thomas",
@@ -5696,47 +5735,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-08",
     "ref_unique": "jf-95f64b4577"
-  },
-  {
-    "id": "jf-6f0508d9bd",
-    "titre": "Junior Project Manager",
-    "entreprise": "ASG International",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "coordinator",
-      "customer support",
-      "admin"
-    ],
-    "resume_neutre": "Junior Project Manager chez ASG International, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-asg-international-1134576",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-6f0508d9bd"
-  },
-  {
-    "id": "jf-c6cb5e185c",
-    "titre": "Lifeguard",
-    "entreprise": "Accor",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "exec"
-    ],
-    "resume_neutre": "Lifeguard chez Accor, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lifeguard-accor-1134547",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-c6cb5e185c"
   }
 ]
