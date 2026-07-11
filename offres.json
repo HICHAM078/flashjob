@@ -1,5 +1,166 @@
 [
   {
+    "id": "jf-2b72e28435",
+    "titre": "Resume Inbox",
+    "entreprise": "Mark Thomas",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Resume Inbox chez Mark Thomas, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-resume-inbox-mark-thomas-1134682",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-2b72e28435"
+  },
+  {
+    "id": "jf-5faf062e45",
+    "titre": "QUICK EAT &amp; DRINKS",
+    "entreprise": "Khoja Khoji",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "dev",
+      "travel",
+      "finance",
+      "marketing"
+    ],
+    "resume_neutre": "QUICK EAT &amp; DRINKS chez Khoja Khoji, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quick-eat-amp-drinks-khoja-khoji-1134691",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-5faf062e45"
+  },
+  {
+    "id": "jf-c971f62ff8",
+    "titre": "All Jobs",
+    "entreprise": "Expat Shield | Insurance Solutions in Thailand - thatâs Chubb Life.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing"
+    ],
+    "resume_neutre": "All Jobs chez Expat Shield | Insurance Solutions in Thailand - thatâs Chubb Life., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-all-jobs-expat-shield-insurance-solutions-in-thailand-thats-chubb-life-1134692",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-c971f62ff8"
+  },
+  {
+    "id": "jf-8ccba31c72",
+    "titre": "Quality Control",
+    "entreprise": "Esteem",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "dev",
+      "photoshop",
+      "digital nomad"
+    ],
+    "resume_neutre": "Quality Control chez Esteem, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quality-control-esteem-1134669",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-8ccba31c72"
+  },
+  {
+    "id": "jf-6d5ef89836",
+    "titre": "Application",
+    "entreprise": "Conquer AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "dev",
+      "photoshop",
+      "digital nomad",
+      "education"
+    ],
+    "resume_neutre": "Application chez Conquer AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-application-conquer-ai-1134673",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-6d5ef89836"
+  },
+  {
+    "id": "jf-ea86ff7404",
+    "titre": "Junior Web Designer",
+    "entreprise": "Arabian Private Holdings",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web Dev",
+    "remote": true,
+    "competences": [
+      "web dev",
+      "design",
+      "consulting",
+      "designer",
+      "customer support"
+    ],
+    "resume_neutre": "Junior Web Designer chez Arabian Private Holdings, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-arabian-private-holdings-1134699",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-ea86ff7404"
+  },
+  {
+    "id": "jf-282d68ef10",
+    "titre": "Expression of Interest Application",
+    "entreprise": "North Queensland Bio Energy Corporation Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Expression of Interest Application chez North Queensland Bio Energy Corporation Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-application-north-queensland-bio-energy-corporation-limited-1134695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-282d68ef10"
+  },
+  {
+    "id": "jf-bbd88479be",
+    "titre": "Custodian",
+    "entreprise": "Crunch Fitness - Fit Fusion, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "exec",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Custodian chez Crunch Fitness - Fit Fusion, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-custodian-crunch-fitness-fit-fusion-llc-1134693",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-bbd88479be"
+  },
+  {
     "id": "ma-12ea1f587c",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5577,176 +5738,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-08",
     "ref_unique": "jf-c6cb5e185c"
-  },
-  {
-    "id": "jf-7c61e368e1",
-    "titre": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
-    "entreprise": "Mercier Consultancy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Consulting",
-    "remote": true,
-    "competences": [
-      "consulting",
-      "work from home",
-      "customer support",
-      "c",
-      "medical"
-    ],
-    "resume_neutre": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece chez Mercier Consultancy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-7c61e368e1"
-  },
-  {
-    "id": "jf-ed52d9c960",
-    "titre": "Testing Testing Test",
-    "entreprise": "Gold Standard",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "finance",
-      "exec",
-      "part time"
-    ],
-    "resume_neutre": "Testing Testing Test chez Gold Standard, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-testing-test-gold-standard-1134544",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-ed52d9c960"
-  },
-  {
-    "id": "jf-36bced0081",
-    "titre": "Operations Supervisor Healthcare South Georgia",
-    "entreprise": "Belle",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "education",
-      "supervisor",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Operations Supervisor Healthcare South Georgia chez Belle, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-south-georgia-belle-1134553",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-36bced0081"
-  },
-  {
-    "id": "jf-7ac31ca0a3",
-    "titre": "Construction Inspector",
-    "entreprise": "AECOM",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "education",
-      "consulting",
-      "technical",
-      "customer support"
-    ],
-    "resume_neutre": "Construction Inspector chez AECOM, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-construction-inspector-aecom-1134555",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-7ac31ca0a3"
-  },
-  {
-    "id": "jf-ea6b653766",
-    "titre": "AttachÃ© Juridique F H",
-    "entreprise": "AFE (Audit Finance Expert)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "linguistics",
-      "education",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "AttachÃ© Juridique F H chez AFE (Audit Finance Expert), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-attache-juridique-f-h-afe-audit-finance-expert-1134564",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-ea6b653766"
-  },
-  {
-    "id": "jf-032a275273",
-    "titre": "Pedagogy Specialist Spanish",
-    "entreprise": "CloudFactory",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "linguistics",
-      "education",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "Pedagogy Specialist Spanish chez CloudFactory, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-spanish-cloudfactory-1134562",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-032a275273"
-  },
-  {
-    "id": "jf-679d780966",
-    "titre": "Operator Red days",
-    "entreprise": "Princes Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Ops",
-    "remote": true,
-    "competences": [
-      "ops"
-    ],
-    "resume_neutre": "Operator Red days chez Princes Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-07",
-    "ref_unique": "jf-679d780966"
-  },
-  {
-    "id": "jf-79d9039b27",
-    "titre": "Proposal Manager",
-    "entreprise": "LinkedIn",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "saas",
-      "technical",
-      "customer support"
-    ],
-    "resume_neutre": "Proposal Manager chez LinkedIn, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-proposal-manager-linkedin-1134548",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-07",
-    "ref_unique": "jf-79d9039b27"
   }
 ]
