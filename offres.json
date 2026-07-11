@@ -1,5 +1,151 @@
 [
   {
+    "id": "jf-b941e9b2c5",
+    "titre": "Support Technician Level 1 2",
+    "entreprise": "Magic Memories",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching"
+    ],
+    "resume_neutre": "Support Technician Level 1 2 chez Magic Memories, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-b941e9b2c5"
+  },
+  {
+    "id": "jf-858a712b3d",
+    "titre": "Customer Success Manager",
+    "entreprise": "INNERGY",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching"
+    ],
+    "resume_neutre": "Customer Success Manager chez INNERGY, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-innergy-1134651",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-858a712b3d"
+  },
+  {
+    "id": "jf-bab85ac11f",
+    "titre": "Warehouse Inventory Clerk",
+    "entreprise": "Caribbean Bottling Company (Bahamas) Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Warehouse Inventory Clerk chez Caribbean Bottling Company (Bahamas) Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-warehouse-inventory-clerk-caribbean-bottling-company-bahamas-ltd-1134648",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-bab85ac11f"
+  },
+  {
+    "id": "jf-42a1f3930f",
+    "titre": "Diver",
+    "entreprise": "Amentum",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Diver chez Amentum, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1134647",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-42a1f3930f"
+  },
+  {
+    "id": "jf-819d9dfef9",
+    "titre": "Nanny",
+    "entreprise": "Jovie",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "React",
+    "remote": true,
+    "competences": [
+      "react",
+      "teaching",
+      "education",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Nanny chez Jovie, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nanny-jovie-1134660",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-819d9dfef9"
+  },
+  {
+    "id": "jf-8fc09baf24",
+    "titre": "Asesor de AtenciÃ³n al Cliente Remoto Sueldo Fijo",
+    "entreprise": "Partner Service",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Asesor de AtenciÃ³n al Cliente Remoto Sueldo Fijo chez Partner Service, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-remoto-sueldo-fijo-partner-service-1134688",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-8fc09baf24"
+  },
+  {
+    "id": "jf-42c980f499",
+    "titre": "Con o Sin Exp. ATC Remoto Turno Tarde Salario fijo+Variable Firma Contrato con Planilla Completa",
+    "entreprise": "Netcall Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "Con o Sin Exp. ATC Remoto Turno Tarde Salario fijo+Variable Firma Contrato con Planilla Completa chez Netcall Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-con-o-sin-exp-atc-remoto-turno-tarde-salario-fijo-variable-firma-contrato-con-planilla-completa-netcall-group-1134689",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-11",
+    "ref_unique": "jf-42c980f499"
+  },
+  {
     "id": "jf-be11d013f0",
     "titre": "Health Navigator I",
     "entreprise": "Moda Health",
@@ -5594,140 +5740,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-06",
     "ref_unique": "jf-b47b69a003"
-  },
-  {
-    "id": "jf-dea55e9896",
-    "titre": "Business Analyst",
-    "entreprise": "Rotaract Club of NIBM Kandy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "sys admin",
-      "customer support",
-      "dev",
-      "scrum"
-    ],
-    "resume_neutre": "Business Analyst chez Rotaract Club of NIBM Kandy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-06",
-    "ref_unique": "jf-dea55e9896"
-  },
-  {
-    "id": "jf-c9ddccd976",
-    "titre": "Innovation",
-    "entreprise": "Doshi Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "exec"
-    ],
-    "resume_neutre": "Innovation chez Doshi Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-06",
-    "ref_unique": "jf-c9ddccd976"
-  },
-  {
-    "id": "jf-ec5e1f71ed",
-    "titre": "Public Relations Manager",
-    "entreprise": "Temu",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "infosec",
-      "technical",
-      "dev",
-      "travel"
-    ],
-    "resume_neutre": "Public Relations Manager chez Temu, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-public-relations-manager-temu-1134532",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-06",
-    "ref_unique": "jf-ec5e1f71ed"
-  },
-  {
-    "id": "ma-3e223906ec",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=1&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=39&relb=110&brelb=110&bscr=2898.737&scr=2898.737",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-3e223906ec"
-  },
-  {
-    "id": "ma-09280a1bb5",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=2&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=183&relb=110&brelb=110&bscr=2693.2424&scr=2693.2424",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-09280a1bb5"
-  },
-  {
-    "id": "ma-366c526ced",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=3&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=423&relb=110&brelb=110&bscr=2581.9402&scr=2581.9402",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-366c526ced"
-  },
-  {
-    "id": "ma-9861f71faf",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=4&elckey=-746778517387147830&p=1&aq=4200307827009755171&cid=20&jobAge=87&relb=110&brelb=110&bscr=2528.4934&scr=2528.4934",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-06",
-    "ref_unique": "ma-9861f71faf"
   }
 ]
