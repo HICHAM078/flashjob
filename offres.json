@@ -1,5 +1,102 @@
 [
   {
+    "id": "jf-2f43a7a967",
+    "titre": "You",
+    "entreprise": "DQC | Data Quality Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "You chez DQC | Data Quality Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-2f43a7a967"
+  },
+  {
+    "id": "jf-d1ff8848c3",
+    "titre": "DPS Employee II",
+    "entreprise": "Paw Paw Police Dept",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "DPS Employee II chez Paw Paw Police Dept, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-d1ff8848c3"
+  },
+  {
+    "id": "jf-c8bb160eca",
+    "titre": "Assistente de Gente e Cultura JÃºnior",
+    "entreprise": "JOYn Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Assistente de Gente e Cultura JÃºnior chez JOYn Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-de-gente-e-cultura-junior-joyn-group-1134711",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-c8bb160eca"
+  },
+  {
+    "id": "jf-c8389e6758",
+    "titre": "Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio",
+    "entreprise": "Lojas Renner S.A.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio chez Lojas Renner S.A., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-atracao-e-selecao-temporario-lojas-renner-s-a-1134703",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-c8389e6758"
+  },
+  {
+    "id": "jf-ed6620d052",
+    "titre": "and Academic Specialist All Subjects",
+    "entreprise": "Sinica Education",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "social media",
+      "non tech",
+      "teaching",
+      "customer support"
+    ],
+    "resume_neutre": "and Academic Specialist All Subjects chez Sinica Education, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-and-academic-specialist-all-subjects-sinica-education-1134717",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-ed6620d052"
+  },
+  {
     "id": "jf-30df5159b5",
     "titre": "WAREHOUSE OFFICER",
     "entreprise": "Nexilon Energy Systems Pvt. Ltd.",
@@ -5631,109 +5728,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-08",
     "ref_unique": "jf-8b3076730b"
-  },
-  {
-    "id": "jf-cf862504ed",
-    "titre": "Designer",
-    "entreprise": "Archisearch",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "linguistics",
-      "education",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "Designer chez Archisearch, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-cf862504ed"
-  },
-  {
-    "id": "jf-053019aea6",
-    "titre": "Paid Media Specialist Meta & Google Ads",
-    "entreprise": "Noventra Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "Marketing",
-      "Paid Media",
-      "Meta Ads",
-      "Facebook Ads",
-      "Google Ads"
-    ],
-    "resume_neutre": "Paid Media Specialist Meta & Google Ads chez Noventra Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-053019aea6"
-  },
-  {
-    "id": "jf-92cc39a953",
-    "titre": "Custodian",
-    "entreprise": "Hospitality Newfoundland and Labrador",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "c",
-      "exec",
-      "full time"
-    ],
-    "resume_neutre": "Custodian chez Hospitality Newfoundland and Labrador, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-custodian-hospitality-newfoundland-and-labrador-1134554",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-92cc39a953"
-  },
-  {
-    "id": "jf-7893d9c74c",
-    "titre": "Multi Trader",
-    "entreprise": "B&amp;R HOME",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Recruiter",
-    "remote": true,
-    "competences": [
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "Multi Trader chez B&amp;R HOME, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-multi-trader-bampr-home-1134574",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-7893d9c74c"
-  },
-  {
-    "id": "jf-95f64b4577",
-    "titre": "Skilled Operator blue shift days",
-    "entreprise": "Princes Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Recruiter",
-    "remote": true,
-    "competences": [
-      "recruiter",
-      "non tech",
-      "ops"
-    ],
-    "resume_neutre": "Skilled Operator blue shift days chez Princes Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-skilled-operator-blue-shift-days-princes-group-1134575",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-95f64b4577"
   }
 ]
