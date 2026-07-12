@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-f6063b13a1",
+    "titre": "Atendente Relacionamento Ouvidoria",
+    "entreprise": "Vivo (TelefÃ´nica Brasil)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Atendente Relacionamento Ouvidoria chez Vivo (TelefÃ´nica Brasil), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-atendente-relacionamento-ouvidoria-vivo-telefonica-brasil-1134706",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-f6063b13a1"
+  },
+  {
+    "id": "jf-132daca83c",
+    "titre": "Deputy Chief Executive Officer",
+    "entreprise": "TheHiveCareers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "infosec",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Deputy Chief Executive Officer chez TheHiveCareers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-132daca83c"
+  },
+  {
     "id": "ma-9ac2fd8b87",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5680,46 +5720,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-08",
     "ref_unique": "jf-28301ab397"
-  },
-  {
-    "id": "jf-3e5ea6a87e",
-    "titre": "Regional Training Supervisor",
-    "entreprise": "Guild Garage Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Regional Training Supervisor chez Guild Garage Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-3e5ea6a87e"
-  },
-  {
-    "id": "jf-8fba322e11",
-    "titre": "Replacement for Joe test",
-    "entreprise": "Infinity Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Replacement for Joe test chez Infinity Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-replacement-for-joe-test-infinity-group-1134556",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-8fba322e11"
   }
 ]
