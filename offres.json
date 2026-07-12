@@ -1,5 +1,192 @@
 [
   {
+    "id": "jf-49cac32db7",
+    "titre": "Heading",
+    "entreprise": "UX/UI Design K7 Tech",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "Heading chez UX/UI Design K7 Tech, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-heading-ux-ui-design-k7-tech-1134723",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-49cac32db7"
+  },
+  {
+    "id": "jf-cd0fb47e65",
+    "titre": "CRM & Lifecycle Manager",
+    "entreprise": "Joko",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "teaching",
+      "technical"
+    ],
+    "resume_neutre": "CRM & Lifecycle Manager chez Joko, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-crm-lifecycle-manager-joko-1134710",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-cd0fb47e65"
+  },
+  {
+    "id": "jf-cfebdbf88c",
+    "titre": "Junior Web Designer",
+    "entreprise": "Hunt Remotely",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "infosec",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Junior Web Designer chez Hunt Remotely, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-hunt-remotely-1134732",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-cfebdbf88c"
+  },
+  {
+    "id": "jf-a9edde849a",
+    "titre": "Graduate Data Scientist",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Science",
+    "remote": true,
+    "competences": [
+      "data science"
+    ],
+    "resume_neutre": "Graduate Data Scientist chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-a9edde849a"
+  },
+  {
+    "id": "jf-e53b140669",
+    "titre": "Online Birth Certificate",
+    "entreprise": "Ajebask",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "Online Birth Certificate chez Ajebask, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-birth-certificate-ajebask-1134733",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-e53b140669"
+  },
+  {
+    "id": "jf-6cc8ea4f13",
+    "titre": "Social Media Coordinator",
+    "entreprise": "Digital Style House",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Social Media Coordinator chez Digital Style House, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-digital-style-house-1134743",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-6cc8ea4f13"
+  },
+  {
+    "id": "jf-9ba5d3299e",
+    "titre": "Director of Customer Success",
+    "entreprise": "INNERGY",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Director of Customer Success chez INNERGY, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-customer-success-innergy-1134738",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-9ba5d3299e"
+  },
+  {
+    "id": "jf-b0e0893ca7",
+    "titre": "Illustrator",
+    "entreprise": "Zebomba Games",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Illustrator chez Zebomba Games, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-illustrator-zebomba-games-1134735",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-b0e0893ca7"
+  },
+  {
+    "id": "jf-fca5fc669e",
+    "titre": "Educational Programs Administrator",
+    "entreprise": "Lingraphica",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Educational Programs Administrator chez Lingraphica, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-educational-programs-administrator-lingraphica-1134741",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-fca5fc669e"
+  },
+  {
     "id": "jf-f6063b13a1",
     "titre": "Atendente Relacionamento Ouvidoria",
     "entreprise": "Vivo (TelefÃ´nica Brasil)",
@@ -5530,195 +5717,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-09",
     "ref_unique": "jf-61479bb6cf"
-  },
-  {
-    "id": "jf-9f166b1580",
-    "titre": "Lead Paralegal",
-    "entreprise": "Finch",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Lead Paralegal chez Finch, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-paralegal-finch-1134580",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-9f166b1580"
-  },
-  {
-    "id": "jf-49acf80ad5",
-    "titre": "Director Educational Partnerships",
-    "entreprise": "Sonic Automotive",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Director Educational Partnerships chez Sonic Automotive, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-educational-partnerships-sonic-automotive-1134581",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-49acf80ad5"
-  },
-  {
-    "id": "jf-e9f58324c9",
-    "titre": "Â SUPERVISEUR 26 27",
-    "entreprise": "The Home Depot Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Â SUPERVISEUR 26 27 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1134570",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-e9f58324c9"
-  },
-  {
-    "id": "jf-53015079fd",
-    "titre": "Â SUPERVISEUR 25",
-    "entreprise": "The Home Depot Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Â SUPERVISEUR 25 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-25-the-home-depot-canada-1134571",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-53015079fd"
-  },
-  {
-    "id": "jf-d6d4262f41",
-    "titre": "Compliance Market Surveillance Analyst",
-    "entreprise": "Crypto.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web3",
-    "remote": true,
-    "competences": [
-      "web3",
-      "crypto",
-      "blockchain",
-      "analyst",
-      "infosec"
-    ],
-    "resume_neutre": "Compliance Market Surveillance Analyst chez Crypto.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-compliance-market-surveillance-analyst-crypto-com-1134599",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-d6d4262f41"
-  },
-  {
-    "id": "jf-306aefd2ff",
-    "titre": "Human Resources Administrative Coordinator",
-    "entreprise": "Enstar Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Human Resources Administrative Coordinator chez Enstar Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-administrative-coordinator-enstar-group-1134583",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-306aefd2ff"
-  },
-  {
-    "id": "jf-98bb5b0fda",
-    "titre": "CAD Assistant",
-    "entreprise": "RecruitGo Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web3",
-    "remote": true,
-    "competences": [
-      "web3",
-      "crypto",
-      "blockchain",
-      "analyst",
-      "infosec"
-    ],
-    "resume_neutre": "CAD Assistant chez RecruitGo Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-cad-assistant-recruitgo-careers-1134601",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-98bb5b0fda"
-  },
-  {
-    "id": "jf-b333fa22c1",
-    "titre": "Freelance TÃ©cnico Audiovisual Sevilla",
-    "entreprise": "OpenWebinars",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "linguistics",
-      "education",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "Freelance TÃ©cnico Audiovisual Sevilla chez OpenWebinars, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-tecnico-audiovisual-sevilla-openwebinars-1134563",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-b333fa22c1"
-  },
-  {
-    "id": "jf-28301ab397",
-    "titre": "Creative Director YouTube",
-    "entreprise": "Flick",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Creative Director YouTube chez Flick, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-director-youtube-flick-1134582",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-28301ab397"
   }
 ]
