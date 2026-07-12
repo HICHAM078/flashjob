@@ -1,5 +1,84 @@
 [
   {
+    "id": "jf-b9543ff503",
+    "titre": "Recepcionista Jr Bela Vista SP",
+    "entreprise": "Grupo Amil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "Recepcionista Jr Bela Vista SP chez Grupo Amil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-b9543ff503"
+  },
+  {
+    "id": "jf-1ba5015113",
+    "titre": "Brad Phillips",
+    "entreprise": "MILTON FIRE DEPARTMENT INC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "full time",
+      "part time"
+    ],
+    "resume_neutre": "Brad Phillips chez MILTON FIRE DEPARTMENT INC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-1ba5015113"
+  },
+  {
+    "id": "jf-ba7b23fccd",
+    "titre": "Driver",
+    "entreprise": "Urban Movers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Driver chez Urban Movers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-driver-urban-movers-1134721",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-ba7b23fccd"
+  },
+  {
+    "id": "jf-1e53e3217b",
+    "titre": "ACCOMMODATIONS",
+    "entreprise": "Khoja Khoji",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "digital nomad",
+      "testing",
+      "education",
+      "dev"
+    ],
+    "resume_neutre": "ACCOMMODATIONS chez Khoja Khoji, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accommodations-khoja-khoji-1134725",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-12",
+    "ref_unique": "jf-1e53e3217b"
+  },
+  {
     "id": "jf-2f43a7a967",
     "titre": "You",
     "entreprise": "DQC | Data Quality Company",
@@ -5652,81 +5731,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-08",
     "ref_unique": "ma-2653cd772d"
-  },
-  {
-    "id": "ma-531c491ce1",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=10&elckey=4313153835236114319&p=1&aq=1246548045112118501&cid=20&jobAge=6922&relb=100&brelb=100&bscr=1964.1824&scr=1964.1824",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-08",
-    "ref_unique": "ma-531c491ce1"
-  },
-  {
-    "id": "ma-3039a07a3f",
-    "titre": "Manager - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Manager - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-920936733297585638?ckey=informatique&rgn=0&pos=11&elckey=4313153835236114319&p=1&aq=1246548045112118501&cid=20&jobAge=589&relb=110&brelb=110&bscr=283.05188&scr=283.05188",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-08",
-    "ref_unique": "ma-3039a07a3f"
-  },
-  {
-    "id": "ma-8f5f60d421",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=12&elckey=4313153835236114319&p=1&aq=1246548045112118501&cid=20&jobAge=325&relb=110&brelb=110&bscr=282.50183&scr=282.50183",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-08",
-    "ref_unique": "ma-8f5f60d421"
-  },
-  {
-    "id": "jf-8b3076730b",
-    "titre": "Online Bidder",
-    "entreprise": "Digitex Technologies",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "web dev",
-      "mobile",
-      "marketing",
-      "non tech"
-    ],
-    "resume_neutre": "Online Bidder chez Digitex Technologies, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-online-bidder-digitex-technologies-1134567",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-08",
-    "ref_unique": "jf-8b3076730b"
   }
 ]
