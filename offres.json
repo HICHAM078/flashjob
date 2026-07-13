@@ -1,5 +1,177 @@
 [
   {
+    "id": "jf-2ffd20e8f7",
+    "titre": "Auxiliar Administrativo Comercial Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar Administrativo Comercial Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-comercial-remoto-empresa-confidencial-1134744",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-2ffd20e8f7"
+  },
+  {
+    "id": "jf-ba1617194f",
+    "titre": "The Role",
+    "entreprise": "Artefacts / Asteria ART",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "strategy",
+      "customer support",
+      "testing",
+      "content writing"
+    ],
+    "resume_neutre": "The Role chez Artefacts / Asteria ART, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-the-role-artefacts-asteria-art-1134748",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-ba1617194f"
+  },
+  {
+    "id": "jf-9c1ec33b5f",
+    "titre": "Customer Service Chat Representative",
+    "entreprise": "Orchestrate Consulting Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Customer Service Chat Representative chez Orchestrate Consulting Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-chat-representative-orchestrate-consulting-group-1134737",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-9c1ec33b5f"
+  },
+  {
+    "id": "jf-50d72b6454",
+    "titre": "Architectural Drafter Designer",
+    "entreprise": "DevHub",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "medical",
+      "education",
+      "testing",
+      "linguistics"
+    ],
+    "resume_neutre": "Architectural Drafter Designer chez DevHub, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-50d72b6454"
+  },
+  {
+    "id": "jf-a568cc7429",
+    "titre": "Freelance Background Artist for YouTube Studio",
+    "entreprise": "DevHub",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "strategy",
+      "customer support",
+      "testing",
+      "content writing"
+    ],
+    "resume_neutre": "Freelance Background Artist for YouTube Studio chez DevHub, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-background-artist-for-youtube-studio-devhub-1134747",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-a568cc7429"
+  },
+  {
+    "id": "jf-9b1ad38ac6",
+    "titre": "Data Entry Typist",
+    "entreprise": "DevHub",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Data Entry Typist chez DevHub, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-devhub-1134736",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-9b1ad38ac6"
+  },
+  {
+    "id": "jf-d10dfb2536",
+    "titre": "Customer Service Product Support $25 $45 per hour",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media",
+      "sys admin"
+    ],
+    "resume_neutre": "Customer Service Product Support $25 $45 per hour chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-product-support-25-45-per-hour-jobsinmass-com-1134776",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-d10dfb2536"
+  },
+  {
+    "id": "jf-af0d35dd63",
+    "titre": "Data Analyst",
+    "entreprise": "Grow the Roses",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media",
+      "sys admin"
+    ],
+    "resume_neutre": "Data Analyst chez Grow the Roses, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-grow-the-roses-1134778",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-af0d35dd63"
+  },
+  {
     "id": "jf-11cf7ce735",
     "titre": "Brand Executive",
     "entreprise": "Brand Organic",
@@ -5533,177 +5705,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-09",
     "ref_unique": "jf-2526fbc1c8"
-  },
-  {
-    "id": "jf-2202ca6e4f",
-    "titre": "Analista Marketing JR Social Media",
-    "entreprise": "Bradesco",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Excel",
-    "remote": true,
-    "competences": [
-      "excel",
-      "non tech",
-      "marketing",
-      "social media"
-    ],
-    "resume_neutre": "Analista Marketing JR Social Media chez Bradesco, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-marketing-jr-social-media-bradesco-1134612",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-2202ca6e4f"
-  },
-  {
-    "id": "jf-c79e37ccf4",
-    "titre": "Analista de Recrutamento e SeleÃ§Ã£o Comercial JÃºnior",
-    "entreprise": "Stone",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Excel",
-    "remote": true,
-    "competences": [
-      "excel",
-      "non tech"
-    ],
-    "resume_neutre": "Analista de Recrutamento e SeleÃ§Ã£o Comercial JÃºnior chez Stone, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-recrutamento-e-selecao-comercial-junior-stone-1134610",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-c79e37ccf4"
-  },
-  {
-    "id": "jf-c4d9c58b44",
-    "titre": "Project Coordinator",
-    "entreprise": "Franklin Fitch",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "marketing",
-      "travel",
-      "exec",
-      "content writing"
-    ],
-    "resume_neutre": "Project Coordinator chez Franklin Fitch, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-project-coordinator-franklin-fitch-1134634",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-c4d9c58b44"
-  },
-  {
-    "id": "jf-1d99df7976",
-    "titre": "Controller Financiero",
-    "entreprise": "Veolia",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "marketing",
-      "travel",
-      "exec",
-      "content writing"
-    ],
-    "resume_neutre": "Controller Financiero chez Veolia, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-controller-financiero-veolia-1134632",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-1d99df7976"
-  },
-  {
-    "id": "jf-152f905496",
-    "titre": "Test 1 posting",
-    "entreprise": "Sonic Healthcare UK",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "education",
-      "customer support",
-      "travel",
-      "finance"
-    ],
-    "resume_neutre": "Test 1 posting chez Sonic Healthcare UK, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-1-posting-sonic-healthcare-uk-1134608",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-152f905496"
-  },
-  {
-    "id": "jf-598be9dbad",
-    "titre": "Attractions Instructor",
-    "entreprise": "Royal Caribbean International",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "sys admin",
-      "infosec",
-      "education",
-      "supervisor"
-    ],
-    "resume_neutre": "Attractions Instructor chez Royal Caribbean International, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-attractions-instructor-royal-caribbean-international-1134598",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-598be9dbad"
-  },
-  {
-    "id": "jf-7e777cbbca",
-    "titre": "Joiner Multi",
-    "entreprise": "United Infrastructure Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "engineer",
-      "digital nomad",
-      "design",
-      "customer support"
-    ],
-    "resume_neutre": "Joiner Multi chez United Infrastructure Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-joiner-multi-united-infrastructure-ltd-1134638",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-7e777cbbca"
-  },
-  {
-    "id": "jf-d65ec4988d",
-    "titre": "Events Manager",
-    "entreprise": "Lantern",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "coordinator",
-      "customer support",
-      "dev",
-      "mobile"
-    ],
-    "resume_neutre": "Events Manager chez Lantern, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-d65ec4988d"
   }
 ]
