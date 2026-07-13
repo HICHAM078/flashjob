@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-7440e4e153",
+    "titre": "Inbound Sales Closer",
+    "entreprise": "Express Chipping Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Salesforce",
+    "remote": true,
+    "competences": [
+      "salesforce",
+      "customer support",
+      "marketing",
+      "web dev",
+      "ads"
+    ],
+    "resume_neutre": "Inbound Sales Closer chez Express Chipping Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-inbound-sales-closer-express-chipping-inc-1134726",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-7440e4e153"
+  },
+  {
+    "id": "jf-2fb58a2238",
+    "titre": "English Language Expert",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "medical",
+      "education",
+      "testing",
+      "linguistics"
+    ],
+    "resume_neutre": "English Language Expert chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-english-language-expert-jobsinmass-com-1134756",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-2fb58a2238"
+  },
+  {
+    "id": "jf-f195fb29fc",
+    "titre": "Apply Here",
+    "entreprise": "Conquer AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Apply Here chez Conquer AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-apply-here-conquer-ai-1134722",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-f195fb29fc"
+  },
+  {
     "id": "jf-1e9d05dbe5",
     "titre": "HR Assistant",
     "entreprise": "RemoteVA",
@@ -5649,68 +5711,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-09",
     "ref_unique": "jf-6996f1d628"
-  },
-  {
-    "id": "jf-34576f3423",
-    "titre": "RESTAURANT JOBS",
-    "entreprise": "Boudin Bakery Cafe",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "RESTAURANT JOBS chez Boudin Bakery Cafe, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-restaurant-jobs-boudin-bakery-cafe-1134590",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-34576f3423"
-  },
-  {
-    "id": "jf-619447e84d",
-    "titre": "Social Media Manager",
-    "entreprise": "Digital",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "coordinator",
-      "customer support",
-      "dev",
-      "mobile"
-    ],
-    "resume_neutre": "Social Media Manager chez Digital, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-digital-1134621",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-619447e84d"
-  },
-  {
-    "id": "jf-580ea9104d",
-    "titre": "Architectural Drafter Designer",
-    "entreprise": "OnlineJobs.PH",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Architectural Drafter Designer chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-580ea9104d"
   }
 ]
