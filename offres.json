@@ -1,5 +1,256 @@
 [
   {
+    "id": "jf-1e9d05dbe5",
+    "titre": "HR Assistant",
+    "entreprise": "RemoteVA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "marketing",
+      "social media",
+      "non tech",
+      "hr"
+    ],
+    "resume_neutre": "HR Assistant chez RemoteVA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-1e9d05dbe5"
+  },
+  {
+    "id": "jf-49a603b0f7",
+    "titre": "Interface Designer",
+    "entreprise": "Grow the Roses",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Interface Designer chez Grow the Roses, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-49a603b0f7"
+  },
+  {
+    "id": "jf-c71752e492",
+    "titre": "General Applicant Position",
+    "entreprise": "Hunt Remotely",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "General Applicant Position chez Hunt Remotely, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-applicant-position-hunt-remotely-1134720",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-c71752e492"
+  },
+  {
+    "id": "jf-70eea00714",
+    "titre": "Healthcare Intake Coordinator Alberta",
+    "entreprise": "Carewell",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "social media",
+      "non tech",
+      "teaching",
+      "customer support"
+    ],
+    "resume_neutre": "Healthcare Intake Coordinator Alberta chez Carewell, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-healthcare-intake-coordinator-alberta-carewell-1134719",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-70eea00714"
+  },
+  {
+    "id": "jf-412fc7b7fe",
+    "titre": "Creative Strategist",
+    "entreprise": "JTS Growth",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "social media",
+      "non tech",
+      "teaching",
+      "customer support"
+    ],
+    "resume_neutre": "Creative Strategist chez JTS Growth, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-jts-growth-1134718",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-412fc7b7fe"
+  },
+  {
+    "id": "jf-62ecb159bb",
+    "titre": "Social Media Content Creator",
+    "entreprise": "Classet",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "social media",
+      "non tech"
+    ],
+    "resume_neutre": "Social Media Content Creator chez Classet, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-classet-1134716",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-62ecb159bb"
+  },
+  {
+    "id": "jf-1c8a07a56a",
+    "titre": "Video Editor Off Season",
+    "entreprise": "Atlanta Gladiators",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "music",
+      "game dev",
+      "dev",
+      "video"
+    ],
+    "resume_neutre": "Video Editor Off Season chez Atlanta Gladiators, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-off-season-atlanta-gladiators-1134734",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-1c8a07a56a"
+  },
+  {
+    "id": "jf-fab0d8d642",
+    "titre": "The Hiring Process",
+    "entreprise": "BFC Aerospace",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "digital nomad",
+      "testing"
+    ],
+    "resume_neutre": "The Hiring Process chez BFC Aerospace, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-the-hiring-process-bfc-aerospace-1134724",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-fab0d8d642"
+  },
+  {
+    "id": "jf-b5e6c92325",
+    "titre": "Online Language Tutors",
+    "entreprise": "Martin Language School",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "video",
+      "non tech",
+      "strategy",
+      "content writing"
+    ],
+    "resume_neutre": "Online Language Tutors chez Martin Language School, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-language-tutors-martin-language-school-1134715",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-b5e6c92325"
+  },
+  {
+    "id": "jf-20a1c7444c",
+    "titre": "Content Strategist",
+    "entreprise": "Content Forge",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "video",
+      "non tech",
+      "strategy",
+      "content writing"
+    ],
+    "resume_neutre": "Content Strategist chez Content Forge, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-strategist-content-forge-1134714",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-20a1c7444c"
+  },
+  {
+    "id": "jf-dda617814d",
+    "titre": "Podcast Video Editor",
+    "entreprise": "Hyprwork",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "video",
+      "non tech"
+    ],
+    "resume_neutre": "Podcast Video Editor chez Hyprwork, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-podcast-video-editor-hyprwork-1134713",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-dda617814d"
+  },
+  {
+    "id": "jf-c52721fa82",
+    "titre": "Graphic Designer",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer"
+    ],
+    "resume_neutre": "Graphic Designer chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-13",
+    "ref_unique": "jf-c52721fa82"
+  },
+  {
     "id": "jf-49cac32db7",
     "titre": "Heading",
     "entreprise": "UX/UI Design K7 Tech",
@@ -5461,261 +5712,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-09",
     "ref_unique": "jf-580ea9104d"
-  },
-  {
-    "id": "jf-78945950fa",
-    "titre": "Data Entry Specialist Assistant Administrator",
-    "entreprise": "ReLytics Hire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web3",
-    "remote": true,
-    "competences": [
-      "web3",
-      "crypto",
-      "blockchain",
-      "analyst",
-      "infosec"
-    ],
-    "resume_neutre": "Data Entry Specialist Assistant Administrator chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-relytics-hire-1134602",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-78945950fa"
-  },
-  {
-    "id": "jf-acffdc8115",
-    "titre": "Virtual Executive Assistant",
-    "entreprise": "ReLytics Hire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing",
-      "travel"
-    ],
-    "resume_neutre": "Virtual Executive Assistant chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-relytics-hire-1134588",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-acffdc8115"
-  },
-  {
-    "id": "jf-ad01b2af10",
-    "titre": "Customer Support",
-    "entreprise": "ReLytics Hire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web3",
-    "remote": true,
-    "competences": [
-      "web3",
-      "crypto",
-      "blockchain",
-      "analyst",
-      "infosec"
-    ],
-    "resume_neutre": "Customer Support chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-relytics-hire-1134600",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-ad01b2af10"
-  },
-  {
-    "id": "jf-e5d6dc1d35",
-    "titre": "Entry Level Administrative Assistant",
-    "entreprise": "ReLytics Hire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "exec",
-      "content writing"
-    ],
-    "resume_neutre": "Entry Level Administrative Assistant chez ReLytics Hire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hire-1134597",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-e5d6dc1d35"
-  },
-  {
-    "id": "jf-1981ad2960",
-    "titre": "Project Manager",
-    "entreprise": "Queensland Government",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "infosec",
-      "education",
-      "technical"
-    ],
-    "resume_neutre": "Project Manager chez Queensland Government, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-queensland-government-1134623",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-1981ad2960"
-  },
-  {
-    "id": "jf-2c5965b9d8",
-    "titre": "Data Entry Typist",
-    "entreprise": "Argus Medical Management, LLC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Data Entry Typist chez Argus Medical Management, LLC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-argus-medical-management-llc-1134579",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-2c5965b9d8"
-  },
-  {
-    "id": "jf-a2d43a46e7",
-    "titre": "RTW Driver",
-    "entreprise": "Parkland Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "supervisor",
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "RTW Driver chez Parkland Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-rtw-driver-parkland-corporation-1134587",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-a2d43a46e7"
-  },
-  {
-    "id": "jf-d51dc529ab",
-    "titre": "Asset Management Specialist Water Wastewater Treatment",
-    "entreprise": "Woodard &amp; Curran",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "customer support",
-      "marketing",
-      "design",
-      "travel"
-    ],
-    "resume_neutre": "Asset Management Specialist Water Wastewater Treatment chez Woodard &amp; Curran, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-asset-management-specialist-water-wastewater-treatment-woodard-amp-curran-1134569",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-d51dc529ab"
-  },
-  {
-    "id": "jf-05bb13c200",
-    "titre": "12 jobs that pay well without a degree",
-    "entreprise": "Unigo",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "12 jobs that pay well without a degree chez Unigo, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-unigo-1134605",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-05bb13c200"
-  },
-  {
-    "id": "jf-0eccfd8bfb",
-    "titre": "Social Media Manager TikTok and Founder",
-    "entreprise": "Once Upon a Farm",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Social Media Manager TikTok and Founder chez Once Upon a Farm, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-tiktok-and-founder-once-upon-a-farm-1134578",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-0eccfd8bfb"
-  },
-  {
-    "id": "jf-081cd563e8",
-    "titre": "Creative Strategist",
-    "entreprise": "Ramen Bae",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "education",
-      "strategy",
-      "customer support",
-      "copywriting"
-    ],
-    "resume_neutre": "Creative Strategist chez Ramen Bae, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-ramen-bae-1134585",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-081cd563e8"
-  },
-  {
-    "id": "jf-61479bb6cf",
-    "titre": "Assistente Financeiro",
-    "entreprise": "Sicoob",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "Assistente Financeiro chez Sicoob, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-financeiro-sicoob-1134592",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-61479bb6cf"
   }
 ]
