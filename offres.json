@@ -1,5 +1,218 @@
 [
   {
+    "id": "jf-acef04fcfc",
+    "titre": "HOH",
+    "entreprise": "Velvet Taco",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "marketing"
+    ],
+    "resume_neutre": "HOH chez Velvet Taco, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hoh-velvet-taco-1134782",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-acef04fcfc"
+  },
+  {
+    "id": "jf-6f0e8e8959",
+    "titre": "Hiring Operations Team Member BBG etc",
+    "entreprise": "BBG etc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Hiring Operations Team Member BBG etc chez BBG etc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hiring-operations-team-member-bbg-etc-bbg-etc-1134781",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-6f0e8e8959"
+  },
+  {
+    "id": "jf-ac2b3781f5",
+    "titre": "Client Success Manager NYC Fully",
+    "entreprise": "The Reed Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media",
+      "sys admin"
+    ],
+    "resume_neutre": "Client Success Manager NYC Fully chez The Reed Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-ac2b3781f5"
+  },
+  {
+    "id": "jf-c6ab2f1d47",
+    "titre": "Director of Social Media",
+    "entreprise": "TruHeight Vitamins",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media"
+    ],
+    "resume_neutre": "Director of Social Media chez TruHeight Vitamins, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-social-media-truheight-vitamins-1134775",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-c6ab2f1d47"
+  },
+  {
+    "id": "jf-74feb4b1c4",
+    "titre": "Instructional Operations Coordinator",
+    "entreprise": "MasteryPrep",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops"
+    ],
+    "resume_neutre": "Instructional Operations Coordinator chez MasteryPrep, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-instructional-operations-coordinator-masteryprep-1134774",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-74feb4b1c4"
+  },
+  {
+    "id": "jf-f81aa50a99",
+    "titre": "Pool Technician",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Controller",
+    "remote": true,
+    "competences": [
+      "controller",
+      "education",
+      "technical",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Pool Technician chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pool-technician-four-seasons-1134787",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-f81aa50a99"
+  },
+  {
+    "id": "jf-8cccde7124",
+    "titre": "Product Manager AI",
+    "entreprise": "YipitData",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "dev",
+      "finance",
+      "cloud"
+    ],
+    "resume_neutre": "Product Manager AI chez YipitData, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-8cccde7124"
+  },
+  {
+    "id": "jf-0f829bc33f",
+    "titre": "Podcaster and Content Creator Psychology Today",
+    "entreprise": "Psychology Today",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "architecture",
+      "technical"
+    ],
+    "resume_neutre": "Podcaster and Content Creator Psychology Today chez Psychology Today, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-podcaster-and-content-creator-psychology-today-psychology-today-1134808",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-0f829bc33f"
+  },
+  {
+    "id": "jf-de48a29f04",
+    "titre": "Procurement Officer",
+    "entreprise": "Gale's Agro Products",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "dev",
+      "exec",
+      "sales",
+      "digital nomad"
+    ],
+    "resume_neutre": "Procurement Officer chez Gale's Agro Products, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-procurement-officer-gales-agro-products-1134769",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-de48a29f04"
+  },
+  {
+    "id": "jf-a4f9fabeb1",
+    "titre": "Clases de Refuerzo Primaria Media Jornada",
+    "entreprise": "Tusclasesparticulares",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "ops",
+      "medical",
+      "writer"
+    ],
+    "resume_neutre": "Clases de Refuerzo Primaria Media Jornada chez Tusclasesparticulares, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tusclasesparticulares-1134792",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-a4f9fabeb1"
+  },
+  {
     "id": "jf-6d72f7f8cf",
     "titre": "Dental Nurse",
     "entreprise": "Torbay and South Devon NHS Foundation Trust",
@@ -5485,199 +5698,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-10",
     "ref_unique": "jf-00a925b65e"
-  },
-  {
-    "id": "jf-38345325ae",
-    "titre": "General Consideration",
-    "entreprise": "CertaSite",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "education",
-      "non tech"
-    ],
-    "resume_neutre": "General Consideration chez CertaSite, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-10",
-    "ref_unique": "jf-38345325ae"
-  },
-  {
-    "id": "jf-57a89a10bd",
-    "titre": "Firefighter ARFF",
-    "entreprise": "Adani Airport Holdings Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "dev",
-      "photoshop",
-      "digital nomad",
-      "education"
-    ],
-    "resume_neutre": "Firefighter ARFF chez Adani Airport Holdings Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-10",
-    "ref_unique": "jf-57a89a10bd"
-  },
-  {
-    "id": "jf-d567b66d7b",
-    "titre": "Junior Ecommerce Specialist",
-    "entreprise": "Haystack",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "hr",
-      "sys admin",
-      "infosec",
-      "teaching"
-    ],
-    "resume_neutre": "Junior Ecommerce Specialist chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-ecommerce-specialist-haystack-1134653",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-10",
-    "ref_unique": "jf-d567b66d7b"
-  },
-  {
-    "id": "jf-2baa0ad38a",
-    "titre": "Non USA",
-    "entreprise": "New Relic",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "dev",
-      "photoshop",
-      "digital nomad",
-      "education"
-    ],
-    "resume_neutre": "Non USA chez New Relic, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-10",
-    "ref_unique": "jf-2baa0ad38a"
-  },
-  {
-    "id": "ma-d4bab04cd9",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=41&relb=140&brelb=100&bscr=2156.014&scr=3018.4196",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-d4bab04cd9"
-  },
-  {
-    "id": "ma-c5d723ff2f",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=2&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=278&relb=110&brelb=110&bscr=2645.1086&scr=2645.1086",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-c5d723ff2f"
-  },
-  {
-    "id": "ma-3d4d17311c",
-    "titre": "Offre d’emploi - assistante commerciale en parapharmacie",
-    "entreprise": "Eparamarket.ma",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - assistante commerciale en parapharmacie chez Eparamarket.ma, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2069729328457087107?ckey=emploi&rgn=0&pos=3&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=110&relb=100&brelb=100&bscr=2573.3052&scr=2573.3052",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-3d4d17311c"
-  },
-  {
-    "id": "ma-d0534e22ae",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=4&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=110&relb=110&brelb=110&bscr=2547.9727&scr=2547.9727",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-d0534e22ae"
-  },
-  {
-    "id": "ma-d6c8e1de31",
-    "titre": "OFFRE D'EMPLOI : Expert SEO Senior",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D'EMPLOI : Expert SEO Senior chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1300044381084776844?ckey=emploi&rgn=0&pos=5&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=518&relb=110&brelb=110&bscr=2517.7778&scr=2517.7778",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-d6c8e1de31"
-  },
-  {
-    "id": "ma-daf69965b1",
-    "titre": "Offre d’Emploi -FES-Conseiller commercial Francophone",
-    "entreprise": "Cnexia",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi -FES-Conseiller commercial Francophone chez Cnexia, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9008340561313585535?ckey=emploi&rgn=0&pos=6&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=62&relb=110&brelb=110&bscr=2458.4214&scr=2458.4213999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-daf69965b1"
   }
 ]
