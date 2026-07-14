@@ -1,5 +1,42 @@
 [
   {
+    "id": "jf-b5be170f29",
+    "titre": "Business Analyst",
+    "entreprise": "InterEx Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst"
+    ],
+    "resume_neutre": "Business Analyst chez InterEx Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-analyst-interex-group-1134750",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-b5be170f29"
+  },
+  {
+    "id": "jf-d399026ffc",
+    "titre": "Executive Management",
+    "entreprise": "Netball America",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "exec"
+    ],
+    "resume_neutre": "Executive Management chez Netball America, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-management-netball-america-1134752",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-d399026ffc"
+  },
+  {
     "id": "jf-2ffd20e8f7",
     "titre": "Auxiliar Administrativo Comercial Remoto",
     "entreprise": "Empresa Confidencial",
@@ -5665,45 +5702,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-10",
     "ref_unique": "jf-8e87ec43b3"
-  },
-  {
-    "id": "jf-8078d5378d",
-    "titre": "Territory Sales Manager",
-    "entreprise": "CELSIUS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "coordinator",
-      "customer support",
-      "dev",
-      "mobile"
-    ],
-    "resume_neutre": "Territory Sales Manager chez CELSIUS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-territory-sales-manager-celsius-1134619",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-8078d5378d"
-  },
-  {
-    "id": "jf-2526fbc1c8",
-    "titre": "Â SUPERVISEUR 31 94",
-    "entreprise": "The Home Depot Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Â SUPERVISEUR 31 94 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-31-94-the-home-depot-canada-1134603",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-09",
-    "ref_unique": "jf-2526fbc1c8"
   }
 ]
