@@ -1,5 +1,84 @@
 [
   {
+    "id": "jf-6d72f7f8cf",
+    "titre": "Dental Nurse",
+    "entreprise": "Torbay and South Devon NHS Foundation Trust",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "ops",
+      "medical"
+    ],
+    "resume_neutre": "Dental Nurse chez Torbay and South Devon NHS Foundation Trust, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dental-nurse-torbay-and-south-devon-nhs-foundation-trust-1134789",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-6d72f7f8cf"
+  },
+  {
+    "id": "jf-8353c30d31",
+    "titre": "Ø§ÙØ¹ÙÙ ÙÙ Ø§ÙÙÙØ²Ù ÙÙ Ø§ÙØ±ÙÙØ§ 20 ÙØ¸ÙÙØ© Ø§ÙØ§ÙØ«Ø± Ø·ÙØ¨Ø",
+    "entreprise": "Q8YUSA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Ø§ÙØ¹ÙÙ ÙÙ Ø§ÙÙÙØ²Ù ÙÙ Ø§ÙØ±ÙÙØ§ 20 ÙØ¸ÙÙØ© Ø§ÙØ§ÙØ«Ø± Ø·ÙØ¨Ø chez Q8YUSA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-8353c30d31"
+  },
+  {
+    "id": "jf-07e9a73b7a",
+    "titre": "Data Analyst Excel",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media",
+      "sys admin"
+    ],
+    "resume_neutre": "Data Analyst Excel chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-07e9a73b7a"
+  },
+  {
+    "id": "jf-55192a3786",
+    "titre": "Clases de Refuerzo Primaria Media Jornada",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Clases de Refuerzo Primaria Media Jornada chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tus-media-1134788",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-14",
+    "ref_unique": "jf-55192a3786"
+  },
+  {
     "id": "ma-08160e6c88",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5600,77 +5679,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-10",
     "ref_unique": "ma-daf69965b1"
-  },
-  {
-    "id": "ma-cef39a6d52",
-    "titre": "offre d'emploi- téléconseiller(ère) B2Bexpérimenté(e)",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "offre d'emploi- téléconseiller(ère) B2Bexpérimenté(e) chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3771369231587340656?ckey=emploi&rgn=0&pos=7&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=62&relb=100&brelb=100&bscr=2457.4243&scr=2457.4243",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-cef39a6d52"
-  },
-  {
-    "id": "ma-aaacdbe42d",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=8&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=62&relb=100&brelb=100&bscr=2430.8782&scr=2430.8782",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-aaacdbe42d"
-  },
-  {
-    "id": "ma-3c960b2837",
-    "titre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : confirmatrice en énergies renouvelables ( FR ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6295522464577779105?ckey=emploi&rgn=0&pos=9&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=230&relb=110&brelb=110&bscr=2405.227&scr=2405.227",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-3c960b2837"
-  },
-  {
-    "id": "ma-472a63a750",
-    "titre": "OFFRE D’EMPLOI - RH Junior",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - RH Junior chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2368673667718332390?ckey=emploi&rgn=0&pos=10&elckey=2488833167063154455&p=1&aq=3817306460864886490&cid=20&jobAge=110&relb=100&brelb=100&bscr=2392.1548&scr=2392.1548",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-10",
-    "ref_unique": "ma-472a63a750"
   }
 ]
