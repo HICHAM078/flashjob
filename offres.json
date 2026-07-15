@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-e3a26bed8d",
+    "titre": "Senior Analyst Project Support",
+    "entreprise": "Cint",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "testing",
+      "english teacher",
+      "non tech",
+      "design"
+    ],
+    "resume_neutre": "Senior Analyst Project Support chez Cint, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-analyst-project-support-cint-1134818",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-e3a26bed8d"
+  },
+  {
+    "id": "jf-3d6a23c853",
+    "titre": "Equipment Technician",
+    "entreprise": "FAVIO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "marketing",
+      "finance",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Equipment Technician chez FAVIO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-equipment-technician-favio-1134827",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-3d6a23c853"
+  },
+  {
+    "id": "jf-c848d0c117",
+    "titre": "Handyperson",
+    "entreprise": "WMJobs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "speech",
+      "scheme",
+      "exec"
+    ],
+    "resume_neutre": "Handyperson chez WMJobs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyperson-wmjobs-1134835",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-c848d0c117"
+  },
+  {
+    "id": "jf-5a4e23baed",
+    "titre": "Motion Designer",
+    "entreprise": "Pragmatike",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "ops",
+      "medical",
+      "writer"
+    ],
+    "resume_neutre": "Motion Designer chez Pragmatike, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-5a4e23baed"
+  },
+  {
+    "id": "jf-6850119e8e",
+    "titre": "Junior Content Writer",
+    "entreprise": "SupportYourApp",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "ops",
+      "medical",
+      "writer"
+    ],
+    "resume_neutre": "Junior Content Writer chez SupportYourApp, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-6850119e8e"
+  },
+  {
+    "id": "jf-9d59630d31",
+    "titre": "Data Entry Clerk Data Entry Specialist",
+    "entreprise": "Burjline Builders",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "sys admin",
+      "architecture",
+      "technical"
+    ],
+    "resume_neutre": "Data Entry Clerk Data Entry Specialist chez Burjline Builders, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-data-entry-specialist-burjline-builders-1134805",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-15",
+    "ref_unique": "jf-9d59630d31"
+  },
+  {
     "id": "jf-7386c016d3",
     "titre": "Online Tutoring Jobs Teaching Vacancy",
     "entreprise": "GCE-ACADEMY",
@@ -5565,137 +5697,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-11",
     "ref_unique": "jf-10b2752465"
-  },
-  {
-    "id": "jf-44f497c1a2",
-    "titre": "Administrative Assistant Entry Level",
-    "entreprise": "Recruitlytixs Hirings",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Jira",
-    "remote": true,
-    "competences": [
-      "jira",
-      "hr",
-      "customer support",
-      "finance",
-      "cloud"
-    ],
-    "resume_neutre": "Administrative Assistant Entry Level chez Recruitlytixs Hirings, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruitlytixs-hirings-1134679",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-44f497c1a2"
-  },
-  {
-    "id": "jf-1091e0a5ee",
-    "titre": "Customer Support",
-    "entreprise": "Recruitlytixs Hirings",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Jira",
-    "remote": true,
-    "competences": [
-      "jira",
-      "hr",
-      "customer support",
-      "finance",
-      "cloud"
-    ],
-    "resume_neutre": "Customer Support chez Recruitlytixs Hirings, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytixs-hirings-1134678",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-1091e0a5ee"
-  },
-  {
-    "id": "jf-d545aef6b3",
-    "titre": "Weâre not hiring right now â but weâre growing fast",
-    "entreprise": "VENDED",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Ios",
-    "remote": true,
-    "competences": [
-      "ios",
-      "dev",
-      "web dev",
-      "api",
-      "sales"
-    ],
-    "resume_neutre": "Weâre not hiring right now â but weâre growing fast chez VENDED, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-were-not-hiring-right-now-but-were-growing-fast-vended-1134690",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-d545aef6b3"
-  },
-  {
-    "id": "jf-462db85a34",
-    "titre": "Australian English Voice Actor Adelaide",
-    "entreprise": "OpsArmy Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech",
-      "game dev",
-      "dev",
-      "video",
-      "content writing"
-    ],
-    "resume_neutre": "Australian English Voice Actor Adelaide chez OpsArmy Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-462db85a34"
-  },
-  {
-    "id": "jf-deca98b224",
-    "titre": "Senior Creative Designer Design Strategist",
-    "entreprise": "Digital",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web Dev",
-    "remote": true,
-    "competences": [
-      "web dev",
-      "design",
-      "consulting",
-      "designer",
-      "customer support"
-    ],
-    "resume_neutre": "Senior Creative Designer Design Strategist chez Digital, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-deca98b224"
-  },
-  {
-    "id": "jf-b941e9b2c5",
-    "titre": "Support Technician Level 1 2",
-    "entreprise": "Magic Memories",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "hr",
-      "sys admin",
-      "infosec",
-      "teaching"
-    ],
-    "resume_neutre": "Support Technician Level 1 2 chez Magic Memories, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-b941e9b2c5"
   }
 ]
