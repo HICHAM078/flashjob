@@ -1,5 +1,176 @@
 [
   {
+    "id": "jf-77e61a1b21",
+    "titre": "Servpro is Hiring",
+    "entreprise": "SERVPRO of Vacaville / Dixon",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech",
+      "ops",
+      "exec",
+      "full time"
+    ],
+    "resume_neutre": "Servpro is Hiring chez SERVPRO of Vacaville / Dixon, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-servpro-is-hiring-servpro-of-vacaville-dixon-1134854",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-77e61a1b21"
+  },
+  {
+    "id": "jf-70bc0b42ad",
+    "titre": "Operador de Portaria Remota Recife PE Vagas Profissionais",
+    "entreprise": "BuscarVagas - Empregos Brasil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "web dev",
+      "c"
+    ],
+    "resume_neutre": "Operador de Portaria Remota Recife PE Vagas Profissionais chez BuscarVagas - Empregos Brasil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-vagas-profissionais-buscarvagas-empregos-brasil-1134861",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-70bc0b42ad"
+  },
+  {
+    "id": "jf-3f5951377a",
+    "titre": "TEMPLATER",
+    "entreprise": "BC Stone, Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "TEMPLATER chez BC Stone, Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-templater-bc-stone-inc-1134891",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-3f5951377a"
+  },
+  {
+    "id": "jf-634399540a",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "Recruit Lytixs Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech",
+      "exec",
+      "content writing",
+      "sys admin",
+      "medical"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez Recruit Lytixs Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytixs-hires-1134865",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-634399540a"
+  },
+  {
+    "id": "jf-43dbab15c6",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Recruit Lytixs Hires",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Recruit Lytixs Hires, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytixs-hires-1134855",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-43dbab15c6"
+  },
+  {
+    "id": "jf-70f526c1b8",
+    "titre": "Business Development",
+    "entreprise": "Timo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hadoop",
+      "python",
+      "digital nomad",
+      "c"
+    ],
+    "resume_neutre": "Business Development chez Timo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-development-timo-1134909",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-70f526c1b8"
+  },
+  {
+    "id": "jf-ec9d3622a6",
+    "titre": "Assistant Controller",
+    "entreprise": "Treewalk",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "salesforce",
+      "infosec",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Assistant Controller chez Treewalk, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-controller-treewalk-1134904",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-ec9d3622a6"
+  },
+  {
+    "id": "jf-1d2399f0e9",
+    "titre": "Designer",
+    "entreprise": "Intelligent Change",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "salesforce",
+      "infosec",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Designer chez Intelligent Change, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-1d2399f0e9"
+  },
+  {
     "id": "jf-a5995a3728",
     "titre": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto",
     "entreprise": "Nibo",
@@ -5573,152 +5744,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-12",
     "ref_unique": "ma-4c04eb5c4d"
-  },
-  {
-    "id": "ma-6c25e0fcce",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=7&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=805&relb=100&brelb=100&bscr=2199.6335&scr=2199.6335",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-6c25e0fcce"
-  },
-  {
-    "id": "ma-45018056d4",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=8&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=7018&relb=100&brelb=100&bscr=2058.7908&scr=2058.7908",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-45018056d4"
-  },
-  {
-    "id": "ma-3480589713",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=9&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=7018&relb=100&brelb=100&bscr=1921.0203&scr=1921.0203",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-3480589713"
-  },
-  {
-    "id": "ma-b4eafad293",
-    "titre": "Technicien helpdesk",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien helpdesk chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6176137729780342220?ckey=informatique&rgn=0&pos=10&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=109&relb=110&brelb=110&bscr=293.1929&scr=293.1929",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-b4eafad293"
-  },
-  {
-    "id": "ma-a8d7ecd131",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=11&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=421&relb=110&brelb=110&bscr=280.8253&scr=280.8253",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-a8d7ecd131"
-  },
-  {
-    "id": "ma-088b8d3cb5",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=12&elckey=-5954240171113173460&p=1&aq=-1623928563717220326&cid=20&jobAge=61&relb=110&brelb=110&bscr=280.42517&scr=280.42517",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-12",
-    "ref_unique": "ma-088b8d3cb5"
-  },
-  {
-    "id": "jf-b9543ff503",
-    "titre": "Recepcionista Jr Bela Vista SP",
-    "entreprise": "Grupo Amil",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c"
-    ],
-    "resume_neutre": "Recepcionista Jr Bela Vista SP chez Grupo Amil, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-b9543ff503"
-  },
-  {
-    "id": "jf-1ba5015113",
-    "titre": "Brad Phillips",
-    "entreprise": "MILTON FIRE DEPARTMENT INC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad",
-      "full time",
-      "part time"
-    ],
-    "resume_neutre": "Brad Phillips chez MILTON FIRE DEPARTMENT INC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-1ba5015113"
   }
 ]
