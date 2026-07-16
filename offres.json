@@ -1,5 +1,178 @@
 [
   {
+    "id": "jf-4a14b93714",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "Zirtual",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "salesforce",
+      "infosec",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez Zirtual, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-zirtual-1134902",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-4a14b93714"
+  },
+  {
+    "id": "jf-c2b668ac5b",
+    "titre": "Project Coordinator",
+    "entreprise": "VeraSafe",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "hadoop",
+      "python",
+      "digital nomad",
+      "c"
+    ],
+    "resume_neutre": "Project Coordinator chez VeraSafe, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-coordinator-verasafe-1134911",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-c2b668ac5b"
+  },
+  {
+    "id": "jf-f729dcc397",
+    "titre": "Entry Level Crypto Market Specialist",
+    "entreprise": "APEX TRADE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "finance"
+    ],
+    "resume_neutre": "Entry Level Crypto Market Specialist chez APEX TRADE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-apex-trade-1134871",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-f729dcc397"
+  },
+  {
+    "id": "jf-e2afc17a25",
+    "titre": "Associate Director of Athlete Engagement",
+    "entreprise": "Axe Sports Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Associate Director of Athlete Engagement chez Axe Sports Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-director-of-athlete-engagement-axe-sports-group-1134901",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-e2afc17a25"
+  },
+  {
+    "id": "jf-c584461e49",
+    "titre": "Project Manager",
+    "entreprise": "Empire Life",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech",
+      "exec",
+      "content writing",
+      "sys admin",
+      "medical"
+    ],
+    "resume_neutre": "Project Manager chez Empire Life, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-empire-life-1134867",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-c584461e49"
+  },
+  {
+    "id": "jf-482c508e6a",
+    "titre": "Level Designer",
+    "entreprise": "Devoted Studios",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech",
+      "exec",
+      "content writing",
+      "sys admin",
+      "medical"
+    ],
+    "resume_neutre": "Level Designer chez Devoted Studios, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-level-designer-devoted-studios-1134863",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-482c508e6a"
+  },
+  {
+    "id": "jf-15054ce425",
+    "titre": "Field Marketing Manager",
+    "entreprise": "CELSIUS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Field Marketing Manager chez CELSIUS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-celsius-1134874",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-15054ce425"
+  },
+  {
+    "id": "jf-46eba00a5a",
+    "titre": "Trabaja como canguro Ayuda con los deberes",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Mobile",
+    "remote": true,
+    "competences": [
+      "mobile",
+      "engineer",
+      "exec",
+      "dev",
+      "junior"
+    ],
+    "resume_neutre": "Trabaja como canguro Ayuda con los deberes chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-46eba00a5a"
+  },
+  {
     "id": "jf-4b3840e960",
     "titre": "Product Director EdTech Digital Learning",
     "entreprise": "peopleworth",
@@ -5550,174 +5723,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-13",
     "ref_unique": "jf-1e9d05dbe5"
-  },
-  {
-    "id": "jf-49a603b0f7",
-    "titre": "Interface Designer",
-    "entreprise": "Grow the Roses",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "music",
-      "game dev",
-      "dev",
-      "video"
-    ],
-    "resume_neutre": "Interface Designer chez Grow the Roses, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-49a603b0f7"
-  },
-  {
-    "id": "jf-c71752e492",
-    "titre": "General Applicant Position",
-    "entreprise": "Hunt Remotely",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "General Applicant Position chez Hunt Remotely, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-general-applicant-position-hunt-remotely-1134720",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-c71752e492"
-  },
-  {
-    "id": "jf-70eea00714",
-    "titre": "Healthcare Intake Coordinator Alberta",
-    "entreprise": "Carewell",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Content Writing",
-    "remote": true,
-    "competences": [
-      "content writing",
-      "social media",
-      "non tech",
-      "teaching",
-      "customer support"
-    ],
-    "resume_neutre": "Healthcare Intake Coordinator Alberta chez Carewell, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-healthcare-intake-coordinator-alberta-carewell-1134719",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-70eea00714"
-  },
-  {
-    "id": "jf-412fc7b7fe",
-    "titre": "Creative Strategist",
-    "entreprise": "JTS Growth",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Content Writing",
-    "remote": true,
-    "competences": [
-      "content writing",
-      "social media",
-      "non tech",
-      "teaching",
-      "customer support"
-    ],
-    "resume_neutre": "Creative Strategist chez JTS Growth, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-jts-growth-1134718",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-412fc7b7fe"
-  },
-  {
-    "id": "jf-62ecb159bb",
-    "titre": "Social Media Content Creator",
-    "entreprise": "Classet",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Content Writing",
-    "remote": true,
-    "competences": [
-      "content writing",
-      "social media",
-      "non tech"
-    ],
-    "resume_neutre": "Social Media Content Creator chez Classet, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-classet-1134716",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-62ecb159bb"
-  },
-  {
-    "id": "jf-1c8a07a56a",
-    "titre": "Video Editor Off Season",
-    "entreprise": "Atlanta Gladiators",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "music",
-      "game dev",
-      "dev",
-      "video"
-    ],
-    "resume_neutre": "Video Editor Off Season chez Atlanta Gladiators, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-off-season-atlanta-gladiators-1134734",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-1c8a07a56a"
-  },
-  {
-    "id": "jf-fab0d8d642",
-    "titre": "The Hiring Process",
-    "entreprise": "BFC Aerospace",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "digital nomad",
-      "testing"
-    ],
-    "resume_neutre": "The Hiring Process chez BFC Aerospace, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-the-hiring-process-bfc-aerospace-1134724",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-fab0d8d642"
-  },
-  {
-    "id": "jf-b5e6c92325",
-    "titre": "Online Language Tutors",
-    "entreprise": "Martin Language School",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Designer",
-    "remote": true,
-    "competences": [
-      "designer",
-      "video",
-      "non tech",
-      "strategy",
-      "content writing"
-    ],
-    "resume_neutre": "Online Language Tutors chez Martin Language School, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-online-language-tutors-martin-language-school-1134715",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-b5e6c92325"
   }
 ]
