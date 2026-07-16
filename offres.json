@@ -1,5 +1,220 @@
 [
   {
+    "id": "jf-a5995a3728",
+    "titre": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto",
+    "entreprise": "Nibo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "front end",
+      "design",
+      "react",
+      "react.js"
+    ],
+    "resume_neutre": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto chez Nibo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-a5995a3728"
+  },
+  {
+    "id": "jf-f467002ba2",
+    "titre": "ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto",
+    "entreprise": "Empresa Confidencial",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-cadastro-controladoria-remoto-empresa-confidencial-1134836",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-f467002ba2"
+  },
+  {
+    "id": "jf-47d29342e1",
+    "titre": "Customer Support Agent",
+    "entreprise": "UMAEZ LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "sys admin",
+      "marketing",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Customer Support Agent chez UMAEZ LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-umaez-llc-1134825",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-47d29342e1"
+  },
+  {
+    "id": "jf-83d516615a",
+    "titre": "Medical Records and Health Information Manager",
+    "entreprise": "Backpack Healthcare",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "customer support",
+      "ops",
+      "legal"
+    ],
+    "resume_neutre": "Medical Records and Health Information Manager chez Backpack Healthcare, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-records-and-health-information-manager-backpack-healthcare-1134824",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-83d516615a"
+  },
+  {
+    "id": "jf-2a2e98188a",
+    "titre": "Licensed Mental Health Therapist",
+    "entreprise": "Backpack Healthcare",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "medical",
+      "part time",
+      "non tech"
+    ],
+    "resume_neutre": "Licensed Mental Health Therapist chez Backpack Healthcare, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-therapist-backpack-healthcare-1134823",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-2a2e98188a"
+  },
+  {
+    "id": "jf-46ed7292cd",
+    "titre": "Video Podcast Editor",
+    "entreprise": "Betches Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Video Podcast Editor chez Betches Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-podcast-editor-betches-media-1134873",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-46ed7292cd"
+  },
+  {
+    "id": "jf-0016f4aab3",
+    "titre": "Chief Growth Officer",
+    "entreprise": "Original Peptide",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Chief Growth Officer chez Original Peptide, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-growth-officer-original-peptide-1134878",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-0016f4aab3"
+  },
+  {
+    "id": "jf-62679e6272",
+    "titre": "Chain Account Manager",
+    "entreprise": "CELSIUS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Chain Account Manager chez CELSIUS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chain-account-manager-celsius-1134880",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-62679e6272"
+  },
+  {
+    "id": "jf-91109359f5",
+    "titre": "Junior Contact Center Agent",
+    "entreprise": "Volkswagen Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "non tech",
+      "product manager",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Junior Contact Center Agent chez Volkswagen Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-91109359f5"
+  },
+  {
+    "id": "jf-a5f0dc8808",
+    "titre": "Social Media Manager",
+    "entreprise": "aion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Social Media Manager chez aion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-aion-1134877",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-16",
+    "ref_unique": "jf-a5f0dc8808"
+  },
+  {
     "id": "jf-bb597e54f7",
     "titre": "Underwriter",
     "entreprise": "Coralisle Group Ltd.",
@@ -5505,199 +5720,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-12",
     "ref_unique": "jf-1ba5015113"
-  },
-  {
-    "id": "jf-ba7b23fccd",
-    "titre": "Driver",
-    "entreprise": "Urban Movers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Driver chez Urban Movers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-driver-urban-movers-1134721",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-ba7b23fccd"
-  },
-  {
-    "id": "jf-1e53e3217b",
-    "titre": "ACCOMMODATIONS",
-    "entreprise": "Khoja Khoji",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "digital nomad",
-      "testing",
-      "education",
-      "dev"
-    ],
-    "resume_neutre": "ACCOMMODATIONS chez Khoja Khoji, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-accommodations-khoja-khoji-1134725",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-1e53e3217b"
-  },
-  {
-    "id": "jf-2f43a7a967",
-    "titre": "You",
-    "entreprise": "DQC | Data Quality Company",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "You chez DQC | Data Quality Company, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-2f43a7a967"
-  },
-  {
-    "id": "jf-d1ff8848c3",
-    "titre": "DPS Employee II",
-    "entreprise": "Paw Paw Police Dept",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "DPS Employee II chez Paw Paw Police Dept, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-d1ff8848c3"
-  },
-  {
-    "id": "jf-c8bb160eca",
-    "titre": "Assistente de Gente e Cultura JÃºnior",
-    "entreprise": "JOYn Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "excel",
-      "non tech"
-    ],
-    "resume_neutre": "Assistente de Gente e Cultura JÃºnior chez JOYn Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-de-gente-e-cultura-junior-joyn-group-1134711",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-c8bb160eca"
-  },
-  {
-    "id": "jf-c8389e6758",
-    "titre": "Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio",
-    "entreprise": "Lojas Renner S.A.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio chez Lojas Renner S.A., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-atracao-e-selecao-temporario-lojas-renner-s-a-1134703",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-c8389e6758"
-  },
-  {
-    "id": "jf-ed6620d052",
-    "titre": "and Academic Specialist All Subjects",
-    "entreprise": "Sinica Education",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Content Writing",
-    "remote": true,
-    "competences": [
-      "content writing",
-      "social media",
-      "non tech",
-      "teaching",
-      "customer support"
-    ],
-    "resume_neutre": "and Academic Specialist All Subjects chez Sinica Education, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-and-academic-specialist-all-subjects-sinica-education-1134717",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-12",
-    "ref_unique": "jf-ed6620d052"
-  },
-  {
-    "id": "jf-30df5159b5",
-    "titre": "WAREHOUSE OFFICER",
-    "entreprise": "Nexilon Energy Systems Pvt. Ltd.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "WAREHOUSE OFFICER chez Nexilon Energy Systems Pvt. Ltd., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-nexilon-energy-systems-pvt-ltd-1134694",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-30df5159b5"
-  },
-  {
-    "id": "jf-b8152369a5",
-    "titre": "ASSISTENTE ADMINISTRATIVO BARUERI SP",
-    "entreprise": "SGS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "excel",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "ASSISTENTE ADMINISTRATIVO BARUERI SP chez SGS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-barueri-sp-sgs-1134705",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-b8152369a5"
-  },
-  {
-    "id": "jf-2b72e28435",
-    "titre": "Resume Inbox",
-    "entreprise": "Mark Thomas",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Resume Inbox chez Mark Thomas, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-resume-inbox-mark-thomas-1134682",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-11",
-    "ref_unique": "jf-2b72e28435"
   }
 ]
