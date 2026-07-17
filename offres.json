@@ -1,5 +1,215 @@
 [
   {
+    "id": "jf-f27d30eb1e",
+    "titre": "Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto",
+    "entreprise": "Los Portales",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "microsoft"
+    ],
+    "resume_neutre": "Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto chez Los Portales, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-inmobiliario-call-center-remoto-los-portales-1134942",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-f27d30eb1e"
+  },
+  {
+    "id": "jf-322cd66687",
+    "titre": "Open Position â Dauphine",
+    "entreprise": "Uptown Theatre for Creative Arts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "Open Position â Dauphine chez Uptown Theatre for Creative Arts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-open-position-dauphine-uptown-theatre-for-creative-arts-1134894",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-322cd66687"
+  },
+  {
+    "id": "jf-6c82c86911",
+    "titre": "Danny",
+    "entreprise": "Pinter",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Danny chez Pinter, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-danny-pinter-1134892",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-6c82c86911"
+  },
+  {
+    "id": "jf-1ab59d7bd0",
+    "titre": "Patient Scheduler II",
+    "entreprise": "Essentia Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Patient Scheduler II chez Essentia Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-ii-essentia-health-1134899",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-1ab59d7bd0"
+  },
+  {
+    "id": "jf-629315260b",
+    "titre": "Operations Administrator",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Copywriting",
+    "remote": true,
+    "competences": [
+      "copywriting",
+      "non tech",
+      "product manager",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Operations Administrator chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-administrator-work-force-nexus-1134885",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-629315260b"
+  },
+  {
+    "id": "jf-51d7c793b2",
+    "titre": "Medical Support Technician Scheduler Outpatient",
+    "entreprise": "Yukon-Kuskokwim Health Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Medical Support Technician Scheduler Outpatient chez Yukon-Kuskokwim Health Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-support-technician-scheduler-outpatient-yukon-kuskokwim-health-corporation-1134879",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-51d7c793b2"
+  },
+  {
+    "id": "jf-918dce7a1c",
+    "titre": "Purchase Order Administrator",
+    "entreprise": "Hirewell",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Purchase Order Administrator chez Hirewell, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-purchase-order-administrator-hirewell-1134876",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-918dce7a1c"
+  },
+  {
+    "id": "jf-024bcdb2c0",
+    "titre": "Creative Strategist",
+    "entreprise": "DREAMLABS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "Creative Strategist chez DREAMLABS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-dreamlabs-1134875",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-024bcdb2c0"
+  },
+  {
+    "id": "jf-e4f591519f",
+    "titre": "National Account Manager",
+    "entreprise": "Future Beauty Brands (formerly PPI Beauty)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "exec",
+      "web dev",
+      "video"
+    ],
+    "resume_neutre": "National Account Manager chez Future Beauty Brands (formerly PPI Beauty), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-national-account-manager-future-beauty-brands-formerly-ppi-beauty-1134881",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-e4f591519f"
+  },
+  {
+    "id": "jf-e377ed9ce1",
+    "titre": "Australian English Multimedia Voice Artist Perth",
+    "entreprise": "OpsArmy Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "quality assurance",
+      "junior",
+      "speech",
+      "technical"
+    ],
+    "resume_neutre": "Australian English Multimedia Voice Artist Perth chez OpsArmy Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-australian-english-multimedia-voice-artist-perth-opsarmy-careers-1134936",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-e377ed9ce1"
+  },
+  {
     "id": "jf-4a14b93714",
     "titre": "Virtual Executive Assistant",
     "entreprise": "Zirtual",
@@ -5531,197 +5741,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-13",
     "ref_unique": "ma-3aba61a73c"
-  },
-  {
-    "id": "ma-46614fe61a",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=7&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=830&relb=100&brelb=100&bscr=2155.473&scr=2155.473",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-46614fe61a"
-  },
-  {
-    "id": "ma-d4821ee14f",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=7043&relb=100&brelb=100&bscr=1944.3511&scr=1944.3511",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-d4821ee14f"
-  },
-  {
-    "id": "ma-67e38ecf62",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=9&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=38&relb=110&brelb=110&bscr=283.49295&scr=283.49295",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-67e38ecf62"
-  },
-  {
-    "id": "ma-25d7321cf3",
-    "titre": "Team-Leader",
-    "entreprise": "Consort Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Team-Leader chez Consort Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2294378550238924965?ckey=informatique&rgn=0&pos=10&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=374&relb=110&brelb=110&bscr=272.39404&scr=272.39404",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-25d7321cf3"
-  },
-  {
-    "id": "ma-25711cec6f",
-    "titre": "Magasinier",
-    "entreprise": "Duroc SA",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Magasinier chez Duroc SA, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/518763759654958731?ckey=informatique&rgn=0&pos=11&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=407&relb=100&brelb=100&bscr=271.9482&scr=271.9482",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-25711cec6f"
-  },
-  {
-    "id": "ma-ddd7b140df",
-    "titre": "Contrôleur de gestion H/F",
-    "entreprise": "Total Energies",
-    "ville": "Assahrij",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Contrôleur de gestion H/F chez Total Energies, a Assahrij. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6203595621458208075?ckey=informatique&rgn=0&pos=12&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=158&relb=100&brelb=100&bscr=270.23596&scr=270.23596",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-ddd7b140df"
-  },
-  {
-    "id": "jf-7440e4e153",
-    "titre": "Inbound Sales Closer",
-    "entreprise": "Express Chipping Inc",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Salesforce",
-    "remote": true,
-    "competences": [
-      "salesforce",
-      "customer support",
-      "marketing",
-      "web dev",
-      "ads"
-    ],
-    "resume_neutre": "Inbound Sales Closer chez Express Chipping Inc, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-inbound-sales-closer-express-chipping-inc-1134726",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-7440e4e153"
-  },
-  {
-    "id": "jf-2fb58a2238",
-    "titre": "English Language Expert",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "medical",
-      "education",
-      "testing",
-      "linguistics"
-    ],
-    "resume_neutre": "English Language Expert chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-english-language-expert-jobsinmass-com-1134756",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-2fb58a2238"
-  },
-  {
-    "id": "jf-f195fb29fc",
-    "titre": "Apply Here",
-    "entreprise": "Conquer AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Apply Here chez Conquer AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-apply-here-conquer-ai-1134722",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-f195fb29fc"
-  },
-  {
-    "id": "jf-1e9d05dbe5",
-    "titre": "HR Assistant",
-    "entreprise": "RemoteVA",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "marketing",
-      "social media",
-      "non tech",
-      "hr"
-    ],
-    "resume_neutre": "HR Assistant chez RemoteVA, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-1e9d05dbe5"
   }
 ]
