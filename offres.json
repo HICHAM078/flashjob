@@ -1,5 +1,275 @@
 [
   {
+    "id": "jf-1b96f2a78b",
+    "titre": "Merchandiser",
+    "entreprise": "Brydens Antigua",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "React",
+    "remote": true,
+    "competences": [
+      "react",
+      "customer support",
+      "math",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Merchandiser chez Brydens Antigua, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-merchandiser-brydens-antigua-1134949",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-1b96f2a78b"
+  },
+  {
+    "id": "jf-882e889372",
+    "titre": "Director Business Development Army",
+    "entreprise": "NOBLE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Director Business Development Army chez NOBLE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-business-development-army-noble-1134952",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-882e889372"
+  },
+  {
+    "id": "jf-82634084b7",
+    "titre": "Content & Digital Marketing Specialist",
+    "entreprise": "Outsource Access Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time",
+      "sales",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Content & Digital Marketing Specialist chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-82634084b7"
+  },
+  {
+    "id": "jf-76398050e1",
+    "titre": "Sales Development Representative",
+    "entreprise": "Outsource Access Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time",
+      "sales"
+    ],
+    "resume_neutre": "Sales Development Representative chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outsource-access-careers-1134931",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-76398050e1"
+  },
+  {
+    "id": "jf-3e1de15872",
+    "titre": "Administrative Assistant",
+    "entreprise": "Azurreo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time"
+    ],
+    "resume_neutre": "Administrative Assistant chez Azurreo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-azurreo-1134930",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-3e1de15872"
+  },
+  {
+    "id": "jf-80a231cef4",
+    "titre": "Graphic Designer",
+    "entreprise": "YouFibre",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Mobile",
+    "remote": true,
+    "competences": [
+      "mobile",
+      "engineer",
+      "exec",
+      "dev",
+      "junior"
+    ],
+    "resume_neutre": "Graphic Designer chez YouFibre, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-80a231cef4"
+  },
+  {
+    "id": "jf-da0f312da7",
+    "titre": "Python Developer",
+    "entreprise": "YO IT Consulting",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Mobile",
+    "remote": true,
+    "competences": [
+      "mobile",
+      "engineer",
+      "exec",
+      "dev",
+      "junior"
+    ],
+    "resume_neutre": "Python Developer chez YO IT Consulting, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-da0f312da7"
+  },
+  {
+    "id": "jf-a006f80fd0",
+    "titre": "Junior Software Engineer",
+    "entreprise": "Lockwood Publishing Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Mobile",
+    "remote": true,
+    "competences": [
+      "mobile",
+      "engineer",
+      "exec",
+      "dev",
+      "junior"
+    ],
+    "resume_neutre": "Junior Software Engineer chez Lockwood Publishing Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-lockwood-publishing-ltd-1134921",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-a006f80fd0"
+  },
+  {
+    "id": "jf-7fbe18221c",
+    "titre": "Engineers",
+    "entreprise": "Lockwood Publishing Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Mobile",
+    "remote": true,
+    "competences": [
+      "mobile",
+      "engineer"
+    ],
+    "resume_neutre": "Engineers chez Lockwood Publishing Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineers-lockwood-publishing-ltd-1134919",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-7fbe18221c"
+  },
+  {
+    "id": "jf-57d815754a",
+    "titre": "CHANGE THE WORLD",
+    "entreprise": "VDS INNOVATION",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "CHANGE THE WORLD chez VDS INNOVATION, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-change-the-world-vds-innovation-1134966",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-57d815754a"
+  },
+  {
+    "id": "jf-b6c5404996",
+    "titre": "QA",
+    "entreprise": "VDS INNOVATION",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance"
+    ],
+    "resume_neutre": "QA chez VDS INNOVATION, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-qa-vds-innovation-1134968",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-b6c5404996"
+  },
+  {
+    "id": "jf-1765ac800a",
+    "titre": "Founder Residence",
+    "entreprise": "Saff",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Founder Residence chez Saff, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-founder-residence-saff-1134956",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-1765ac800a"
+  },
+  {
+    "id": "jf-cf4eef3479",
+    "titre": "Public Health Practitioner",
+    "entreprise": "Public Health Wales",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "exec",
+      "travel",
+      "finance",
+      "medical"
+    ],
+    "resume_neutre": "Public Health Practitioner chez Public Health Wales, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-health-practitioner-public-health-wales-1134978",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-cf4eef3479"
+  },
+  {
     "id": "jf-75d089b962",
     "titre": "Exuma Operator",
     "entreprise": "Seven Seas Water Group",
@@ -5484,261 +5754,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-14",
     "ref_unique": "ma-b8e46068dc"
-  },
-  {
-    "id": "ma-924a40862f",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=7&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=7066&relb=100&brelb=100&bscr=2097.3604&scr=2097.3604",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-924a40862f"
-  },
-  {
-    "id": "ma-d1f42ff4c7",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=7066&relb=100&brelb=100&bscr=1953.3783&scr=1953.3783",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-d1f42ff4c7"
-  },
-  {
-    "id": "ma-2bc3673d05",
-    "titre": "Technicien helpdesk",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien helpdesk chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6176137729780342220?ckey=informatique&rgn=0&pos=9&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=157&relb=110&brelb=110&bscr=292.84506&scr=292.84506",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-2bc3673d05"
-  },
-  {
-    "id": "ma-086cb751d0",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=10&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=37&relb=110&brelb=110&bscr=280.12466&scr=280.12466",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-086cb751d0"
-  },
-  {
-    "id": "ma-5575508f27",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=11&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=469&relb=110&brelb=110&bscr=279.27432&scr=279.27432",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-5575508f27"
-  },
-  {
-    "id": "ma-c3771c9f26",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=12&elckey=-8956229851815479834&p=1&aq=3317547790959676292&cid=20&jobAge=37&relb=110&brelb=110&bscr=278.8365&scr=278.8365",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-c3771c9f26"
-  },
-  {
-    "id": "jf-bd399476f8",
-    "titre": "Metro",
-    "entreprise": "JARMANI LIMITED",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Metro chez JARMANI LIMITED, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-metro-jarmani-limited-1134798",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-bd399476f8"
-  },
-  {
-    "id": "jf-87c8138c63",
-    "titre": "Data Analyst Healthcare",
-    "entreprise": "City of Hope",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "data science",
-      "medical"
-    ],
-    "resume_neutre": "Data Analyst Healthcare chez City of Hope, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-87c8138c63"
-  },
-  {
-    "id": "jf-84f4d2529a",
-    "titre": "Virtual Executive Assistant",
-    "entreprise": "ReLytics Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing",
-      "travel"
-    ],
-    "resume_neutre": "Virtual Executive Assistant chez ReLytics Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-relytics-hires-1134768",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-84f4d2529a"
-  },
-  {
-    "id": "jf-1850f2bda3",
-    "titre": "Administrative Data Entry File Clerk",
-    "entreprise": "ReLytics Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing",
-      "video"
-    ],
-    "resume_neutre": "Administrative Data Entry File Clerk chez ReLytics Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-relytics-hires-1134761",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-1850f2bda3"
-  },
-  {
-    "id": "jf-fe56cdf864",
-    "titre": "Entry Level Administrative Assistant",
-    "entreprise": "ReLytics Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing",
-      "video"
-    ],
-    "resume_neutre": "Entry Level Administrative Assistant chez ReLytics Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hires-1134760",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-fe56cdf864"
-  },
-  {
-    "id": "jf-95cae8e0d2",
-    "titre": "Data Entry Specialist Assistant Administrator",
-    "entreprise": "ReLytics Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "teaching",
-      "education",
-      "math",
-      "digital nomad"
-    ],
-    "resume_neutre": "Data Entry Specialist Assistant Administrator chez ReLytics Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-relytics-hires-1134772",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-95cae8e0d2"
-  },
-  {
-    "id": "jf-90f8b6cb60",
-    "titre": "Customer Service Chat Representative",
-    "entreprise": "CareStream Advisory Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "medical",
-      "education",
-      "testing",
-      "linguistics"
-    ],
-    "resume_neutre": "Customer Service Chat Representative chez CareStream Advisory Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-chat-representative-carestream-advisory-group-1134757",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-90f8b6cb60"
   }
 ]
