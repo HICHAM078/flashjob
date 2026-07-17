@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-9415941a1e",
+    "titre": "HR Assistant",
+    "entreprise": "Sundayy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "HR Assistant chez Sundayy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-9415941a1e"
+  },
+  {
+    "id": "jf-1dee95b626",
+    "titre": "Create Your Own Role",
+    "entreprise": "NewsletterJobs.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Crypto",
+    "remote": true,
+    "competences": [
+      "crypto",
+      "dev",
+      "cloud",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Create Your Own Role chez NewsletterJobs.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-1dee95b626"
+  },
+  {
+    "id": "jf-34ba8977a3",
+    "titre": "Publisher",
+    "entreprise": "NewsletterJobs.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Crypto",
+    "remote": true,
+    "competences": [
+      "crypto",
+      "dev",
+      "cloud",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Publisher chez NewsletterJobs.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-34ba8977a3"
+  },
+  {
+    "id": "jf-2a3c422e51",
+    "titre": "COURIER",
+    "entreprise": "Doctors Hospital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "React",
+    "remote": true,
+    "competences": [
+      "react",
+      "customer support",
+      "math",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "COURIER chez Doctors Hospital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-2a3c422e51"
+  },
+  {
+    "id": "jf-e878a836e5",
+    "titre": "Associate Customer Engagement",
+    "entreprise": "The Coca-Cola Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Associate Customer Engagement chez The Coca-Cola Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-e878a836e5"
+  },
+  {
     "id": "jf-f27d30eb1e",
     "titre": "Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto",
     "entreprise": "Los Portales",
@@ -5651,95 +5761,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-13",
     "ref_unique": "ma-a4a360030c"
-  },
-  {
-    "id": "ma-9980d6ca96",
-    "titre": "TECHNICIEN INFORMATIQUE",
-    "entreprise": "Safran",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TECHNICIEN INFORMATIQUE chez Safran, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8862398438207041193?ckey=informatique&rgn=0&pos=2&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=3206&relb=100&brelb=100&bscr=2470.9946&scr=2470.9946",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-9980d6ca96"
-  },
-  {
-    "id": "ma-06dab5a6e7",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=3&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=518&relb=100&brelb=100&bscr=2470.3425&scr=2470.3425",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-06dab5a6e7"
-  },
-  {
-    "id": "ma-f9b16aa330",
-    "titre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3767854952027910593?ckey=informatique&rgn=0&pos=4&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=470&relb=110&brelb=110&bscr=2344.654&scr=2344.654",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-f9b16aa330"
-  },
-  {
-    "id": "ma-d87675b8d5",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=7043&relb=100&brelb=100&bscr=2187.1394&scr=2187.1394",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-d87675b8d5"
-  },
-  {
-    "id": "ma-3aba61a73c",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=924226144520736064&p=1&aq=-1540075596724139793&cid=20&jobAge=7043&relb=100&brelb=100&bscr=2156.7336&scr=2156.7336",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-13",
-    "ref_unique": "ma-3aba61a73c"
   }
 ]
