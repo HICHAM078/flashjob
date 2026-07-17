@@ -1,5 +1,155 @@
 [
   {
+    "id": "jf-75d089b962",
+    "titre": "Exuma Operator",
+    "entreprise": "Seven Seas Water Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "React",
+    "remote": true,
+    "competences": [
+      "react",
+      "customer support",
+      "math",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Exuma Operator chez Seven Seas Water Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-exuma-operator-seven-seas-water-group-1134950",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-75d089b962"
+  },
+  {
+    "id": "jf-dc86364fd3",
+    "titre": "Museum Specialist",
+    "entreprise": "Smithsonian Institution",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Museum Specialist chez Smithsonian Institution, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-dc86364fd3"
+  },
+  {
+    "id": "jf-38ae9037fd",
+    "titre": "Date Posted",
+    "entreprise": "OptN Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "amazon",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Date Posted chez OptN Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-38ae9037fd"
+  },
+  {
+    "id": "jf-70f8d0a9f5",
+    "titre": "Virtual Assistant",
+    "entreprise": "Somewhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "junior",
+      "virtual assistant",
+      "sys admin",
+      "customer support"
+    ],
+    "resume_neutre": "Virtual Assistant chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-somewhere-1134914",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-70f8d0a9f5"
+  },
+  {
+    "id": "jf-c7c7900fda",
+    "titre": "Junior Power BI Analyst",
+    "entreprise": "StatusNeo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "junior"
+    ],
+    "resume_neutre": "Junior Power BI Analyst chez StatusNeo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-power-bi-analyst-statusneo-1134912",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-c7c7900fda"
+  },
+  {
+    "id": "jf-426c271156",
+    "titre": "Zentix Software",
+    "entreprise": "SuperbCompanies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance",
+      "sys admin",
+      "exec",
+      "sales",
+      "education"
+    ],
+    "resume_neutre": "Zentix Software chez SuperbCompanies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-zentix-software-superbcompanies-1134971",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-426c271156"
+  },
+  {
+    "id": "jf-23002dfbb5",
+    "titre": "Supbot",
+    "entreprise": "SuperbCompanies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance",
+      "sys admin",
+      "exec",
+      "sales"
+    ],
+    "resume_neutre": "Supbot chez SuperbCompanies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supbot-superbcompanies-1134969",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-17",
+    "ref_unique": "jf-23002dfbb5"
+  },
+  {
     "id": "ma-669611253e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5590,145 +5740,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-14",
     "ref_unique": "jf-90f8b6cb60"
-  },
-  {
-    "id": "jf-caf539925a",
-    "titre": "Data Entry Clerk",
-    "entreprise": "RemoteHunter",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "medical"
-    ],
-    "resume_neutre": "Data Entry Clerk chez RemoteHunter, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-remotehunter-1134755",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-caf539925a"
-  },
-  {
-    "id": "jf-4dc0eebde5",
-    "titre": "Customer Support",
-    "entreprise": "ReLytics Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "vfx",
-      "designer",
-      "technical",
-      "education"
-    ],
-    "resume_neutre": "Customer Support chez ReLytics Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-relytics-hires-1134767",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-4dc0eebde5"
-  },
-  {
-    "id": "jf-b5be170f29",
-    "titre": "Business Analyst",
-    "entreprise": "InterEx Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst"
-    ],
-    "resume_neutre": "Business Analyst chez InterEx Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-business-analyst-interex-group-1134750",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-b5be170f29"
-  },
-  {
-    "id": "jf-d399026ffc",
-    "titre": "Executive Management",
-    "entreprise": "Netball America",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "exec"
-    ],
-    "resume_neutre": "Executive Management chez Netball America, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-management-netball-america-1134752",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-14",
-    "ref_unique": "jf-d399026ffc"
-  },
-  {
-    "id": "jf-2ffd20e8f7",
-    "titre": "Auxiliar Administrativo Comercial Remoto",
-    "entreprise": "Empresa Confidencial",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Auxiliar Administrativo Comercial Remoto chez Empresa Confidencial, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-comercial-remoto-empresa-confidencial-1134744",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-2ffd20e8f7"
-  },
-  {
-    "id": "jf-ba1617194f",
-    "titre": "The Role",
-    "entreprise": "Artefacts / Asteria ART",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "strategy",
-      "customer support",
-      "testing",
-      "content writing"
-    ],
-    "resume_neutre": "The Role chez Artefacts / Asteria ART, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-the-role-artefacts-asteria-art-1134748",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-ba1617194f"
-  },
-  {
-    "id": "jf-9c1ec33b5f",
-    "titre": "Customer Service Chat Representative",
-    "entreprise": "Orchestrate Consulting Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "music",
-      "game dev",
-      "dev",
-      "video"
-    ],
-    "resume_neutre": "Customer Service Chat Representative chez Orchestrate Consulting Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-chat-representative-orchestrate-consulting-group-1134737",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-13",
-    "ref_unique": "jf-9c1ec33b5f"
   }
 ]
