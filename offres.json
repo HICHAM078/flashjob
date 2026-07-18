@@ -1,5 +1,59 @@
 [
   {
+    "id": "jf-24b2ca1a15",
+    "titre": "$67200 $86400 Annually jobs",
+    "entreprise": "Supawork.ai",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "$67200 $86400 Annually jobs chez Supawork.ai, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-67200-86400-annually-jobs-supawork-ai-1134981",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-24b2ca1a15"
+  },
+  {
+    "id": "jf-de363373d5",
+    "titre": "Adelaide",
+    "entreprise": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Adelaide chez Dobinsons Spring &amp; Suspension - Middle East &amp; Africa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-adelaide-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134958",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-de363373d5"
+  },
+  {
+    "id": "jf-6927480540",
+    "titre": "Sydney",
+    "entreprise": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Sydney chez Dobinsons Spring &amp; Suspension - Middle East &amp; Africa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sydney-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134959",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-6927480540"
+  },
+  {
     "id": "jf-8ee5db02f1",
     "titre": "Admin &amp; Operation English Speaker",
     "entreprise": "KitaLulus",
@@ -5742,59 +5796,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-14",
     "ref_unique": "ma-88ea5c106d"
-  },
-  {
-    "id": "ma-04eaae86e4",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=2&elckey=-2461964916888112634&p=1&aq=4544524033346317133&cid=20&jobAge=325&relb=110&brelb=110&bscr=1735.7643&scr=1735.7643",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-04eaae86e4"
-  },
-  {
-    "id": "ma-49eda42b61",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=3&elckey=-2461964916888112634&p=1&aq=4544524033346317133&cid=20&jobAge=469&relb=110&brelb=110&bscr=1603.4532&scr=1603.4532",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-49eda42b61"
-  },
-  {
-    "id": "ma-7c6ee4926e",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4758315232309467945?ckey=commercial&rgn=938&pos=4&elckey=-2461964916888112634&p=1&aq=4544524033346317133&cid=20&jobAge=301&relb=110&brelb=110&bscr=1595.1282&scr=1595.1282",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-14",
-    "ref_unique": "ma-7c6ee4926e"
   }
 ]
