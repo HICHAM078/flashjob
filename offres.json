@@ -1,5 +1,187 @@
 [
   {
+    "id": "jf-547097c731",
+    "titre": "Parks Services",
+    "entreprise": "FinditinCW",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "design",
+      "hr",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Parks Services chez FinditinCW, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-547097c731"
+  },
+  {
+    "id": "jf-f5637a9154",
+    "titre": "Season 25 26",
+    "entreprise": "RecMan.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Season 25 26 chez RecMan.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-season-25-26-recman-io-1134967",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-f5637a9154"
+  },
+  {
+    "id": "jf-5c067274b3",
+    "titre": "Administrativo A Planificador A",
+    "entreprise": "IGLUBIT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "Administrativo A Planificador A chez IGLUBIT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrativo-a-planificador-a-iglubit-1134973",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-5c067274b3"
+  },
+  {
+    "id": "jf-21d29855a9",
+    "titre": "Desk Operator",
+    "entreprise": "Hyatt Regency",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance",
+      "sys admin",
+      "exec",
+      "sales",
+      "education"
+    ],
+    "resume_neutre": "Desk Operator chez Hyatt Regency, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-desk-operator-hyatt-regency-1134970",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-21d29855a9"
+  },
+  {
+    "id": "jf-54af526ca7",
+    "titre": "Senior Product Manager Platform",
+    "entreprise": "Delinea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "infosec"
+    ],
+    "resume_neutre": "Senior Product Manager Platform chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-54af526ca7"
+  },
+  {
+    "id": "jf-51b3942a4f",
+    "titre": "Management Accountant Dayshift",
+    "entreprise": "D2B",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "customer support",
+      "payroll",
+      "finance",
+      "php"
+    ],
+    "resume_neutre": "Management Accountant Dayshift chez D2B, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-management-accountant-dayshift-d2b-1134960",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-51b3942a4f"
+  },
+  {
+    "id": "jf-f92bd58a33",
+    "titre": "Digital Media Specialist",
+    "entreprise": "Rose, Klein &amp; Marias",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Part Time",
+    "remote": true,
+    "competences": [
+      "part time",
+      "hr",
+      "medical",
+      "exec",
+      "design"
+    ],
+    "resume_neutre": "Digital Media Specialist chez Rose, Klein &amp; Marias, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-f92bd58a33"
+  },
+  {
+    "id": "jf-d0b1138359",
+    "titre": "Linemarker",
+    "entreprise": "Intersectional Linemarkers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "Linemarker chez Intersectional Linemarkers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-linemarker-intersectional-linemarkers-1135022",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-d0b1138359"
+  },
+  {
+    "id": "jf-f35d0ef569",
+    "titre": "I am a Professional",
+    "entreprise": "Boustead Property Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "I am a Professional chez Boustead Property Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-18",
+    "ref_unique": "jf-f35d0ef569"
+  },
+  {
     "id": "ma-8780fdcee6",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5544,191 +5726,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-15",
     "ref_unique": "ma-14ad3a439b"
-  },
-  {
-    "id": "ma-83a0cb382d",
-    "titre": "Commerciaux francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6972081568966477206?ckey=informatique&rgn=0&pos=10&elckey=9134760305901285648&p=1&aq=4985086749592975825&cid=20&jobAge=37&relb=110&brelb=110&bscr=283.74844&scr=283.74844",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-83a0cb382d"
-  },
-  {
-    "id": "ma-4fe94a6a15",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=11&elckey=9134760305901285648&p=1&aq=4985086749592975825&cid=20&jobAge=493&relb=110&brelb=110&bscr=283.5443&scr=283.5443",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-4fe94a6a15"
-  },
-  {
-    "id": "ma-c778b39183",
-    "titre": "Magasinier",
-    "entreprise": "Duroc SA",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Magasinier chez Duroc SA, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/518763759654958731?ckey=informatique&rgn=0&pos=12&elckey=9134760305901285648&p=1&aq=4985086749592975825&cid=20&jobAge=453&relb=100&brelb=100&bscr=273.56778&scr=273.56778",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-c778b39183"
-  },
-  {
-    "id": "jf-e3a26bed8d",
-    "titre": "Senior Analyst Project Support",
-    "entreprise": "Cint",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "testing",
-      "english teacher",
-      "non tech",
-      "design"
-    ],
-    "resume_neutre": "Senior Analyst Project Support chez Cint, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-analyst-project-support-cint-1134818",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-e3a26bed8d"
-  },
-  {
-    "id": "jf-3d6a23c853",
-    "titre": "Equipment Technician",
-    "entreprise": "FAVIO",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "marketing",
-      "finance",
-      "microsoft",
-      "exec"
-    ],
-    "resume_neutre": "Equipment Technician chez FAVIO, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-equipment-technician-favio-1134827",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-3d6a23c853"
-  },
-  {
-    "id": "jf-c848d0c117",
-    "titre": "Handyperson",
-    "entreprise": "WMJobs",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "speech",
-      "scheme",
-      "exec"
-    ],
-    "resume_neutre": "Handyperson chez WMJobs, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyperson-wmjobs-1134835",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-c848d0c117"
-  },
-  {
-    "id": "jf-5a4e23baed",
-    "titre": "Motion Designer",
-    "entreprise": "Pragmatike",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "exec",
-      "ops",
-      "medical",
-      "writer"
-    ],
-    "resume_neutre": "Motion Designer chez Pragmatike, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-5a4e23baed"
-  },
-  {
-    "id": "jf-6850119e8e",
-    "titre": "Junior Content Writer",
-    "entreprise": "SupportYourApp",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "exec",
-      "ops",
-      "medical",
-      "writer"
-    ],
-    "resume_neutre": "Junior Content Writer chez SupportYourApp, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-6850119e8e"
-  },
-  {
-    "id": "jf-9d59630d31",
-    "titre": "Data Entry Clerk Data Entry Specialist",
-    "entreprise": "Burjline Builders",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "sys admin",
-      "architecture",
-      "technical"
-    ],
-    "resume_neutre": "Data Entry Clerk Data Entry Specialist chez Burjline Builders, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-data-entry-specialist-burjline-builders-1134805",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-15",
-    "ref_unique": "jf-9d59630d31"
   }
 ]
