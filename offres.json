@@ -1,5 +1,135 @@
 [
   {
+    "id": "jf-d16fb70efb",
+    "titre": "React Native Engineer",
+    "entreprise": "HelpBnk",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "react native",
+      "mobile",
+      "iOS",
+      "android"
+    ],
+    "resume_neutre": "React Native Engineer chez HelpBnk, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-d16fb70efb"
+  },
+  {
+    "id": "jf-8bef5ce5b4",
+    "titre": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
+    "entreprise": "BuscarVagas - Empregos Brasil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Microsoft",
+    "remote": true,
+    "competences": [
+      "microsoft",
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Operador de Portaria Remota Recife PE Profissionais Solicitados chez BuscarVagas - Empregos Brasil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-8bef5ce5b4"
+  },
+  {
+    "id": "jf-bba04ae1b9",
+    "titre": "Designer",
+    "entreprise": "RideTEGO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "technical",
+      "designer",
+      "testing"
+    ],
+    "resume_neutre": "Designer chez RideTEGO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-bba04ae1b9"
+  },
+  {
+    "id": "jf-db5249e6e0",
+    "titre": "HR Generalist",
+    "entreprise": "RG&amp;T Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "HR Generalist chez RG&amp;T Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-generalist-rgampt-solutions-1135043",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-db5249e6e0"
+  },
+  {
+    "id": "jf-829b57b0a7",
+    "titre": "Patient Scheduler",
+    "entreprise": "ARStrat",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "supervisor",
+      "customer support",
+      "testing",
+      "finance"
+    ],
+    "resume_neutre": "Patient Scheduler chez ARStrat, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-829b57b0a7"
+  },
+  {
+    "id": "jf-e834efba46",
+    "titre": "Contribute Building a Secure Nation",
+    "entreprise": "Adani Skills &amp; Education",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech",
+      "infosec",
+      "education",
+      "content writing"
+    ],
+    "resume_neutre": "Contribute Building a Secure Nation chez Adani Skills &amp; Education, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-contribute-building-a-secure-nation-adani-skills-amp-education-1135010",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-e834efba46"
+  },
+  {
     "id": "jf-b7c0983ec0",
     "titre": "Asistente Administrativo",
     "entreprise": "Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -",
@@ -5683,113 +5813,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-15",
     "ref_unique": "ma-3b9f94dc5b"
-  },
-  {
-    "id": "ma-889b1e4a10",
-    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2384401503584252338?ckey=comptable&rgn=946&pos=7&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=301&relb=100&brelb=100&bscr=2067.7554&scr=2067.7554",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-889b1e4a10"
-  },
-  {
-    "id": "ma-ea4da9e0f5",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=8&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=565&relb=100&brelb=100&bscr=2042.4417&scr=2042.4417",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-ea4da9e0f5"
-  },
-  {
-    "id": "ma-643c39cf4a",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=9&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=397&relb=100&brelb=100&bscr=2028.4789&scr=2028.4789",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-643c39cf4a"
-  },
-  {
-    "id": "ma-5a56375a49",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=10&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=610&relb=100&brelb=100&bscr=2003.3387&scr=2003.3387",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-5a56375a49"
-  },
-  {
-    "id": "ma-1296df3811",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=11&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=709&relb=100&brelb=100&bscr=1987.4562&scr=1987.4561999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-1296df3811"
-  },
-  {
-    "id": "ma-3b63e842f5",
-    "titre": "Comptable Confirmé (H/F) - Dar Bouazza",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé (H/F) - Dar Bouazza chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6406051316603948897?ckey=comptable&rgn=946&pos=12&elckey=853224810428682049&p=1&aq=-2995990257666689035&cid=20&jobAge=565&relb=100&brelb=100&bscr=1969.7219&scr=1969.7219",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-3b63e842f5"
   }
 ]
