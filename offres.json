@@ -1,5 +1,111 @@
 [
   {
+    "id": "jf-b7c0983ec0",
+    "titre": "Asistente Administrativo",
+    "entreprise": "Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Microsoft",
+    "remote": true,
+    "competences": [
+      "microsoft",
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Asistente Administrativo chez Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-asistente-administrativo-blanco-silva-consultoria-informatica-bsci-1135036",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-b7c0983ec0"
+  },
+  {
+    "id": "jf-c2ed7d38ac",
+    "titre": "UGC Creator",
+    "entreprise": "ren",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "supervisor",
+      "customer support",
+      "testing",
+      "finance"
+    ],
+    "resume_neutre": "UGC Creator chez ren, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-c2ed7d38ac"
+  },
+  {
+    "id": "jf-a60d4a145d",
+    "titre": "Yacht Cleaner",
+    "entreprise": "Travelopia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "exec",
+      "ruby",
+      "ops",
+      "excel"
+    ],
+    "resume_neutre": "Yacht Cleaner chez Travelopia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-yacht-cleaner-travelopia-1135004",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-a60d4a145d"
+  },
+  {
+    "id": "jf-88014215ea",
+    "titre": "Addetto a Customer Service",
+    "entreprise": "CasinÃ² Lugano SA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "microsoft",
+      "full time"
+    ],
+    "resume_neutre": "Addetto a Customer Service chez CasinÃ² Lugano SA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-addetto-a-customer-service-casino-lugano-sa-1135023",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-88014215ea"
+  },
+  {
+    "id": "jf-5d3498ce6c",
+    "titre": "Care Specialist",
+    "entreprise": "Empathy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "speech",
+      "finance"
+    ],
+    "resume_neutre": "Care Specialist chez Empathy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-care-specialist-empathy-1134999",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-5d3498ce6c"
+  },
+  {
     "id": "jf-8ce5ddc5a1",
     "titre": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
     "entreprise": "Orchestrate Consulting Group",
@@ -5685,95 +5791,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-15",
     "ref_unique": "ma-3b63e842f5"
-  },
-  {
-    "id": "ma-5bdfc929fc",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=1&elckey=-2817718832880898768&p=1&aq=1631188194136733088&cid=20&jobAge=349&relb=110&brelb=110&bscr=1761.0248&scr=1761.0248",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-5bdfc929fc"
-  },
-  {
-    "id": "ma-0f96131c0b",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=2&elckey=-2817718832880898768&p=1&aq=1631188194136733088&cid=20&jobAge=493&relb=110&brelb=110&bscr=1625.3632&scr=1625.3632",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-0f96131c0b"
-  },
-  {
-    "id": "ma-4389757b7f",
-    "titre": "COMMERCIAL EN ASSURANCE PRO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE PRO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8812168837364054785?ckey=commercial&rgn=938&pos=3&elckey=-2817718832880898768&p=1&aq=1631188194136733088&cid=20&jobAge=637&relb=110&brelb=110&bscr=1597.0083&scr=1597.0083",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-4389757b7f"
-  },
-  {
-    "id": "ma-39416ef159",
-    "titre": "Commercial Sédentaire B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Sédentaire B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8785473977155328145?ckey=commercial&rgn=938&pos=4&elckey=-2817718832880898768&p=1&aq=1631188194136733088&cid=20&jobAge=61&relb=110&brelb=110&bscr=1576.0542&scr=1576.0542",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-39416ef159"
-  },
-  {
-    "id": "ma-e81262182f",
-    "titre": "Conseiller commercial en rétention FR | rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en rétention FR | rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1625531243564721589?ckey=commercial&rgn=938&pos=5&elckey=-2817718832880898768&p=1&aq=1631188194136733088&cid=20&jobAge=85&relb=110&brelb=110&bscr=1553.1526&scr=1553.1526",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-15",
-    "ref_unique": "ma-e81262182f"
   }
 ]
