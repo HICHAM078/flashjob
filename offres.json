@@ -1,5 +1,143 @@
 [
   {
+    "id": "jf-22b9d97cd7",
+    "titre": "Placement Officer",
+    "entreprise": "Grey Sim Learnings Foundation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "technical",
+      "designer",
+      "testing"
+    ],
+    "resume_neutre": "Placement Officer chez Grey Sim Learnings Foundation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-placement-officer-grey-sim-learnings-foundation-1135032",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-22b9d97cd7"
+  },
+  {
+    "id": "jf-9fde64100d",
+    "titre": "Job Summary",
+    "entreprise": "LOTHIAN BUSES LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Job Summary chez LOTHIAN BUSES LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-summary-lothian-buses-limited-1135017",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-9fde64100d"
+  },
+  {
+    "id": "jf-2c951bc380",
+    "titre": "Technical Specialist",
+    "entreprise": "PeopleLink Collaboration Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "technical"
+    ],
+    "resume_neutre": "Technical Specialist chez PeopleLink Collaboration Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-specialist-peoplelink-collaboration-inc-1135029",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-2c951bc380"
+  },
+  {
+    "id": "jf-0bd04cddc8",
+    "titre": "Presentation Designer",
+    "entreprise": "INFUSE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "microsoft",
+      "full time",
+      "marketing",
+      "sales"
+    ],
+    "resume_neutre": "Presentation Designer chez INFUSE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-0bd04cddc8"
+  },
+  {
+    "id": "jf-bf1adea260",
+    "titre": "Expression Of Interest",
+    "entreprise": "White Peak Digital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Expression Of Interest chez White Peak Digital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-bf1adea260"
+  },
+  {
+    "id": "jf-18e3113596",
+    "titre": "Plumber",
+    "entreprise": "Accor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Plumber chez Accor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-plumber-accor-1135047",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-18e3113596"
+  },
+  {
+    "id": "jf-a7bd6c54c4",
+    "titre": "Fire Dispatcher",
+    "entreprise": "City of Campbell River",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "engineer"
+    ],
+    "resume_neutre": "Fire Dispatcher chez City of Campbell River, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-a7bd6c54c4"
+  },
+  {
     "id": "ma-76e85de454",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5570,142 +5708,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-16",
     "ref_unique": "ma-54200e8942"
-  },
-  {
-    "id": "ma-51239be41f",
-    "titre": "Commerciaux francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6972081568966477206?ckey=informatique&rgn=0&pos=10&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=37&relb=110&brelb=110&bscr=284.9094&scr=284.9094",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-51239be41f"
-  },
-  {
-    "id": "ma-02d90ccb37",
-    "titre": "Commerciaux francophones- Besoin immédiat!!!",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones- Besoin immédiat!!! chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8561732358528275182?ckey=informatique&rgn=0&pos=11&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=181&relb=110&brelb=110&bscr=279.6745&scr=279.6745",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-02d90ccb37"
-  },
-  {
-    "id": "ma-ae4f5aabd5",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=12&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=517&relb=110&brelb=110&bscr=279.58606&scr=279.58606",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-ae4f5aabd5"
-  },
-  {
-    "id": "jf-77e61a1b21",
-    "titre": "Servpro is Hiring",
-    "entreprise": "SERVPRO of Vacaville / Dixon",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "non tech",
-      "ops",
-      "exec",
-      "full time"
-    ],
-    "resume_neutre": "Servpro is Hiring chez SERVPRO of Vacaville / Dixon, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-servpro-is-hiring-servpro-of-vacaville-dixon-1134854",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-16",
-    "ref_unique": "jf-77e61a1b21"
-  },
-  {
-    "id": "jf-70bc0b42ad",
-    "titre": "Operador de Portaria Remota Recife PE Vagas Profissionais",
-    "entreprise": "BuscarVagas - Empregos Brasil",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "web dev",
-      "c"
-    ],
-    "resume_neutre": "Operador de Portaria Remota Recife PE Vagas Profissionais chez BuscarVagas - Empregos Brasil, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-vagas-profissionais-buscarvagas-empregos-brasil-1134861",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-16",
-    "ref_unique": "jf-70bc0b42ad"
-  },
-  {
-    "id": "jf-3f5951377a",
-    "titre": "TEMPLATER",
-    "entreprise": "BC Stone, Inc",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "digital nomad"
-    ],
-    "resume_neutre": "TEMPLATER chez BC Stone, Inc, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-templater-bc-stone-inc-1134891",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-16",
-    "ref_unique": "jf-3f5951377a"
-  },
-  {
-    "id": "jf-634399540a",
-    "titre": "Virtual Executive Assistant",
-    "entreprise": "Recruit Lytixs Hires",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech",
-      "exec",
-      "content writing",
-      "sys admin",
-      "medical"
-    ],
-    "resume_neutre": "Virtual Executive Assistant chez Recruit Lytixs Hires, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytixs-hires-1134865",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-16",
-    "ref_unique": "jf-634399540a"
   }
 ]
