@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-0e2717bc36",
+    "titre": "Administrative Specialist",
+    "entreprise": "Dade Medical College-Hialeah",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "travel",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Administrative Specialist chez Dade Medical College-Hialeah, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-specialist-dade-medical-college-hialeah-1135042",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-0e2717bc36"
+  },
+  {
+    "id": "jf-763d379ae8",
+    "titre": "OJALA",
+    "entreprise": "Flash Free Lancer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "OJALA chez Flash Free Lancer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ojala-flash-free-lancer-1135035",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-19",
+    "ref_unique": "jf-763d379ae8"
+  },
+  {
     "id": "jf-22b9d97cd7",
     "titre": "Placement Officer",
     "entreprise": "Grey Sim Learnings Foundation",
@@ -5672,41 +5712,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-16",
     "ref_unique": "ma-5f0eac6365"
-  },
-  {
-    "id": "ma-ec4b014f57",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=7114&relb=100&brelb=100&bscr=1938.7917&scr=1938.7917000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-ec4b014f57"
-  },
-  {
-    "id": "ma-54200e8942",
-    "titre": "Technicien helpdesk",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien helpdesk chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6176137729780342220?ckey=informatique&rgn=0&pos=9&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=205&relb=110&brelb=110&bscr=294.37708&scr=294.37708",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-54200e8942"
   }
 ]
