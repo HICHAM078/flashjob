@@ -1,5 +1,154 @@
 [
   {
+    "id": "jf-e91a228402",
+    "titre": "Data Entry Assistant",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Data Entry Assistant chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-e91a228402"
+  },
+  {
+    "id": "jf-c35ec36cf2",
+    "titre": "Entry Level Data Entry Clerk Admin",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Entry Level Data Entry Clerk Admin chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-c35ec36cf2"
+  },
+  {
+    "id": "jf-fc2f6df321",
+    "titre": "Virtual Data Entry Clerk",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Virtual Data Entry Clerk chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-clerk-jobsinmass-com-1135074",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-fc2f6df321"
+  },
+  {
+    "id": "jf-f732ca55a4",
+    "titre": "Entry Level Data Entry Clerk",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Entry Level Data Entry Clerk chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-f732ca55a4"
+  },
+  {
+    "id": "jf-8f08bdc13f",
+    "titre": "Data Entry Typist",
+    "entreprise": "JobsInMass.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Data Entry Typist chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-jobsinmass-com-1135070",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-8f08bdc13f"
+  },
+  {
+    "id": "jf-9e905b26e6",
+    "titre": "Pitch us a role",
+    "entreprise": "Alloy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "cloud",
+      "digital nomad"
+    ],
+    "resume_neutre": "Pitch us a role chez Alloy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-9e905b26e6"
+  },
+  {
+    "id": "jf-f4b4a452e6",
+    "titre": "SU Administrative Assistant",
+    "entreprise": "Somewhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "full time"
+    ],
+    "resume_neutre": "SU Administrative Assistant chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-su-administrative-assistant-somewhere-1135041",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-f4b4a452e6"
+  },
+  {
     "id": "jf-f69f01b889",
     "titre": "Details",
     "entreprise": "Majer Unternehmens-Gruppe",
@@ -5594,131 +5743,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-16",
     "ref_unique": "ma-932fd138f6"
-  },
-  {
-    "id": "ma-9f4f4c322f",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6210424515802183615?ckey=commercial&rgn=938&pos=9&elckey=4904658363622723853&p=1&aq=8756526578043388382&cid=20&jobAge=37&relb=110&brelb=110&bscr=1492.0026&scr=1492.0026",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-9f4f4c322f"
-  },
-  {
-    "id": "ma-80689c8698",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=4904658363622723853&p=1&aq=8756526578043388382&cid=20&jobAge=37&relb=110&brelb=110&bscr=1461.0706&scr=1461.0706",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-80689c8698"
-  },
-  {
-    "id": "ma-acfa538edf",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=11&elckey=4904658363622723853&p=1&aq=8756526578043388382&cid=20&jobAge=13&relb=110&brelb=110&bscr=1456.7344&scr=1456.7344",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-acfa538edf"
-  },
-  {
-    "id": "ma-a81cc48d69",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-196497125328522850?ckey=commercial&rgn=938&pos=12&elckey=4904658363622723853&p=1&aq=8756526578043388382&cid=20&jobAge=565&relb=110&brelb=110&bscr=1439.1022&scr=1439.1022",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-a81cc48d69"
-  },
-  {
-    "id": "ma-9fd2fa7499",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=514&relb=100&brelb=100&bscr=3074.598&scr=3074.598",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-9fd2fa7499"
-  },
-  {
-    "id": "ma-d01b1b8e1c",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=2&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=589&relb=100&brelb=100&bscr=2467.5808&scr=2467.5808",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-d01b1b8e1c"
-  },
-  {
-    "id": "ma-9d6d55fed0",
-    "titre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9172551299843894699?ckey=informatique&rgn=0&pos=3&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=517&relb=110&brelb=110&bscr=2369.004&scr=2369.004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-9d6d55fed0"
   }
 ]
