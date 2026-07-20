@@ -1,5 +1,85 @@
 [
   {
+    "id": "jf-f69f01b889",
+    "titre": "Details",
+    "entreprise": "Majer Unternehmens-Gruppe",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Details chez Majer Unternehmens-Gruppe, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-details-majer-unternehmens-gruppe-1135040",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-f69f01b889"
+  },
+  {
+    "id": "jf-b52ed8adfc",
+    "titre": "Graphic Designer",
+    "entreprise": "DOSED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "game dev",
+      "designer",
+      "content writing",
+      "photoshop"
+    ],
+    "resume_neutre": "Graphic Designer chez DOSED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-b52ed8adfc"
+  },
+  {
+    "id": "jf-b25ce716a5",
+    "titre": "Shafqat",
+    "entreprise": "HireTalentt",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Shafqat chez HireTalentt, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-shafqat-hiretalentt-1135048",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-b25ce716a5"
+  },
+  {
+    "id": "jf-25f720c0ac",
+    "titre": "MANUFACTURING POSITIONS",
+    "entreprise": "Allied Packaging Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "legal",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "MANUFACTURING POSITIONS chez Allied Packaging Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manufacturing-positions-allied-packaging-corporation-1135065",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-25f720c0ac"
+  },
+  {
     "id": "jf-0e2717bc36",
     "titre": "Administrative Specialist",
     "entreprise": "Dade Medical College-Hialeah",
@@ -5640,77 +5720,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-16",
     "ref_unique": "ma-9d6d55fed0"
-  },
-  {
-    "id": "ma-7d778e2718",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=7114&relb=100&brelb=100&bscr=2177.6433&scr=2177.6433",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-7d778e2718"
-  },
-  {
-    "id": "ma-db7736f33f",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=5&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=397&relb=110&brelb=110&bscr=2146.7512&scr=2146.7512",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-db7736f33f"
-  },
-  {
-    "id": "ma-57e1c18100",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=6&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=373&relb=100&brelb=100&bscr=2141.5552&scr=2141.5552",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-57e1c18100"
-  },
-  {
-    "id": "ma-5f0eac6365",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=7&elckey=-1589606571304643347&p=1&aq=8879040376812391143&cid=20&jobAge=7114&relb=100&brelb=100&bscr=2107.1196&scr=2107.1196",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-16",
-    "ref_unique": "ma-5f0eac6365"
   }
 ]
