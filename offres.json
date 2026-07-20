@@ -1,5 +1,44 @@
 [
   {
+    "id": "jf-64d1d45614",
+    "titre": "Safety Investigation Specialist II",
+    "entreprise": "Uber",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "legal",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "Safety Investigation Specialist II chez Uber, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-safety-investigation-specialist-ii-uber-1135064",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-64d1d45614"
+  },
+  {
+    "id": "jf-46c8bc60e4",
+    "titre": "Consultor Comercial",
+    "entreprise": "Kodland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Consultor Comercial chez Kodland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-consultor-comercial-kodland-1135054",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-20",
+    "ref_unique": "jf-46c8bc60e4"
+  },
+  {
     "id": "ma-b79625b53d",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5660,49 +5699,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-17",
     "ref_unique": "jf-024bcdb2c0"
-  },
-  {
-    "id": "jf-e4f591519f",
-    "titre": "National Account Manager",
-    "entreprise": "Future Beauty Brands (formerly PPI Beauty)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "marketing",
-      "exec",
-      "web dev",
-      "video"
-    ],
-    "resume_neutre": "National Account Manager chez Future Beauty Brands (formerly PPI Beauty), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-national-account-manager-future-beauty-brands-formerly-ppi-beauty-1134881",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-e4f591519f"
-  },
-  {
-    "id": "jf-e377ed9ce1",
-    "titre": "Australian English Multimedia Voice Artist Perth",
-    "entreprise": "OpsArmy Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "quality assurance",
-      "junior",
-      "speech",
-      "technical"
-    ],
-    "resume_neutre": "Australian English Multimedia Voice Artist Perth chez OpsArmy Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-australian-english-multimedia-voice-artist-perth-opsarmy-careers-1134936",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-e377ed9ce1"
   }
 ]
