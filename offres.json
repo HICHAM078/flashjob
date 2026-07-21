@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-b3c0dd8a1b",
+    "titre": "Designer",
+    "entreprise": "Simon and Schuster Books",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "designer",
+      "adult",
+      "exec"
+    ],
+    "resume_neutre": "Designer chez Simon and Schuster Books, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-b3c0dd8a1b"
+  },
+  {
+    "id": "jf-dfe4491c0c",
+    "titre": "Test ABC",
+    "entreprise": "Expeditors",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "testing"
+    ],
+    "resume_neutre": "Test ABC chez Expeditors, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-abc-expeditors-1135138",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-dfe4491c0c"
+  },
+  {
+    "id": "jf-b423625811",
+    "titre": "Freenow",
+    "entreprise": "Mr Pape",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "testing"
+    ],
+    "resume_neutre": "Freenow chez Mr Pape, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-b423625811"
+  },
+  {
+    "id": "jf-7fd9564082",
+    "titre": "KFC",
+    "entreprise": "Mr Pape",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "testing"
+    ],
+    "resume_neutre": "KFC chez Mr Pape, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-kfc-mr-pape-1135139",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-7fd9564082"
+  },
+  {
     "id": "ma-b945f987f5",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5595,93 +5683,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-17",
     "ref_unique": "jf-cf4eef3479"
-  },
-  {
-    "id": "jf-75d089b962",
-    "titre": "Exuma Operator",
-    "entreprise": "Seven Seas Water Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "React",
-    "remote": true,
-    "competences": [
-      "react",
-      "customer support",
-      "math",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "Exuma Operator chez Seven Seas Water Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-exuma-operator-seven-seas-water-group-1134950",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-75d089b962"
-  },
-  {
-    "id": "jf-dc86364fd3",
-    "titre": "Museum Specialist",
-    "entreprise": "Smithsonian Institution",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Museum Specialist chez Smithsonian Institution, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-dc86364fd3"
-  },
-  {
-    "id": "jf-38ae9037fd",
-    "titre": "Date Posted",
-    "entreprise": "OptN Inc",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Date Posted chez OptN Inc, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-38ae9037fd"
-  },
-  {
-    "id": "jf-70f8d0a9f5",
-    "titre": "Virtual Assistant",
-    "entreprise": "Somewhere",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "junior",
-      "virtual assistant",
-      "sys admin",
-      "customer support"
-    ],
-    "resume_neutre": "Virtual Assistant chez Somewhere, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-somewhere-1134914",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-70f8d0a9f5"
   }
 ]
