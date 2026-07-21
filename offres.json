@@ -1,5 +1,240 @@
 [
   {
+    "id": "jf-1052c66b4b",
+    "titre": "Freelance Video Editer",
+    "entreprise": "Control Shift Video",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "video",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Freelance Video Editer chez Control Shift Video, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-video-editer-control-shift-video-1135128",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-1052c66b4b"
+  },
+  {
+    "id": "jf-9b814ca87d",
+    "titre": "Freelance Illustrator",
+    "entreprise": "Control Shift Video",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "designer",
+      "adult",
+      "exec"
+    ],
+    "resume_neutre": "Freelance Illustrator chez Control Shift Video, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-illustrator-control-shift-video-1135110",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-9b814ca87d"
+  },
+  {
+    "id": "jf-a14984e1fa",
+    "titre": "Programa de EstÃ¡gio Banco B3",
+    "entreprise": "Universia Brasil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Programa de EstÃ¡gio Banco B3 chez Universia Brasil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-banco-b3-universia-brasil-1135125",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-a14984e1fa"
+  },
+  {
+    "id": "jf-3e92fd9b96",
+    "titre": "Logistics & Supply Chain Management Expert",
+    "entreprise": "YO HR Consultancy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "consulting",
+      "exec"
+    ],
+    "resume_neutre": "Logistics & Supply Chain Management Expert chez YO HR Consultancy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-3e92fd9b96"
+  },
+  {
+    "id": "jf-f84156044c",
+    "titre": "General Labour",
+    "entreprise": "Aecon Group Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "General Labour chez Aecon Group Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-labour-aecon-group-inc-1135105",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-f84156044c"
+  },
+  {
+    "id": "jf-2d01e6412c",
+    "titre": "Storekeeper",
+    "entreprise": "Aecon Group Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "exec",
+      "ops",
+      "supervisor"
+    ],
+    "resume_neutre": "Storekeeper chez Aecon Group Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-storekeeper-aecon-group-inc-1135106",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-2d01e6412c"
+  },
+  {
+    "id": "jf-5d71d8a6a0",
+    "titre": "Finance &amp; HR Specialist",
+    "entreprise": "TechHuman",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "designer",
+      "adult",
+      "exec"
+    ],
+    "resume_neutre": "Finance &amp; HR Specialist chez TechHuman, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-finance-amp-hr-specialist-techhuman-1135108",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-5d71d8a6a0"
+  },
+  {
+    "id": "jf-933293682d",
+    "titre": "Social Media Content Creator",
+    "entreprise": "Hic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "dev",
+      "digital nomad",
+      "part time"
+    ],
+    "resume_neutre": "Social Media Content Creator chez Hic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-hic-1135116",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-933293682d"
+  },
+  {
+    "id": "jf-c892d429d2",
+    "titre": "Don't see an open position you'd like fill",
+    "entreprise": "DBOS, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python",
+      "java",
+      "postgres",
+      "typescript",
+      "golang"
+    ],
+    "resume_neutre": "Don't see an open position you'd like fill chez DBOS, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-c892d429d2"
+  },
+  {
+    "id": "jf-d268930420",
+    "titre": "Head of Marketing Fragrance &amp; Beauty",
+    "entreprise": "CHANEL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Head of Marketing Fragrance &amp; Beauty chez CHANEL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-marketing-fragrance-amp-beauty-chanel-1135134",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-d268930420"
+  },
+  {
+    "id": "jf-dd1912812a",
+    "titre": "Docente Doctor a Online en InvestigaciÃ³n Educativa",
+    "entreprise": "Universidad Europea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "dev",
+      "digital nomad",
+      "part time"
+    ],
+    "resume_neutre": "Docente Doctor a Online en InvestigaciÃ³n Educativa chez Universidad Europea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-docente-doctor-a-online-en-investigacion-educativa-universidad-europea-1135114",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-21",
+    "ref_unique": "jf-dd1912812a"
+  },
+  {
     "id": "jf-b3c0dd8a1b",
     "titre": "Designer",
     "entreprise": "Simon and Schuster Books",
@@ -5457,231 +5692,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-17",
     "ref_unique": "jf-882e889372"
-  },
-  {
-    "id": "jf-82634084b7",
-    "titre": "Content & Digital Marketing Specialist",
-    "entreprise": "Outsource Access Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "full time",
-      "sales",
-      "content writing",
-      "marketing"
-    ],
-    "resume_neutre": "Content & Digital Marketing Specialist chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-82634084b7"
-  },
-  {
-    "id": "jf-76398050e1",
-    "titre": "Sales Development Representative",
-    "entreprise": "Outsource Access Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "full time",
-      "sales"
-    ],
-    "resume_neutre": "Sales Development Representative chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outsource-access-careers-1134931",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-76398050e1"
-  },
-  {
-    "id": "jf-3e1de15872",
-    "titre": "Administrative Assistant",
-    "entreprise": "Azurreo",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "full time"
-    ],
-    "resume_neutre": "Administrative Assistant chez Azurreo, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-azurreo-1134930",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-3e1de15872"
-  },
-  {
-    "id": "jf-80a231cef4",
-    "titre": "Graphic Designer",
-    "entreprise": "YouFibre",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Mobile",
-    "remote": true,
-    "competences": [
-      "mobile",
-      "engineer",
-      "exec",
-      "dev",
-      "junior"
-    ],
-    "resume_neutre": "Graphic Designer chez YouFibre, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-80a231cef4"
-  },
-  {
-    "id": "jf-da0f312da7",
-    "titre": "Python Developer",
-    "entreprise": "YO IT Consulting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Mobile",
-    "remote": true,
-    "competences": [
-      "mobile",
-      "engineer",
-      "exec",
-      "dev",
-      "junior"
-    ],
-    "resume_neutre": "Python Developer chez YO IT Consulting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-da0f312da7"
-  },
-  {
-    "id": "jf-a006f80fd0",
-    "titre": "Junior Software Engineer",
-    "entreprise": "Lockwood Publishing Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Mobile",
-    "remote": true,
-    "competences": [
-      "mobile",
-      "engineer",
-      "exec",
-      "dev",
-      "junior"
-    ],
-    "resume_neutre": "Junior Software Engineer chez Lockwood Publishing Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-lockwood-publishing-ltd-1134921",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-a006f80fd0"
-  },
-  {
-    "id": "jf-7fbe18221c",
-    "titre": "Engineers",
-    "entreprise": "Lockwood Publishing Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Mobile",
-    "remote": true,
-    "competences": [
-      "mobile",
-      "engineer"
-    ],
-    "resume_neutre": "Engineers chez Lockwood Publishing Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-engineers-lockwood-publishing-ltd-1134919",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-7fbe18221c"
-  },
-  {
-    "id": "jf-57d815754a",
-    "titre": "CHANGE THE WORLD",
-    "entreprise": "VDS INNOVATION",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "CHANGE THE WORLD chez VDS INNOVATION, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-change-the-world-vds-innovation-1134966",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-57d815754a"
-  },
-  {
-    "id": "jf-b6c5404996",
-    "titre": "QA",
-    "entreprise": "VDS INNOVATION",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Quality Assurance",
-    "remote": true,
-    "competences": [
-      "quality assurance"
-    ],
-    "resume_neutre": "QA chez VDS INNOVATION, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-qa-vds-innovation-1134968",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-b6c5404996"
-  },
-  {
-    "id": "jf-1765ac800a",
-    "titre": "Founder Residence",
-    "entreprise": "Saff",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Founder Residence chez Saff, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-founder-residence-saff-1134956",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-1765ac800a"
-  },
-  {
-    "id": "jf-cf4eef3479",
-    "titre": "Public Health Practitioner",
-    "entreprise": "Public Health Wales",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "exec",
-      "travel",
-      "finance",
-      "medical"
-    ],
-    "resume_neutre": "Public Health Practitioner chez Public Health Wales, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-public-health-practitioner-public-health-wales-1134978",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-cf4eef3479"
   }
 ]
