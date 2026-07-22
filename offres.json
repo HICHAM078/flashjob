@@ -1,5 +1,221 @@
 [
   {
+    "id": "jf-ed230bcfe2",
+    "titre": "Leeds",
+    "entreprise": "Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "recruiter"
+    ],
+    "resume_neutre": "Leeds chez Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-leeds-suzuki-garphyttan-wire-suzhou-co-ltd-1135124",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-ed230bcfe2"
+  },
+  {
+    "id": "jf-900f4518d2",
+    "titre": "Head of People",
+    "entreprise": "Bizee",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "video",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Head of People chez Bizee, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-people-bizee-1135129",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-900f4518d2"
+  },
+  {
+    "id": "jf-87f6d5d689",
+    "titre": "Testing Recommendation Step",
+    "entreprise": "Jacobs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "design",
+      "infosec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Testing Recommendation Step chez Jacobs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-87f6d5d689"
+  },
+  {
+    "id": "jf-57d4a0eec4",
+    "titre": "Freelance Creative Operations Coordinator",
+    "entreprise": "Klick",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "consulting",
+      "coordinator",
+      "customer support"
+    ],
+    "resume_neutre": "Freelance Creative Operations Coordinator chez Klick, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-creative-operations-coordinator-klick-1135143",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-57d4a0eec4"
+  },
+  {
+    "id": "jf-102478f74c",
+    "titre": "Dietician",
+    "entreprise": "MantraCare",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "dev",
+      "digital nomad",
+      "part time"
+    ],
+    "resume_neutre": "Dietician chez MantraCare, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dietician-mantracare-1135113",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-102478f74c"
+  },
+  {
+    "id": "jf-4e86f88fd4",
+    "titre": "Product Manager",
+    "entreprise": "360Dialog",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Product Manager chez 360Dialog, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-4e86f88fd4"
+  },
+  {
+    "id": "jf-2a260764f1",
+    "titre": "Handyman",
+    "entreprise": "The Construction Index Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing",
+      "ops",
+      "sales",
+      "engineer"
+    ],
+    "resume_neutre": "Handyman chez The Construction Index Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-the-construction-index-ltd-1135120",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-2a260764f1"
+  },
+  {
+    "id": "jf-b90cb5ac98",
+    "titre": "Dream Job",
+    "entreprise": "Freestar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "content writing",
+      "ops",
+      "sales",
+      "engineer"
+    ],
+    "resume_neutre": "Dream Job chez Freestar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dream-job-freestar-1135119",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-b90cb5ac98"
+  },
+  {
+    "id": "jf-fc5b3eb6cf",
+    "titre": "Human Resources Generalist",
+    "entreprise": "Wheeler Staffing Partners",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "designer",
+      "adult",
+      "exec"
+    ],
+    "resume_neutre": "Human Resources Generalist chez Wheeler Staffing Partners, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-wheeler-staffing-partners-1135109",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-fc5b3eb6cf"
+  },
+  {
+    "id": "jf-f5bf1ffe18",
+    "titre": "Creator Manager",
+    "entreprise": "Grail Talent",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "exec",
+      "marketing",
+      "design",
+      "designer"
+    ],
+    "resume_neutre": "Creator Manager chez Grail Talent, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creator-manager-grail-talent-1135172",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-f5bf1ffe18"
+  },
+  {
     "id": "jf-1052c66b4b",
     "titre": "Freelance Video Editer",
     "entreprise": "Control Shift Video",
@@ -5479,218 +5695,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-18",
     "ref_unique": "jf-96c76a08e6"
-  },
-  {
-    "id": "jf-12bd33a6a3",
-    "titre": "National Account Manager Foodservice Sales Required",
-    "entreprise": "Home Market Foods",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "sales"
-    ],
-    "resume_neutre": "National Account Manager Foodservice Sales Required chez Home Market Foods, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-national-account-manager-foodservice-sales-required-home-market-foods-1134940",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-12bd33a6a3"
-  },
-  {
-    "id": "jf-8a59043a60",
-    "titre": "Community &amp; Social Manager",
-    "entreprise": "Pacifica Beauty",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Community &amp; Social Manager chez Pacifica Beauty, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-community-amp-social-manager-pacifica-beauty-1134951",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-8a59043a60"
-  },
-  {
-    "id": "jf-4ca5e139ff",
-    "titre": "Founders Associate",
-    "entreprise": "Bits",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "exec",
-      "travel",
-      "finance",
-      "medical"
-    ],
-    "resume_neutre": "Founders Associate chez Bits, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-founders-associate-bits-1134976",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-4ca5e139ff"
-  },
-  {
-    "id": "jf-1dab625b35",
-    "titre": "Creative Strategist",
-    "entreprise": "New Engen",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "Creative Strategist chez New Engen, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-strategist-new-engen-1134990",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-1dab625b35"
-  },
-  {
-    "id": "jf-91414d2a15",
-    "titre": "Junior QA Tester",
-    "entreprise": "Work Force Nexus",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "quality assurance",
-      "junior"
-    ],
-    "resume_neutre": "Junior QA Tester chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-qa-tester-work-force-nexus-1134935",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-91414d2a15"
-  },
-  {
-    "id": "jf-5285763def",
-    "titre": "Executive Assistant the CEO",
-    "entreprise": "Jasper",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "exec",
-      "travel",
-      "finance",
-      "medical"
-    ],
-    "resume_neutre": "Executive Assistant the CEO chez Jasper, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-jasper-1134977",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-5285763def"
-  },
-  {
-    "id": "jf-e28614a95c",
-    "titre": "Don't see a fit Apply here",
-    "entreprise": "Brothers International Food Holdings, LLC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Don't see a fit Apply here chez Brothers International Food Holdings, LLC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-a-fit-apply-here-brothers-international-food-holdings-llc-1134946",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-e28614a95c"
-  },
-  {
-    "id": "jf-81474f0497",
-    "titre": "Procurement Associate",
-    "entreprise": "UNOPS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "React",
-    "remote": true,
-    "competences": [
-      "react",
-      "customer support",
-      "math",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "Procurement Associate chez UNOPS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-procurement-associate-unops-1134948",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-81474f0497"
-  },
-  {
-    "id": "jf-1b96f2a78b",
-    "titre": "Merchandiser",
-    "entreprise": "Brydens Antigua",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "React",
-    "remote": true,
-    "competences": [
-      "react",
-      "customer support",
-      "math",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "Merchandiser chez Brydens Antigua, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-merchandiser-brydens-antigua-1134949",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-1b96f2a78b"
-  },
-  {
-    "id": "jf-882e889372",
-    "titre": "Director Business Development Army",
-    "entreprise": "NOBLE",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Director Business Development Army chez NOBLE, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-director-business-development-army-noble-1134952",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-17",
-    "ref_unique": "jf-882e889372"
   }
 ]
