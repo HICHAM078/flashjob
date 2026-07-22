@@ -1,5 +1,247 @@
 [
   {
+    "id": "jf-72775df3c2",
+    "titre": "Strategy and Operations Lead",
+    "entreprise": "PatientIQ",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Strategy and Operations Lead chez PatientIQ, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-strategy-and-operations-lead-patientiq-1135197",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-72775df3c2"
+  },
+  {
+    "id": "jf-57fbdcc6bb",
+    "titre": "Bilingual Medical Receptionist",
+    "entreprise": "Entrepreneur Cooperative",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Bilingual Medical Receptionist chez Entrepreneur Cooperative, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bilingual-medical-receptionist-entrepreneur-cooperative-1135154",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-57fbdcc6bb"
+  },
+  {
+    "id": "jf-35fa0db0c8",
+    "titre": "test",
+    "entreprise": "Event Staff App",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "test chez Event Staff App, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-event-staff-app-1135189",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-35fa0db0c8"
+  },
+  {
+    "id": "jf-5b5883aaa2",
+    "titre": "Graphic Designer",
+    "entreprise": "Chazak Rescue",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "exec",
+      "marketing",
+      "design",
+      "designer"
+    ],
+    "resume_neutre": "Graphic Designer chez Chazak Rescue, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-5b5883aaa2"
+  },
+  {
+    "id": "jf-24b9344588",
+    "titre": "Senior Data Analyst",
+    "entreprise": "AB InBev",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "python",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Senior Data Analyst chez AB InBev, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-24b9344588"
+  },
+  {
+    "id": "jf-cb6de17361",
+    "titre": "Account Development Manager",
+    "entreprise": "Precision Medicine Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "marketing",
+      "sales"
+    ],
+    "resume_neutre": "Account Development Manager chez Precision Medicine Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-development-manager-precision-medicine-group-1135149",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-cb6de17361"
+  },
+  {
+    "id": "jf-502903e7a9",
+    "titre": "Executive Assistant",
+    "entreprise": "Propel",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "exec",
+      "marketing",
+      "design",
+      "designer"
+    ],
+    "resume_neutre": "Executive Assistant chez Propel, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-propel-1135171",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-502903e7a9"
+  },
+  {
+    "id": "jf-17b810bd78",
+    "titre": "Labor",
+    "entreprise": "JMK Developers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Labor chez JMK Developers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-labor-jmk-developers-1135161",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-17b810bd78"
+  },
+  {
+    "id": "jf-d711f74447",
+    "titre": "Head of Business Operations",
+    "entreprise": "Wing",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Head of Business Operations chez Wing, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-business-operations-wing-1135193",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-d711f74447"
+  },
+  {
+    "id": "jf-f6dee918e0",
+    "titre": "Loader",
+    "entreprise": "Ubico Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Loader chez Ubico Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-loader-ubico-ltd-1135160",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-f6dee918e0"
+  },
+  {
+    "id": "jf-be1626d75e",
+    "titre": "Job opening 2",
+    "entreprise": "Coldwell Banker GB",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Job opening 2 chez Coldwell Banker GB, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-opening-2-coldwell-banker-gb-1135209",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-be1626d75e"
+  },
+  {
+    "id": "jf-872861a09b",
+    "titre": "Job opening 1",
+    "entreprise": "Coldwell Banker GB",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Job opening 1 chez Coldwell Banker GB, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-opening-1-coldwell-banker-gb-1135210",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-872861a09b"
+  },
+  {
     "id": "jf-a4fb5dc15c",
     "titre": "De Ice",
     "entreprise": "Homebrew",
@@ -5460,254 +5702,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-18",
     "ref_unique": "jf-77ad1e6869"
-  },
-  {
-    "id": "jf-23b787724b",
-    "titre": "Scriptwriter",
-    "entreprise": "Gritter Francona",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "speech",
-      "finance"
-    ],
-    "resume_neutre": "Scriptwriter chez Gritter Francona, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-scriptwriter-gritter-francona-1135003",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-23b787724b"
-  },
-  {
-    "id": "jf-05c51af6e1",
-    "titre": "Brand Manager",
-    "entreprise": "Cazcanes Tequila",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "speech",
-      "finance"
-    ],
-    "resume_neutre": "Brand Manager chez Cazcanes Tequila, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-manager-cazcanes-tequila-1135000",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-05c51af6e1"
-  },
-  {
-    "id": "jf-1fff69242d",
-    "titre": "Animated Graphic Visual Artist",
-    "entreprise": "Gritter Francona",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "marketing",
-      "exec",
-      "content writing",
-      "social media"
-    ],
-    "resume_neutre": "Animated Graphic Visual Artist chez Gritter Francona, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-1fff69242d"
-  },
-  {
-    "id": "jf-36ec435075",
-    "titre": "Medical Scheduler",
-    "entreprise": "Home Health Focus AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical"
-    ],
-    "resume_neutre": "Medical Scheduler chez Home Health Focus AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-home-health-focus-ai-1134985",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-36ec435075"
-  },
-  {
-    "id": "jf-3c2092fd5d",
-    "titre": "Public Relations Associate",
-    "entreprise": "Huntress Talent",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr"
-    ],
-    "resume_neutre": "Public Relations Associate chez Huntress Talent, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-public-relations-associate-huntress-talent-1134984",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-3c2092fd5d"
-  },
-  {
-    "id": "jf-a58ed7a6ab",
-    "titre": "Human Resources Specialist",
-    "entreprise": "AllSTEM Connections",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr"
-    ],
-    "resume_neutre": "Human Resources Specialist chez AllSTEM Connections, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-allstem-connections-1134983",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-a58ed7a6ab"
-  },
-  {
-    "id": "jf-4b6a5f7fff",
-    "titre": "Procurement Specialist",
-    "entreprise": "Lumina Brands",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time"
-    ],
-    "resume_neutre": "Procurement Specialist chez Lumina Brands, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-lumina-brands-1134982",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-4b6a5f7fff"
-  },
-  {
-    "id": "jf-dab046bee6",
-    "titre": "Location",
-    "entreprise": "Chugach Commercial Holdings",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "non tech"
-    ],
-    "resume_neutre": "Location chez Chugach Commercial Holdings, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-location-chugach-commercial-holdings-1135009",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-dab046bee6"
-  },
-  {
-    "id": "jf-6e73d5ad5e",
-    "titre": "Et",
-    "entreprise": "Bedrok",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Game Dev",
-    "remote": true,
-    "competences": [
-      "game dev",
-      "microsoft",
-      "full time",
-      "marketing",
-      "sales"
-    ],
-    "resume_neutre": "Et chez Bedrok, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-et-bedrok-1135024",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-6e73d5ad5e"
-  },
-  {
-    "id": "jf-598a20fd6a",
-    "titre": "Creative Director",
-    "entreprise": "Bellweather Agency",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "Creative Director chez Bellweather Agency, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-director-bellweather-agency-1134988",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-598a20fd6a"
-  },
-  {
-    "id": "jf-9b804db318",
-    "titre": "Social Media Manager",
-    "entreprise": "Degy Entertainment",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "Social Media Manager chez Degy Entertainment, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-manager-degy-entertainment-1134986",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-9b804db318"
-  },
-  {
-    "id": "jf-547097c731",
-    "titre": "Parks Services",
-    "entreprise": "FinditinCW",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Engineer",
-    "remote": true,
-    "competences": [
-      "engineer",
-      "design",
-      "hr",
-      "customer support",
-      "dev"
-    ],
-    "resume_neutre": "Parks Services chez FinditinCW, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-547097c731"
   }
 ]
