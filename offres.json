@@ -1,5 +1,170 @@
 [
   {
+    "id": "jf-a4fb5dc15c",
+    "titre": "De Ice",
+    "entreprise": "Homebrew",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "De Ice chez Homebrew, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-de-ice-homebrew-1135162",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-a4fb5dc15c"
+  },
+  {
+    "id": "jf-d9757e4327",
+    "titre": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE",
+    "entreprise": "Portal Vagas Terceiro Setor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE chez Portal Vagas Terceiro Setor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lideranca-de-produtos-educacionais-associacao-cactus-sp-ou-ce-portal-vagas-terceiro-setor-1135144",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-d9757e4327"
+  },
+  {
+    "id": "jf-e9d7e58a7d",
+    "titre": "Iceberg Open Source",
+    "entreprise": "Wipro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "design"
+    ],
+    "resume_neutre": "Iceberg Open Source chez Wipro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-iceberg-open-source-wipro-1135151",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-e9d7e58a7d"
+  },
+  {
+    "id": "jf-42fe703ca2",
+    "titre": "VACANCIES",
+    "entreprise": "NEW VINE LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "VACANCIES chez NEW VINE LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vacancies-new-vine-limited-1135158",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-42fe703ca2"
+  },
+  {
+    "id": "jf-955059b2a1",
+    "titre": "Brand Manager",
+    "entreprise": "Creams Cafe",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "c",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Brand Manager chez Creams Cafe, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-manager-creams-cafe-1135147",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-955059b2a1"
+  },
+  {
+    "id": "jf-aaa7c510c5",
+    "titre": "Back Office Staff",
+    "entreprise": "ClassiKam",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "design"
+    ],
+    "resume_neutre": "Back Office Staff chez ClassiKam, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-back-office-staff-classikam-1135152",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-aaa7c510c5"
+  },
+  {
+    "id": "jf-b78916b285",
+    "titre": "Freelance Designer",
+    "entreprise": "Abamedia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Freelance Designer chez Abamedia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-b78916b285"
+  },
+  {
+    "id": "jf-e1598d676b",
+    "titre": "Receptionist",
+    "entreprise": "Evolve Psychiatry",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Receptionist chez Evolve Psychiatry, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-e1598d676b"
+  },
+  {
     "id": "ma-a69fd5e98a",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5544,165 +5709,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-18",
     "ref_unique": "jf-547097c731"
-  },
-  {
-    "id": "jf-f5637a9154",
-    "titre": "Season 25 26",
-    "entreprise": "RecMan.io",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Season 25 26 chez RecMan.io, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-season-25-26-recman-io-1134967",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-f5637a9154"
-  },
-  {
-    "id": "jf-5c067274b3",
-    "titre": "Administrativo A Planificador A",
-    "entreprise": "IGLUBIT",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c"
-    ],
-    "resume_neutre": "Administrativo A Planificador A chez IGLUBIT, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrativo-a-planificador-a-iglubit-1134973",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-5c067274b3"
-  },
-  {
-    "id": "jf-21d29855a9",
-    "titre": "Desk Operator",
-    "entreprise": "Hyatt Regency",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Quality Assurance",
-    "remote": true,
-    "competences": [
-      "quality assurance",
-      "sys admin",
-      "exec",
-      "sales",
-      "education"
-    ],
-    "resume_neutre": "Desk Operator chez Hyatt Regency, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-desk-operator-hyatt-regency-1134970",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-21d29855a9"
-  },
-  {
-    "id": "jf-54af526ca7",
-    "titre": "Senior Product Manager Platform",
-    "entreprise": "Delinea",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product Manager",
-    "remote": true,
-    "competences": [
-      "product manager",
-      "exec",
-      "design",
-      "saas",
-      "infosec"
-    ],
-    "resume_neutre": "Senior Product Manager Platform chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-54af526ca7"
-  },
-  {
-    "id": "jf-51b3942a4f",
-    "titre": "Management Accountant Dayshift",
-    "entreprise": "D2B",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Accounting",
-    "remote": true,
-    "competences": [
-      "accounting",
-      "customer support",
-      "payroll",
-      "finance",
-      "php"
-    ],
-    "resume_neutre": "Management Accountant Dayshift chez D2B, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-management-accountant-dayshift-d2b-1134960",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-51b3942a4f"
-  },
-  {
-    "id": "jf-f92bd58a33",
-    "titre": "Digital Media Specialist",
-    "entreprise": "Rose, Klein &amp; Marias",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "Digital Media Specialist chez Rose, Klein &amp; Marias, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-f92bd58a33"
-  },
-  {
-    "id": "jf-d0b1138359",
-    "titre": "Linemarker",
-    "entreprise": "Intersectional Linemarkers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr"
-    ],
-    "resume_neutre": "Linemarker chez Intersectional Linemarkers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-linemarker-intersectional-linemarkers-1135022",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-d0b1138359"
-  },
-  {
-    "id": "jf-f35d0ef569",
-    "titre": "I am a Professional",
-    "entreprise": "Boustead Property Services",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Engineer",
-    "remote": true,
-    "competences": [
-      "engineer"
-    ],
-    "resume_neutre": "I am a Professional chez Boustead Property Services, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-f35d0ef569"
   }
 ]
