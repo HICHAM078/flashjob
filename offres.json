@@ -1,5 +1,193 @@
 [
   {
+    "id": "jf-d4baceee27",
+    "titre": "Brand &amp; Marketing Director",
+    "entreprise": "Peas Recruitment Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "c",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Brand &amp; Marketing Director chez Peas Recruitment Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-amp-marketing-director-peas-recruitment-ltd-1135146",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-d4baceee27"
+  },
+  {
+    "id": "jf-8000342e7c",
+    "titre": "Designer Residential",
+    "entreprise": "NORR",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "dev",
+      "marketing",
+      "education"
+    ],
+    "resume_neutre": "Designer Residential chez NORR, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-8000342e7c"
+  },
+  {
+    "id": "jf-1737d789c8",
+    "titre": "sdgsdg",
+    "entreprise": "Better Rehab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "sdgsdg chez Better Rehab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sdgsdg-better-rehab-1135131",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-1737d789c8"
+  },
+  {
+    "id": "jf-96b750d9f2",
+    "titre": "Customer Experience Specialist",
+    "entreprise": "DraftKings Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "game dev",
+      "recruiter",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Customer Experience Specialist chez DraftKings Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-experience-specialist-draftkings-inc-1135133",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-96b750d9f2"
+  },
+  {
+    "id": "jf-d3ad8fcb5f",
+    "titre": "Auxiliar de Relacionamento Cirurgias Corporativo SP",
+    "entreprise": "Rede D'Or",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Excel",
+    "remote": true,
+    "competences": [
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Auxiliar de Relacionamento Cirurgias Corporativo SP chez Rede D'Or, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-relacionamento-cirurgias-corporativo-sp-rede-dor-1135132",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-d3ad8fcb5f"
+  },
+  {
+    "id": "jf-1f61463aad",
+    "titre": "Insta",
+    "entreprise": "Hakatemia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops"
+    ],
+    "resume_neutre": "Insta chez Hakatemia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-insta-hakatemia-1135137",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-1f61463aad"
+  },
+  {
+    "id": "jf-00b5c984e0",
+    "titre": "Nixu",
+    "entreprise": "Hakatemia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops"
+    ],
+    "resume_neutre": "Nixu chez Hakatemia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nixu-hakatemia-1135148",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-00b5c984e0"
+  },
+  {
+    "id": "jf-0e15b80baa",
+    "titre": "ACCENTURE",
+    "entreprise": "Hakatemia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops"
+    ],
+    "resume_neutre": "ACCENTURE chez Hakatemia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accenture-hakatemia-1135136",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-0e15b80baa"
+  },
+  {
+    "id": "jf-a85be11dea",
+    "titre": "Rippling",
+    "entreprise": "StackAmplify",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "technical",
+      "customer support",
+      "ops",
+      "testing"
+    ],
+    "resume_neutre": "Rippling chez StackAmplify, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rippling-stackamplify-1135142",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-22",
+    "ref_unique": "jf-a85be11dea"
+  },
+  {
     "id": "jf-ed230bcfe2",
     "titre": "Leeds",
     "entreprise": "Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸",
@@ -5516,184 +5704,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-18",
     "ref_unique": "ma-e87ceeef07"
-  },
-  {
-    "id": "jf-24b2ca1a15",
-    "titre": "$67200 $86400 Annually jobs",
-    "entreprise": "Supawork.ai",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "$67200 $86400 Annually jobs chez Supawork.ai, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-67200-86400-annually-jobs-supawork-ai-1134981",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-24b2ca1a15"
-  },
-  {
-    "id": "jf-de363373d5",
-    "titre": "Adelaide",
-    "entreprise": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Adelaide chez Dobinsons Spring &amp; Suspension - Middle East &amp; Africa, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-adelaide-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134958",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-de363373d5"
-  },
-  {
-    "id": "jf-6927480540",
-    "titre": "Sydney",
-    "entreprise": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Sydney chez Dobinsons Spring &amp; Suspension - Middle East &amp; Africa, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sydney-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134959",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-6927480540"
-  },
-  {
-    "id": "jf-8ee5db02f1",
-    "titre": "Admin &amp; Operation English Speaker",
-    "entreprise": "KitaLulus",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "customer support",
-      "admin",
-      "microsoft",
-      "exec"
-    ],
-    "resume_neutre": "Admin &amp; Operation English Speaker chez KitaLulus, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-admin-amp-operation-english-speaker-kitalulus-1134962",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-8ee5db02f1"
-  },
-  {
-    "id": "jf-4e5da76310",
-    "titre": "National Account Manager Foodservice",
-    "entreprise": "Georgia Pacific",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Part Time",
-    "remote": true,
-    "competences": [
-      "part time",
-      "hr",
-      "medical",
-      "exec",
-      "design"
-    ],
-    "resume_neutre": "National Account Manager Foodservice chez Georgia Pacific, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-national-account-manager-foodservice-georgia-pacific-1134987",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-4e5da76310"
-  },
-  {
-    "id": "jf-8da33ee125",
-    "titre": "Content Marketing Manager",
-    "entreprise": "Planned Parenthood of Greater New York",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Content Marketing Manager chez Planned Parenthood of Greater New York, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-planned-parenthood-of-greater-new-york-1134953",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-8da33ee125"
-  },
-  {
-    "id": "jf-de5166f0e5",
-    "titre": "Creador de Contenido Pago por Video",
-    "entreprise": "Freedx",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "microsoft",
-      "teaching",
-      "video",
-      "non tech"
-    ],
-    "resume_neutre": "Creador de Contenido Pago por Video chez Freedx, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-creador-de-contenido-pago-por-video-freedx-1134945",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-de5166f0e5"
-  },
-  {
-    "id": "jf-fb43168670",
-    "titre": "Agente de Reservas Hospitality",
-    "entreprise": "Stay U-nique",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c",
-      "microsoft"
-    ],
-    "resume_neutre": "Agente de Reservas Hospitality chez Stay U-nique, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-agente-de-reservas-hospitality-stay-u-nique-1134943",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-fb43168670"
-  },
-  {
-    "id": "jf-96c76a08e6",
-    "titre": "Analista de Testes Pleno",
-    "entreprise": "Melhor Envio",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Analista de Testes Pleno chez Melhor Envio, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-testes-pleno-melhor-envio-1134941",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-18",
-    "ref_unique": "jf-96c76a08e6"
   }
 ]
