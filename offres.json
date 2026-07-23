@@ -1,5 +1,169 @@
 [
   {
+    "id": "jf-0741515464",
+    "titre": "Director of Customer Experience",
+    "entreprise": "LifeMD",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "travel",
+      "full time",
+      "design",
+      "salesforce"
+    ],
+    "resume_neutre": "Director of Customer Experience chez LifeMD, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-customer-experience-lifemd-1135238",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-0741515464"
+  },
+  {
+    "id": "jf-3bac8591d6",
+    "titre": "Engineering and manufacturing",
+    "entreprise": "Bovitas BV",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Engineering and manufacturing chez Bovitas BV, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-and-manufacturing-bovitas-bv-1135245",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-3bac8591d6"
+  },
+  {
+    "id": "jf-022350e1a8",
+    "titre": "Hotel Executive Assistant Manager",
+    "entreprise": "RVS Hospitality Group LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Hotel Executive Assistant Manager chez RVS Hospitality Group LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hotel-executive-assistant-manager-rvs-hospitality-group-llc-1135224",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-022350e1a8"
+  },
+  {
+    "id": "jf-74c5e6a3f3",
+    "titre": "UX DESIGNER",
+    "entreprise": "Qaledon by Caledonia Financial Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "nft",
+      "designer",
+      "testing",
+      "web dev"
+    ],
+    "resume_neutre": "UX DESIGNER chez Qaledon by Caledonia Financial Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-74c5e6a3f3"
+  },
+  {
+    "id": "jf-af83b65b45",
+    "titre": "Job Post #4",
+    "entreprise": "Ward Brothers Construction",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Job Post #4 chez Ward Brothers Construction, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-post-4-ward-brothers-construction-1135262",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-af83b65b45"
+  },
+  {
+    "id": "jf-b504a5d1c2",
+    "titre": "Job Post #6",
+    "entreprise": "Ward Brothers Construction",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "Job Post #6 chez Ward Brothers Construction, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-post-6-ward-brothers-construction-1135263",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-b504a5d1c2"
+  },
+  {
+    "id": "jf-04078649b2",
+    "titre": "Marketing Assistant",
+    "entreprise": "Venture Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "travel",
+      "full time",
+      "design",
+      "salesforce"
+    ],
+    "resume_neutre": "Marketing Assistant chez Venture Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-venture-media-1135242",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-04078649b2"
+  },
+  {
+    "id": "jf-887e6c6332",
+    "titre": "Backend Developer",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "sys admin",
+      "front end",
+      "infosec"
+    ],
+    "resume_neutre": "Backend Developer chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-887e6c6332"
+  },
+  {
     "id": "jf-35676b72b9",
     "titre": "Team Member Positions Taco Bell Berwick South",
     "entreprise": "Taco Bell Australia",
@@ -5592,149 +5756,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-20",
     "ref_unique": "ma-225add3be4"
-  },
-  {
-    "id": "ma-b985f476d9",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=9&elckey=-6206646523596277023&p=1&aq=-7344409276328479478&cid=20&jobAge=38&relb=110&brelb=110&bscr=1564.8448&scr=1564.8448",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-b985f476d9"
-  },
-  {
-    "id": "ma-d1dd3f9309",
-    "titre": "Conseiller commercial b2b (h/f) - expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial b2b (h/f) - expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6385666403936019724?ckey=commercial&rgn=938&pos=10&elckey=-6206646523596277023&p=1&aq=-7344409276328479478&cid=20&jobAge=86&relb=110&brelb=110&bscr=1559.8798&scr=1559.8798",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-d1dd3f9309"
-  },
-  {
-    "id": "ma-a35358bf1f",
-    "titre": "Directeur commercial",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur commercial chez HR SKILLS MAROC, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/392757209352377324?ckey=commercial&rgn=938&pos=11&elckey=-6206646523596277023&p=1&aq=-7344409276328479478&cid=20&jobAge=494&relb=100&brelb=100&bscr=1508.2753&scr=1508.2753",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-a35358bf1f"
-  },
-  {
-    "id": "ma-39dcf598c4",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=12&elckey=-6206646523596277023&p=1&aq=-7344409276328479478&cid=20&jobAge=86&relb=110&brelb=110&bscr=1481.9087&scr=1481.9087",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-39dcf598c4"
-  },
-  {
-    "id": "ma-08e79418f8",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=611&relb=100&brelb=100&bscr=2997.3008&scr=2997.3008",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-08e79418f8"
-  },
-  {
-    "id": "ma-1edb4c81ec",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=2&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=686&relb=100&brelb=100&bscr=2381.79&scr=2381.79",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-1edb4c81ec"
-  },
-  {
-    "id": "ma-6b2ebeb513",
-    "titre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi : chargé(e) informatique, ia, infographie & réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3767854952027910593?ckey=informatique&rgn=0&pos=3&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=638&relb=110&brelb=110&bscr=2248.2405&scr=2248.2405",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-6b2ebeb513"
-  },
-  {
-    "id": "ma-b240f7d04a",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=7211&relb=100&brelb=100&bscr=2222.9531&scr=2222.9531",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-b240f7d04a"
   }
 ]
