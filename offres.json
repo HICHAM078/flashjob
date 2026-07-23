@@ -1,5 +1,216 @@
 [
   {
+    "id": "jf-acaa238046",
+    "titre": "Product Marketing Manager",
+    "entreprise": "AlixPartners",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "consulting",
+      "technical",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Product Marketing Manager chez AlixPartners, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-alixpartners-1135188",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-acaa238046"
+  },
+  {
+    "id": "jf-976d4bd2e2",
+    "titre": "Growth Marketing Intern",
+    "entreprise": "GigFinesse",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "music",
+      "game dev",
+      "customer support",
+      "internship"
+    ],
+    "resume_neutre": "Growth Marketing Intern chez GigFinesse, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-growth-marketing-intern-gigfinesse-1135187",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-976d4bd2e2"
+  },
+  {
+    "id": "jf-87c473a6de",
+    "titre": "Technician",
+    "entreprise": "Radina Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "medical",
+      "full time",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Technician chez Radina Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technician-radina-group-1135208",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-87c473a6de"
+  },
+  {
+    "id": "jf-0d269c92f3",
+    "titre": "Office Allrounder Facilities",
+    "entreprise": "GoRegional",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Office Allrounder Facilities chez GoRegional, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-office-allrounder-facilities-goregional-1135211",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-0d269c92f3"
+  },
+  {
+    "id": "jf-22c9866e8e",
+    "titre": "Student Placement Officer",
+    "entreprise": "GoRegional",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "javascript",
+      "c",
+      "engineer",
+      "education"
+    ],
+    "resume_neutre": "Student Placement Officer chez GoRegional, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-student-placement-officer-goregional-1135232",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-22c9866e8e"
+  },
+  {
+    "id": "jf-071c526229",
+    "titre": "DiseÃ±ador GrÃ¡fico Junior",
+    "entreprise": "workLATAM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "DiseÃ±ador GrÃ¡fico Junior chez workLATAM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-disenador-grafico-junior-worklatam-1135195",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-071c526229"
+  },
+  {
+    "id": "jf-ca4f066f86",
+    "titre": "Warehouse position x 2",
+    "entreprise": "GoRegional",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "javascript",
+      "c",
+      "engineer",
+      "education"
+    ],
+    "resume_neutre": "Warehouse position x 2 chez GoRegional, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-warehouse-position-x-2-goregional-1135233",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-ca4f066f86"
+  },
+  {
+    "id": "jf-c33b038e9a",
+    "titre": "Operator",
+    "entreprise": "East Coast Green",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "legal"
+    ],
+    "resume_neutre": "Operator chez East Coast Green, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operator-east-coast-green-1135178",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-c33b038e9a"
+  },
+  {
+    "id": "jf-18da0a5388",
+    "titre": "Skilled Laborer",
+    "entreprise": "East Coast Green",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Skilled Laborer chez East Coast Green, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-skilled-laborer-east-coast-green-1135176",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-18da0a5388"
+  },
+  {
+    "id": "jf-6697883081",
+    "titre": "Monitor PedagÃ³gico OAB",
+    "entreprise": "VÃ­cio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "technical",
+      "testing",
+      "exec"
+    ],
+    "resume_neutre": "Monitor PedagÃ³gico OAB chez VÃ­cio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-monitor-pedagogico-oab-vicio-1135254",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-6697883081"
+  },
+  {
     "id": "jf-3f92ab627c",
     "titre": "Marketing Associate",
     "entreprise": "Red Rover",
@@ -5526,185 +5737,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-19",
     "ref_unique": "ma-eaabb24ab9"
-  },
-  {
-    "id": "ma-eb991f9d0a",
-    "titre": "Conseiller commercial b2b (h/f) - expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial b2b (h/f) - expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6385666403936019724?ckey=commercial&rgn=938&pos=11&elckey=-743567081789102761&p=1&aq=-7642852553825607071&cid=20&jobAge=61&relb=110&brelb=110&bscr=1521.2828&scr=1521.2828000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-eb991f9d0a"
-  },
-  {
-    "id": "ma-25512a159e",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3659443728093596708?ckey=commercial&rgn=938&pos=12&elckey=-743567081789102761&p=1&aq=-7642852553825607071&cid=20&jobAge=85&relb=110&brelb=110&bscr=1518.7144&scr=1518.7144",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-25512a159e"
-  },
-  {
-    "id": "ma-a42819da6a",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=586&relb=100&brelb=100&bscr=3042.3376&scr=3042.3376000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-a42819da6a"
-  },
-  {
-    "id": "ma-8b485f13c9",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=2&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=661&relb=100&brelb=100&bscr=2365.8115&scr=2365.8115",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-8b485f13c9"
-  },
-  {
-    "id": "ma-f8943fa956",
-    "titre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9172551299843894699?ckey=informatique&rgn=0&pos=3&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=589&relb=110&brelb=110&bscr=2317.538&scr=2317.538",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-f8943fa956"
-  },
-  {
-    "id": "ma-411119eb5e",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=4&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=469&relb=110&brelb=110&bscr=2225.001&scr=2225.001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-411119eb5e"
-  },
-  {
-    "id": "ma-4bb4151b09",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=7186&relb=100&brelb=100&bscr=2198.6267&scr=2198.6267",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-4bb4151b09"
-  },
-  {
-    "id": "ma-2a568f76f0",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=7186&relb=100&brelb=100&bscr=2093.2043&scr=2093.2043",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-2a568f76f0"
-  },
-  {
-    "id": "ma-ed03a21157",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=7&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=445&relb=100&brelb=100&bscr=2041.9312&scr=2041.9312",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-ed03a21157"
-  },
-  {
-    "id": "ma-4577c11a66",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=-7237832016716469961&p=1&aq=4537853162433346820&cid=20&jobAge=7186&relb=100&brelb=100&bscr=1940.657&scr=1940.657",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-19",
-    "ref_unique": "ma-4577c11a66"
   }
 ]
