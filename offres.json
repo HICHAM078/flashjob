@@ -1,5 +1,303 @@
 [
   {
+    "id": "jf-35676b72b9",
+    "titre": "Team Member Positions Taco Bell Berwick South",
+    "entreprise": "Taco Bell Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "customer support",
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Team Member Positions Taco Bell Berwick South chez Taco Bell Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-positions-taco-bell-berwick-south-taco-bell-australia-1135247",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-35676b72b9"
+  },
+  {
+    "id": "jf-763b8e2687",
+    "titre": "Head of People",
+    "entreprise": "MVP Ventures",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Head of People chez MVP Ventures, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-people-mvp-ventures-1135203",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-763b8e2687"
+  },
+  {
+    "id": "jf-72ec407bd5",
+    "titre": "Patient Access Surgical Scheduler I",
+    "entreprise": "Forefront Dermatology",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "recruiter",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Patient Access Surgical Scheduler I chez Forefront Dermatology, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-access-surgical-scheduler-i-forefront-dermatology-1135200",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-72ec407bd5"
+  },
+  {
+    "id": "jf-f0b9b24abf",
+    "titre": "Human Resources Assistant",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Human Resources Assistant chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-re-lytics-hire-1135221",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-f0b9b24abf"
+  },
+  {
+    "id": "jf-ef6697aaaa",
+    "titre": "Administrative Data Entry File Clerk",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Administrative Data Entry File Clerk chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-re-lytics-hire-1135220",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-ef6697aaaa"
+  },
+  {
+    "id": "jf-6cdc27f7b5",
+    "titre": "Virtual Executive Assistant",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Virtual Executive Assistant chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-re-lytics-hire-1135225",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-6cdc27f7b5"
+  },
+  {
+    "id": "jf-3bdc3bc6c0",
+    "titre": "Entry Level Administrative Assistant",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Entry Level Administrative Assistant chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-lytics-hire-1135219",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-3bdc3bc6c0"
+  },
+  {
+    "id": "jf-bdf28d82d9",
+    "titre": "Administrative Assistant Entry Level",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Administrative Assistant Entry Level chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-re-lytics-hire-1135222",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-bdf28d82d9"
+  },
+  {
+    "id": "jf-6a12c31478",
+    "titre": "Data Entry Specialist Assistant Administrator",
+    "entreprise": "Re Lytics Hire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video"
+    ],
+    "resume_neutre": "Data Entry Specialist Assistant Administrator chez Re Lytics Hire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-re-lytics-hire-1135226",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-6a12c31478"
+  },
+  {
+    "id": "jf-b6c364dc8d",
+    "titre": "Test Job 2",
+    "entreprise": "PinPoint Middleware Test Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "non tech",
+      "testing",
+      "cloud",
+      "ops"
+    ],
+    "resume_neutre": "Test Job 2 chez PinPoint Middleware Test Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-2-pinpoint-middleware-test-company-1135214",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-b6c364dc8d"
+  },
+  {
+    "id": "jf-8dc07ba974",
+    "titre": "Analista de ExperiÃªncia do UsuÃ¡rio JR TemporÃ¡rio",
+    "entreprise": "ZENVIA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Analista de ExperiÃªncia do UsuÃ¡rio JR TemporÃ¡rio chez ZENVIA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-do-usuario-jr-temporario-zenvia-1135190",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-8dc07ba974"
+  },
+  {
+    "id": "jf-e3052dbe60",
+    "titre": "Various",
+    "entreprise": "Usave Power",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "Various chez Usave Power, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-usave-power-1135213",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-e3052dbe60"
+  },
+  {
+    "id": "jf-ab62adcbf9",
+    "titre": "Cargo Operations",
+    "entreprise": "Belcher Bingo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "non tech",
+      "testing",
+      "cloud",
+      "ops"
+    ],
+    "resume_neutre": "Cargo Operations chez Belcher Bingo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cargo-operations-belcher-bingo-1135216",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-ab62adcbf9"
+  },
+  {
+    "id": "jf-e2d53072bd",
+    "titre": "Corporate Services",
+    "entreprise": "Belcher Bingo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Corporate Services chez Belcher Bingo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-services-belcher-bingo-1135212",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-23",
+    "ref_unique": "jf-e2d53072bd"
+  },
+  {
     "id": "ma-e29f958bb5",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5438,279 +5736,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-20",
     "ref_unique": "ma-b240f7d04a"
-  },
-  {
-    "id": "ma-3908189bb1",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=5&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=470&relb=100&brelb=100&bscr=2051.6992&scr=2051.6992",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-3908189bb1"
-  },
-  {
-    "id": "ma-5e57ef5ebf",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=7211&relb=100&brelb=100&bscr=2020.7509&scr=2020.7509",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-5e57ef5ebf"
-  },
-  {
-    "id": "ma-9f6d5df837",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=7211&relb=100&brelb=100&bscr=1892.0505&scr=1892.0505000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-9f6d5df837"
-  },
-  {
-    "id": "ma-56e9e563c9",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=8&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=86&relb=110&brelb=110&bscr=287.13522&scr=287.13522",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-56e9e563c9"
-  },
-  {
-    "id": "ma-35280727d2",
-    "titre": "Télévendeurs francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1615708759748734754?ckey=informatique&rgn=0&pos=9&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=38&relb=110&brelb=110&bscr=287.13522&scr=287.13522",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-35280727d2"
-  },
-  {
-    "id": "ma-b624954d24",
-    "titre": "Assistante comptable",
-    "entreprise": "Carplug",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante comptable chez Carplug, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2820058131996165154?ckey=informatique&rgn=0&pos=10&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=614&relb=110&brelb=110&bscr=277.55576&scr=277.55576",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-b624954d24"
-  },
-  {
-    "id": "ma-9707b2493d",
-    "titre": "Comptable",
-    "entreprise": "Menabiliat Sud",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Menabiliat Sud, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-842756504188819281?ckey=informatique&rgn=0&pos=11&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=158&relb=100&brelb=100&bscr=272.7314&scr=272.7314",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-9707b2493d"
-  },
-  {
-    "id": "ma-574a400809",
-    "titre": "TELECONSEILLER EN RECEPTION D'APPEL",
-    "entreprise": "Yource Maroc",
-    "ville": "Meknes",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELECONSEILLER EN RECEPTION D'APPEL chez Yource Maroc, a Meknes. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7085552340767443570?ckey=informatique&rgn=0&pos=12&elckey=5745832615185907393&p=1&aq=-7644578911436102906&cid=20&jobAge=14&relb=110&brelb=110&bscr=271.80322&scr=271.80322",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-20",
-    "ref_unique": "ma-574a400809"
-  },
-  {
-    "id": "jf-e91a228402",
-    "titre": "Data Entry Assistant",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "education",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Data Entry Assistant chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-e91a228402"
-  },
-  {
-    "id": "jf-c35ec36cf2",
-    "titre": "Entry Level Data Entry Clerk Admin",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "education",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Entry Level Data Entry Clerk Admin chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-c35ec36cf2"
-  },
-  {
-    "id": "jf-fc2f6df321",
-    "titre": "Virtual Data Entry Clerk",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "education",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Virtual Data Entry Clerk chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-clerk-jobsinmass-com-1135074",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-fc2f6df321"
-  },
-  {
-    "id": "jf-f732ca55a4",
-    "titre": "Entry Level Data Entry Clerk",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "education",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Entry Level Data Entry Clerk chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-f732ca55a4"
-  },
-  {
-    "id": "jf-8f08bdc13f",
-    "titre": "Data Entry Typist",
-    "entreprise": "JobsInMass.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Data Entry",
-    "remote": true,
-    "competences": [
-      "data entry",
-      "education",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Data Entry Typist chez JobsInMass.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-jobsinmass-com-1135070",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-8f08bdc13f"
-  },
-  {
-    "id": "jf-9e905b26e6",
-    "titre": "Pitch us a role",
-    "entreprise": "Alloy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "cloud",
-      "digital nomad"
-    ],
-    "resume_neutre": "Pitch us a role chez Alloy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-20",
-    "ref_unique": "jf-9e905b26e6"
   }
 ]
