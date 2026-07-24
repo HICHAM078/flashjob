@@ -1,5 +1,186 @@
 [
   {
+    "id": "jf-cb8956085f",
+    "titre": "GRAPHIC DESIGNER",
+    "entreprise": "NEW VINE LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "part time",
+      "digital nomad"
+    ],
+    "resume_neutre": "GRAPHIC DESIGNER chez NEW VINE LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-cb8956085f"
+  },
+  {
+    "id": "jf-b264ac9b79",
+    "titre": "THE MINO EARRINGS",
+    "entreprise": "Monom Jewellery",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "coordinator",
+      "digital nomad"
+    ],
+    "resume_neutre": "THE MINO EARRINGS chez Monom Jewellery, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-the-mino-earrings-monom-jewellery-1135356",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-b264ac9b79"
+  },
+  {
+    "id": "jf-f69b5a91fc",
+    "titre": "THE INTROSPECT CIRCLE HOOPS",
+    "entreprise": "Monom Jewellery",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "THE INTROSPECT CIRCLE HOOPS chez Monom Jewellery, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-the-introspect-circle-hoops-monom-jewellery-1135354",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-f69b5a91fc"
+  },
+  {
+    "id": "jf-ad1e28b472",
+    "titre": "UFC GYM Jurnior Graphic Designer",
+    "entreprise": "UFC GYM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "designer",
+      "customer support"
+    ],
+    "resume_neutre": "UFC GYM Jurnior Graphic Designer chez UFC GYM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-ad1e28b472"
+  },
+  {
+    "id": "jf-55d4aee549",
+    "titre": "Coordinator Infrastructure Design",
+    "entreprise": "Town of Claremont",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "coordinator",
+      "digital nomad"
+    ],
+    "resume_neutre": "Coordinator Infrastructure Design chez Town of Claremont, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-coordinator-infrastructure-design-town-of-claremont-1135355",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-55d4aee549"
+  },
+  {
+    "id": "jf-cf0de359c7",
+    "titre": "Heading",
+    "entreprise": "SkillKraft Technologies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Heading chez SkillKraft Technologies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-heading-skillkraft-technologies-1135276",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-cf0de359c7"
+  },
+  {
+    "id": "jf-b5d8c85412",
+    "titre": "Data Entry Specialist",
+    "entreprise": "Morgan McKinley",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "exec",
+      "content writing",
+      "excel"
+    ],
+    "resume_neutre": "Data Entry Specialist chez Morgan McKinley, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-morgan-mckinley-1135273",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-b5d8c85412"
+  },
+  {
+    "id": "jf-9782ff58ba",
+    "titre": "JOIN US",
+    "entreprise": "COLOOP",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "JOIN US chez COLOOP, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-us-coloop-1135283",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-9782ff58ba"
+  },
+  {
+    "id": "jf-aba1a3b334",
+    "titre": "National Account Manager",
+    "entreprise": "Au Vodka",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "scheme",
+      "senior"
+    ],
+    "resume_neutre": "National Account Manager chez Au Vodka, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-national-account-manager-au-vodka-1135358",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-24",
+    "ref_unique": "jf-aba1a3b334"
+  },
+  {
     "id": "ma-726193e722",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5628,167 +5809,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-21",
     "ref_unique": "ma-bfdb934320"
-  },
-  {
-    "id": "ma-d1fc48105e",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=6&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=587&relb=100&brelb=100&bscr=2013.4008&scr=2013.4008",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-d1fc48105e"
-  },
-  {
-    "id": "ma-c3ad2c04cc",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=7&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=541&relb=100&brelb=100&bscr=1987.5364&scr=1987.5364",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-c3ad2c04cc"
-  },
-  {
-    "id": "ma-b05104770e",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=8&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=853&relb=100&brelb=100&bscr=1967.219&scr=1967.219",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-b05104770e"
-  },
-  {
-    "id": "ma-8972d38e1f",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=9&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=853&relb=100&brelb=100&bscr=1938.3741&scr=1938.3741",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-8972d38e1f"
-  },
-  {
-    "id": "ma-c5fdf9f7d7",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=10&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=515&relb=100&brelb=100&bscr=1930.9427&scr=1930.9427000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-c5fdf9f7d7"
-  },
-  {
-    "id": "ma-903614382d",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=11&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=709&relb=100&brelb=100&bscr=1917.3448&scr=1917.3448",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-903614382d"
-  },
-  {
-    "id": "ma-7db8a48196",
-    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2384401503584252338?ckey=comptable&rgn=946&pos=12&elckey=242935933306964863&p=1&aq=3991490278343309026&cid=20&jobAge=445&relb=100&brelb=100&bscr=1910.1774&scr=1910.1773999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-7db8a48196"
-  },
-  {
-    "id": "ma-437cf682b4",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2233551344258777083?ckey=commercial&rgn=938&pos=1&elckey=-3428007710002615954&p=1&aq=-6605093168392517717&cid=20&jobAge=373&relb=100&brelb=100&bscr=1600.3451&scr=1600.3451",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-437cf682b4"
-  },
-  {
-    "id": "ma-587231efa6",
-    "titre": "Agents commerciaux francophones",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux francophones chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1229734723058071827?ckey=commercial&rgn=938&pos=2&elckey=-3428007710002615954&p=1&aq=-6605093168392517717&cid=20&jobAge=637&relb=110&brelb=110&bscr=1581.1713&scr=1581.1713",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-21",
-    "ref_unique": "ma-587231efa6"
   }
 ]
