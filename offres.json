@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-d22d13dbca",
+    "titre": "Marketing Designer",
+    "entreprise": "albo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "marketing",
+      "web dev",
+      "exec",
+      "video"
+    ],
+    "resume_neutre": "Marketing Designer chez albo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-d22d13dbca"
+  },
+  {
     "id": "jf-299d176cce",
     "titre": "VP of Strategic Partnerships &amp; Growth",
     "entreprise": "HealthCorps",
@@ -5807,23 +5829,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-22",
     "ref_unique": "ma-67f91e1ec8"
-  },
-  {
-    "id": "ma-af99298880",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=4&elckey=4085099089917374105&p=1&aq=6007645031341201008&cid=20&jobAge=397&relb=110&brelb=110&bscr=2473.3386&scr=2473.3386",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-22",
-    "ref_unique": "ma-af99298880"
   }
 ]
