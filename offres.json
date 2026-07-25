@@ -1,5 +1,134 @@
 [
   {
+    "id": "jf-ffec69e9d6",
+    "titre": "Chief Operating Officer",
+    "entreprise": "Berni and Mick Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "strategy",
+      "marketing",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Chief Operating Officer chez Berni and Mick Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-berni-and-mick-ireland-1135353",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-ffec69e9d6"
+  },
+  {
+    "id": "jf-13971e988a",
+    "titre": "Clinical Pharmacist",
+    "entreprise": "Walrus Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Clinical Pharmacist chez Walrus Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-pharmacist-walrus-health-1135343",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-13971e988a"
+  },
+  {
+    "id": "jf-0952cf8f45",
+    "titre": "Freelance 3D Architectural Modeller UK Hours",
+    "entreprise": "CGconnect",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "embedded",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Freelance 3D Architectural Modeller UK Hours chez CGconnect, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-3d-architectural-modeller-uk-hours-cgconnect-1135350",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-0952cf8f45"
+  },
+  {
+    "id": "jf-2c1de35e0e",
+    "titre": "Project Coordinator",
+    "entreprise": "Outsource Access Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "virtual assistant",
+      "teaching",
+      "math",
+      "full time"
+    ],
+    "resume_neutre": "Project Coordinator chez Outsource Access Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-coordinator-outsource-access-careers-1135338",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-2c1de35e0e"
+  },
+  {
+    "id": "jf-febfe81bd3",
+    "titre": "Math Teacher",
+    "entreprise": "MatheMagis Singapore Maths",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "virtual assistant",
+      "teaching",
+      "math",
+      "full time"
+    ],
+    "resume_neutre": "Math Teacher chez MatheMagis Singapore Maths, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-math-teacher-mathemagis-singapore-maths-1135337",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-febfe81bd3"
+  },
+  {
+    "id": "jf-a932d20642",
+    "titre": "Australian Bookkeeping Assistant",
+    "entreprise": "24x7 Direct",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Australian Bookkeeping Assistant chez 24x7 Direct, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-australian-bookkeeping-assistant-24x7-direct-1135336",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-25",
+    "ref_unique": "jf-a932d20642"
+  },
+  {
     "id": "jf-00a654d7a6",
     "titre": "Paralegal",
     "entreprise": "Giga Energy",
@@ -5711,136 +5840,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-22",
     "ref_unique": "jf-ed230bcfe2"
-  },
-  {
-    "id": "jf-900f4518d2",
-    "titre": "Head of People",
-    "entreprise": "Bizee",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "customer support",
-      "video",
-      "exec",
-      "content writing"
-    ],
-    "resume_neutre": "Head of People chez Bizee, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-people-bizee-1135129",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-900f4518d2"
-  },
-  {
-    "id": "jf-87f6d5d689",
-    "titre": "Testing Recommendation Step",
-    "entreprise": "Jacobs",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "design",
-      "infosec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Testing Recommendation Step chez Jacobs, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-87f6d5d689"
-  },
-  {
-    "id": "jf-57d4a0eec4",
-    "titre": "Freelance Creative Operations Coordinator",
-    "entreprise": "Klick",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "consulting",
-      "coordinator",
-      "customer support"
-    ],
-    "resume_neutre": "Freelance Creative Operations Coordinator chez Klick, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-creative-operations-coordinator-klick-1135143",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-57d4a0eec4"
-  },
-  {
-    "id": "jf-102478f74c",
-    "titre": "Dietician",
-    "entreprise": "MantraCare",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product Manager",
-    "remote": true,
-    "competences": [
-      "product manager",
-      "exec",
-      "dev",
-      "digital nomad",
-      "part time"
-    ],
-    "resume_neutre": "Dietician chez MantraCare, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dietician-mantracare-1135113",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-102478f74c"
-  },
-  {
-    "id": "jf-4e86f88fd4",
-    "titre": "Product Manager",
-    "entreprise": "360Dialog",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product Manager",
-    "remote": true,
-    "competences": [
-      "product manager",
-      "exec",
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "Product Manager chez 360Dialog, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-4e86f88fd4"
-  },
-  {
-    "id": "jf-2a260764f1",
-    "titre": "Handyman",
-    "entreprise": "The Construction Index Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "content writing",
-      "ops",
-      "sales",
-      "engineer"
-    ],
-    "resume_neutre": "Handyman chez The Construction Index Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-the-construction-index-ltd-1135120",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-2a260764f1"
   }
 ]
