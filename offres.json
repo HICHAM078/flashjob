@@ -1,5 +1,355 @@
 [
   {
+    "id": "jf-09473f6cd8",
+    "titre": "IT Support Analyst",
+    "entreprise": "Work Force Nexus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "IT Support Analyst chez Work Force Nexus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-it-support-analyst-work-force-nexus-1135393",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-09473f6cd8"
+  },
+  {
+    "id": "jf-71bdecbae3",
+    "titre": "Hand Assembly",
+    "entreprise": "Lsn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Assembly",
+    "remote": true,
+    "competences": [
+      "assembly"
+    ],
+    "resume_neutre": "Hand Assembly chez Lsn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hand-assembly-lsn-1135407",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-71bdecbae3"
+  },
+  {
+    "id": "jf-7530d7baa9",
+    "titre": "Trabaja TODO Remoto Asesor de AtenciÃ³n al cliente y crosseling",
+    "entreprise": "EntelConnect",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Trabaja TODO Remoto Asesor de AtenciÃ³n al cliente y crosseling chez EntelConnect, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trabaja-todo-remoto-asesor-de-atencion-al-cliente-y-crosseling-entelconnect-1135399",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-7530d7baa9"
+  },
+  {
+    "id": "jf-d9750442f5",
+    "titre": "Enterprise Account Executive",
+    "entreprise": "career",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "infosec",
+      "dev",
+      "exec",
+      "senior"
+    ],
+    "resume_neutre": "Enterprise Account Executive chez career, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-career-1135389",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-d9750442f5"
+  },
+  {
+    "id": "jf-f3cb4626a7",
+    "titre": "Brand Content & Communications Associate Manager",
+    "entreprise": "FuseGlobal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Brand Content & Communications Associate Manager chez FuseGlobal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-content-communications-associate-manager-fuseglobal-1135387",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-f3cb4626a7"
+  },
+  {
+    "id": "jf-f255b775f5",
+    "titre": "PROJECT SOVEREIGNTY",
+    "entreprise": "conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin"
+    ],
+    "resume_neutre": "PROJECT SOVEREIGNTY chez conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-sovereignty-conceptmonkey-product-amp-innovation-services-sebastian-benderoth-1135401",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-f255b775f5"
+  },
+  {
+    "id": "jf-350d1cfd1f",
+    "titre": "I want all the money",
+    "entreprise": "Something Awful",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "I want all the money chez Something Awful, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-i-want-all-the-money-something-awful-1135400",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-350d1cfd1f"
+  },
+  {
+    "id": "jf-514609b4ad",
+    "titre": "Job hunting indecision",
+    "entreprise": "Something Awful",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "Job hunting indecision chez Something Awful, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-hunting-indecision-something-awful-1135408",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-514609b4ad"
+  },
+  {
+    "id": "jf-232559e5b8",
+    "titre": "Brand Designer",
+    "entreprise": "CoâStar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Brand Designer chez CoâStar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-designer-co-star-1135383",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-232559e5b8"
+  },
+  {
+    "id": "jf-d01b3f3d28",
+    "titre": "Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional",
+    "entreprise": "UNICEF",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "marketing",
+      "web dev",
+      "exec",
+      "video"
+    ],
+    "resume_neutre": "Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional chez UNICEF, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-consultor-para-estrategia-de-sbc-de-primera-infancia-programme-effectiveness-quito-ecuador-remoto-7-meses-nacional-unicef-1135378",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-d01b3f3d28"
+  },
+  {
+    "id": "jf-e33a82eef5",
+    "titre": "Analista de Suporte N1 JR",
+    "entreprise": "Oto CRM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Designer",
+    "remote": true,
+    "competences": [
+      "designer",
+      "marketing",
+      "web dev",
+      "exec",
+      "video"
+    ],
+    "resume_neutre": "Analista de Suporte N1 JR chez Oto CRM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-suporte-n1-jr-oto-crm-1135377",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-e33a82eef5"
+  },
+  {
+    "id": "jf-6dada486ce",
+    "titre": "Take the initiative",
+    "entreprise": "Trainvac",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang"
+    ],
+    "resume_neutre": "Take the initiative chez Trainvac, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-take-the-initiative-trainvac-1135391",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-6dada486ce"
+  },
+  {
+    "id": "jf-a07ffcedc0",
+    "titre": "Ecommerce Specialist",
+    "entreprise": "Huntress Talent",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Ecommerce Specialist chez Huntress Talent, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ecommerce-specialist-huntress-talent-1135385",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-a07ffcedc0"
+  },
+  {
+    "id": "jf-885aa7d4fc",
+    "titre": "Creative Project Manager",
+    "entreprise": "MUSEUM OF ICE CREAM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Creative Project Manager chez MUSEUM OF ICE CREAM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creative-project-manager-museum-of-ice-cream-1135382",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-885aa7d4fc"
+  },
+  {
+    "id": "jf-7b0b411d8b",
+    "titre": "Social Community Representative",
+    "entreprise": "CELSIUS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Social Community Representative chez CELSIUS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-community-representative-celsius-1135380",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-7b0b411d8b"
+  },
+  {
+    "id": "jf-db9a0c491a",
+    "titre": "People Operations Specialist",
+    "entreprise": "Blackthorn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "People Operations Specialist chez Blackthorn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-blackthorn-1135379",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-db9a0c491a"
+  },
+  {
+    "id": "jf-c6fcbc3375",
+    "titre": "Head of Operations",
+    "entreprise": "OpenTrack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Head of Operations chez OpenTrack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-operations-opentrack-1135384",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-c6fcbc3375"
+  },
+  {
     "id": "jf-d22d13dbca",
     "titre": "Marketing Designer",
     "entreprise": "albo",
@@ -5492,342 +5842,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-22",
     "ref_unique": "jf-cb6de17361"
-  },
-  {
-    "id": "jf-502903e7a9",
-    "titre": "Executive Assistant",
-    "entreprise": "Propel",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Consulting",
-    "remote": true,
-    "competences": [
-      "consulting",
-      "exec",
-      "marketing",
-      "design",
-      "designer"
-    ],
-    "resume_neutre": "Executive Assistant chez Propel, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-propel-1135171",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-502903e7a9"
-  },
-  {
-    "id": "jf-17b810bd78",
-    "titre": "Labor",
-    "entreprise": "JMK Developers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Labor chez JMK Developers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-labor-jmk-developers-1135161",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-17b810bd78"
-  },
-  {
-    "id": "jf-d711f74447",
-    "titre": "Head of Business Operations",
-    "entreprise": "Wing",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Head of Business Operations chez Wing, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-business-operations-wing-1135193",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-d711f74447"
-  },
-  {
-    "id": "jf-f6dee918e0",
-    "titre": "Loader",
-    "entreprise": "Ubico Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Loader chez Ubico Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-loader-ubico-ltd-1135160",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-f6dee918e0"
-  },
-  {
-    "id": "jf-be1626d75e",
-    "titre": "Job opening 2",
-    "entreprise": "Coldwell Banker GB",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "Job opening 2 chez Coldwell Banker GB, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-job-opening-2-coldwell-banker-gb-1135209",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-be1626d75e"
-  },
-  {
-    "id": "jf-872861a09b",
-    "titre": "Job opening 1",
-    "entreprise": "Coldwell Banker GB",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "digital nomad"
-    ],
-    "resume_neutre": "Job opening 1 chez Coldwell Banker GB, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-job-opening-1-coldwell-banker-gb-1135210",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-872861a09b"
-  },
-  {
-    "id": "jf-a4fb5dc15c",
-    "titre": "De Ice",
-    "entreprise": "Homebrew",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "non tech"
-    ],
-    "resume_neutre": "De Ice chez Homebrew, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-de-ice-homebrew-1135162",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-a4fb5dc15c"
-  },
-  {
-    "id": "jf-d9757e4327",
-    "titre": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE",
-    "entreprise": "Portal Vagas Terceiro Setor",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE chez Portal Vagas Terceiro Setor, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lideranca-de-produtos-educacionais-associacao-cactus-sp-ou-ce-portal-vagas-terceiro-setor-1135144",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-d9757e4327"
-  },
-  {
-    "id": "jf-e9d7e58a7d",
-    "titre": "Iceberg Open Source",
-    "entreprise": "Wipro",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "technical",
-      "customer support",
-      "ops",
-      "design"
-    ],
-    "resume_neutre": "Iceberg Open Source chez Wipro, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-iceberg-open-source-wipro-1135151",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-e9d7e58a7d"
-  },
-  {
-    "id": "jf-42fe703ca2",
-    "titre": "VACANCIES",
-    "entreprise": "NEW VINE LIMITED",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "VACANCIES chez NEW VINE LIMITED, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-vacancies-new-vine-limited-1135158",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-42fe703ca2"
-  },
-  {
-    "id": "jf-955059b2a1",
-    "titre": "Brand Manager",
-    "entreprise": "Creams Cafe",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "design",
-      "c",
-      "content writing",
-      "marketing"
-    ],
-    "resume_neutre": "Brand Manager chez Creams Cafe, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-manager-creams-cafe-1135147",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-955059b2a1"
-  },
-  {
-    "id": "jf-aaa7c510c5",
-    "titre": "Back Office Staff",
-    "entreprise": "ClassiKam",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "technical",
-      "customer support",
-      "ops",
-      "design"
-    ],
-    "resume_neutre": "Back Office Staff chez ClassiKam, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-back-office-staff-classikam-1135152",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-aaa7c510c5"
-  },
-  {
-    "id": "jf-b78916b285",
-    "titre": "Freelance Designer",
-    "entreprise": "Abamedia",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Freelance Designer chez Abamedia, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-b78916b285"
-  },
-  {
-    "id": "jf-e1598d676b",
-    "titre": "Receptionist",
-    "entreprise": "Evolve Psychiatry",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Receptionist chez Evolve Psychiatry, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-e1598d676b"
-  },
-  {
-    "id": "ma-a69fd5e98a",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=4085099089917374105&p=1&aq=6007645031341201008&cid=20&jobAge=328&relb=140&brelb=100&bscr=2008.074&scr=2811.3035999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-22",
-    "ref_unique": "ma-a69fd5e98a"
-  },
-  {
-    "id": "ma-71549dfbb8",
-    "titre": "Offre d’emploi - Agent de Sécurité",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Agent de Sécurité a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1251492992090107945?ckey=emploi&rgn=0&pos=2&elckey=4085099089917374105&p=1&aq=6007645031341201008&cid=20&jobAge=8&relb=100&brelb=100&bscr=2564.0107&scr=2564.0107",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-22",
-    "ref_unique": "ma-71549dfbb8"
-  },
-  {
-    "id": "ma-67f91e1ec8",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=3&elckey=4085099089917374105&p=1&aq=6007645031341201008&cid=20&jobAge=565&relb=110&brelb=110&bscr=2533.943&scr=2533.943",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-22",
-    "ref_unique": "ma-67f91e1ec8"
   }
 ]
