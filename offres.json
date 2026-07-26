@@ -1,5 +1,184 @@
 [
   {
+    "id": "jf-4bfb11a815",
+    "titre": "Join Our Team",
+    "entreprise": "Warwick Valley Chamber Of Cmrc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Join Our Team chez Warwick Valley Chamber Of Cmrc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-warwick-valley-chamber-of-cmrc-1135413",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-4bfb11a815"
+  },
+  {
+    "id": "jf-d3bc6e5b95",
+    "titre": "Come and join us",
+    "entreprise": "Innovation @ University Hospitals Tees",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech"
+    ],
+    "resume_neutre": "Come and join us chez Innovation @ University Hospitals Tees, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-come-and-join-us-innovation-university-hospitals-tees-1135418",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-d3bc6e5b95"
+  },
+  {
+    "id": "jf-7386997eb2",
+    "titre": "No",
+    "entreprise": "the Shapeshifter",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech"
+    ],
+    "resume_neutre": "No chez the Shapeshifter, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-no-the-shapeshifter-1135416",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-7386997eb2"
+  },
+  {
+    "id": "jf-26cf9300eb",
+    "titre": "Widen the circle",
+    "entreprise": "the Shapeshifter",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech",
+      "design",
+      "exec",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Widen the circle chez the Shapeshifter, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-widen-the-circle-the-shapeshifter-1135419",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-26cf9300eb"
+  },
+  {
+    "id": "jf-28ab4bb095",
+    "titre": "Drafter Expertise AutoCAD Revit Lumion and SketchUp",
+    "entreprise": "MyVA Support (MyVAS)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "video",
+      "education",
+      "digital nomad"
+    ],
+    "resume_neutre": "Drafter Expertise AutoCAD Revit Lumion and SketchUp chez MyVA Support (MyVAS), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-drafter-expertise-autocad-revit-lumion-and-sketchup-myva-support-myvas-1135438",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-28ab4bb095"
+  },
+  {
+    "id": "jf-a13789865d",
+    "titre": "Architectural Interior Designer",
+    "entreprise": "MyVA Support (MyVAS)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "video",
+      "education",
+      "digital nomad"
+    ],
+    "resume_neutre": "Architectural Interior Designer chez MyVA Support (MyVAS), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-interior-designer-myva-support-myvas-1135439",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-a13789865d"
+  },
+  {
+    "id": "jf-ade3050330",
+    "titre": "Field Technician",
+    "entreprise": "Nexy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Speech",
+    "remote": true,
+    "competences": [
+      "speech"
+    ],
+    "resume_neutre": "Field Technician chez Nexy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-technician-nexy-1135417",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-ade3050330"
+  },
+  {
+    "id": "jf-1817478ec1",
+    "titre": "THOUGHTFUL NAVIGATOR",
+    "entreprise": "Heather Hill Coaching &amp; Consultancy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting"
+    ],
+    "resume_neutre": "THOUGHTFUL NAVIGATOR chez Heather Hill Coaching &amp; Consultancy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-thoughtful-navigator-heather-hill-coaching-amp-consultancy-1135412",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-1817478ec1"
+  },
+  {
+    "id": "jf-ea99a27d39",
+    "titre": "Freelance Photo Retoucher",
+    "entreprise": "Catbird NYC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "web dev",
+      "exec",
+      "photoshop",
+      "ecommerce"
+    ],
+    "resume_neutre": "Freelance Photo Retoucher chez Catbird NYC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-photo-retoucher-catbird-nyc-1135441",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-ea99a27d39"
+  },
+  {
     "id": "jf-148c7bfa47",
     "titre": "Architect CAD & Construction Documentation",
     "entreprise": "YO IT Consulting",
@@ -5575,167 +5754,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-23",
     "ref_unique": "ma-9909f6105c"
-  },
-  {
-    "id": "ma-a337a60518",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=12&elckey=-2759053747395341511&p=1&aq=-4647711818112768249&cid=20&jobAge=563&relb=100&brelb=100&bscr=1922.4045&scr=1922.4045",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-a337a60518"
-  },
-  {
-    "id": "ma-df62172bfa",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2233551344258777083?ckey=commercial&rgn=938&pos=1&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=421&relb=110&brelb=110&bscr=1759.1226&scr=1759.1226000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-df62172bfa"
-  },
-  {
-    "id": "ma-8d2d5552d3",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=2&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=541&relb=110&brelb=110&bscr=1718.1954&scr=1718.1954",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-8d2d5552d3"
-  },
-  {
-    "id": "ma-dc5d4a6072",
-    "titre": "Commercial Sédentaire B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Sédentaire B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8785473977155328145?ckey=commercial&rgn=938&pos=3&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=37&relb=110&brelb=110&bscr=1717.166&scr=1717.1659999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-dc5d4a6072"
-  },
-  {
-    "id": "ma-2aff17e419",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4758315232309467945?ckey=commercial&rgn=938&pos=4&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=517&relb=110&brelb=110&bscr=1659.0156&scr=1659.0156",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-2aff17e419"
-  },
-  {
-    "id": "ma-d8af14d6b2",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=5&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=85&relb=110&brelb=110&bscr=1621.768&scr=1621.768",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-d8af14d6b2"
-  },
-  {
-    "id": "ma-8599c76cd5",
-    "titre": "Conseiller commercial b2b (h/f) - expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial b2b (h/f) - expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6385666403936019724?ckey=commercial&rgn=938&pos=6&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=61&relb=110&brelb=110&bscr=1584.6213&scr=1584.6213",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-8599c76cd5"
-  },
-  {
-    "id": "ma-32df096e2f",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6210424515802183615?ckey=commercial&rgn=938&pos=7&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=61&relb=110&brelb=110&bscr=1584.6213&scr=1584.6213",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-32df096e2f"
-  },
-  {
-    "id": "ma-546a1c2238",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=8&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=61&relb=110&brelb=110&bscr=1572.1843&scr=1572.1843",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-546a1c2238"
   }
 ]
