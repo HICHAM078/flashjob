@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-148c7bfa47",
+    "titre": "Architect CAD & Construction Documentation",
+    "entreprise": "YO IT Consulting",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Video",
+    "remote": true,
+    "competences": [
+      "video",
+      "content writing",
+      "consulting",
+      "architecture"
+    ],
+    "resume_neutre": "Architect CAD & Construction Documentation chez YO IT Consulting, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-architect-cad-construction-documentation-yo-it-consulting-1135405",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-148c7bfa47"
+  },
+  {
+    "id": "jf-9a3e76f3d9",
+    "titre": "Content Producer",
+    "entreprise": "DesignMeshAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Video",
+    "remote": true,
+    "competences": [
+      "video",
+      "content writing"
+    ],
+    "resume_neutre": "Content Producer chez DesignMeshAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-content-producer-designmeshai-1135404",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-9a3e76f3d9"
+  },
+  {
     "id": "ma-b6bfa8b9f6",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5697,41 +5737,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-23",
     "ref_unique": "ma-546a1c2238"
-  },
-  {
-    "id": "ma-dfa8b46a75",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3659443728093596708?ckey=commercial&rgn=938&pos=9&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=181&relb=110&brelb=110&bscr=1567.3624&scr=1567.3624",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-dfa8b46a75"
-  },
-  {
-    "id": "ma-f873ee1682",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=10&elckey=-6429997390704922328&p=1&aq=-1604286584354080609&cid=20&jobAge=37&relb=110&brelb=110&bscr=1552.3339&scr=1552.3339",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-f873ee1682"
   }
 ]
