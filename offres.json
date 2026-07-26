@@ -1,5 +1,41 @@
 [
   {
+    "id": "jf-0f25e01b8d",
+    "titre": "Operations Specialist",
+    "entreprise": "Sezzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Operations Specialist chez Sezzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-0f25e01b8d"
+  },
+  {
+    "id": "jf-464b1736f9",
+    "titre": "NegÃ³cios Analista de SoluÃ§Ãµes de NegÃ³cios JÃºnior",
+    "entreprise": "TOTVS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "NegÃ³cios Analista de SoluÃ§Ãµes de NegÃ³cios JÃºnior chez TOTVS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-negocios-analista-de-solucoes-de-negocios-junior-totvs-1135397",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-26",
+    "ref_unique": "jf-464b1736f9"
+  },
+  {
     "id": "jf-09473f6cd8",
     "titre": "IT Support Analyst",
     "entreprise": "Work Force Nexus",
@@ -5799,48 +5835,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-22",
     "ref_unique": "jf-5b5883aaa2"
-  },
-  {
-    "id": "jf-24b9344588",
-    "titre": "Senior Data Analyst",
-    "entreprise": "AB InBev",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Analyst",
-    "remote": true,
-    "competences": [
-      "analyst",
-      "design",
-      "python",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Senior Data Analyst chez AB InBev, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-24b9344588"
-  },
-  {
-    "id": "jf-cb6de17361",
-    "titre": "Account Development Manager",
-    "entreprise": "Precision Medicine Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product Manager",
-    "remote": true,
-    "competences": [
-      "product manager",
-      "exec",
-      "marketing",
-      "sales"
-    ],
-    "resume_neutre": "Account Development Manager chez Precision Medicine Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-account-development-manager-precision-medicine-group-1135149",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-22",
-    "ref_unique": "jf-cb6de17361"
   }
 ]
