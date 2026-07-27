@@ -1,5 +1,183 @@
 [
   {
+    "id": "jf-f65aca8084",
+    "titre": "General Shop",
+    "entreprise": "HEICO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "General Shop chez HEICO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-shop-heico-1135437",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-f65aca8084"
+  },
+  {
+    "id": "jf-4fe96d7de9",
+    "titre": "We are\nfearless pioneers\nopen for any kind",
+    "entreprise": "Loonshot Company ë£¬ì·ì»´í¼ë",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ios",
+      "dev",
+      "web dev",
+      "exec"
+    ],
+    "resume_neutre": "We are\nfearless pioneers\nopen for any kind chez Loonshot Company ë£¬ì·ì»´í¼ë, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-we-arefearless-pioneersopen-for-any-kind-loonshot-company-1135435",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-4fe96d7de9"
+  },
+  {
+    "id": "jf-de135f5563",
+    "titre": "Current Vacancies",
+    "entreprise": "Anderson Stewart Castings",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Current Vacancies chez Anderson Stewart Castings, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-current-vacancies-anderson-stewart-castings-1135424",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-de135f5563"
+  },
+  {
+    "id": "jf-4cd860750e",
+    "titre": "Why Join Us",
+    "entreprise": "Anderson Stewart Castings",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "marketing",
+      "medical",
+      "non tech",
+      "education"
+    ],
+    "resume_neutre": "Why Join Us chez Anderson Stewart Castings, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-why-join-us-anderson-stewart-castings-1135427",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-4cd860750e"
+  },
+  {
+    "id": "jf-ddbc654f2e",
+    "titre": "Join the Family",
+    "entreprise": "Zen Sushi to Go",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "marketing",
+      "medical",
+      "non tech",
+      "education"
+    ],
+    "resume_neutre": "Join the Family chez Zen Sushi to Go, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-the-family-zen-sushi-to-go-1135426",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-ddbc654f2e"
+  },
+  {
+    "id": "jf-d0f90b66f9",
+    "titre": "Walgreens",
+    "entreprise": "World Veterans",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "Walgreens chez World Veterans, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-walgreens-world-veterans-1135430",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-d0f90b66f9"
+  },
+  {
+    "id": "jf-c6343a9286",
+    "titre": "Starbucks",
+    "entreprise": "World Veterans",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "medical",
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "Starbucks chez World Veterans, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-starbucks-world-veterans-1135431",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-c6343a9286"
+  },
+  {
+    "id": "jf-29dc188978",
+    "titre": "ALL JOBS",
+    "entreprise": "A.R.T. Monbat",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "ALL JOBS chez A.R.T. Monbat, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-all-jobs-a-r-t-monbat-1135432",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-29dc188978"
+  },
+  {
+    "id": "jf-d57ea2fb72",
+    "titre": "Book recommendation",
+    "entreprise": "Level 20 Netherlands",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Book recommendation chez Level 20 Netherlands, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-book-recommendation-level-20-netherlands-1135423",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-d57ea2fb72"
+  },
+  {
     "id": "jf-757c218c04",
     "titre": "https brokehipster.com listings lloyds bank",
     "entreprise": "Broke Hipster",
@@ -5621,167 +5799,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-23",
     "ref_unique": "ma-23c697b268"
-  },
-  {
-    "id": "ma-cc88d2d898",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=5&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=421&relb=110&brelb=110&bscr=2478.0574&scr=2478.0574",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-cc88d2d898"
-  },
-  {
-    "id": "ma-eb5a4841f3",
-    "titre": "OFFRE D’EMPLOI - RH Junior",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - RH Junior chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2368673667718332390?ckey=emploi&rgn=0&pos=6&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=421&relb=110&brelb=110&bscr=2463.8845&scr=2463.8845000000006",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-eb5a4841f3"
-  },
-  {
-    "id": "ma-227215a14a",
-    "titre": "Offre d’emploi - Ouvriers - Settat",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Ouvriers - Settat a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7101302166115846739?ckey=emploi&rgn=0&pos=7&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=29&relb=100&brelb=100&bscr=2427.9287&scr=2427.9287",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-227215a14a"
-  },
-  {
-    "id": "ma-c8d6dd8d37",
-    "titre": "Offre d’emploi - Ouvrier (H/F) - Casablanca",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Ouvrier (H/F) - Casablanca a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4658358540940292627?ckey=emploi&rgn=0&pos=8&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=29&relb=100&brelb=100&bscr=2427.9287&scr=2427.9287",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-c8d6dd8d37"
-  },
-  {
-    "id": "ma-635ea3ef74",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=9&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=37&relb=110&brelb=110&bscr=2369.9001&scr=2369.9001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-635ea3ef74"
-  },
-  {
-    "id": "ma-f18b89697c",
-    "titre": "OFFRE D’EMPLOI - AIDE CUISINIER - Casablanca",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - AIDE CUISINIER - Casablanca a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3470299842340249059?ckey=emploi&rgn=0&pos=10&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=29&relb=100&brelb=100&bscr=2364.7615&scr=2364.7615",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-f18b89697c"
-  },
-  {
-    "id": "ma-dc09d357e8",
-    "titre": "OFFRE D’EMPLOI - CARISTE (CASABLANCA)",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - CARISTE (CASABLANCA) a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7615255612471180220?ckey=emploi&rgn=0&pos=11&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=29&relb=100&brelb=100&bscr=2340.386&scr=2340.386",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-dc09d357e8"
-  },
-  {
-    "id": "ma-c63d2fab9b",
-    "titre": "Offre d’emploi - Superviseur - Settat",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Settat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Superviseur - Settat a Settat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8417053311628165348?ckey=emploi&rgn=0&pos=12&elckey=-6639267787288554890&p=1&aq=2045679097580309639&cid=20&jobAge=29&relb=100&brelb=100&bscr=2340.386&scr=2340.386",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-c63d2fab9b"
-  },
-  {
-    "id": "ma-4f0b51949a",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=1&elckey=-2759053747395341511&p=1&aq=-4647711818112768249&cid=20&jobAge=157&relb=100&brelb=100&bscr=2275.395&scr=2275.395",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-23",
-    "ref_unique": "ma-4f0b51949a"
   }
 ]
