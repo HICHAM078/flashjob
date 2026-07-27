@@ -1,5 +1,152 @@
 [
   {
+    "id": "jf-eb7b5a1b4d",
+    "titre": "Generalist AI Trainer $35 hour",
+    "entreprise": "LinkedIn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "web dev",
+      "exec",
+      "photoshop",
+      "ecommerce"
+    ],
+    "resume_neutre": "Generalist AI Trainer $35 hour chez LinkedIn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-generalist-ai-trainer-35-hour-linkedin-1135442",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-eb7b5a1b4d"
+  },
+  {
+    "id": "jf-02fc79e935",
+    "titre": "Digital Designer",
+    "entreprise": "Revlytic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "finance",
+      "medical"
+    ],
+    "resume_neutre": "Digital Designer chez Revlytic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-02fc79e935"
+  },
+  {
+    "id": "jf-c1d5ed67a7",
+    "titre": "Location Targeting",
+    "entreprise": "AdConversion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec",
+      "ads"
+    ],
+    "resume_neutre": "Location Targeting chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-location-targeting-adconversion-1135467",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-c1d5ed67a7"
+  },
+  {
+    "id": "jf-6edd0af9cf",
+    "titre": "Lead",
+    "entreprise": "AdConversion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Lead chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-6edd0af9cf"
+  },
+  {
+    "id": "jf-64193f83e3",
+    "titre": "Graduate Analyst",
+    "entreprise": "Renewable Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "video",
+      "education",
+      "digital nomad"
+    ],
+    "resume_neutre": "Graduate Analyst chez Renewable Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-64193f83e3"
+  },
+  {
+    "id": "jf-c91d72d5a6",
+    "titre": "Joe Armstrong",
+    "entreprise": "DevTube",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Joe Armstrong chez DevTube, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-joe-armstrong-devtube-1135489",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-c91d72d5a6"
+  },
+  {
+    "id": "jf-4780d02877",
+    "titre": "Management",
+    "entreprise": "DevTube",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Management chez DevTube, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-management-devtube-1135485",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-27",
+    "ref_unique": "jf-4780d02877"
+  },
+  {
     "id": "ma-1ec11e0aa5",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5536,135 +5683,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-24",
     "ref_unique": "ma-a05d5bc035"
-  },
-  {
-    "id": "ma-d7a346773e",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=8&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=565&relb=100&brelb=100&bscr=2008.1793&scr=2008.1793",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-d7a346773e"
-  },
-  {
-    "id": "ma-00906fca60",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=9&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=7306&relb=100&brelb=100&bscr=1942.8792&scr=1942.8792",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-00906fca60"
-  },
-  {
-    "id": "ma-48fc76fdef",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=10&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=37&relb=110&brelb=110&bscr=306.46075&scr=306.46075",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-48fc76fdef"
-  },
-  {
-    "id": "ma-b19d794b21",
-    "titre": "Technicien helpdesk",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien helpdesk chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6176137729780342220?ckey=informatique&rgn=0&pos=11&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=397&relb=110&brelb=110&bscr=294.57718&scr=294.57718",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-b19d794b21"
-  },
-  {
-    "id": "ma-a98c2f2299",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=12&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=85&relb=110&brelb=110&bscr=290.6992&scr=290.6992",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-a98c2f2299"
-  },
-  {
-    "id": "jf-99bcdb66bc",
-    "titre": "Concept Artist",
-    "entreprise": "Youtooz",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Front End",
-    "remote": true,
-    "competences": [
-      "front end",
-      "dev",
-      "design",
-      "web3",
-      "react"
-    ],
-    "resume_neutre": "Concept Artist chez Youtooz, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-concept-artist-youtooz-1135294",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-24",
-    "ref_unique": "jf-99bcdb66bc"
-  },
-  {
-    "id": "jf-1a79f4ce63",
-    "titre": "Profesor a para PreparaciÃ³n de Septiembre",
-    "entreprise": "TUS Media",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Profesor a para PreparaciÃ³n de Septiembre chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-profesor-a-para-preparacion-de-septiembre-tus-media-1135347",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-24",
-    "ref_unique": "jf-1a79f4ce63"
   }
 ]
