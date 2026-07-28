@@ -1,5 +1,426 @@
 [
   {
+    "id": "jf-68dcefe039",
+    "titre": "Open Positions",
+    "entreprise": "VU Bioinformatics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech",
+      "teaching",
+      "medical",
+      "infosec"
+    ],
+    "resume_neutre": "Open Positions chez VU Bioinformatics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-open-positions-vu-bioinformatics-1135510",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-68dcefe039"
+  },
+  {
+    "id": "jf-520a4e93fd",
+    "titre": "Patient Intake Specialist Mental Health",
+    "entreprise": "Sailor Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical"
+    ],
+    "resume_neutre": "Patient Intake Specialist Mental Health chez Sailor Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-intake-specialist-mental-health-sailor-health-1135461",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-520a4e93fd"
+  },
+  {
+    "id": "jf-682b04769c",
+    "titre": "Bilingual Sales Development Representative German English",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "marketing",
+      "finance",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Bilingual Sales Development Representative German English chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bilingual-sales-development-representative-german-english-huzzle-1135460",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-682b04769c"
+  },
+  {
+    "id": "jf-c6e5708e6f",
+    "titre": "Software Developer Intermediate",
+    "entreprise": "Smile Digital Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "medical",
+      "digital nomad"
+    ],
+    "resume_neutre": "Software Developer Intermediate chez Smile Digital Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-c6e5708e6f"
+  },
+  {
+    "id": "jf-9e16d2e4f1",
+    "titre": "Chief Operating Officer",
+    "entreprise": "DSD Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Chief Operating Officer chez DSD Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-dsd-recruitment-1135519",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-9e16d2e4f1"
+  },
+  {
+    "id": "jf-bea782628c",
+    "titre": "Social Media Strategist",
+    "entreprise": "Digital",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Social Media Strategist chez Digital, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-strategist-digital-1135524",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-bea782628c"
+  },
+  {
+    "id": "jf-df52ec3226",
+    "titre": "Andrea Crook",
+    "entreprise": "Go Voices",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec",
+      "ads",
+      "sys admin",
+      "ops"
+    ],
+    "resume_neutre": "Andrea Crook chez Go Voices, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-andrea-crook-go-voices-1135472",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-df52ec3226"
+  },
+  {
+    "id": "jf-0444446e76",
+    "titre": "Instagram VA",
+    "entreprise": "OnlineJobs.PH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Instagram VA chez OnlineJobs.PH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-instagram-va-onlinejobs-ph-1135521",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-0444446e76"
+  },
+  {
+    "id": "jf-5a5f5c3e8e",
+    "titre": "Trend",
+    "entreprise": "AdConversion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Trend chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trend-adconversion-1135488",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-5a5f5c3e8e"
+  },
+  {
+    "id": "jf-e0f077952c",
+    "titre": "Touchpoint",
+    "entreprise": "AdConversion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Touchpoint chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-touchpoint-adconversion-1135491",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-e0f077952c"
+  },
+  {
+    "id": "jf-2b998e0b5e",
+    "titre": "Getting touch",
+    "entreprise": "Smith Robinson Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech",
+      "teaching",
+      "medical",
+      "infosec"
+    ],
+    "resume_neutre": "Getting touch chez Smith Robinson Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-getting-touch-smith-robinson-limited-1135512",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-2b998e0b5e"
+  },
+  {
+    "id": "jf-adac43a393",
+    "titre": "Illustrator Childrenâs Book Art",
+    "entreprise": "Twine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Illustrator",
+    "remote": true,
+    "competences": [
+      "illustrator"
+    ],
+    "resume_neutre": "Illustrator Childrenâs Book Art chez Twine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-illustrator-childrens-book-art-twine-1135458",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-adac43a393"
+  },
+  {
+    "id": "jf-c44a0cf556",
+    "titre": "v",
+    "entreprise": "Norsk senter for CERN-relatert forskning (NorCC)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "v chez Norsk senter for CERN-relatert forskning (NorCC), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-v-norsk-senter-for-cern-relatert-forskning-norcc-1135499",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-c44a0cf556"
+  },
+  {
+    "id": "jf-00354401ce",
+    "titre": "Join Our Team",
+    "entreprise": "J Group Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin"
+    ],
+    "resume_neutre": "Join Our Team chez J Group Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-j-group-corporation-1135465",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-00354401ce"
+  },
+  {
+    "id": "jf-9c630f8504",
+    "titre": "Skilled Labourer",
+    "entreprise": "J Group Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec",
+      "ads",
+      "sys admin",
+      "ops"
+    ],
+    "resume_neutre": "Skilled Labourer chez J Group Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-skilled-labourer-j-group-corporation-1135471",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-9c630f8504"
+  },
+  {
+    "id": "jf-9dd9103c25",
+    "titre": "Who We Are",
+    "entreprise": "Pet Health Insurance Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Who We Are chez Pet Health Insurance Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-who-we-are-pet-health-insurance-services-1135494",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-9dd9103c25"
+  },
+  {
+    "id": "jf-ea5e15b957",
+    "titre": "NUNAVUT",
+    "entreprise": "Team Panamera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech",
+      "teaching",
+      "medical",
+      "infosec"
+    ],
+    "resume_neutre": "NUNAVUT chez Team Panamera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nunavut-team-panamera-1135511",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-ea5e15b957"
+  },
+  {
+    "id": "jf-1771e698bf",
+    "titre": "Job Details",
+    "entreprise": "Indi Connect",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Job Details chez Indi Connect, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-details-indi-connect-1135557",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-1771e698bf"
+  },
+  {
+    "id": "jf-573aeaccf2",
+    "titre": "Other",
+    "entreprise": "Kamsons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec",
+      "ads",
+      "sys admin",
+      "ops"
+    ],
+    "resume_neutre": "Other chez Kamsons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-other-kamsons-1135470",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-573aeaccf2"
+  },
+  {
+    "id": "jf-6194da319d",
+    "titre": "Courtney Shires",
+    "entreprise": "TRS Investments LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "ecommerce",
+      "non tech",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Courtney Shires chez TRS Investments LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-courtney-shires-trs-investments-llc-1135553",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-6194da319d"
+  },
+  {
     "id": "jf-fc70326efe",
     "titre": "Ottawa ON",
     "entreprise": "LEAKPRO",
@@ -5359,365 +5780,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-24",
     "ref_unique": "ma-2ba296512b"
-  },
-  {
-    "id": "ma-ff543f8d66",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=9&elckey=1083109409215067731&p=1&aq=5966479133920846355&cid=20&jobAge=445&relb=110&brelb=110&bscr=2421.2256&scr=2421.2256000000007",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-ff543f8d66"
-  },
-  {
-    "id": "ma-90c588a385",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=10&elckey=1083109409215067731&p=1&aq=5966479133920846355&cid=20&jobAge=37&relb=110&brelb=110&bscr=2383.139&scr=2383.139",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-90c588a385"
-  },
-  {
-    "id": "ma-91a11c6439",
-    "titre": "Offre d’emploi : Cariste - Rabat",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : Cariste - Rabat a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2264272256435662049?ckey=emploi&rgn=0&pos=11&elckey=1083109409215067731&p=1&aq=5966479133920846355&cid=20&jobAge=53&relb=100&brelb=100&bscr=2360.0645&scr=2360.0645",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-91a11c6439"
-  },
-  {
-    "id": "ma-cad7a9a4d9",
-    "titre": "OFFRE D’EMPLOI - CARISTE (CASABLANCA)",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - CARISTE (CASABLANCA) a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7615255612471180220?ckey=emploi&rgn=0&pos=12&elckey=1083109409215067731&p=1&aq=5966479133920846355&cid=20&jobAge=53&relb=100&brelb=100&bscr=2335.2454&scr=2335.2454",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-cad7a9a4d9"
-  },
-  {
-    "id": "ma-c73bc74667",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=1&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=181&relb=100&brelb=100&bscr=2310.7583&scr=2310.7583",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-c73bc74667"
-  },
-  {
-    "id": "ma-c125d1d84a",
-    "titre": "COMPTABLE EXPERIMENTE",
-    "entreprise": "RIBATIS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMPTABLE EXPERIMENTE chez RIBATIS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3421496598660856329?ckey=comptable&rgn=946&pos=2&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=37&relb=100&brelb=100&bscr=2278.8196&scr=2278.8196",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-c125d1d84a"
-  },
-  {
-    "id": "ma-aa437f72da",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=3&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=781&relb=100&brelb=100&bscr=2244.2314&scr=2244.2314",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-aa437f72da"
-  },
-  {
-    "id": "ma-45510a1a79",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-153838199394590855?ckey=comptable&rgn=946&pos=4&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=537&relb=100&brelb=100&bscr=2208.36&scr=2208.36",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-45510a1a79"
-  },
-  {
-    "id": "ma-36dc7a4007",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=5&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=323&relb=100&brelb=100&bscr=2174.6555&scr=2174.6555",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-36dc7a4007"
-  },
-  {
-    "id": "ma-855b4d7370",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=6&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=445&relb=100&brelb=100&bscr=2129.4238&scr=2129.4238",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-855b4d7370"
-  },
-  {
-    "id": "ma-4fb46337bd",
-    "titre": "Comptable / Agent de Facturation - Casablanca",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable / Agent de Facturation - Casablanca a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4428664852311948447?ckey=comptable&rgn=946&pos=7&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=53&relb=100&brelb=100&bscr=2117.2505&scr=2117.2505",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-4fb46337bd"
-  },
-  {
-    "id": "ma-d2ce2ac5da",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=8&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=877&relb=100&brelb=100&bscr=2069.6624&scr=2069.6624",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-d2ce2ac5da"
-  },
-  {
-    "id": "ma-cb1e850691",
-    "titre": "Comptable Confirmé(e) - Casablanca",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé(e) - Casablanca a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/475229893183208428?ckey=comptable&rgn=946&pos=9&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=53&relb=100&brelb=100&bscr=2037.1296&scr=2037.1296",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-cb1e850691"
-  },
-  {
-    "id": "ma-d7072ba677",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=10&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=659&relb=100&brelb=100&bscr=2034.0021&scr=2034.0021",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-d7072ba677"
-  },
-  {
-    "id": "ma-8f7a05444a",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=11&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=925&relb=100&brelb=100&bscr=1997.8859&scr=1997.8859",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-8f7a05444a"
-  },
-  {
-    "id": "ma-ed9fb1f8b4",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=12&elckey=4963323449108281110&p=1&aq=-5790507948820951537&cid=20&jobAge=781&relb=100&brelb=100&bscr=1985.3552&scr=1985.3552",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-ed9fb1f8b4"
-  },
-  {
-    "id": "ma-287b1eb987",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2233551344258777083?ckey=commercial&rgn=938&pos=1&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=445&relb=110&brelb=110&bscr=1730.6968&scr=1730.6968",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-287b1eb987"
-  },
-  {
-    "id": "ma-da1e03617a",
-    "titre": "Commercial Sédentaire B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Sédentaire B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8785473977155328145?ckey=commercial&rgn=938&pos=2&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=37&relb=110&brelb=110&bscr=1715.814&scr=1715.814",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-da1e03617a"
-  },
-  {
-    "id": "ma-bf4ee17a11",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=3&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=565&relb=110&brelb=110&bscr=1689.2478&scr=1689.2478",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-bf4ee17a11"
-  },
-  {
-    "id": "ma-06738d35b8",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4758315232309467945?ckey=commercial&rgn=938&pos=4&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=541&relb=110&brelb=110&bscr=1636.6927&scr=1636.6927",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-06738d35b8"
   }
 ]
