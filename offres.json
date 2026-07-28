@@ -1,5 +1,311 @@
 [
   {
+    "id": "jf-fc70326efe",
+    "titre": "Ottawa ON",
+    "entreprise": "LEAKPRO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Ottawa ON chez LEAKPRO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ottawa-on-leakpro-1135476",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-fc70326efe"
+  },
+  {
+    "id": "jf-158f2a448a",
+    "titre": "Candidate Requirements",
+    "entreprise": "The VETS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Candidate Requirements chez The VETS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-candidate-requirements-the-vets-1135500",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-158f2a448a"
+  },
+  {
+    "id": "jf-6b46fa9f2b",
+    "titre": "Full",
+    "entreprise": "HandySpot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Full chez HandySpot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-full-handyspot-1135462",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-6b46fa9f2b"
+  },
+  {
+    "id": "jf-2553713c6a",
+    "titre": "Free",
+    "entreprise": "HandySpot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Free chez HandySpot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-free-handyspot-1135464",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-2553713c6a"
+  },
+  {
+    "id": "jf-80e75791a2",
+    "titre": "HR Operations Generalist",
+    "entreprise": "Hired",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "medical",
+      "hr",
+      "ops"
+    ],
+    "resume_neutre": "HR Operations Generalist chez Hired, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-operations-generalist-hired-1135450",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-80e75791a2"
+  },
+  {
+    "id": "jf-6b8c26a3c1",
+    "titre": "Medical Scheduler",
+    "entreprise": "CareStream Advisory Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "medical"
+    ],
+    "resume_neutre": "Medical Scheduler chez CareStream Advisory Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-carestream-advisory-group-1135449",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-6b8c26a3c1"
+  },
+  {
+    "id": "jf-71d2640a18",
+    "titre": "Administrative Assistant",
+    "entreprise": "IT Resources",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant"
+    ],
+    "resume_neutre": "Administrative Assistant chez IT Resources, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-it-resources-1135448",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-71d2640a18"
+  },
+  {
+    "id": "jf-5263e54549",
+    "titre": "No positions currently available",
+    "entreprise": "UpTye",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "ops",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "No positions currently available chez UpTye, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-5263e54549"
+  },
+  {
+    "id": "jf-7b87ca4b89",
+    "titre": "Mews",
+    "entreprise": "DutchTechX",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Admin",
+    "remote": true,
+    "competences": [
+      "admin",
+      "exec",
+      "ads",
+      "sys admin",
+      "ops"
+    ],
+    "resume_neutre": "Mews chez DutchTechX, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mews-dutchtechx-1135468",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-7b87ca4b89"
+  },
+  {
+    "id": "jf-f63a114583",
+    "titre": "Innovate with Came",
+    "entreprise": "BEMapps.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Innovate with Came chez BEMapps.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-innovate-with-came-bemapps-com-1135463",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-f63a114583"
+  },
+  {
+    "id": "jf-5486fa2ca4",
+    "titre": "Expertise Path and Manager Path",
+    "entreprise": "nidup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Expertise Path and Manager Path chez nidup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expertise-path-and-manager-path-nidup-1135495",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-5486fa2ca4"
+  },
+  {
+    "id": "jf-6d7907c130",
+    "titre": "Rent the Runway",
+    "entreprise": "nidup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Rent the Runway chez nidup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rent-the-runway-nidup-1135490",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-6d7907c130"
+  },
+  {
+    "id": "jf-331378d9a8",
+    "titre": "Supervisor",
+    "entreprise": "Strive Engineering Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Supervisor chez Strive Engineering Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supervisor-strive-engineering-solutions-1135493",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-331378d9a8"
+  },
+  {
+    "id": "jf-430af89e43",
+    "titre": "System kolejkowy KolejkoBot",
+    "entreprise": "WidNet",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "System kolejkowy KolejkoBot chez WidNet, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-system-kolejkowy-kolejkobot-widnet-1135502",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-430af89e43"
+  },
+  {
+    "id": "jf-9c5ddc992e",
+    "titre": "Prediction Markets",
+    "entreprise": "responsiblo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ads",
+      "exec",
+      "digital nomad",
+      "technical"
+    ],
+    "resume_neutre": "Prediction Markets chez responsiblo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-prediction-markets-responsiblo-1135492",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-28",
+    "ref_unique": "jf-9c5ddc992e"
+  },
+  {
     "id": "jf-eb7b5a1b4d",
     "titre": "Generalist AI Trainer $35 hour",
     "entreprise": "LinkedIn",
@@ -5413,275 +5719,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-24",
     "ref_unique": "ma-06738d35b8"
-  },
-  {
-    "id": "ma-a48b2441ec",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=5&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=109&relb=110&brelb=110&bscr=1620.491&scr=1620.491",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-a48b2441ec"
-  },
-  {
-    "id": "ma-3cc9a62076",
-    "titre": "Téléprospecteur B2B / Commercial Outbound B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Téléprospecteur B2B / Commercial Outbound B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3200768005719685137?ckey=commercial&rgn=938&pos=6&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=37&relb=110&brelb=110&bscr=1618.8549&scr=1618.8549000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-3cc9a62076"
-  },
-  {
-    "id": "ma-cb72642c01",
-    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=7&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=37&relb=110&brelb=110&bscr=1618.8549&scr=1618.8549000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-cb72642c01"
-  },
-  {
-    "id": "ma-f3b83f65f5",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8807567178699854695?ckey=commercial&rgn=938&pos=8&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=37&relb=110&brelb=110&bscr=1613.912&scr=1613.912",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-f3b83f65f5"
-  },
-  {
-    "id": "ma-f03a66d7f7",
-    "titre": "Conseiller commercial b2b (h/f) - expérimenté",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial b2b (h/f) - expérimenté chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6385666403936019724?ckey=commercial&rgn=938&pos=9&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=61&relb=110&brelb=110&bscr=1568.4493&scr=1568.4493",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-f03a66d7f7"
-  },
-  {
-    "id": "ma-5a32d75482",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3659443728093596708?ckey=commercial&rgn=938&pos=10&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=205&relb=110&brelb=110&bscr=1549.6029&scr=1549.6029",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-5a32d75482"
-  },
-  {
-    "id": "ma-8c864f28bf",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=11&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=37&relb=110&brelb=110&bscr=1532.7095&scr=1532.7095",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-8c864f28bf"
-  },
-  {
-    "id": "ma-1fad03bb81",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=12&elckey=1292379805798700293&p=1&aq=-5120645549803244331&cid=20&jobAge=61&relb=110&brelb=110&bscr=1531.42&scr=1531.42",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-1fad03bb81"
-  },
-  {
-    "id": "ma-f426cee1be",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=706&relb=100&brelb=100&bscr=2951.6882&scr=2951.6882",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-f426cee1be"
-  },
-  {
-    "id": "ma-cc8374a5d5",
-    "titre": "Technicien Support Informatique (Niveau 1)",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique (Niveau 1) a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4426549093500028596?ckey=informatique&rgn=0&pos=2&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=53&relb=100&brelb=100&bscr=2412.5947&scr=2412.5947",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-cc8374a5d5"
-  },
-  {
-    "id": "ma-049459c134",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=3&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=781&relb=100&brelb=100&bscr=2341.3677&scr=2341.3677",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-049459c134"
-  },
-  {
-    "id": "ma-4599bcf4a2",
-    "titre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux",
-    "entreprise": "Kiassure Succursale",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Candidature - Jeune talent en informatique, IA et réseaux sociaux chez Kiassure Succursale, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9172551299843894699?ckey=informatique&rgn=0&pos=4&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=709&relb=110&brelb=110&bscr=2249.3665&scr=2249.3665",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-4599bcf4a2"
-  },
-  {
-    "id": "ma-decf8fb316",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=7306&relb=100&brelb=100&bscr=2237.2686&scr=2237.2686",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-decf8fb316"
-  },
-  {
-    "id": "ma-c436fcfaef",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=6&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=589&relb=110&brelb=110&bscr=2156.678&scr=2156.678",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-c436fcfaef"
-  },
-  {
-    "id": "ma-a05d5bc035",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=7&elckey=-5201885129128666907&p=1&aq=-1467290965129092962&cid=20&jobAge=7306&relb=100&brelb=100&bscr=2090.2627&scr=2090.2627",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-24",
-    "ref_unique": "ma-a05d5bc035"
   }
 ]
