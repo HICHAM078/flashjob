@@ -1,5 +1,214 @@
 [
   {
+    "id": "jf-e434d966fe",
+    "titre": "MJV Group Multiple Positions",
+    "entreprise": "Grow Wabash County",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "MJV Group Multiple Positions chez Grow Wabash County, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mjv-group-multiple-positions-grow-wabash-county-1135587",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-e434d966fe"
+  },
+  {
+    "id": "jf-1cabc15844",
+    "titre": "Forward Rewards",
+    "entreprise": "FORWARD (Forward Telecom)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Telecom",
+    "remote": true,
+    "competences": [
+      "telecom",
+      "non tech"
+    ],
+    "resume_neutre": "Forward Rewards chez FORWARD (Forward Telecom), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-forward-rewards-forward-forward-telecom-1135577",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-1cabc15844"
+  },
+  {
+    "id": "jf-ea416ef988",
+    "titre": "Forward DMP",
+    "entreprise": "FORWARD (Forward Telecom)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Telecom",
+    "remote": true,
+    "competences": [
+      "telecom",
+      "non tech"
+    ],
+    "resume_neutre": "Forward DMP chez FORWARD (Forward Telecom), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-forward-dmp-forward-forward-telecom-1135576",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-ea416ef988"
+  },
+  {
+    "id": "jf-41de094b7f",
+    "titre": "Not Finding Your Fit Apply Here",
+    "entreprise": "The Buckle, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "dev",
+      "copywriting",
+      "testing",
+      "analyst"
+    ],
+    "resume_neutre": "Not Finding Your Fit Apply Here chez The Buckle, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-41de094b7f"
+  },
+  {
+    "id": "jf-6cfbf2e4ad",
+    "titre": "Analista de Projetos JÃºnior DEP",
+    "entreprise": "americanas s.a.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "excel",
+      "ecommerce",
+      "non tech",
+      "digital nomad"
+    ],
+    "resume_neutre": "Analista de Projetos JÃºnior DEP chez americanas s.a., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-junior-dep-americanas-s-a-1135615",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-6cfbf2e4ad"
+  },
+  {
+    "id": "jf-f5ceb0af62",
+    "titre": "Video Editor Reacts",
+    "entreprise": "MrBeast",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "technical",
+      "travel",
+      "speech"
+    ],
+    "resume_neutre": "Video Editor Reacts chez MrBeast, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-reacts-mrbeast-1135607",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-f5ceb0af62"
+  },
+  {
+    "id": "jf-41e814fb02",
+    "titre": "Senior DevOps Engineer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "devops"
+    ],
+    "resume_neutre": "Senior DevOps Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-41e814fb02"
+  },
+  {
+    "id": "jf-966acc3da3",
+    "titre": "Area Sales Manager",
+    "entreprise": "ROAR Organic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "technical",
+      "travel",
+      "speech"
+    ],
+    "resume_neutre": "Area Sales Manager chez ROAR Organic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-966acc3da3"
+  },
+  {
+    "id": "jf-e4d58df9ec",
+    "titre": "Sales &amp; Marketing Director",
+    "entreprise": "Hustler Marketing",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "marketing",
+      "finance",
+      "seo"
+    ],
+    "resume_neutre": "Sales &amp; Marketing Director chez Hustler Marketing, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-amp-marketing-director-hustler-marketing-1135575",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-e4d58df9ec"
+  },
+  {
+    "id": "jf-ef7cdc4957",
+    "titre": "AWESOME LIFE",
+    "entreprise": "Awesome Entertainment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "javascript",
+      "exec",
+      "recruiter"
+    ],
+    "resume_neutre": "AWESOME LIFE chez Awesome Entertainment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-awesome-life-awesome-entertainment-1135631",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-ef7cdc4957"
+  },
+  {
     "id": "jf-c770b43f85",
     "titre": "Jop posting title",
     "entreprise": "Koorier",
@@ -5579,185 +5788,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-26",
     "ref_unique": "ma-c0253b209d"
-  },
-  {
-    "id": "ma-183ea8517c",
-    "titre": "Offre d'emploi - technicien en téléphonie et support technique",
-    "entreprise": "A2s One",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - technicien en téléphonie et support technique chez A2s One, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7843532371287002238?ckey=emploi&rgn=0&pos=11&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=469&relb=110&brelb=110&bscr=2365.7522&scr=2365.7522",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-183ea8517c"
-  },
-  {
-    "id": "ma-27cfd034e8",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=12&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=85&relb=110&brelb=110&bscr=2360.7002&scr=2360.7002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-27cfd034e8"
-  },
-  {
-    "id": "ma-8216c70074",
-    "titre": "COMPTABLE EXPERIMENTE",
-    "entreprise": "RIBATIS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMPTABLE EXPERIMENTE chez RIBATIS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3421496598660856329?ckey=comptable&rgn=946&pos=1&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=85&relb=100&brelb=100&bscr=2298.9373&scr=2298.9373",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-8216c70074"
-  },
-  {
-    "id": "ma-1ece8f53c3",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2574989383038768422?ckey=comptable&rgn=946&pos=2&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=585&relb=100&brelb=100&bscr=2245.1748&scr=2245.1748",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-1ece8f53c3"
-  },
-  {
-    "id": "ma-0255587db3",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=3&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=229&relb=100&brelb=100&bscr=2210.6035&scr=2210.6035",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-0255587db3"
-  },
-  {
-    "id": "ma-061a726533",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=4&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=829&relb=100&brelb=100&bscr=2135.7866&scr=2135.7866",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-061a726533"
-  },
-  {
-    "id": "ma-7daed025e4",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=5&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=706&relb=100&brelb=100&bscr=2065.5476&scr=2065.5476",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-7daed025e4"
-  },
-  {
-    "id": "ma-073cff8612",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=6&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=370&relb=100&brelb=100&bscr=2050.431&scr=2050.431",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-073cff8612"
-  },
-  {
-    "id": "ma-7a67482a0a",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=7&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=493&relb=100&brelb=100&bscr=2004.815&scr=2004.815",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-7a67482a0a"
-  },
-  {
-    "id": "ma-431815dbcb",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=8&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=634&relb=100&brelb=100&bscr=1985.048&scr=1985.0479999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-431815dbcb"
   }
 ]
