@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-c770b43f85",
+    "titre": "Jop posting title",
+    "entreprise": "Koorier",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Jop posting title chez Koorier, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-jop-posting-title-koorier-1135560",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-c770b43f85"
+  },
+  {
+    "id": "jf-ad9fa75070",
+    "titre": "Moderator of Orders Feed",
+    "entreprise": "inDrive",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "technical",
+      "strategy",
+      "virtual assistant",
+      "cloud"
+    ],
+    "resume_neutre": "Moderator of Orders Feed chez inDrive, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-moderator-of-orders-feed-indrive-1135573",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-ad9fa75070"
+  },
+  {
+    "id": "jf-9cca10414b",
+    "titre": "Speculative CV",
+    "entreprise": "ETL Systems",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "designer",
+      "customer support",
+      "scheme",
+      "medical"
+    ],
+    "resume_neutre": "Speculative CV chez ETL Systems, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-speculative-cv-etl-systems-1135585",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-9cca10414b"
+  },
+  {
+    "id": "jf-60cd32f12d",
+    "titre": "Expression of Interest",
+    "entreprise": "Bridges - Trusted Intelligent Engineering Partner",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "designer",
+      "customer support",
+      "scheme",
+      "medical"
+    ],
+    "resume_neutre": "Expression of Interest chez Bridges - Trusted Intelligent Engineering Partner, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-bridges-trusted-intelligent-engineering-partner-1135583",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-29",
+    "ref_unique": "jf-60cd32f12d"
+  },
+  {
     "id": "ma-04abf033f1",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5675,77 +5759,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-26",
     "ref_unique": "ma-431815dbcb"
-  },
-  {
-    "id": "ma-bd6cf88b14",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=9&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=925&relb=100&brelb=100&bscr=1967.3862&scr=1967.3862",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-bd6cf88b14"
-  },
-  {
-    "id": "ma-24d9289e77",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=10&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=874&relb=100&brelb=100&bscr=1934.9209&scr=1934.9209",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-24d9289e77"
-  },
-  {
-    "id": "ma-39bfd5c65b",
-    "titre": "Comptable (H/F) - Casablanca",
-    "entreprise": "DEKRA SERVICES",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable (H/F) - Casablanca chez DEKRA SERVICES, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1834048713140596388?ckey=comptable&rgn=946&pos=11&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=829&relb=100&brelb=100&bscr=1922.0422&scr=1922.0422",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-39bfd5c65b"
-  },
-  {
-    "id": "ma-7a5fa37e55",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "INGELEC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez INGELEC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2752603304886398974?ckey=comptable&rgn=946&pos=12&elckey=-8407279192807168125&p=1&aq=695406728214093465&cid=20&jobAge=973&relb=100&brelb=100&bscr=1915.945&scr=1915.945",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-7a5fa37e55"
   }
 ]
