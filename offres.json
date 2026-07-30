@@ -1,5 +1,196 @@
 [
   {
+    "id": "jf-feb4fcb96b",
+    "titre": "test",
+    "entreprise": "UztexGroup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "pascal",
+      "cassandra",
+      "testing"
+    ],
+    "resume_neutre": "test chez UztexGroup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-uztexgroup-1135624",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-feb4fcb96b"
+  },
+  {
+    "id": "jf-803a87a2c6",
+    "titre": "BUSINESS &amp; SUPPORT",
+    "entreprise": "Amal Semiconductor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "BUSINESS &amp; SUPPORT chez Amal Semiconductor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-amp-support-amal-semiconductor-1135617",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-803a87a2c6"
+  },
+  {
+    "id": "jf-4a5a712838",
+    "titre": "Auxiliar de Recursos Humanos",
+    "entreprise": "Universia Brasil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Auxiliar de Recursos Humanos chez Universia Brasil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-recursos-humanos-universia-brasil-1135612",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-4a5a712838"
+  },
+  {
+    "id": "jf-a00655ab6e",
+    "titre": "Chief of Staff the CEO",
+    "entreprise": "Everyday Dose",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "technical",
+      "travel",
+      "speech"
+    ],
+    "resume_neutre": "Chief of Staff the CEO chez Everyday Dose, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-everyday-dose-1135608",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-a00655ab6e"
+  },
+  {
+    "id": "jf-92d7413c16",
+    "titre": "Hospice",
+    "entreprise": "Hometown Deli &amp; Grocery",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "infosec",
+      "music",
+      "education"
+    ],
+    "resume_neutre": "Hospice chez Hometown Deli &amp; Grocery, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hospice-hometown-deli-amp-grocery-1135592",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-92d7413c16"
+  },
+  {
+    "id": "jf-6cba470d36",
+    "titre": "Acoustical Management",
+    "entreprise": "Hometown Deli &amp; Grocery",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "infosec",
+      "music",
+      "education"
+    ],
+    "resume_neutre": "Acoustical Management chez Hometown Deli &amp; Grocery, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-acoustical-management-hometown-deli-amp-grocery-1135593",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-6cba470d36"
+  },
+  {
+    "id": "jf-b513cc480d",
+    "titre": "REEDER",
+    "entreprise": "Tarsu AlÄ±ÅveriÅ Merkezi",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "pascal",
+      "cassandra",
+      "testing"
+    ],
+    "resume_neutre": "REEDER chez Tarsu AlÄ±ÅveriÅ Merkezi, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-reeder-tarsu-alisveris-merkezi-1135628",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-b513cc480d"
+  },
+  {
+    "id": "jf-07b1cdba24",
+    "titre": "FLO",
+    "entreprise": "Tarsu AlÄ±ÅveriÅ Merkezi",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "pascal",
+      "cassandra",
+      "testing"
+    ],
+    "resume_neutre": "FLO chez Tarsu AlÄ±ÅveriÅ Merkezi, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-flo-tarsu-alisveris-merkezi-1135625",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-07b1cdba24"
+  },
+  {
+    "id": "jf-233cfd71a5",
+    "titre": "Supportive Gardener",
+    "entreprise": "Joi AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "exec",
+      "medical",
+      "marketing",
+      "accounting"
+    ],
+    "resume_neutre": "Supportive Gardener chez Joi AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supportive-gardener-joi-ai-1135666",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-233cfd71a5"
+  },
+  {
     "id": "jf-566253aedf",
     "titre": "Empathetic Friend",
     "entreprise": "Joi AI",
@@ -5627,186 +5818,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-26",
     "ref_unique": "jf-4bfb11a815"
-  },
-  {
-    "id": "jf-d3bc6e5b95",
-    "titre": "Come and join us",
-    "entreprise": "Innovation @ University Hospitals Tees",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech"
-    ],
-    "resume_neutre": "Come and join us chez Innovation @ University Hospitals Tees, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-come-and-join-us-innovation-university-hospitals-tees-1135418",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-d3bc6e5b95"
-  },
-  {
-    "id": "jf-7386997eb2",
-    "titre": "No",
-    "entreprise": "the Shapeshifter",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech"
-    ],
-    "resume_neutre": "No chez the Shapeshifter, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-no-the-shapeshifter-1135416",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-7386997eb2"
-  },
-  {
-    "id": "jf-26cf9300eb",
-    "titre": "Widen the circle",
-    "entreprise": "the Shapeshifter",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech",
-      "design",
-      "exec",
-      "recruiter",
-      "customer support"
-    ],
-    "resume_neutre": "Widen the circle chez the Shapeshifter, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-widen-the-circle-the-shapeshifter-1135419",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-26cf9300eb"
-  },
-  {
-    "id": "jf-28ab4bb095",
-    "titre": "Drafter Expertise AutoCAD Revit Lumion and SketchUp",
-    "entreprise": "MyVA Support (MyVAS)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "customer support",
-      "video",
-      "education",
-      "digital nomad"
-    ],
-    "resume_neutre": "Drafter Expertise AutoCAD Revit Lumion and SketchUp chez MyVA Support (MyVAS), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-drafter-expertise-autocad-revit-lumion-and-sketchup-myva-support-myvas-1135438",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-28ab4bb095"
-  },
-  {
-    "id": "jf-a13789865d",
-    "titre": "Architectural Interior Designer",
-    "entreprise": "MyVA Support (MyVAS)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "customer support",
-      "video",
-      "education",
-      "digital nomad"
-    ],
-    "resume_neutre": "Architectural Interior Designer chez MyVA Support (MyVAS), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-architectural-interior-designer-myva-support-myvas-1135439",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-a13789865d"
-  },
-  {
-    "id": "jf-ade3050330",
-    "titre": "Field Technician",
-    "entreprise": "Nexy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Speech",
-    "remote": true,
-    "competences": [
-      "speech"
-    ],
-    "resume_neutre": "Field Technician chez Nexy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-field-technician-nexy-1135417",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-ade3050330"
-  },
-  {
-    "id": "jf-1817478ec1",
-    "titre": "THOUGHTFUL NAVIGATOR",
-    "entreprise": "Heather Hill Coaching &amp; Consultancy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Consulting",
-    "remote": true,
-    "competences": [
-      "consulting"
-    ],
-    "resume_neutre": "THOUGHTFUL NAVIGATOR chez Heather Hill Coaching &amp; Consultancy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-thoughtful-navigator-heather-hill-coaching-amp-consultancy-1135412",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-1817478ec1"
-  },
-  {
-    "id": "jf-ea99a27d39",
-    "titre": "Freelance Photo Retoucher",
-    "entreprise": "Catbird NYC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "web dev",
-      "exec",
-      "photoshop",
-      "ecommerce"
-    ],
-    "resume_neutre": "Freelance Photo Retoucher chez Catbird NYC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-photo-retoucher-catbird-nyc-1135441",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-ea99a27d39"
-  },
-  {
-    "id": "jf-148c7bfa47",
-    "titre": "Architect CAD & Construction Documentation",
-    "entreprise": "YO IT Consulting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Video",
-    "remote": true,
-    "competences": [
-      "video",
-      "content writing",
-      "consulting",
-      "architecture"
-    ],
-    "resume_neutre": "Architect CAD & Construction Documentation chez YO IT Consulting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-architect-cad-construction-documentation-yo-it-consulting-1135405",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-148c7bfa47"
   }
 ]
