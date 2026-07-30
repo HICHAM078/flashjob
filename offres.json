@@ -1,5 +1,150 @@
 [
   {
+    "id": "jf-636a95afe2",
+    "titre": "Job Title",
+    "entreprise": "JW Grand",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Job Title chez JW Grand, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-title-jw-grand-1135636",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-636a95afe2"
+  },
+  {
+    "id": "jf-f5f6e08193",
+    "titre": "Join our team",
+    "entreprise": "Mailivery.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "sales",
+      "non tech",
+      "digital nomad"
+    ],
+    "resume_neutre": "Join our team chez Mailivery.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-mailivery-io-1135637",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-f5f6e08193"
+  },
+  {
+    "id": "jf-24cfc2ba7a",
+    "titre": "Lion King",
+    "entreprise": "BiFlorica",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "pascal",
+      "cassandra"
+    ],
+    "resume_neutre": "Lion King chez BiFlorica, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lion-king-biflorica-1135623",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-24cfc2ba7a"
+  },
+  {
+    "id": "jf-0eac85815a",
+    "titre": "TÃ©lÃ©travail Professeur Particulier",
+    "entreprise": "TUS Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "python",
+      "dev",
+      "javascript",
+      "node"
+    ],
+    "resume_neutre": "TÃ©lÃ©travail Professeur Particulier chez TUS Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-0eac85815a"
+  },
+  {
+    "id": "jf-7ccac726dd",
+    "titre": "Butcher",
+    "entreprise": "Lindos Group Of Companies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Butcher chez Lindos Group Of Companies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-butcher-lindos-group-of-companies-1135653",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-7ccac726dd"
+  },
+  {
+    "id": "jf-dbf2426e3b",
+    "titre": "Patient Access and Intake Coordinator",
+    "entreprise": "Kindred",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "education",
+      "exec",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Patient Access and Intake Coordinator chez Kindred, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-access-and-intake-coordinator-kindred-1135670",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-dbf2426e3b"
+  },
+  {
+    "id": "jf-1a3cbf6389",
+    "titre": "Senior Demand Generation Manager",
+    "entreprise": "TestGorilla",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "marketing"
+    ],
+    "resume_neutre": "Senior Demand Generation Manager chez TestGorilla, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-demand-generation-manager-testgorilla-1135606",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-1a3cbf6389"
+  },
+  {
     "id": "ma-1ec19790bc",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5646,131 +5791,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-27",
     "ref_unique": "ma-dba69534f0"
-  },
-  {
-    "id": "ma-9d0f0b0ef4",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2574989383038768422?ckey=comptable&rgn=946&pos=2&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=610&relb=100&brelb=100&bscr=2232.4072&scr=2232.4072",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-9d0f0b0ef4"
-  },
-  {
-    "id": "ma-d3b7d1680f",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=3&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=254&relb=100&brelb=100&bscr=2226.7158&scr=2226.7158",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-d3b7d1680f"
-  },
-  {
-    "id": "ma-f9f2a15d94",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=4&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=854&relb=100&brelb=100&bscr=2139.7502&scr=2139.7502",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-f9f2a15d94"
-  },
-  {
-    "id": "ma-ecd563177c",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=5&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=396&relb=100&brelb=100&bscr=2062.4575&scr=2062.4575",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-ecd563177c"
-  },
-  {
-    "id": "ma-25c37f9a16",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=6&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=732&relb=100&brelb=100&bscr=2052.239&scr=2052.239",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-25c37f9a16"
-  },
-  {
-    "id": "ma-c60ae254b9",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=7&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=518&relb=100&brelb=100&bscr=2015.0151&scr=2015.0151",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-c60ae254b9"
-  },
-  {
-    "id": "ma-dc75793e9a",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=8&elckey=8839800084039884260&p=1&aq=-557727003387271888&cid=20&jobAge=660&relb=100&brelb=100&bscr=1973.1277&scr=1973.1277",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-27",
-    "ref_unique": "ma-dc75793e9a"
   }
 ]
