@@ -1,5 +1,224 @@
 [
   {
+    "id": "jf-566253aedf",
+    "titre": "Empathetic Friend",
+    "entreprise": "Joi AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "infosec",
+      "music",
+      "education"
+    ],
+    "resume_neutre": "Empathetic Friend chez Joi AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-empathetic-friend-joi-ai-1135594",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-566253aedf"
+  },
+  {
+    "id": "jf-8e676f5b19",
+    "titre": "Graphic Designer",
+    "entreprise": "Miranda Creative, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "technical",
+      "travel",
+      "speech"
+    ],
+    "resume_neutre": "Graphic Designer chez Miranda Creative, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-8e676f5b19"
+  },
+  {
+    "id": "jf-bfafd87bbb",
+    "titre": "ACT Application Form",
+    "entreprise": "Yo-Bar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Senior",
+    "remote": true,
+    "competences": [
+      "senior",
+      "hr",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "ACT Application Form chez Yo-Bar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-act-application-form-yo-bar-1135603",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-bfafd87bbb"
+  },
+  {
+    "id": "jf-7a9f1250ef",
+    "titre": "Handyman Jobs",
+    "entreprise": "Lsn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Handyman Jobs chez Lsn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-jobs-lsn-1135595",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-7a9f1250ef"
+  },
+  {
+    "id": "jf-c04374676a",
+    "titre": "Drivers wanted",
+    "entreprise": "Lsn",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Drivers wanted chez Lsn, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-drivers-wanted-lsn-1135596",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-c04374676a"
+  },
+  {
+    "id": "jf-a1e2c30756",
+    "titre": "Â¡Empieza a trabajar de inmediato",
+    "entreprise": "La Subasta App",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "pascal",
+      "cassandra",
+      "testing"
+    ],
+    "resume_neutre": "Â¡Empieza a trabajar de inmediato chez La Subasta App, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-empieza-a-trabajar-de-inmediato-la-subasta-app-1135627",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-a1e2c30756"
+  },
+  {
+    "id": "jf-7eb9a37888",
+    "titre": "Bolsa de IniciaÃ§Ã£o CientÃ­fica PUCRS BIC 2026 2027",
+    "entreprise": "PUCRS Carreiras",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Bolsa de IniciaÃ§Ã£o CientÃ­fica PUCRS BIC 2026 2027 chez PUCRS Carreiras, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bolsa-de-iniciacao-cientifica-pucrs-bic-2026-2027-pucrs-carreiras-1135613",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-7eb9a37888"
+  },
+  {
+    "id": "jf-625ef0ee6e",
+    "titre": "Legal Receptionist Fully",
+    "entreprise": "Adams &amp; Martin Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "technical",
+      "travel",
+      "speech"
+    ],
+    "resume_neutre": "Legal Receptionist Fully chez Adams &amp; Martin Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-legal-receptionist-fully-adams-amp-martin-group-1135609",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-625ef0ee6e"
+  },
+  {
+    "id": "jf-463082cecf",
+    "titre": "Udesc Faed terÃ¡ atividades remotas nesta sexta feira 24 devido Ã  dedetizaÃ§Ã£o",
+    "entreprise": "Engenharia de PetrÃ³leo - Udesc BC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Udesc Faed terÃ¡ atividades remotas nesta sexta feira 24 devido Ã  dedetizaÃ§Ã£o chez Engenharia de PetrÃ³leo - Udesc BC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-udesc-faed-tera-atividades-remotas-nesta-sexta-feira-24-devido-a-dedetizacao-engenharia-de-petroleo-udesc-bc-1135579",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-463082cecf"
+  },
+  {
+    "id": "jf-4857abf2f7",
+    "titre": "Area Manager Freelance Sviluppo Territoriale Energia",
+    "entreprise": "Ermes - Gas &amp; Power",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Area Manager Freelance Sviluppo Territoriale Energia chez Ermes - Gas &amp; Power, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-area-manager-freelance-sviluppo-territoriale-energia-ermes-gas-amp-power-1135604",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-4857abf2f7"
+  },
+  {
+    "id": "jf-844f3b96ff",
+    "titre": "Analista de Dados Junior Exclusiva SÃ£o Paulo",
+    "entreprise": "Confitec",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "junior"
+    ],
+    "resume_neutre": "Analista de Dados Junior Exclusiva SÃ£o Paulo chez Confitec, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-dados-junior-exclusiva-sao-paulo-confitec-1135641",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-30",
+    "ref_unique": "jf-844f3b96ff"
+  },
+  {
     "id": "jf-e434d966fe",
     "titre": "MJV Group Multiple Positions",
     "entreprise": "Grow Wabash County",
@@ -5589,204 +5808,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-26",
     "ref_unique": "jf-148c7bfa47"
-  },
-  {
-    "id": "jf-9a3e76f3d9",
-    "titre": "Content Producer",
-    "entreprise": "DesignMeshAI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Video",
-    "remote": true,
-    "competences": [
-      "video",
-      "content writing"
-    ],
-    "resume_neutre": "Content Producer chez DesignMeshAI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-content-producer-designmeshai-1135404",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-26",
-    "ref_unique": "jf-9a3e76f3d9"
-  },
-  {
-    "id": "ma-b6bfa8b9f6",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=423&relb=140&brelb=100&bscr=2169.0383&scr=3036.65362",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-b6bfa8b9f6"
-  },
-  {
-    "id": "ma-719e2d4526",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=2&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=61&relb=110&brelb=110&bscr=2582.0935&scr=2582.0935",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-719e2d4526"
-  },
-  {
-    "id": "ma-295f9f5a44",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=3&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=661&relb=110&brelb=110&bscr=2528.6987&scr=2528.6987000000004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-295f9f5a44"
-  },
-  {
-    "id": "ma-8b5ae6f98b",
-    "titre": "Offre d’Emploi -FES-Conseiller commercial Francophone",
-    "entreprise": "Cnexia",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi -FES-Conseiller commercial Francophone chez Cnexia, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9008340561313585535?ckey=emploi&rgn=0&pos=4&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=37&relb=110&brelb=110&bscr=2511.961&scr=2511.961",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-8b5ae6f98b"
-  },
-  {
-    "id": "ma-dfcd9608c0",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=5&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=85&relb=110&brelb=110&bscr=2480.741&scr=2480.741",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-dfcd9608c0"
-  },
-  {
-    "id": "ma-6c514e0986",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=6&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=493&relb=110&brelb=110&bscr=2477.8481&scr=2477.8481",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-6c514e0986"
-  },
-  {
-    "id": "ma-2cf5726dca",
-    "titre": "Offre d’emploi : confirmatrice avec expérience en énergies renouvelables ( fr )",
-    "entreprise": "Infinity Buisness Group",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : confirmatrice avec expérience en énergies renouvelables ( fr ) chez Infinity Buisness Group, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3129640757081293011?ckey=emploi&rgn=0&pos=7&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=565&relb=110&brelb=110&bscr=2462.227&scr=2462.227",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-2cf5726dca"
-  },
-  {
-    "id": "ma-829bf2dde9",
-    "titre": "OFFRE D’EMPLOI - RH Junior",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - RH Junior chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2368673667718332390?ckey=emploi&rgn=0&pos=8&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=493&relb=110&brelb=110&bscr=2459.0908&scr=2459.0908",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-829bf2dde9"
-  },
-  {
-    "id": "ma-937f39a251",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=9&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=61&relb=110&brelb=110&bscr=2458.0483&scr=2458.0482999999995",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-937f39a251"
-  },
-  {
-    "id": "ma-c0253b209d",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=10&elckey=6159250841009170112&p=1&aq=7926441606957745764&cid=20&jobAge=253&relb=110&brelb=110&bscr=2438.2893&scr=2438.2893",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-26",
-    "ref_unique": "ma-c0253b209d"
   }
 ]
