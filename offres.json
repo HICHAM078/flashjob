@@ -1,5 +1,262 @@
 [
   {
+    "id": "jf-99d39c78c8",
+    "titre": "Admissions Advisor MasterClass Executive",
+    "entreprise": "MasterClass",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "technical",
+      "writer",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Admissions Advisor MasterClass Executive chez MasterClass, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-admissions-advisor-masterclass-executive-masterclass-1135740",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-99d39c78c8"
+  },
+  {
+    "id": "jf-5875b0a2f6",
+    "titre": "Cleaner",
+    "entreprise": "Beklane Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "travel",
+      "non tech"
+    ],
+    "resume_neutre": "Cleaner chez Beklane Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cleaner-beklane-ltd-1135733",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-5875b0a2f6"
+  },
+  {
+    "id": "jf-5d2830d243",
+    "titre": "People and Culture Manager",
+    "entreprise": "Casa TrÃ¨s Events",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Macos",
+    "remote": true,
+    "competences": [
+      "macos",
+      "education",
+      "speech",
+      "content writing",
+      "non tech"
+    ],
+    "resume_neutre": "People and Culture Manager chez Casa TrÃ¨s Events, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-people-and-culture-manager-casa-tres-events-1135719",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-5d2830d243"
+  },
+  {
+    "id": "jf-8c6606fdad",
+    "titre": "Associate Events Social &amp; Influencer Marketing",
+    "entreprise": "Society 18",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "customer support",
+      "travel",
+      "video"
+    ],
+    "resume_neutre": "Associate Events Social &amp; Influencer Marketing chez Society 18, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-events-social-amp-influencer-marketing-society-18-1135695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-8c6606fdad"
+  },
+  {
+    "id": "jf-f13d58f78c",
+    "titre": "Data Analyst",
+    "entreprise": "Sparksoft Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "customer support",
+      "travel",
+      "video"
+    ],
+    "resume_neutre": "Data Analyst chez Sparksoft Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-f13d58f78c"
+  },
+  {
+    "id": "jf-fee76a92f3",
+    "titre": "Growth Strategist",
+    "entreprise": "Lyric",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "design",
+      "embedded",
+      "technical",
+      "strategy"
+    ],
+    "resume_neutre": "Growth Strategist chez Lyric, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-fee76a92f3"
+  },
+  {
+    "id": "jf-3f7f14d95f",
+    "titre": "AI Trainer Freelance Data Annotator",
+    "entreprise": "Mindrift - Data annotation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "data annotation",
+      "content writing",
+      "part time",
+      "non tech"
+    ],
+    "resume_neutre": "AI Trainer Freelance Data Annotator chez Mindrift - Data annotation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-3f7f14d95f"
+  },
+  {
+    "id": "jf-ac85f17627",
+    "titre": "Administrative Assistant",
+    "entreprise": "Viable Medical Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "music",
+      "customer support",
+      "travel",
+      "video"
+    ],
+    "resume_neutre": "Administrative Assistant chez Viable Medical Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-ac85f17627"
+  },
+  {
+    "id": "jf-86ddb47490",
+    "titre": "Mes",
+    "entreprise": "PADGET ELECTRONICS Private Limited (DIXON)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "full time",
+      "controller"
+    ],
+    "resume_neutre": "Mes chez PADGET ELECTRONICS Private Limited (DIXON), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mes-padget-electronics-private-limited-dixon-1135730",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-86ddb47490"
+  },
+  {
+    "id": "jf-0190ff9f38",
+    "titre": "A Book of Your Own",
+    "entreprise": "TechWhirl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "analyst",
+      "finance",
+      "content writing",
+      "excel"
+    ],
+    "resume_neutre": "A Book of Your Own chez TechWhirl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-a-book-of-your-own-techwhirl-1135683",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-0190ff9f38"
+  },
+  {
+    "id": "jf-592ff3d886",
+    "titre": "This IS Your Dream Job",
+    "entreprise": "TechWhirl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "analyst",
+      "finance",
+      "content writing",
+      "excel"
+    ],
+    "resume_neutre": "This IS Your Dream Job chez TechWhirl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-this-is-your-dream-job-techwhirl-1135682",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-592ff3d886"
+  },
+  {
+    "id": "jf-7add92cf1b",
+    "titre": "Next Steps",
+    "entreprise": "Corporate Travel Specialists",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Next Steps chez Corporate Travel Specialists, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-next-steps-corporate-travel-specialists-1135724",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-7add92cf1b"
+  },
+  {
     "id": "jf-3fe1ba0e03",
     "titre": "Koparka",
     "entreprise": "Bujak Maszyny",
@@ -5555,221 +5812,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-28",
     "ref_unique": "ma-dd16e80f30"
-  },
-  {
-    "id": "ma-e0905aa23a",
-    "titre": "Offre d'emploi - technicien en téléphonie et support technique",
-    "entreprise": "A2s One",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - technicien en téléphonie et support technique chez A2s One, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7843532371287002238?ckey=emploi&rgn=0&pos=12&elckey=5447743009023597844&p=1&aq=2310159539745058280&cid=20&jobAge=517&relb=110&brelb=110&bscr=2298.2925&scr=2298.2925",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-e0905aa23a"
-  },
-  {
-    "id": "ma-9c4915c8fb",
-    "titre": "COMPTABLE EXPERIMENTE",
-    "entreprise": "RIBATIS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMPTABLE EXPERIMENTE chez RIBATIS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3421496598660856329?ckey=comptable&rgn=946&pos=1&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=133&relb=100&brelb=100&bscr=2247.7927&scr=2247.7927",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-9c4915c8fb"
-  },
-  {
-    "id": "ma-a899c14515",
-    "titre": "Comptable confirmé",
-    "entreprise": "Liebherr Maroc SARL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez Liebherr Maroc SARL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2574989383038768422?ckey=comptable&rgn=946&pos=2&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=633&relb=100&brelb=100&bscr=2223.1147&scr=2223.1147",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-a899c14515"
-  },
-  {
-    "id": "ma-5867756422",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=3&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=277&relb=100&brelb=100&bscr=2137.1099&scr=2137.1099",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-5867756422"
-  },
-  {
-    "id": "ma-447ed3aa26",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=4&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=877&relb=100&brelb=100&bscr=2073.765&scr=2073.765",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-447ed3aa26"
-  },
-  {
-    "id": "ma-ec2dfaf95b",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=5&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=419&relb=100&brelb=100&bscr=2065.5024&scr=2065.5024",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-ec2dfaf95b"
-  },
-  {
-    "id": "ma-cc85710c50",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=6&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=755&relb=100&brelb=100&bscr=2042.2981&scr=2042.2981",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-cc85710c50"
-  },
-  {
-    "id": "ma-ad66667802",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=7&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=541&relb=100&brelb=100&bscr=2016.6042&scr=2016.6042000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-ad66667802"
-  },
-  {
-    "id": "ma-cb9e1ca6a1",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=8&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=683&relb=100&brelb=100&bscr=1964.3495&scr=1964.3495",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-cb9e1ca6a1"
-  },
-  {
-    "id": "ma-6b561f7b5e",
-    "titre": "Responsable administratif et comptable H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable administratif et comptable H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6551157664769872334?ckey=comptable&rgn=946&pos=9&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=923&relb=100&brelb=100&bscr=1913.4647&scr=1913.4647",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-6b561f7b5e"
-  },
-  {
-    "id": "ma-f0ad7f9fff",
-    "titre": "Comptable \"Fiduciaire\" - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable \"Fiduciaire\" - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4695192331497544917?ckey=comptable&rgn=946&pos=10&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=973&relb=100&brelb=100&bscr=1907.9891&scr=1907.9891",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-f0ad7f9fff"
-  },
-  {
-    "id": "ma-cfb63807f8",
-    "titre": "Responsable service comptable",
-    "entreprise": "Mall Zellij Distribution (Route de Mediouna)",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable service comptable chez Mall Zellij Distribution (Route de Mediouna), a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/76040590990728721?ckey=comptable&rgn=946&pos=11&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=709&relb=100&brelb=100&bscr=1891.2598&scr=1891.2598",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-cfb63807f8"
   }
 ]
