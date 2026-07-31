@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-59b22ecf0d",
+    "titre": "Technical Grower",
+    "entreprise": "Driscoll's EMEA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical"
+    ],
+    "resume_neutre": "Technical Grower chez Driscoll's EMEA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-grower-driscolls-emea-1135644",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-59b22ecf0d"
+  },
+  {
+    "id": "jf-b60d939c77",
+    "titre": "Human Resources Specialist",
+    "entreprise": "Harvey Nash",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "education",
+      "exec",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Human Resources Specialist chez Harvey Nash, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-b60d939c77"
+  },
+  {
+    "id": "jf-023972470e",
+    "titre": "Traveler Care Specialist Luxury Travel",
+    "entreprise": "Zicasso",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "transcribing",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Traveler Care Specialist Luxury Travel chez Zicasso, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-traveler-care-specialist-luxury-travel-zicasso-1135640",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-023972470e"
+  },
+  {
+    "id": "jf-51f35b3af8",
+    "titre": "Software Engineer GO",
+    "entreprise": "Wakacje.pl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "travel",
+      "api",
+      "golang"
+    ],
+    "resume_neutre": "Software Engineer GO chez Wakacje.pl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-51f35b3af8"
+  },
+  {
     "id": "jf-d1a3e39659",
     "titre": "Copy Editor",
     "entreprise": "MissionStaff",
@@ -5753,88 +5837,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-28",
     "ref_unique": "jf-9c5ddc992e"
-  },
-  {
-    "id": "jf-eb7b5a1b4d",
-    "titre": "Generalist AI Trainer $35 hour",
-    "entreprise": "LinkedIn",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "web dev",
-      "exec",
-      "photoshop",
-      "ecommerce"
-    ],
-    "resume_neutre": "Generalist AI Trainer $35 hour chez LinkedIn, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-generalist-ai-trainer-35-hour-linkedin-1135442",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-27",
-    "ref_unique": "jf-eb7b5a1b4d"
-  },
-  {
-    "id": "jf-02fc79e935",
-    "titre": "Digital Designer",
-    "entreprise": "Revlytic",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "finance",
-      "medical"
-    ],
-    "resume_neutre": "Digital Designer chez Revlytic, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-27",
-    "ref_unique": "jf-02fc79e935"
-  },
-  {
-    "id": "jf-c1d5ed67a7",
-    "titre": "Location Targeting",
-    "entreprise": "AdConversion",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Admin",
-    "remote": true,
-    "competences": [
-      "admin",
-      "exec",
-      "ads"
-    ],
-    "resume_neutre": "Location Targeting chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-location-targeting-adconversion-1135467",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-27",
-    "ref_unique": "jf-c1d5ed67a7"
-  },
-  {
-    "id": "jf-6edd0af9cf",
-    "titre": "Lead",
-    "entreprise": "AdConversion",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Admin",
-    "remote": true,
-    "competences": [
-      "admin",
-      "exec"
-    ],
-    "resume_neutre": "Lead chez AdConversion, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-27",
-    "ref_unique": "jf-6edd0af9cf"
   }
 ]
