@@ -1,5 +1,146 @@
 [
   {
+    "id": "jf-3fe1ba0e03",
+    "titre": "Koparka",
+    "entreprise": "Bujak Maszyny",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "full time",
+      "controller"
+    ],
+    "resume_neutre": "Koparka chez Bujak Maszyny, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-koparka-bujak-maszyny-1135729",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-3fe1ba0e03"
+  },
+  {
+    "id": "jf-5c193cabd3",
+    "titre": "Site Operation",
+    "entreprise": "JAKSON Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "full time"
+    ],
+    "resume_neutre": "Site Operation chez JAKSON Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-site-operation-jakson-group-1135727",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-5c193cabd3"
+  },
+  {
+    "id": "jf-bc0ef71787",
+    "titre": "Current Vacancies",
+    "entreprise": "Donnington Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Current Vacancies chez Donnington Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-current-vacancies-donnington-group-1135678",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-bc0ef71787"
+  },
+  {
+    "id": "jf-b9ead1b3cf",
+    "titre": "Vacancy",
+    "entreprise": "Marmend",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "exec",
+      "full time"
+    ],
+    "resume_neutre": "Vacancy chez Marmend, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vacancy-marmend-1135725",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-b9ead1b3cf"
+  },
+  {
+    "id": "jf-4a919b0954",
+    "titre": "Supply Chain &amp; Operations Specialist",
+    "entreprise": "Miss Amara",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "coordinator",
+      "customer support",
+      "marketing",
+      "ops"
+    ],
+    "resume_neutre": "Supply Chain &amp; Operations Specialist chez Miss Amara, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-4a919b0954"
+  },
+  {
+    "id": "jf-3c144d6147",
+    "titre": "Trafic",
+    "entreprise": "Filmtheater Cinecenter",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "full time",
+      "controller"
+    ],
+    "resume_neutre": "Trafic chez Filmtheater Cinecenter, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trafic-filmtheater-cinecenter-1135731",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-3c144d6147"
+  },
+  {
+    "id": "jf-185cdde711",
+    "titre": "Deputy Manager Sales HR",
+    "entreprise": "VARUN BEVERAGES LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python",
+      "hr",
+      "exec",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Deputy Manager Sales HR chez VARUN BEVERAGES LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-deputy-manager-sales-hr-varun-beverages-limited-1135737",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-07-31",
+    "ref_unique": "jf-185cdde711"
+  },
+  {
     "id": "ma-093e97c5e0",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5630,131 +5771,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-28",
     "ref_unique": "ma-cfb63807f8"
-  },
-  {
-    "id": "ma-835285710d",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=12&elckey=-9118787024792740393&p=1&aq=-8215730365557333601&cid=20&jobAge=1021&relb=100&brelb=100&bscr=1870.6616&scr=1870.6616000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-835285710d"
-  },
-  {
-    "id": "ma-e85ee9d1b6",
-    "titre": "Commercial Sédentaire B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Sédentaire B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8785473977155328145?ckey=commercial&rgn=938&pos=1&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=133&relb=110&brelb=110&bscr=1750.2489&scr=1750.2489",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-e85ee9d1b6"
-  },
-  {
-    "id": "ma-d70c94d15a",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2233551344258777083?ckey=commercial&rgn=938&pos=2&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=541&relb=110&brelb=110&bscr=1730.9952&scr=1730.9952",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-d70c94d15a"
-  },
-  {
-    "id": "ma-57548d0799",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3584910906440699061?ckey=commercial&rgn=938&pos=3&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=661&relb=110&brelb=110&bscr=1684.8508&scr=1684.8508",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-57548d0799"
-  },
-  {
-    "id": "ma-3066862d74",
-    "titre": "Chasseur Commercial B2B",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chasseur Commercial B2B chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6727644508251611813?ckey=commercial&rgn=938&pos=4&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=109&relb=110&brelb=110&bscr=1659.6445&scr=1659.6445",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-3066862d74"
-  },
-  {
-    "id": "ma-33b9fbebdb",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=5&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=205&relb=110&brelb=110&bscr=1653.0128&scr=1653.0128",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-33b9fbebdb"
-  },
-  {
-    "id": "ma-05bbca7a96",
-    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=6&elckey=5657013405607230406&p=1&aq=-8951841499160565460&cid=20&jobAge=133&relb=110&brelb=110&bscr=1637.3253&scr=1637.3253",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-05bbca7a96"
   }
 ]
