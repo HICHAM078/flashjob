@@ -1,5 +1,85 @@
 [
   {
+    "id": "jf-2de9b8b1f8",
+    "titre": "Permanent Jobs",
+    "entreprise": "New Zealand Apples and Pears",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "golang",
+      "non tech"
+    ],
+    "resume_neutre": "Permanent Jobs chez New Zealand Apples and Pears, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-permanent-jobs-new-zealand-apples-and-pears-1135747",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-01",
+    "ref_unique": "jf-2de9b8b1f8"
+  },
+  {
+    "id": "jf-d860a91ba6",
+    "titre": "Traffic Controller",
+    "entreprise": "Aussie Traffic Control",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "full time",
+      "controller"
+    ],
+    "resume_neutre": "Traffic Controller chez Aussie Traffic Control, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-traffic-controller-aussie-traffic-control-1135728",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-01",
+    "ref_unique": "jf-d860a91ba6"
+  },
+  {
+    "id": "jf-9997dc88b1",
+    "titre": "AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼",
+    "entreprise": "è½¯è£è®¾è®¡å¬å¸",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python"
+    ],
+    "resume_neutre": "AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ chez è½¯è£è®¾è®¡å¬å¸, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-01",
+    "ref_unique": "jf-9997dc88b1"
+  },
+  {
+    "id": "jf-a43380d1ed",
+    "titre": "Nanny Camp Hill",
+    "entreprise": "Mini Connections",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "recruiter",
+      "non tech",
+      "design",
+      "hr"
+    ],
+    "resume_neutre": "Nanny Camp Hill chez Mini Connections, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nanny-camp-hill-mini-connections-1135760",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-01",
+    "ref_unique": "jf-a43380d1ed"
+  },
+  {
     "id": "jf-77ceb57142",
     "titre": "Executive Operations &amp; Project Manager",
     "entreprise": "Viva Wellness Drip",
@@ -5757,77 +5837,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-28",
     "ref_unique": "ma-a5d6ae6e89"
-  },
-  {
-    "id": "ma-d6c05bc94c",
-    "titre": "OFFRE D’EMPLOI - RH Junior",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - RH Junior chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2368673667718332390?ckey=emploi&rgn=0&pos=2&elckey=5447743009023597844&p=1&aq=2310159539745058280&cid=20&jobAge=541&relb=110&brelb=110&bscr=2779.8767&scr=2779.8767",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-d6c05bc94c"
-  },
-  {
-    "id": "ma-6f9f9dc6e4",
-    "titre": "Offre d’Emploi -FES-Conseiller commercial Francophone",
-    "entreprise": "Cnexia",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi -FES-Conseiller commercial Francophone chez Cnexia, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9008340561313585535?ckey=emploi&rgn=0&pos=3&elckey=5447743009023597844&p=1&aq=2310159539745058280&cid=20&jobAge=85&relb=110&brelb=110&bscr=2564.033&scr=2564.033",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-6f9f9dc6e4"
-  },
-  {
-    "id": "ma-cd344fbdff",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=4&elckey=5447743009023597844&p=1&aq=2310159539745058280&cid=20&jobAge=61&relb=110&brelb=110&bscr=2525.8252&scr=2525.8251999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-cd344fbdff"
-  },
-  {
-    "id": "ma-5b46f74011",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=5&elckey=5447743009023597844&p=1&aq=2310159539745058280&cid=20&jobAge=709&relb=110&brelb=110&bscr=2495.823&scr=2495.823",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-28",
-    "ref_unique": "ma-5b46f74011"
   }
 ]
