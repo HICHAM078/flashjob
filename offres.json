@@ -1,5 +1,202 @@
 [
   {
+    "id": "jf-0d2afa5bdd",
+    "titre": "Patient Outreach Specialist",
+    "entreprise": "Grapefruit Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "teaching",
+      "education",
+      "recruiter",
+      "supervisor"
+    ],
+    "resume_neutre": "Patient Outreach Specialist chez Grapefruit Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-0d2afa5bdd"
+  },
+  {
+    "id": "jf-13a7e37fb7",
+    "titre": "Licensed Customer Service Representative",
+    "entreprise": "Liberty Mutual Insurance",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Embedded",
+    "remote": true,
+    "competences": [
+      "embedded",
+      "education",
+      "customer support",
+      "marketing",
+      "c"
+    ],
+    "resume_neutre": "Licensed Customer Service Representative chez Liberty Mutual Insurance, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-licensed-customer-service-representative-liberty-mutual-insurance-1135788",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-13a7e37fb7"
+  },
+  {
+    "id": "jf-bd4191c1a1",
+    "titre": "Join The Berry Avionics Team",
+    "entreprise": "Berry Avionics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "testing"
+    ],
+    "resume_neutre": "Join The Berry Avionics Team chez Berry Avionics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-the-berry-avionics-team-berry-avionics-1135912",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-bd4191c1a1"
+  },
+  {
+    "id": "jf-5f05d6c67c",
+    "titre": "WordiQt",
+    "entreprise": "koodup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "WordiQt chez koodup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-wordiqt-koodup-1135838",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-5f05d6c67c"
+  },
+  {
+    "id": "jf-f1005b800f",
+    "titre": "Story Seed",
+    "entreprise": "koodup",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Story Seed chez koodup, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-story-seed-koodup-1135839",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-f1005b800f"
+  },
+  {
+    "id": "jf-3201c6d78f",
+    "titre": "Labourer",
+    "entreprise": "One Way",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Labourer chez One Way, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-labourer-one-way-1135837",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-3201c6d78f"
+  },
+  {
+    "id": "jf-8990a863d7",
+    "titre": "Cleaning Assistant Afternoon Evening",
+    "entreprise": "Canadian Base Operators Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "content writing",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Cleaning Assistant Afternoon Evening chez Canadian Base Operators Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cleaning-assistant-afternoon-evening-canadian-base-operators-inc-1135868",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-8990a863d7"
+  },
+  {
+    "id": "jf-2f4c0180fc",
+    "titre": "Vendor Application Template",
+    "entreprise": "Docs And Slides",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Vendor Application Template chez Docs And Slides, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vendor-application-template-docs-and-slides-1135785",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-2f4c0180fc"
+  },
+  {
+    "id": "jf-c2286d82b2",
+    "titre": "Friendship Application Template",
+    "entreprise": "Docs And Slides",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Friendship Application Template chez Docs And Slides, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-friendship-application-template-docs-and-slides-1135784",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-c2286d82b2"
+  },
+  {
+    "id": "jf-cb80b7d9fd",
+    "titre": "test",
+    "entreprise": "Upedge Job Karle Pvt. Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "testing"
+    ],
+    "resume_neutre": "test chez Upedge Job Karle Pvt. Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-upedge-job-karle-pvt-ltd-1135910",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-cb80b7d9fd"
+  },
+  {
     "id": "jf-c73b9f782e",
     "titre": "Housekeeper",
     "entreprise": "Phoenix Senior Living",
@@ -5515,213 +5712,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-30",
     "ref_unique": "jf-b513cc480d"
-  },
-  {
-    "id": "jf-07b1cdba24",
-    "titre": "FLO",
-    "entreprise": "Tarsu AlÄ±ÅveriÅ Merkezi",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "pascal",
-      "cassandra",
-      "testing"
-    ],
-    "resume_neutre": "FLO chez Tarsu AlÄ±ÅveriÅ Merkezi, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-flo-tarsu-alisveris-merkezi-1135625",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-07b1cdba24"
-  },
-  {
-    "id": "jf-233cfd71a5",
-    "titre": "Supportive Gardener",
-    "entreprise": "Joi AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "exec",
-      "medical",
-      "marketing",
-      "accounting"
-    ],
-    "resume_neutre": "Supportive Gardener chez Joi AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-supportive-gardener-joi-ai-1135666",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-233cfd71a5"
-  },
-  {
-    "id": "jf-566253aedf",
-    "titre": "Empathetic Friend",
-    "entreprise": "Joi AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "infosec",
-      "music",
-      "education"
-    ],
-    "resume_neutre": "Empathetic Friend chez Joi AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-empathetic-friend-joi-ai-1135594",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-566253aedf"
-  },
-  {
-    "id": "jf-8e676f5b19",
-    "titre": "Graphic Designer",
-    "entreprise": "Miranda Creative, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "technical",
-      "travel",
-      "speech"
-    ],
-    "resume_neutre": "Graphic Designer chez Miranda Creative, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-8e676f5b19"
-  },
-  {
-    "id": "jf-bfafd87bbb",
-    "titre": "ACT Application Form",
-    "entreprise": "Yo-Bar",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "hr",
-      "education",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "ACT Application Form chez Yo-Bar, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-act-application-form-yo-bar-1135603",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-bfafd87bbb"
-  },
-  {
-    "id": "jf-7a9f1250ef",
-    "titre": "Handyman Jobs",
-    "entreprise": "Lsn",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Handyman Jobs chez Lsn, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-jobs-lsn-1135595",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-7a9f1250ef"
-  },
-  {
-    "id": "jf-c04374676a",
-    "titre": "Drivers wanted",
-    "entreprise": "Lsn",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Drivers wanted chez Lsn, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-drivers-wanted-lsn-1135596",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-c04374676a"
-  },
-  {
-    "id": "jf-a1e2c30756",
-    "titre": "Â¡Empieza a trabajar de inmediato",
-    "entreprise": "La Subasta App",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "pascal",
-      "cassandra",
-      "testing"
-    ],
-    "resume_neutre": "Â¡Empieza a trabajar de inmediato chez La Subasta App, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-empieza-a-trabajar-de-inmediato-la-subasta-app-1135627",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-a1e2c30756"
-  },
-  {
-    "id": "jf-7eb9a37888",
-    "titre": "Bolsa de IniciaÃ§Ã£o CientÃ­fica PUCRS BIC 2026 2027",
-    "entreprise": "PUCRS Carreiras",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Bolsa de IniciaÃ§Ã£o CientÃ­fica PUCRS BIC 2026 2027 chez PUCRS Carreiras, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-bolsa-de-iniciacao-cientifica-pucrs-bic-2026-2027-pucrs-carreiras-1135613",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-7eb9a37888"
-  },
-  {
-    "id": "jf-625ef0ee6e",
-    "titre": "Legal Receptionist Fully",
-    "entreprise": "Adams &amp; Martin Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "technical",
-      "travel",
-      "speech"
-    ],
-    "resume_neutre": "Legal Receptionist Fully chez Adams &amp; Martin Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-legal-receptionist-fully-adams-amp-martin-group-1135609",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-625ef0ee6e"
   }
 ]
