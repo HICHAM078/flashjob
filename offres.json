@@ -1,5 +1,305 @@
 [
   {
+    "id": "jf-cb19fd881c",
+    "titre": "Y Combinator â Aceleradora de Startups",
+    "entreprise": "EspaÃ±ol Sin Fronteras",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "speech",
+      "finance",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Y Combinator â Aceleradora de Startups chez EspaÃ±ol Sin Fronteras, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-y-combinator-aceleradora-de-startups-espanol-sin-fronteras-1135762",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-cb19fd881c"
+  },
+  {
+    "id": "jf-6835787f33",
+    "titre": "Estimator",
+    "entreprise": "MTrec Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "finance",
+      "scheme",
+      "excel"
+    ],
+    "resume_neutre": "Estimator chez MTrec Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-mtrec-recruitment-1135768",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-6835787f33"
+  },
+  {
+    "id": "jf-fd7dc9acc1",
+    "titre": "Estimator",
+    "entreprise": "One Way",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "finance",
+      "scheme",
+      "excel"
+    ],
+    "resume_neutre": "Estimator chez One Way, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-one-way-1135769",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-fd7dc9acc1"
+  },
+  {
+    "id": "jf-f2e2504836",
+    "titre": "Service Locator",
+    "entreprise": "BAM UK &amp; Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "finance",
+      "scheme",
+      "excel"
+    ],
+    "resume_neutre": "Service Locator chez BAM UK &amp; Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-service-locator-bam-uk-amp-ireland-1135771",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-f2e2504836"
+  },
+  {
+    "id": "jf-e4d59c7603",
+    "titre": "Chief Operating Officer",
+    "entreprise": "U.S. Hunger",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "legal"
+    ],
+    "resume_neutre": "Chief Operating Officer chez U.S. Hunger, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-u-s-hunger-1135756",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-e4d59c7603"
+  },
+  {
+    "id": "jf-313f7fcbf6",
+    "titre": "Safety Advisor",
+    "entreprise": "Keolis Australia &amp; New Zealand",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "recruiter",
+      "non tech",
+      "design",
+      "hr"
+    ],
+    "resume_neutre": "Safety Advisor chez Keolis Australia &amp; New Zealand, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-safety-advisor-keolis-australia-amp-new-zealand-1135759",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-313f7fcbf6"
+  },
+  {
+    "id": "jf-3bac16c0bb",
+    "titre": "Freelance Creative Director",
+    "entreprise": "BMWL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "amazon",
+      "designer",
+      "customer support",
+      "video"
+    ],
+    "resume_neutre": "Freelance Creative Director chez BMWL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-3bac16c0bb"
+  },
+  {
+    "id": "jf-ad30567a91",
+    "titre": "Tequila Market Manager New Jersey",
+    "entreprise": "Bandero Tequila",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "legal"
+    ],
+    "resume_neutre": "Tequila Market Manager New Jersey chez Bandero Tequila, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-jersey-bandero-tequila-1135754",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-ad30567a91"
+  },
+  {
+    "id": "jf-a738abbf7b",
+    "titre": "Human Resources Coordinator",
+    "entreprise": "Pacific Health Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "sys admin",
+      "education",
+      "recruiter",
+      "coordinator"
+    ],
+    "resume_neutre": "Human Resources Coordinator chez Pacific Health Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-a738abbf7b"
+  },
+  {
+    "id": "jf-ff0e3132f7",
+    "titre": "Tequila Market Manager New York",
+    "entreprise": "Bandero Tequila",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "legal"
+    ],
+    "resume_neutre": "Tequila Market Manager New York chez Bandero Tequila, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-york-bandero-tequila-1135753",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-ff0e3132f7"
+  },
+  {
+    "id": "jf-13c7a42061",
+    "titre": "Join Our Team",
+    "entreprise": "Miraculous Maids",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Join Our Team chez Miraculous Maids, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-miraculous-maids-1135748",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-13c7a42061"
+  },
+  {
+    "id": "jf-e70af701dd",
+    "titre": "Voice Over Artist",
+    "entreprise": "Bored Panda",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "speech",
+      "finance",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Voice Over Artist chez Bored Panda, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-e70af701dd"
+  },
+  {
+    "id": "jf-dd78d99db6",
+    "titre": "HR Generalist",
+    "entreprise": "Aditi Consulting",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "travel",
+      "legal"
+    ],
+    "resume_neutre": "HR Generalist chez Aditi Consulting, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-generalist-aditi-consulting-1135755",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-dd78d99db6"
+  },
+  {
+    "id": "jf-18fda0541a",
+    "titre": "ASSISTENTE ADMINISTRATIVO RH DP",
+    "entreprise": "Samba Hospitality Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "ASSISTENTE ADMINISTRATIVO RH DP chez Samba Hospitality Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-rh-dp-samba-hospitality-group-1135843",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-18fda0541a"
+  },
+  {
     "id": "jf-66aeecaeb4",
     "titre": "Thá»±c Táº­p Sinh PhÃ¡t Triá»n Kinh Doanh",
     "entreprise": "ACC Hospitality",
@@ -5453,269 +5753,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-29",
     "ref_unique": "ma-34c3de7fc1"
-  },
-  {
-    "id": "ma-8cd06bd5a4",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=2&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=826&relb=100&brelb=100&bscr=2631.0857&scr=2631.0857",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-8cd06bd5a4"
-  },
-  {
-    "id": "ma-8b9f505644",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=3&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=709&relb=110&brelb=110&bscr=2353.455&scr=2353.455",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-8b9f505644"
-  },
-  {
-    "id": "ma-0c4cabc814",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=7426&relb=100&brelb=100&bscr=2173.7644&scr=2173.7644",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-0c4cabc814"
-  },
-  {
-    "id": "ma-40177022ac",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=7426&relb=100&brelb=100&bscr=2167.8564&scr=2167.8564",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-40177022ac"
-  },
-  {
-    "id": "ma-a8542c1dac",
-    "titre": "Technicien Support Informatique - Casablanca",
-    "entreprise": "PLASMATIO",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Support Informatique - Casablanca chez PLASMATIO, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2803445601984203233?ckey=informatique&rgn=0&pos=6&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=901&relb=100&brelb=100&bscr=2166.1829&scr=2166.1829",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-a8542c1dac"
-  },
-  {
-    "id": "ma-11f410837f",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=7&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=685&relb=100&brelb=100&bscr=1922.3348&scr=1922.3348",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-11f410837f"
-  },
-  {
-    "id": "ma-ef8e852379",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=7427&relb=100&brelb=100&bscr=1906.28&scr=1906.28",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-ef8e852379"
-  },
-  {
-    "id": "ma-9d6092b42b",
-    "titre": "chargée d'assistance routière",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "chargée d'assistance routière chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6888331942953669780?ckey=informatique&rgn=0&pos=9&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=133&relb=110&brelb=110&bscr=278.13092&scr=278.13092",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-9d6092b42b"
-  },
-  {
-    "id": "ma-3edff3c383",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1463087998879522347?ckey=informatique&rgn=0&pos=10&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=61&relb=110&brelb=110&bscr=277.4973&scr=277.4973",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-3edff3c383"
-  },
-  {
-    "id": "ma-f6438709b0",
-    "titre": "Commercial REI",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=11&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=61&relb=110&brelb=110&bscr=276.5417&scr=276.5417",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-f6438709b0"
-  },
-  {
-    "id": "ma-8af976c77e",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=12&elckey=6885125667183485827&p=1&aq=6067311574657421156&cid=20&jobAge=37&relb=110&brelb=110&bscr=275.93848&scr=275.93848",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-29",
-    "ref_unique": "ma-8af976c77e"
-  },
-  {
-    "id": "jf-34893e8898",
-    "titre": "AI Intern",
-    "entreprise": "CertifyOS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "python",
-      "technical",
-      "dev"
-    ],
-    "resume_neutre": "AI Intern chez CertifyOS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-34893e8898"
-  },
-  {
-    "id": "jf-3294c44478",
-    "titre": "Administrative Assistant",
-    "entreprise": "Sundayy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "hr",
-      "sys admin",
-      "technical",
-      "customer support"
-    ],
-    "resume_neutre": "Administrative Assistant chez Sundayy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-sundayy-1135547",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-3294c44478"
-  },
-  {
-    "id": "jf-be35855e62",
-    "titre": "Driver",
-    "entreprise": "Bapcor Limited",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Senior",
-    "remote": true,
-    "competences": [
-      "senior",
-      "hr",
-      "education",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Driver chez Bapcor Limited, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-limited-1135601",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-be35855e62"
   }
 ]
