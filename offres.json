@@ -1,5 +1,125 @@
 [
   {
+    "id": "jf-c73b9f782e",
+    "titre": "Housekeeper",
+    "entreprise": "Phoenix Senior Living",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ads",
+    "remote": true,
+    "competences": [
+      "ads",
+      "sys admin",
+      "supervisor",
+      "education",
+      "senior"
+    ],
+    "resume_neutre": "Housekeeper chez Phoenix Senior Living, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-c73b9f782e"
+  },
+  {
+    "id": "jf-7f7bd3913d",
+    "titre": "UNC",
+    "entreprise": "LiveSomeWhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "UNC chez LiveSomeWhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-unc-livesomewhere-1135777",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-7f7bd3913d"
+  },
+  {
+    "id": "jf-f91e92ea1f",
+    "titre": "ROCHESTER",
+    "entreprise": "LiveSomeWhere",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "ROCHESTER chez LiveSomeWhere, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rochester-livesomewhere-1135779",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-f91e92ea1f"
+  },
+  {
+    "id": "jf-ab6b2413b8",
+    "titre": "Elite",
+    "entreprise": "Social Value, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Elite chez Social Value, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-elite-social-value-inc-1135776",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-ab6b2413b8"
+  },
+  {
+    "id": "jf-aebae170e1",
+    "titre": "Basic",
+    "entreprise": "Social Value, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Basic chez Social Value, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-basic-social-value-inc-1135775",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-aebae170e1"
+  },
+  {
+    "id": "jf-52d2bf1424",
+    "titre": "Managing Director",
+    "entreprise": "Berni and Mick Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "consulting",
+      "marketing",
+      "senior",
+      "ops"
+    ],
+    "resume_neutre": "Managing Director chez Berni and Mick Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-02",
+    "ref_unique": "jf-52d2bf1424"
+  },
+  {
     "id": "ma-47ff553fd7",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5603,116 +5723,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-30",
     "ref_unique": "jf-625ef0ee6e"
-  },
-  {
-    "id": "jf-463082cecf",
-    "titre": "Udesc Faed terÃ¡ atividades remotas nesta sexta feira 24 devido Ã  dedetizaÃ§Ã£o",
-    "entreprise": "Engenharia de PetrÃ³leo - Udesc BC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Udesc Faed terÃ¡ atividades remotas nesta sexta feira 24 devido Ã  dedetizaÃ§Ã£o chez Engenharia de PetrÃ³leo - Udesc BC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-udesc-faed-tera-atividades-remotas-nesta-sexta-feira-24-devido-a-dedetizacao-engenharia-de-petroleo-udesc-bc-1135579",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-463082cecf"
-  },
-  {
-    "id": "jf-4857abf2f7",
-    "titre": "Area Manager Freelance Sviluppo Territoriale Energia",
-    "entreprise": "Ermes - Gas &amp; Power",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Area Manager Freelance Sviluppo Territoriale Energia chez Ermes - Gas &amp; Power, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-area-manager-freelance-sviluppo-territoriale-energia-ermes-gas-amp-power-1135604",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-4857abf2f7"
-  },
-  {
-    "id": "jf-844f3b96ff",
-    "titre": "Analista de Dados Junior Exclusiva SÃ£o Paulo",
-    "entreprise": "Confitec",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "junior"
-    ],
-    "resume_neutre": "Analista de Dados Junior Exclusiva SÃ£o Paulo chez Confitec, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-analista-de-dados-junior-exclusiva-sao-paulo-confitec-1135641",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-844f3b96ff"
-  },
-  {
-    "id": "jf-e434d966fe",
-    "titre": "MJV Group Multiple Positions",
-    "entreprise": "Grow Wabash County",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "MJV Group Multiple Positions chez Grow Wabash County, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mjv-group-multiple-positions-grow-wabash-county-1135587",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-e434d966fe"
-  },
-  {
-    "id": "jf-1cabc15844",
-    "titre": "Forward Rewards",
-    "entreprise": "FORWARD (Forward Telecom)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Telecom",
-    "remote": true,
-    "competences": [
-      "telecom",
-      "non tech"
-    ],
-    "resume_neutre": "Forward Rewards chez FORWARD (Forward Telecom), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-forward-rewards-forward-forward-telecom-1135577",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-1cabc15844"
-  },
-  {
-    "id": "jf-ea416ef988",
-    "titre": "Forward DMP",
-    "entreprise": "FORWARD (Forward Telecom)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Telecom",
-    "remote": true,
-    "competences": [
-      "telecom",
-      "non tech"
-    ],
-    "resume_neutre": "Forward DMP chez FORWARD (Forward Telecom), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-forward-dmp-forward-forward-telecom-1135576",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-29",
-    "ref_unique": "jf-ea416ef988"
   }
 ]
