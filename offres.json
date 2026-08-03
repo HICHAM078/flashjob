@@ -1,5 +1,162 @@
 [
   {
+    "id": "jf-6f562e9d14",
+    "titre": "Estimator",
+    "entreprise": "Jobot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "customer support",
+      "legal",
+      "medical",
+      "full time"
+    ],
+    "resume_neutre": "Estimator chez Jobot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-jobot-1135961",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-6f562e9d14"
+  },
+  {
+    "id": "jf-bea7231509",
+    "titre": "Baby BB Jam",
+    "entreprise": "Patti&amp;More!",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "testing"
+    ],
+    "resume_neutre": "Baby BB Jam chez Patti&amp;More!, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-baby-bb-jam-pattiampmore-1135911",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-bea7231509"
+  },
+  {
+    "id": "jf-ab69614d33",
+    "titre": "BB Jam Burger",
+    "entreprise": "Patti&amp;More!",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "testing"
+    ],
+    "resume_neutre": "BB Jam Burger chez Patti&amp;More!, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bb-jam-burger-pattiampmore-1135913",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-ab69614d33"
+  },
+  {
+    "id": "jf-b8239c8c56",
+    "titre": "Estimator",
+    "entreprise": "Revo Restore",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Estimator chez Revo Restore, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-revo-restore-1135918",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-b8239c8c56"
+  },
+  {
+    "id": "jf-03936f684e",
+    "titre": "Team Member",
+    "entreprise": "Barefoot Student",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "Team Member chez Barefoot Student, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-barefoot-student-1135906",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-03936f684e"
+  },
+  {
+    "id": "jf-7f98d8c997",
+    "titre": "We hire rarely â and carefully",
+    "entreprise": "MITRITY",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "finance",
+      "exec",
+      "api"
+    ],
+    "resume_neutre": "We hire rarely â and carefully chez MITRITY, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-we-hire-rarely-and-carefully-mitrity-1135922",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-7f98d8c997"
+  },
+  {
+    "id": "jf-3f17c86130",
+    "titre": "Open roles and general interest",
+    "entreprise": "Pareto",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Open roles and general interest chez Pareto, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-open-roles-and-general-interest-pareto-1135926",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-3f17c86130"
+  },
+  {
+    "id": "jf-eda30e75ed",
+    "titre": "Business Development Representative ANZ",
+    "entreprise": "JFrog",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "microsoft"
+    ],
+    "resume_neutre": "Business Development Representative ANZ chez JFrog, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-development-representative-anz-jfrog-1135994",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-eda30e75ed"
+  },
+  {
     "id": "jf-75115b6c51",
     "titre": "Junior Designer",
     "entreprise": "Haystack",
@@ -5555,158 +5712,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-30",
     "ref_unique": "ma-3a118ff5bf"
-  },
-  {
-    "id": "ma-0355a463b4",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=9&elckey=-5812174006250384093&p=1&aq=7869801171566798731&cid=20&jobAge=7450&relb=100&brelb=100&bscr=1896.8744&scr=1896.8744",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-30",
-    "ref_unique": "ma-0355a463b4"
-  },
-  {
-    "id": "ma-bf332656de",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=10&elckey=-5812174006250384093&p=1&aq=7869801171566798731&cid=20&jobAge=37&relb=110&brelb=110&bscr=288.84436&scr=288.84436",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-30",
-    "ref_unique": "ma-bf332656de"
-  },
-  {
-    "id": "ma-6f6ff2d92e",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1463087998879522347?ckey=informatique&rgn=0&pos=11&elckey=-5812174006250384093&p=1&aq=7869801171566798731&cid=20&jobAge=37&relb=110&brelb=110&bscr=280.79834&scr=280.79834",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-30",
-    "ref_unique": "ma-6f6ff2d92e"
-  },
-  {
-    "id": "ma-d65c9182dd",
-    "titre": "Team-Leader",
-    "entreprise": "Consort Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Team-Leader chez Consort Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2294378550238924965?ckey=informatique&rgn=0&pos=12&elckey=-5812174006250384093&p=1&aq=7869801171566798731&cid=20&jobAge=61&relb=110&brelb=110&bscr=276.64178&scr=276.64178",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-30",
-    "ref_unique": "ma-d65c9182dd"
-  },
-  {
-    "id": "jf-feb4fcb96b",
-    "titre": "test",
-    "entreprise": "UztexGroup",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "pascal",
-      "cassandra",
-      "testing"
-    ],
-    "resume_neutre": "test chez UztexGroup, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-uztexgroup-1135624",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-feb4fcb96b"
-  },
-  {
-    "id": "jf-803a87a2c6",
-    "titre": "BUSINESS &amp; SUPPORT",
-    "entreprise": "Amal Semiconductor",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "non tech"
-    ],
-    "resume_neutre": "BUSINESS &amp; SUPPORT chez Amal Semiconductor, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-business-amp-support-amal-semiconductor-1135617",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-803a87a2c6"
-  },
-  {
-    "id": "jf-4a5a712838",
-    "titre": "Auxiliar de Recursos Humanos",
-    "entreprise": "Universia Brasil",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Auxiliar de Recursos Humanos chez Universia Brasil, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-recursos-humanos-universia-brasil-1135612",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-4a5a712838"
-  },
-  {
-    "id": "jf-a00655ab6e",
-    "titre": "Chief of Staff the CEO",
-    "entreprise": "Everyday Dose",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "technical",
-      "travel",
-      "speech"
-    ],
-    "resume_neutre": "Chief of Staff the CEO chez Everyday Dose, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-everyday-dose-1135608",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-a00655ab6e"
   }
 ]
