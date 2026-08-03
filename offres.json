@@ -1,5 +1,154 @@
 [
   {
+    "id": "jf-d17dc4481a",
+    "titre": "Failure Breeds Success",
+    "entreprise": "Deliberate Development",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "finance",
+      "exec",
+      "api",
+      "marketing"
+    ],
+    "resume_neutre": "Failure Breeds Success chez Deliberate Development, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-failure-breeds-success-deliberate-development-1135924",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-d17dc4481a"
+  },
+  {
+    "id": "jf-9cff98414b",
+    "titre": "Put the Effort",
+    "entreprise": "Deliberate Development",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "finance",
+      "exec",
+      "api",
+      "marketing"
+    ],
+    "resume_neutre": "Put the Effort chez Deliberate Development, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-put-the-effort-deliberate-development-1135923",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-9cff98414b"
+  },
+  {
+    "id": "jf-3a7afb3420",
+    "titre": "LÃN",
+    "entreprise": "Patice",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "LÃN chez Patice, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-len-patice-1136036",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-3a7afb3420"
+  },
+  {
+    "id": "jf-99a313c528",
+    "titre": "Fire Technician",
+    "entreprise": "Chubb Fire &amp; Security",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "microsoft"
+    ],
+    "resume_neutre": "Fire Technician chez Chubb Fire &amp; Security, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fire-technician-chubb-fire-amp-security-1136000",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-99a313c528"
+  },
+  {
+    "id": "jf-1a8086866b",
+    "titre": "Â¿NECESITO UNA APP O NO",
+    "entreprise": "eXtremaNET Consultores",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "Â¿NECESITO UNA APP O NO chez eXtremaNET Consultores, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-necesito-una-app-o-no-extremanet-consultores-1136038",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-1a8086866b"
+  },
+  {
+    "id": "jf-5381960ad4",
+    "titre": "Priya Sharma",
+    "entreprise": "NeonScouts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce"
+    ],
+    "resume_neutre": "Priya Sharma chez NeonScouts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-priya-sharma-neonscouts-1136033",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-5381960ad4"
+  },
+  {
+    "id": "jf-fa9bd6dec4",
+    "titre": "FREELANCERS",
+    "entreprise": "Next Reels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "FREELANCERS chez Next Reels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelancers-next-reels-1135919",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-fa9bd6dec4"
+  },
+  {
     "id": "jf-85d69373bd",
     "titre": "Grey Men",
     "entreprise": "No Quarter",
@@ -5552,152 +5701,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-30",
     "ref_unique": "jf-a0c72e88d5"
-  },
-  {
-    "id": "jf-db78d737f7",
-    "titre": "Care Navigator Level 1",
-    "entreprise": "Ready",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "education",
-      "exec",
-      "content writing",
-      "marketing"
-    ],
-    "resume_neutre": "Care Navigator Level 1 chez Ready, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-care-navigator-level-1-ready-1135674",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-db78d737f7"
-  },
-  {
-    "id": "jf-94bb30b07b",
-    "titre": "FDE Lead",
-    "entreprise": "Wipro",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "design",
-      "exec",
-      "digital nomad"
-    ],
-    "resume_neutre": "FDE Lead chez Wipro, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-fde-lead-wipro-1135645",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-94bb30b07b"
-  },
-  {
-    "id": "jf-3926fd829a",
-    "titre": "Legal Expert",
-    "entreprise": "Weekday AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "content writing",
-      "legal",
-      "sys admin"
-    ],
-    "resume_neutre": "Legal Expert chez Weekday AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-legal-expert-weekday-ai-1135616",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-3926fd829a"
-  },
-  {
-    "id": "jf-ca2d0c4bde",
-    "titre": "Political",
-    "entreprise": "PowerPlay",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec"
-    ],
-    "resume_neutre": "Political chez PowerPlay, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-political-powerplay-1135622",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-ca2d0c4bde"
-  },
-  {
-    "id": "jf-a77c16fc16",
-    "titre": "Program &amp; Events Coordinator",
-    "entreprise": "LSP Association",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "education",
-      "exec",
-      "content writing",
-      "marketing"
-    ],
-    "resume_neutre": "Program &amp; Events Coordinator chez LSP Association, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-program-amp-events-coordinator-lsp-association-1135669",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-a77c16fc16"
-  },
-  {
-    "id": "jf-dfa380e008",
-    "titre": "US Tax Preparer",
-    "entreprise": "Ambit Tax and Accounting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "design",
-      "exec",
-      "digital nomad",
-      "accounting"
-    ],
-    "resume_neutre": "US Tax Preparer chez Ambit Tax and Accounting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-us-tax-preparer-ambit-tax-and-accounting-1135646",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-dfa380e008"
-  },
-  {
-    "id": "jf-3bd9012fb1",
-    "titre": "Lean Practitioner",
-    "entreprise": "KaizenworldAI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "javascript"
-    ],
-    "resume_neutre": "Lean Practitioner chez KaizenworldAI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lean-practitioner-kaizenworldai-1135629",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-3bd9012fb1"
   }
 ]
