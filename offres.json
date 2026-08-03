@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-75115b6c51",
+    "titre": "Junior Designer",
+    "entreprise": "Haystack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "amazon",
+      "designer",
+      "customer support",
+      "video"
+    ],
+    "resume_neutre": "Junior Designer chez Haystack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-75115b6c51"
+  },
+  {
+    "id": "jf-c0af87a368",
+    "titre": "Data Entry Administrator",
+    "entreprise": "PulseMediaNL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "infosec",
+      "education",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Data Entry Administrator chez PulseMediaNL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-c0af87a368"
+  },
+  {
+    "id": "jf-b568f54ead",
+    "titre": "Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î",
+    "entreprise": "Imaginary Rooms",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î chez Imaginary Rooms, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-03",
+    "ref_unique": "jf-b568f54ead"
+  },
+  {
     "id": "jf-0d2afa5bdd",
     "titre": "Patient Outreach Specialist",
     "entreprise": "Grapefruit Health",
@@ -5646,71 +5708,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-30",
     "ref_unique": "jf-a00655ab6e"
-  },
-  {
-    "id": "jf-92d7413c16",
-    "titre": "Hospice",
-    "entreprise": "Hometown Deli &amp; Grocery",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "infosec",
-      "music",
-      "education"
-    ],
-    "resume_neutre": "Hospice chez Hometown Deli &amp; Grocery, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-hospice-hometown-deli-amp-grocery-1135592",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-92d7413c16"
-  },
-  {
-    "id": "jf-6cba470d36",
-    "titre": "Acoustical Management",
-    "entreprise": "Hometown Deli &amp; Grocery",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "infosec",
-      "music",
-      "education"
-    ],
-    "resume_neutre": "Acoustical Management chez Hometown Deli &amp; Grocery, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-acoustical-management-hometown-deli-amp-grocery-1135593",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-6cba470d36"
-  },
-  {
-    "id": "jf-b513cc480d",
-    "titre": "REEDER",
-    "entreprise": "Tarsu AlÄ±ÅveriÅ Merkezi",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Project Manager",
-    "remote": true,
-    "competences": [
-      "project manager",
-      "exec",
-      "pascal",
-      "cassandra",
-      "testing"
-    ],
-    "resume_neutre": "REEDER chez Tarsu AlÄ±ÅveriÅ Merkezi, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-reeder-tarsu-alisveris-merkezi-1135628",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-30",
-    "ref_unique": "jf-b513cc480d"
   }
 ]
