@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-b074709b34",
+    "titre": "Program Delivery Officer Level 1",
+    "entreprise": "Queensland Corrective Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "microsoft"
+    ],
+    "resume_neutre": "Program Delivery Officer Level 1 chez Queensland Corrective Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-program-delivery-officer-level-1-queensland-corrective-services-1135996",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-b074709b34"
+  },
+  {
+    "id": "jf-14100c0655",
+    "titre": "Join Our Team",
+    "entreprise": "Bay Plumbing &amp; Drainage",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "microsoft"
+    ],
+    "resume_neutre": "Join Our Team chez Bay Plumbing &amp; Drainage, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-bay-plumbing-amp-drainage-1136024",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-14100c0655"
+  },
+  {
+    "id": "jf-54ea6f1630",
+    "titre": "Build Anything Launch â 99 Seconds",
+    "entreprise": "Clarity-Fox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "customer support",
+      "legal",
+      "medical",
+      "full time"
+    ],
+    "resume_neutre": "Build Anything Launch â 99 Seconds chez Clarity-Fox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-build-anything-launch-99-seconds-clarity-fox-1135957",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-54ea6f1630"
+  },
+  {
+    "id": "jf-846d19dc9f",
+    "titre": "AGC Studio",
+    "entreprise": "AGC Studio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "speech",
+      "video",
+      "node",
+      "seo"
+    ],
+    "resume_neutre": "AGC Studio chez AGC Studio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-agc-studio-agc-studio-1135931",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-846d19dc9f"
+  },
+  {
+    "id": "jf-a7560fc68f",
+    "titre": "Jasper",
+    "entreprise": "Hot9ja",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "speech",
+      "video",
+      "node",
+      "seo"
+    ],
+    "resume_neutre": "Jasper chez Hot9ja, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-jasper-hot9ja-1135932",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-a7560fc68f"
+  },
+  {
+    "id": "jf-b4f17aff1c",
+    "titre": "Julius AI",
+    "entreprise": "Hot9ja",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "Julius AI chez Hot9ja, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-julius-ai-hot9ja-1136041",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-b4f17aff1c"
+  },
+  {
     "id": "jf-f6bf211fbd",
     "titre": "Wear What You Love is HIRING",
     "entreprise": "Provo Towne Centre",
@@ -5564,129 +5696,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-07-31",
     "ref_unique": "ma-988b03c81b"
-  },
-  {
-    "id": "ma-d2348d856e",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=12&elckey=-6167927922243170227&p=1&aq=3990578341480316108&cid=20&jobAge=37&relb=110&brelb=110&bscr=280.67892&scr=280.67892",
-    "source_nom": "Jooble",
-    "date_pub": "2026-07-31",
-    "ref_unique": "ma-d2348d856e"
-  },
-  {
-    "id": "jf-00f875c1ad",
-    "titre": "Other",
-    "entreprise": "Atoms &amp; Space",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Other chez Atoms &amp; Space, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-other-atoms-amp-space-1135667",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-00f875c1ad"
-  },
-  {
-    "id": "jf-78ea672817",
-    "titre": "Growth Marketer",
-    "entreprise": "CLANX",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "design",
-      "exec",
-      "recruiter",
-      "travel"
-    ],
-    "resume_neutre": "Growth Marketer chez CLANX, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-growth-marketer-clanx-1135656",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-78ea672817"
-  },
-  {
-    "id": "jf-58217c4fc4",
-    "titre": "READ MORE",
-    "entreprise": "Lancashire Careers Hub",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "technical",
-      "customer support",
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "READ MORE chez Lancashire Careers Hub, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-read-more-lancashire-careers-hub-1135652",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-58217c4fc4"
-  },
-  {
-    "id": "jf-fa639c6fde",
-    "titre": "At Office",
-    "entreprise": "Pioneer Navigation Global",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "exec",
-      "medical",
-      "marketing",
-      "accounting"
-    ],
-    "resume_neutre": "At Office chez Pioneer Navigation Global, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-at-office-pioneer-navigation-global-1135665",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-fa639c6fde"
-  },
-  {
-    "id": "jf-97417ad5f1",
-    "titre": "Project Administrator",
-    "entreprise": "Bavarian Capital",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Macos",
-    "remote": true,
-    "competences": [
-      "macos",
-      "education",
-      "speech",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "Project Administrator chez Bavarian Capital, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-project-administrator-bavarian-capital-1135720",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-97417ad5f1"
   }
 ]
