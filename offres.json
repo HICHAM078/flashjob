@@ -1,5 +1,151 @@
 [
   {
+    "id": "jf-c1f4c709dd",
+    "titre": "Custom Software Engineer",
+    "entreprise": "Accenture in India",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "dev",
+      "design",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Custom Software Engineer chez Accenture in India, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-custom-software-engineer-accenture-in-india-1136072",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-c1f4c709dd"
+  },
+  {
+    "id": "jf-9c76fff1ad",
+    "titre": "Expression of Interest",
+    "entreprise": "Heim",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Adult",
+    "remote": true,
+    "competences": [
+      "adult",
+      "golang",
+      "hr",
+      "testing",
+      "marketing"
+    ],
+    "resume_neutre": "Expression of Interest chez Heim, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-heim-1136059",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-9c76fff1ad"
+  },
+  {
+    "id": "jf-0b18a8117e",
+    "titre": "Food &amp; Beverage Positions",
+    "entreprise": "MEF Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Food &amp; Beverage Positions chez MEF Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-food-amp-beverage-positions-mef-ltd-1136052",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-0b18a8117e"
+  },
+  {
+    "id": "jf-56510c93d1",
+    "titre": "Regional Flight Operations Support Manager",
+    "entreprise": "Wing",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "education",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Regional Flight Operations Support Manager chez Wing, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-56510c93d1"
+  },
+  {
+    "id": "jf-f796578af6",
+    "titre": "SH Blasting Officer",
+    "entreprise": "Aditya Birla Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin"
+    ],
+    "resume_neutre": "SH Blasting Officer chez Aditya Birla Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sh-blasting-officer-aditya-birla-group-1136071",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-f796578af6"
+  },
+  {
+    "id": "jf-ae50787255",
+    "titre": "Sales Coordinator New York",
+    "entreprise": "Tito's Handmade Vodka",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "education",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Sales Coordinator New York chez Tito's Handmade Vodka, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-coordinator-new-york-titos-handmade-vodka-1136055",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-ae50787255"
+  },
+  {
+    "id": "jf-50fbdc758d",
+    "titre": "Managing Director Discovery and Insight",
+    "entreprise": "TED Conferences",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "education",
+      "recruiter",
+      "customer support"
+    ],
+    "resume_neutre": "Managing Director Discovery and Insight chez TED Conferences, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-managing-director-discovery-and-insight-ted-conferences-1136056",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-50fbdc758d"
+  },
+  {
     "id": "jf-9fbbdb616d",
     "titre": "Social Media Coordinator",
     "entreprise": "Clandestine Magazine",
@@ -5551,157 +5697,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-01",
     "ref_unique": "jf-e79237a127"
-  },
-  {
-    "id": "jf-99d39c78c8",
-    "titre": "Admissions Advisor MasterClass Executive",
-    "entreprise": "MasterClass",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "technical",
-      "writer",
-      "customer support",
-      "exec"
-    ],
-    "resume_neutre": "Admissions Advisor MasterClass Executive chez MasterClass, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-admissions-advisor-masterclass-executive-masterclass-1135740",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-99d39c78c8"
-  },
-  {
-    "id": "jf-5875b0a2f6",
-    "titre": "Cleaner",
-    "entreprise": "Beklane Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "travel",
-      "non tech"
-    ],
-    "resume_neutre": "Cleaner chez Beklane Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-cleaner-beklane-ltd-1135733",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-5875b0a2f6"
-  },
-  {
-    "id": "jf-5d2830d243",
-    "titre": "People and Culture Manager",
-    "entreprise": "Casa TrÃ¨s Events",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Macos",
-    "remote": true,
-    "competences": [
-      "macos",
-      "education",
-      "speech",
-      "content writing",
-      "non tech"
-    ],
-    "resume_neutre": "People and Culture Manager chez Casa TrÃ¨s Events, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-people-and-culture-manager-casa-tres-events-1135719",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-5d2830d243"
-  },
-  {
-    "id": "jf-8c6606fdad",
-    "titre": "Associate Events Social &amp; Influencer Marketing",
-    "entreprise": "Society 18",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "customer support",
-      "travel",
-      "video"
-    ],
-    "resume_neutre": "Associate Events Social &amp; Influencer Marketing chez Society 18, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-events-social-amp-influencer-marketing-society-18-1135695",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-8c6606fdad"
-  },
-  {
-    "id": "jf-f13d58f78c",
-    "titre": "Data Analyst",
-    "entreprise": "Sparksoft Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "customer support",
-      "travel",
-      "video"
-    ],
-    "resume_neutre": "Data Analyst chez Sparksoft Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-f13d58f78c"
-  },
-  {
-    "id": "jf-fee76a92f3",
-    "titre": "Growth Strategist",
-    "entreprise": "Lyric",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "design",
-      "embedded",
-      "technical",
-      "strategy"
-    ],
-    "resume_neutre": "Growth Strategist chez Lyric, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-fee76a92f3"
-  },
-  {
-    "id": "jf-3f7f14d95f",
-    "titre": "AI Trainer Freelance Data Annotator",
-    "entreprise": "Mindrift - Data annotation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "data annotation",
-      "content writing",
-      "part time",
-      "non tech"
-    ],
-    "resume_neutre": "AI Trainer Freelance Data Annotator chez Mindrift - Data annotation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-3f7f14d95f"
   }
 ]
