@@ -1,5 +1,240 @@
 [
   {
+    "id": "jf-9fbbdb616d",
+    "titre": "Social Media Coordinator",
+    "entreprise": "Clandestine Magazine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "front end",
+      "designer",
+      "dev",
+      "seo"
+    ],
+    "resume_neutre": "Social Media Coordinator chez Clandestine Magazine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-clandestine-magazine-1136063",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-9fbbdb616d"
+  },
+  {
+    "id": "jf-59b6e84579",
+    "titre": "Handy Person",
+    "entreprise": "London Borough of Merton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Adult",
+    "remote": true,
+    "competences": [
+      "adult",
+      "golang"
+    ],
+    "resume_neutre": "Handy Person chez London Borough of Merton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handy-person-london-borough-of-merton-1136058",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-59b6e84579"
+  },
+  {
+    "id": "jf-59ae339d0e",
+    "titre": "JOHN FOLBERTH",
+    "entreprise": "Beer City Code",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "marketing",
+      "content writing",
+      "dev",
+      "microsoft"
+    ],
+    "resume_neutre": "JOHN FOLBERTH chez Beer City Code, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-john-folberth-beer-city-code-1136051",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-59ae339d0e"
+  },
+  {
+    "id": "jf-3b6ffa2c73",
+    "titre": "TOM BOWEN",
+    "entreprise": "Ms Represents",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "TOM BOWEN chez Ms Represents, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tom-bowen-ms-represents-1136049",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-3b6ffa2c73"
+  },
+  {
+    "id": "jf-c2fc3fa304",
+    "titre": "Test Job 3",
+    "entreprise": "PinPoint Middleware Test Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "cloud",
+      "ops",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job 3 chez PinPoint Middleware Test Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-3-pinpoint-middleware-test-company-1136043",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-c2fc3fa304"
+  },
+  {
+    "id": "jf-8b5e64ee37",
+    "titre": "Marketing Coordinator Partner Programs",
+    "entreprise": "Digiday",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "coordinator",
+      "marketing",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Marketing Coordinator Partner Programs chez Digiday, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-partner-programs-digiday-1136045",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-8b5e64ee37"
+  },
+  {
+    "id": "jf-352fe003f6",
+    "titre": "Fireman",
+    "entreprise": "Dishman Carbogen Amcis Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "Fireman chez Dishman Carbogen Amcis Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fireman-dishman-carbogen-amcis-ltd-1136040",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-352fe003f6"
+  },
+  {
+    "id": "jf-62daa4ba42",
+    "titre": "AH SIC CAM",
+    "entreprise": "Aditya Birla Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "dev",
+      "design",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "AH SIC CAM chez Aditya Birla Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ah-sic-cam-aditya-birla-group-1136073",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-62daa4ba42"
+  },
+  {
+    "id": "jf-570be44eba",
+    "titre": "Kit",
+    "entreprise": "Cllimber",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "Kit chez Cllimber, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-kit-cllimber-1136034",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-570be44eba"
+  },
+  {
+    "id": "jf-3f9ad7f179",
+    "titre": "folk",
+    "entreprise": "Cllimber",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "folk chez Cllimber, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-folk-cllimber-1136037",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-3f9ad7f179"
+  },
+  {
+    "id": "jf-5db4947d7f",
+    "titre": "AI Integration &amp; Automation",
+    "entreprise": "Kleverio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "web dev",
+      "engineer",
+      "ecommerce",
+      "marketing"
+    ],
+    "resume_neutre": "AI Integration &amp; Automation chez Kleverio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-integration-amp-automation-kleverio-1136035",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-04",
+    "ref_unique": "jf-5db4947d7f"
+  },
+  {
     "id": "ma-ace994e11b",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5468,229 +5703,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-07-31",
     "ref_unique": "jf-3f7f14d95f"
-  },
-  {
-    "id": "jf-ac85f17627",
-    "titre": "Administrative Assistant",
-    "entreprise": "Viable Medical Solutions",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "music",
-      "customer support",
-      "travel",
-      "video"
-    ],
-    "resume_neutre": "Administrative Assistant chez Viable Medical Solutions, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-ac85f17627"
-  },
-  {
-    "id": "jf-86ddb47490",
-    "titre": "Mes",
-    "entreprise": "PADGET ELECTRONICS Private Limited (DIXON)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "full time",
-      "controller"
-    ],
-    "resume_neutre": "Mes chez PADGET ELECTRONICS Private Limited (DIXON), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mes-padget-electronics-private-limited-dixon-1135730",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-86ddb47490"
-  },
-  {
-    "id": "jf-0190ff9f38",
-    "titre": "A Book of Your Own",
-    "entreprise": "TechWhirl",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "analyst",
-      "finance",
-      "content writing",
-      "excel"
-    ],
-    "resume_neutre": "A Book of Your Own chez TechWhirl, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-a-book-of-your-own-techwhirl-1135683",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-0190ff9f38"
-  },
-  {
-    "id": "jf-592ff3d886",
-    "titre": "This IS Your Dream Job",
-    "entreprise": "TechWhirl",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "analyst",
-      "finance",
-      "content writing",
-      "excel"
-    ],
-    "resume_neutre": "This IS Your Dream Job chez TechWhirl, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-this-is-your-dream-job-techwhirl-1135682",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-592ff3d886"
-  },
-  {
-    "id": "jf-7add92cf1b",
-    "titre": "Next Steps",
-    "entreprise": "Corporate Travel Specialists",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Travel",
-    "remote": true,
-    "competences": [
-      "travel",
-      "exec"
-    ],
-    "resume_neutre": "Next Steps chez Corporate Travel Specialists, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-next-steps-corporate-travel-specialists-1135724",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-7add92cf1b"
-  },
-  {
-    "id": "jf-3fe1ba0e03",
-    "titre": "Koparka",
-    "entreprise": "Bujak Maszyny",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "full time",
-      "controller"
-    ],
-    "resume_neutre": "Koparka chez Bujak Maszyny, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-koparka-bujak-maszyny-1135729",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-3fe1ba0e03"
-  },
-  {
-    "id": "jf-5c193cabd3",
-    "titre": "Site Operation",
-    "entreprise": "JAKSON Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "full time"
-    ],
-    "resume_neutre": "Site Operation chez JAKSON Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-site-operation-jakson-group-1135727",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-5c193cabd3"
-  },
-  {
-    "id": "jf-bc0ef71787",
-    "titre": "Current Vacancies",
-    "entreprise": "Donnington Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Current Vacancies chez Donnington Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-current-vacancies-donnington-group-1135678",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-bc0ef71787"
-  },
-  {
-    "id": "jf-b9ead1b3cf",
-    "titre": "Vacancy",
-    "entreprise": "Marmend",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Travel",
-    "remote": true,
-    "competences": [
-      "travel",
-      "exec",
-      "full time"
-    ],
-    "resume_neutre": "Vacancy chez Marmend, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-vacancy-marmend-1135725",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-b9ead1b3cf"
-  },
-  {
-    "id": "jf-4a919b0954",
-    "titre": "Supply Chain &amp; Operations Specialist",
-    "entreprise": "Miss Amara",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Virtual Assistant",
-    "remote": true,
-    "competences": [
-      "virtual assistant",
-      "coordinator",
-      "customer support",
-      "marketing",
-      "ops"
-    ],
-    "resume_neutre": "Supply Chain &amp; Operations Specialist chez Miss Amara, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-4a919b0954"
-  },
-  {
-    "id": "jf-3c144d6147",
-    "titre": "Trafic",
-    "entreprise": "Filmtheater Cinecenter",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Technical",
-    "remote": true,
-    "competences": [
-      "technical",
-      "full time",
-      "controller"
-    ],
-    "resume_neutre": "Trafic chez Filmtheater Cinecenter, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-trafic-filmtheater-cinecenter-1135731",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-07-31",
-    "ref_unique": "jf-3c144d6147"
   }
 ]
