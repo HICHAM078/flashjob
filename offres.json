@@ -1,5 +1,266 @@
 [
   {
+    "id": "jf-9a387daaa0",
+    "titre": "Clinical Coordination Manager",
+    "entreprise": "Enable Dental",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "wordpress",
+      "customer support"
+    ],
+    "resume_neutre": "Clinical Coordination Manager chez Enable Dental, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-9a387daaa0"
+  },
+  {
+    "id": "jf-6be2ed5fe8",
+    "titre": "Testing",
+    "entreprise": "Richmond and Wandsworth Councils",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "finance",
+      "exec",
+      "digital nomad",
+      "testing"
+    ],
+    "resume_neutre": "Testing chez Richmond and Wandsworth Councils, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-testing-richmond-and-wandsworth-councils-1136093",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-6be2ed5fe8"
+  },
+  {
+    "id": "jf-d2539235bb",
+    "titre": "Graphic Designer Freelance",
+    "entreprise": "DAMIANI Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "video",
+      "marketing",
+      "photoshop"
+    ],
+    "resume_neutre": "Graphic Designer Freelance chez DAMIANI Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-freelance-damiani-group-1136122",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-d2539235bb"
+  },
+  {
+    "id": "jf-08d45fa453",
+    "titre": "Administrative Assistant",
+    "entreprise": "TIMBERTEK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Entry",
+    "remote": true,
+    "competences": [
+      "data entry",
+      "virtual assistant",
+      "teaching",
+      "education",
+      "marketing"
+    ],
+    "resume_neutre": "Administrative Assistant chez TIMBERTEK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-timbertek-1136108",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-08d45fa453"
+  },
+  {
+    "id": "jf-498f2ad6b9",
+    "titre": "Express your interest",
+    "entreprise": "Signal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "finance",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Express your interest chez Signal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-express-your-interest-signal-1136091",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-498f2ad6b9"
+  },
+  {
+    "id": "jf-4fffba4b57",
+    "titre": "System Online Shopping",
+    "entreprise": "Ouba",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin"
+    ],
+    "resume_neutre": "System Online Shopping chez Ouba, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-system-online-shopping-ouba-1136087",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-4fffba4b57"
+  },
+  {
+    "id": "jf-e4e45b9c8c",
+    "titre": "What Remains",
+    "entreprise": "Ouba",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "What Remains chez Ouba, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-what-remains-ouba-1136090",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-e4e45b9c8c"
+  },
+  {
+    "id": "jf-2c5c93fd2f",
+    "titre": "Still Hungry",
+    "entreprise": "Ouba",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Still Hungry chez Ouba, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-still-hungry-ouba-1136089",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-2c5c93fd2f"
+  },
+  {
+    "id": "jf-f68a46ab80",
+    "titre": "NO CURRENT OPENINGS",
+    "entreprise": "Dimensionality",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin"
+    ],
+    "resume_neutre": "NO CURRENT OPENINGS chez Dimensionality, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-no-current-openings-dimensionality-1136088",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-f68a46ab80"
+  },
+  {
+    "id": "jf-3d33c606e6",
+    "titre": "Candidature libre",
+    "entreprise": "ciitÃ©lÃ©com - Alerte des Populations",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Candidature libre chez ciitÃ©lÃ©com - Alerte des Populations, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-candidature-libre-ciitelecom-alerte-des-populations-1136126",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-3d33c606e6"
+  },
+  {
+    "id": "jf-7e0155b321",
+    "titre": "Employment by Occupation",
+    "entreprise": "Best in Britain",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Employment by Occupation chez Best in Britain, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-employment-by-occupation-best-in-britain-1136134",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-7e0155b321"
+  },
+  {
+    "id": "jf-aa60ef40d2",
+    "titre": "Employment Status",
+    "entreprise": "Best in Britain",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "customer support",
+      "non tech",
+      "quality assurance"
+    ],
+    "resume_neutre": "Employment Status chez Best in Britain, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-employment-status-best-in-britain-1136155",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-aa60ef40d2"
+  },
+  {
+    "id": "jf-2eaa8212c2",
+    "titre": "Mark Lefebvre",
+    "entreprise": "SC AI Impact Alliance",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad",
+      "customer support",
+      "non tech",
+      "quality assurance"
+    ],
+    "resume_neutre": "Mark Lefebvre chez SC AI Impact Alliance, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mark-lefebvre-sc-ai-impact-alliance-1136145",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-2eaa8212c2"
+  },
+  {
     "id": "ma-6274be7fd5",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5423,278 +5684,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-02",
     "ref_unique": "jf-3bac16c0bb"
-  },
-  {
-    "id": "jf-ad30567a91",
-    "titre": "Tequila Market Manager New Jersey",
-    "entreprise": "Bandero Tequila",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "travel",
-      "legal"
-    ],
-    "resume_neutre": "Tequila Market Manager New Jersey chez Bandero Tequila, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-jersey-bandero-tequila-1135754",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-ad30567a91"
-  },
-  {
-    "id": "jf-a738abbf7b",
-    "titre": "Human Resources Coordinator",
-    "entreprise": "Pacific Health Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "sys admin",
-      "education",
-      "recruiter",
-      "coordinator"
-    ],
-    "resume_neutre": "Human Resources Coordinator chez Pacific Health Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-a738abbf7b"
-  },
-  {
-    "id": "jf-ff0e3132f7",
-    "titre": "Tequila Market Manager New York",
-    "entreprise": "Bandero Tequila",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "travel",
-      "legal"
-    ],
-    "resume_neutre": "Tequila Market Manager New York chez Bandero Tequila, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-york-bandero-tequila-1135753",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-ff0e3132f7"
-  },
-  {
-    "id": "jf-13c7a42061",
-    "titre": "Join Our Team",
-    "entreprise": "Miraculous Maids",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Join Our Team chez Miraculous Maids, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-miraculous-maids-1135748",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-13c7a42061"
-  },
-  {
-    "id": "jf-e70af701dd",
-    "titre": "Voice Over Artist",
-    "entreprise": "Bored Panda",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "speech",
-      "finance",
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "Voice Over Artist chez Bored Panda, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-e70af701dd"
-  },
-  {
-    "id": "jf-dd78d99db6",
-    "titre": "HR Generalist",
-    "entreprise": "Aditi Consulting",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "travel",
-      "legal"
-    ],
-    "resume_neutre": "HR Generalist chez Aditi Consulting, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-generalist-aditi-consulting-1135755",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-dd78d99db6"
-  },
-  {
-    "id": "jf-18fda0541a",
-    "titre": "ASSISTENTE ADMINISTRATIVO RH DP",
-    "entreprise": "Samba Hospitality Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "ASSISTENTE ADMINISTRATIVO RH DP chez Samba Hospitality Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-rh-dp-samba-hospitality-group-1135843",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-18fda0541a"
-  },
-  {
-    "id": "jf-66aeecaeb4",
-    "titre": "Thá»±c Táº­p Sinh PhÃ¡t Triá»n Kinh Doanh",
-    "entreprise": "ACC Hospitality",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "C",
-    "remote": true,
-    "competences": [
-      "c"
-    ],
-    "resume_neutre": "Thá»±c Táº­p Sinh PhÃ¡t Triá»n Kinh Doanh chez ACC Hospitality, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-thuc-tap-sinh-phat-trien-kinh-doanh-acc-hospitality-1135780",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-66aeecaeb4"
-  },
-  {
-    "id": "jf-eaf4b8d33c",
-    "titre": "Range Keeper",
-    "entreprise": "Black &amp; McDonald Limited",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "consulting",
-      "senior",
-      "ops",
-      "sales"
-    ],
-    "resume_neutre": "Range Keeper chez Black &amp; McDonald Limited, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-range-keeper-black-amp-mcdonald-limited-1135751",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-eaf4b8d33c"
-  },
-  {
-    "id": "jf-4df60ef41e",
-    "titre": "Other areas",
-    "entreprise": "Zegogo Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "recruiter",
-      "non tech",
-      "design",
-      "hr"
-    ],
-    "resume_neutre": "Other areas chez Zegogo Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-other-areas-zegogo-corporation-1135758",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-4df60ef41e"
-  },
-  {
-    "id": "jf-c9a4690bcd",
-    "titre": "Product Engineer",
-    "entreprise": "SuperPlane",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Golang",
-    "remote": true,
-    "competences": [
-      "golang",
-      "javascript",
-      "react",
-      "ai"
-    ],
-    "resume_neutre": "Product Engineer chez SuperPlane, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-c9a4690bcd"
-  },
-  {
-    "id": "jf-a99841eb59",
-    "titre": "Client Onboarding Manager",
-    "entreprise": "Connecteam",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "technical",
-      "writer",
-      "customer support",
-      "exec"
-    ],
-    "resume_neutre": "Client Onboarding Manager chez Connecteam, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-client-onboarding-manager-connecteam-1135743",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-a99841eb59"
-  },
-  {
-    "id": "jf-752308ec84",
-    "titre": "Entry Level Virtual Assistant $14 $18 hour",
-    "entreprise": "Filipino Contractors",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "technical",
-      "writer",
-      "customer support",
-      "exec"
-    ],
-    "resume_neutre": "Entry Level Virtual Assistant $14 $18 hour chez Filipino Contractors, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-virtual-assistant-14-18-hour-filipino-contractors-1135742",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-752308ec84"
   }
 ]
