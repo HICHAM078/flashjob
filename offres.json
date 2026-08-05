@@ -1,5 +1,148 @@
 [
   {
+    "id": "jf-1646b441ac",
+    "titre": "Lead Hand",
+    "entreprise": "Dexterra Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "full time",
+      "part time"
+    ],
+    "resume_neutre": "Lead Hand chez Dexterra Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-hand-dexterra-group-1136175",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-1646b441ac"
+  },
+  {
+    "id": "jf-d3d00ccbf7",
+    "titre": "Improving the quality of life by reducing city noise levels",
+    "entreprise": "World Data League",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Improving the quality of life by reducing city noise levels chez World Data League, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-improving-the-quality-of-life-by-reducing-city-noise-levels-world-data-league-1136099",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-d3d00ccbf7"
+  },
+  {
+    "id": "jf-d1a4a57ba7",
+    "titre": "Attracting the population green spaces metropolitan areas",
+    "entreprise": "World Data League",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "Attracting the population green spaces metropolitan areas chez World Data League, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-attracting-the-population-green-spaces-metropolitan-areas-world-data-league-1136100",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-d1a4a57ba7"
+  },
+  {
+    "id": "jf-6063620ab4",
+    "titre": "Creeler",
+    "entreprise": "Shaw Industries",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "finance",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Creeler chez Shaw Industries, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-creeler-shaw-industries-1136092",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-6063620ab4"
+  },
+  {
+    "id": "jf-da41aec0e5",
+    "titre": "Lead Hand",
+    "entreprise": "Dexterra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "full time",
+      "part time"
+    ],
+    "resume_neutre": "Lead Hand chez Dexterra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-hand-dexterra-1136174",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-da41aec0e5"
+  },
+  {
+    "id": "jf-a1bdb0a111",
+    "titre": "Marketing Specialist",
+    "entreprise": "INNERGY",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "wordpress",
+      "customer support"
+    ],
+    "resume_neutre": "Marketing Specialist chez INNERGY, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-a1bdb0a111"
+  },
+  {
+    "id": "jf-dff4028040",
+    "titre": "Compliance",
+    "entreprise": "Curcle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "full time",
+      "part time",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Compliance chez Curcle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-compliance-curcle-1136179",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-dff4028040"
+  },
+  {
     "id": "jf-9a387daaa0",
     "titre": "Clinical Coordination Manager",
     "entreprise": "Enable Dental",
@@ -5530,159 +5673,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-02",
     "ref_unique": "ma-711b21caae"
-  },
-  {
-    "id": "jf-cb19fd881c",
-    "titre": "Y Combinator â Aceleradora de Startups",
-    "entreprise": "EspaÃ±ol Sin Fronteras",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "speech",
-      "finance",
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "Y Combinator â Aceleradora de Startups chez EspaÃ±ol Sin Fronteras, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-y-combinator-aceleradora-de-startups-espanol-sin-fronteras-1135762",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-cb19fd881c"
-  },
-  {
-    "id": "jf-6835787f33",
-    "titre": "Estimator",
-    "entreprise": "MTrec Recruitment",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "exec",
-      "finance",
-      "scheme",
-      "excel"
-    ],
-    "resume_neutre": "Estimator chez MTrec Recruitment, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-mtrec-recruitment-1135768",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-6835787f33"
-  },
-  {
-    "id": "jf-fd7dc9acc1",
-    "titre": "Estimator",
-    "entreprise": "One Way",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "exec",
-      "finance",
-      "scheme",
-      "excel"
-    ],
-    "resume_neutre": "Estimator chez One Way, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-one-way-1135769",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-fd7dc9acc1"
-  },
-  {
-    "id": "jf-f2e2504836",
-    "titre": "Service Locator",
-    "entreprise": "BAM UK &amp; Ireland",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "exec",
-      "finance",
-      "scheme",
-      "excel"
-    ],
-    "resume_neutre": "Service Locator chez BAM UK &amp; Ireland, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-service-locator-bam-uk-amp-ireland-1135771",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-f2e2504836"
-  },
-  {
-    "id": "jf-e4d59c7603",
-    "titre": "Chief Operating Officer",
-    "entreprise": "U.S. Hunger",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "marketing",
-      "travel",
-      "legal"
-    ],
-    "resume_neutre": "Chief Operating Officer chez U.S. Hunger, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-u-s-hunger-1135756",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-e4d59c7603"
-  },
-  {
-    "id": "jf-313f7fcbf6",
-    "titre": "Safety Advisor",
-    "entreprise": "Keolis Australia &amp; New Zealand",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "recruiter",
-      "non tech",
-      "design",
-      "hr"
-    ],
-    "resume_neutre": "Safety Advisor chez Keolis Australia &amp; New Zealand, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-safety-advisor-keolis-australia-amp-new-zealand-1135759",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-313f7fcbf6"
-  },
-  {
-    "id": "jf-3bac16c0bb",
-    "titre": "Freelance Creative Director",
-    "entreprise": "BMWL",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "amazon",
-      "designer",
-      "customer support",
-      "video"
-    ],
-    "resume_neutre": "Freelance Creative Director chez BMWL, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-02",
-    "ref_unique": "jf-3bac16c0bb"
   }
 ]
