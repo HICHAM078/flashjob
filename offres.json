@@ -1,5 +1,106 @@
 [
   {
+    "id": "jf-4c351cb181",
+    "titre": "Partner Support Associate",
+    "entreprise": "Check",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "wordpress",
+      "customer support"
+    ],
+    "resume_neutre": "Partner Support Associate chez Check, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-partner-support-associate-check-1136095",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-4c351cb181"
+  },
+  {
+    "id": "jf-27df0aa719",
+    "titre": "Community",
+    "entreprise": "Program Delta Performance Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education"
+    ],
+    "resume_neutre": "Community chez Program Delta Performance Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-community-program-delta-performance-group-1136079",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-27df0aa719"
+  },
+  {
+    "id": "jf-d9b0d5462e",
+    "titre": "Jimothy2.0",
+    "entreprise": "Meme Calls",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Jimothy2.0 chez Meme Calls, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-jimothy2-0-meme-calls-1136083",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-d9b0d5462e"
+  },
+  {
+    "id": "jf-7011acafc4",
+    "titre": "merv",
+    "entreprise": "Meme Calls",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "medical",
+      "non tech",
+      "exec"
+    ],
+    "resume_neutre": "merv chez Meme Calls, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-merv-meme-calls-1136085",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-7011acafc4"
+  },
+  {
+    "id": "jf-0c4cd7ebf4",
+    "titre": "Graphic designer",
+    "entreprise": "Super Creative",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "video",
+      "marketing",
+      "photoshop"
+    ],
+    "resume_neutre": "Graphic designer chez Super Creative, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-05",
+    "ref_unique": "jf-0c4cd7ebf4"
+  },
+  {
     "id": "jf-397d3d0504",
     "titre": "Close satellite support",
     "entreprise": "BRAVO1ALPHA BV",
@@ -5609,97 +5710,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-01",
     "ref_unique": "ma-5531fff84a"
-  },
-  {
-    "id": "ma-bace00d212",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=9&elckey=7107489300886048031&p=1&aq=-6557254705356217076&cid=20&jobAge=7498&relb=100&brelb=100&bscr=1913.3372&scr=1913.3372",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-01",
-    "ref_unique": "ma-bace00d212"
-  },
-  {
-    "id": "ma-79d2994fb5",
-    "titre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2",
-    "entreprise": "Finashore",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2 chez Finashore, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7425518530596075266?ckey=informatique&rgn=0&pos=10&elckey=7107489300886048031&p=1&aq=-6557254705356217076&cid=20&jobAge=37&relb=110&brelb=110&bscr=1774.4143&scr=1774.4143000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-01",
-    "ref_unique": "ma-79d2994fb5"
-  },
-  {
-    "id": "ma-904a7897c0",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=11&elckey=7107489300886048031&p=1&aq=-6557254705356217076&cid=20&jobAge=109&relb=110&brelb=110&bscr=298.58176&scr=298.58176",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-01",
-    "ref_unique": "ma-904a7897c0"
-  },
-  {
-    "id": "ma-5441d44757",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=12&elckey=7107489300886048031&p=1&aq=-6557254705356217076&cid=20&jobAge=37&relb=110&brelb=110&bscr=288.5304&scr=288.5304",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-01",
-    "ref_unique": "ma-5441d44757"
-  },
-  {
-    "id": "jf-2de9b8b1f8",
-    "titre": "Permanent Jobs",
-    "entreprise": "New Zealand Apples and Pears",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "golang",
-      "non tech"
-    ],
-    "resume_neutre": "Permanent Jobs chez New Zealand Apples and Pears, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-permanent-jobs-new-zealand-apples-and-pears-1135747",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-01",
-    "ref_unique": "jf-2de9b8b1f8"
   }
 ]
