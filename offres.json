@@ -1,5 +1,24 @@
 [
   {
+    "id": "jf-bd15879add",
+    "titre": "barista",
+    "entreprise": "Cafe March 21",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "barista chez Cafe March 21, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-barista-cafe-march-21-1136231",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-07",
+    "ref_unique": "jf-bd15879add"
+  },
+  {
     "id": "jf-de668119b3",
     "titre": "Maintenance Technician",
     "entreprise": "The McBride Group",
@@ -5826,25 +5845,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-03",
     "ref_unique": "jf-fa9bd6dec4"
-  },
-  {
-    "id": "jf-85d69373bd",
-    "titre": "Grey Men",
-    "entreprise": "No Quarter",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Consulting",
-    "remote": true,
-    "competences": [
-      "consulting",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Grey Men chez No Quarter, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-grey-men-no-quarter-1135921",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-03",
-    "ref_unique": "jf-85d69373bd"
   }
 ]
