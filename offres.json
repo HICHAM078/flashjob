@@ -1,5 +1,65 @@
 [
   {
+    "id": "jf-b9b473beaa",
+    "titre": "Multiple Positions",
+    "entreprise": "City of Lancaster, Pennsylvania",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Multiple Positions chez City of Lancaster, Pennsylvania, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-multiple-positions-city-of-lancaster-pennsylvania-1136274",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-07",
+    "ref_unique": "jf-b9b473beaa"
+  },
+  {
+    "id": "jf-a113d6c115",
+    "titre": "IDEAS THAT\nSTICK.\nliterally ð",
+    "entreprise": "Sticky Today",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "saas",
+      "exec",
+      "dev",
+      "digital nomad"
+    ],
+    "resume_neutre": "IDEAS THAT\nSTICK.\nliterally ð chez Sticky Today, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-07",
+    "ref_unique": "jf-a113d6c115"
+  },
+  {
+    "id": "jf-069e54a9f6",
+    "titre": "Chief Engineer",
+    "entreprise": "Svitzer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Chief Engineer chez Svitzer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-engineer-svitzer-1136275",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-07",
+    "ref_unique": "jf-069e54a9f6"
+  },
+  {
     "id": "jf-cad6f35158",
     "titre": "Junior Team Members weekdays availability",
     "entreprise": "Supply Coffee",
@@ -5731,59 +5791,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-04",
     "ref_unique": "ma-08359c4e6a"
-  },
-  {
-    "id": "ma-35e5ac23b4",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=1&elckey=2953490989507550590&p=1&aq=7442813162764887904&cid=20&jobAge=445&relb=100&brelb=100&bscr=2406.7903&scr=2406.7903",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-35e5ac23b4"
-  },
-  {
-    "id": "ma-4fd8a44704",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "Thaïs",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=2&elckey=2953490989507550590&p=1&aq=7442813162764887904&cid=20&jobAge=251&relb=100&brelb=100&bscr=2282.1416&scr=2282.1416",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-4fd8a44704"
-  },
-  {
-    "id": "ma-cb629bc693",
-    "titre": "Adjoint Responsable Comptable - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Adjoint Responsable Comptable - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4584797171913633706?ckey=comptable&rgn=946&pos=3&elckey=2953490989507550590&p=1&aq=7442813162764887904&cid=20&jobAge=1045&relb=100&brelb=100&bscr=2152.021&scr=2152.021",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-cb629bc693"
   }
 ]
