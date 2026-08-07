@@ -1,5 +1,26 @@
 [
   {
+    "id": "jf-6a01f7d092",
+    "titre": "YHA QUEENSLAND",
+    "entreprise": "Elockers.Com Pty Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "education",
+      "travel"
+    ],
+    "resume_neutre": "YHA QUEENSLAND chez Elockers.Com Pty Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-yha-queensland-elockers-com-pty-ltd-1136265",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-07",
+    "ref_unique": "jf-6a01f7d092"
+  },
+  {
     "id": "jf-bd15879add",
     "titre": "barista",
     "entreprise": "Cafe March 21",
@@ -5827,23 +5848,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-03",
     "ref_unique": "jf-5381960ad4"
-  },
-  {
-    "id": "jf-fa9bd6dec4",
-    "titre": "FREELANCERS",
-    "entreprise": "Next Reels",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "FREELANCERS chez Next Reels, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-freelancers-next-reels-1135919",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-03",
-    "ref_unique": "jf-fa9bd6dec4"
   }
 ]
