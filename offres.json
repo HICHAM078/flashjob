@@ -1,5 +1,141 @@
 [
   {
+    "id": "jf-9a7cc6f3cf",
+    "titre": "$15.15 $17 HR depending on location",
+    "entreprise": "Wildflower",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "$15.15 $17 HR depending on location chez Wildflower, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-15-15-17-hr-depending-on-location-wildflower-1136308",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-9a7cc6f3cf"
+  },
+  {
+    "id": "jf-3c6f469306",
+    "titre": "CURRENT JOBS OPENING",
+    "entreprise": "Captain PQ chemical industries Pvt. Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr"
+    ],
+    "resume_neutre": "CURRENT JOBS OPENING chez Captain PQ chemical industries Pvt. Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-current-jobs-opening-captain-pq-chemical-industries-pvt-limited-1136309",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-3c6f469306"
+  },
+  {
+    "id": "jf-732257491b",
+    "titre": "LABOURER",
+    "entreprise": "BRIMBLE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "LABOURER chez BRIMBLE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-labourer-brimble-1136313",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-732257491b"
+  },
+  {
+    "id": "jf-0620722be0",
+    "titre": "Holly Can Fix It",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "supervisor",
+      "exec",
+      "legal",
+      "engineer"
+    ],
+    "resume_neutre": "Holly Can Fix It chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-holly-can-fix-it-four-seasons-1136305",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-0620722be0"
+  },
+  {
+    "id": "jf-202d390921",
+    "titre": "Cleaner",
+    "entreprise": "JobsMedia.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "Cleaner chez JobsMedia.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cleaner-jobsmedia-io-1136306",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-202d390921"
+  },
+  {
+    "id": "jf-8edc72ab5e",
+    "titre": "How Apply",
+    "entreprise": "The Philadelphia School",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "How Apply chez The Philadelphia School, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-how-apply-the-philadelphia-school-1136304",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-8edc72ab5e"
+  },
+  {
+    "id": "jf-f1f4199891",
+    "titre": "Senior React Full stack Developer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "python"
+    ],
+    "resume_neutre": "Senior React Full stack Developer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-f1f4199891"
+  },
+  {
     "id": "jf-00f9e4e914",
     "titre": "Oops something happened",
     "entreprise": "Haus.com",
@@ -5586,131 +5722,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-05",
     "ref_unique": "ma-73542d3716"
-  },
-  {
-    "id": "ma-3f49f3b85b",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=8&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=1069&relb=100&brelb=100&bscr=2099.619&scr=2099.619",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-3f49f3b85b"
-  },
-  {
-    "id": "ma-6b3bb9279c",
-    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6943309366933874513?ckey=comptable&rgn=946&pos=9&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=61&relb=100&brelb=100&bscr=2077.2134&scr=2077.2134",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-6b3bb9279c"
-  },
-  {
-    "id": "ma-6aac8c4c02",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=10&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=733&relb=100&brelb=100&bscr=2066.449&scr=2066.449",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-6aac8c4c02"
-  },
-  {
-    "id": "ma-ca04d22a84",
-    "titre": "Comptable réconciliation & analyse des comptes - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable réconciliation & analyse des comptes - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8221624493938201366?ckey=comptable&rgn=946&pos=11&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=875&relb=100&brelb=100&bscr=2063.5457&scr=2063.5457",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-ca04d22a84"
-  },
-  {
-    "id": "ma-539240adda",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=12&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=1213&relb=100&brelb=100&bscr=1963.0054&scr=1963.0054",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-539240adda"
-  },
-  {
-    "id": "ma-455ba496d5",
-    "titre": "COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2233551344258777083?ckey=commercial&rgn=938&pos=1&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=733&relb=110&brelb=110&bscr=1617.7845&scr=1617.7844999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-455ba496d5"
-  },
-  {
-    "id": "ma-8c7f2d21f6",
-    "titre": "Directeur Commercial",
-    "entreprise": "ACCOR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=2&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=133&relb=100&brelb=100&bscr=1608.7413&scr=1608.7413000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-8c7f2d21f6"
   }
 ]
