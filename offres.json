@@ -1,5 +1,83 @@
 [
   {
+    "id": "jf-00f9e4e914",
+    "titre": "Oops something happened",
+    "entreprise": "Haus.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Oops something happened chez Haus.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-oops-something-happened-haus-com-1136301",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-00f9e4e914"
+  },
+  {
+    "id": "jf-15e5bec0f4",
+    "titre": "Various \n@ Luigiâs Box",
+    "entreprise": "Neulogy Ventures",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang"
+    ],
+    "resume_neutre": "Various \n@ Luigiâs Box chez Neulogy Ventures, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-luigis-box-neulogy-ventures-1136307",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-15e5bec0f4"
+  },
+  {
+    "id": "jf-6de94ce250",
+    "titre": "Open Vacancies",
+    "entreprise": "CCDC - The Cambridge Crystallographic Data Centre",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "assembly",
+      "non tech",
+      "design",
+      "customer support"
+    ],
+    "resume_neutre": "Open Vacancies chez CCDC - The Cambridge Crystallographic Data Centre, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-open-vacancies-ccdc-the-cambridge-crystallographic-data-centre-1136303",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-6de94ce250"
+  },
+  {
+    "id": "jf-d1788228c8",
+    "titre": "THINK WE COULD BE A GOOD FIT",
+    "entreprise": "Tees Components",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "assembly",
+      "non tech"
+    ],
+    "resume_neutre": "THINK WE COULD BE A GOOD FIT chez Tees Components, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-think-we-could-be-a-good-fit-tees-components-1136302",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-d1788228c8"
+  },
+  {
     "id": "ma-7535fa34b2",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5634,77 +5712,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-05",
     "ref_unique": "ma-8c7f2d21f6"
-  },
-  {
-    "id": "ma-778a8d8309",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8807567178699854695?ckey=commercial&rgn=938&pos=3&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=157&relb=110&brelb=110&bscr=1590.591&scr=1590.591",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-778a8d8309"
-  },
-  {
-    "id": "ma-63be57795f",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=4&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=157&relb=110&brelb=110&bscr=1580.1487&scr=1580.1487",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-63be57795f"
-  },
-  {
-    "id": "ma-91ab59d031",
-    "titre": "Conseiller Commercial Energie Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Energie Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5248018996417555873?ckey=commercial&rgn=938&pos=5&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=205&relb=110&brelb=110&bscr=1571.5182&scr=1571.5182",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-91ab59d031"
-  },
-  {
-    "id": "ma-aeab73ef0b",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=6&elckey=1810125610629127834&p=1&aq=-1687299879433006304&cid=20&jobAge=253&relb=110&brelb=110&bscr=1561.1345&scr=1561.1345",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-aeab73ef0b"
   }
 ]
