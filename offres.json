@@ -1,5 +1,133 @@
 [
   {
+    "id": "jf-499f48221d",
+    "titre": "CR281 Customs Agent",
+    "entreprise": "FedEx",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "CR281 Customs Agent chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-499f48221d"
+  },
+  {
+    "id": "jf-6bf8fbfcba",
+    "titre": "A Peopleâs Place",
+    "entreprise": "John Keells Consumer Foods Sector",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "A Peopleâs Place chez John Keells Consumer Foods Sector, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-a-peoples-place-john-keells-consumer-foods-sector-1136295",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-6bf8fbfcba"
+  },
+  {
+    "id": "jf-5b1bc37485",
+    "titre": "Join Our Team",
+    "entreprise": "Nebraska Public Power District",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Join Our Team chez Nebraska Public Power District, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-nebraska-public-power-district-1136284",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-5b1bc37485"
+  },
+  {
+    "id": "jf-4adc295cc4",
+    "titre": "JOIN THE Family",
+    "entreprise": "Jayco, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "JOIN THE Family chez Jayco, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-the-family-jayco-inc-1136282",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-4adc295cc4"
+  },
+  {
+    "id": "jf-7ac2ed3036",
+    "titre": "A glimpse of the pool",
+    "entreprise": "SEO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Seo",
+    "remote": true,
+    "competences": [
+      "seo"
+    ],
+    "resume_neutre": "A glimpse of the pool chez SEO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-a-glimpse-of-the-pool-seo-1136292",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-7ac2ed3036"
+  },
+  {
+    "id": "jf-66751b12b5",
+    "titre": "Drive Now",
+    "entreprise": "CarRentalRating.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Drive Now chez CarRentalRating.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-drive-now-carrentalrating-com-1136287",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-66751b12b5"
+  },
+  {
+    "id": "jf-1449c226f7",
+    "titre": "Porter",
+    "entreprise": "NHS Ayrshire &amp; Arran",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Porter chez NHS Ayrshire &amp; Arran, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-porter-nhs-ayrshire-amp-arran-1136291",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-1449c226f7"
+  },
+  {
     "id": "jf-b9b473beaa",
     "titre": "Multiple Positions",
     "entreprise": "City of Lancaster, Pennsylvania",
@@ -5665,131 +5793,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-04",
     "ref_unique": "ma-50885f704a"
-  },
-  {
-    "id": "ma-bc156631a9",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=6&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=61&relb=110&brelb=110&bscr=2453.5579&scr=2453.5578999999993",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-bc156631a9"
-  },
-  {
-    "id": "ma-ad8177beea",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=7&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=37&relb=110&brelb=110&bscr=2445.9182&scr=2445.9181999999996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-ad8177beea"
-  },
-  {
-    "id": "ma-37e1e85f69",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=8&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=37&relb=110&brelb=110&bscr=2368.615&scr=2368.615",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-37e1e85f69"
-  },
-  {
-    "id": "ma-91d78d3b02",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=9&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=109&relb=110&brelb=110&bscr=2301.207&scr=2301.207",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-91d78d3b02"
-  },
-  {
-    "id": "ma-18189f582d",
-    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=10&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=37&relb=110&brelb=110&bscr=2225.2107&scr=2225.2107",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-18189f582d"
-  },
-  {
-    "id": "ma-2824c2a84e",
-    "titre": "Offre d’emploi - assistante commerciale en parapharmacie",
-    "entreprise": "Eparamarket.ma",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - assistante commerciale en parapharmacie chez Eparamarket.ma, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2069729328457087107?ckey=emploi&rgn=0&pos=11&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=709&relb=100&brelb=100&bscr=2048.4583&scr=2048.4583",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-2824c2a84e"
-  },
-  {
-    "id": "ma-08359c4e6a",
-    "titre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées !",
-    "entreprise": "Access Teleservices",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées ! chez Access Teleservices, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7325928884589221452?ckey=emploi&rgn=0&pos=12&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=109&relb=110&brelb=110&bscr=1986.2158&scr=1986.2158",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-08359c4e6a"
   }
 ]
