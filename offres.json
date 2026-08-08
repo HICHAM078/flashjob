@@ -1,5 +1,139 @@
 [
   {
+    "id": "jf-3a2ddecabc",
+    "titre": "Traba",
+    "entreprise": "ODF",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Traba chez ODF, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-3a2ddecabc"
+  },
+  {
+    "id": "jf-45c6eabec0",
+    "titre": "Our vacancies",
+    "entreprise": "Geeks Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "marketing",
+      "exec",
+      "digital nomad"
+    ],
+    "resume_neutre": "Our vacancies chez Geeks Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-45c6eabec0"
+  },
+  {
+    "id": "jf-240afee911",
+    "titre": "CANDIDATURE SPONTANÃE",
+    "entreprise": "ALSEI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "CANDIDATURE SPONTANÃE chez ALSEI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-candidature-spontanee-alsei-1136286",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-240afee911"
+  },
+  {
+    "id": "jf-6c3553d54b",
+    "titre": "CHECK BACK SOON",
+    "entreprise": "Yacht Club Games",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Seo",
+    "remote": true,
+    "competences": [
+      "seo",
+      "c"
+    ],
+    "resume_neutre": "CHECK BACK SOON chez Yacht Club Games, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-check-back-soon-yacht-club-games-1136293",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-6c3553d54b"
+  },
+  {
+    "id": "jf-ffbbe7fe4d",
+    "titre": "Joel Q",
+    "entreprise": "The Well",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "writer",
+      "marketing",
+      "engineer"
+    ],
+    "resume_neutre": "Joel Q chez The Well, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-joel-q-the-well-1136288",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-ffbbe7fe4d"
+  },
+  {
+    "id": "jf-f87c153827",
+    "titre": "Spontaneous Application Halifax",
+    "entreprise": "Germain HÃ´tels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Spontaneous Application Halifax chez Germain HÃ´tels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-halifax-germain-hotels-1136285",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-f87c153827"
+  },
+  {
+    "id": "jf-a58e3dbb66",
+    "titre": "Test",
+    "entreprise": "Compact Home Lifts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test chez Compact Home Lifts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-08",
+    "ref_unique": "jf-a58e3dbb66"
+  },
+  {
     "id": "jf-499f48221d",
     "titre": "CR281 Customs Agent",
     "entreprise": "FedEx",
@@ -5659,139 +5793,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-04",
     "ref_unique": "jf-570be44eba"
-  },
-  {
-    "id": "jf-3f9ad7f179",
-    "titre": "folk",
-    "entreprise": "Cllimber",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Amazon",
-    "remote": true,
-    "competences": [
-      "amazon",
-      "web dev",
-      "engineer",
-      "ecommerce",
-      "marketing"
-    ],
-    "resume_neutre": "folk chez Cllimber, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-folk-cllimber-1136037",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-04",
-    "ref_unique": "jf-3f9ad7f179"
-  },
-  {
-    "id": "jf-5db4947d7f",
-    "titre": "AI Integration &amp; Automation",
-    "entreprise": "Kleverio",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Amazon",
-    "remote": true,
-    "competences": [
-      "amazon",
-      "web dev",
-      "engineer",
-      "ecommerce",
-      "marketing"
-    ],
-    "resume_neutre": "AI Integration &amp; Automation chez Kleverio, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-integration-amp-automation-kleverio-1136035",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-04",
-    "ref_unique": "jf-5db4947d7f"
-  },
-  {
-    "id": "ma-ace994e11b",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=640&relb=140&brelb=100&bscr=2033.7532&scr=2847.2544800000005",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-ace994e11b"
-  },
-  {
-    "id": "ma-3277334ec0",
-    "titre": "OFFRE D’EMPLOI - RH Junior",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - RH Junior chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2368673667718332390?ckey=emploi&rgn=0&pos=2&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=709&relb=110&brelb=110&bscr=2772.583&scr=2772.583",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-3277334ec0"
-  },
-  {
-    "id": "ma-516bcee67d",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=3&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=61&relb=110&brelb=110&bscr=2715.8965&scr=2715.8965",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-516bcee67d"
-  },
-  {
-    "id": "ma-86e463f519",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=4&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=709&relb=110&brelb=110&bscr=2514.553&scr=2514.5529999999994",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-86e463f519"
-  },
-  {
-    "id": "ma-50885f704a",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=5&elckey=-6121521982458127349&p=1&aq=6057722577999421251&cid=20&jobAge=85&relb=110&brelb=110&bscr=2508.0005&scr=2508.0005",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-04",
-    "ref_unique": "ma-50885f704a"
   }
 ]
