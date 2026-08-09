@@ -1,5 +1,209 @@
 [
   {
+    "id": "jf-8d431578e9",
+    "titre": "Wholesale",
+    "entreprise": "Mercanti",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "customer support",
+      "dev",
+      "video",
+      "exec"
+    ],
+    "resume_neutre": "Wholesale chez Mercanti, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-wholesale-mercanti-1136325",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-8d431578e9"
+  },
+  {
+    "id": "jf-27a18667ff",
+    "titre": "'This Time Feels Different",
+    "entreprise": "CHINADebate",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "'This Time Feels Different chez CHINADebate, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-this-time-feels-different-chinadebate-1136327",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-27a18667ff"
+  },
+  {
+    "id": "jf-f1bf608dac",
+    "titre": "Faint Cracks",
+    "entreprise": "CHINADebate",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Faint Cracks chez CHINADebate, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-f1bf608dac"
+  },
+  {
+    "id": "jf-c6940a6280",
+    "titre": "Management",
+    "entreprise": "Casna Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Management chez Casna Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-management-casna-group-1136326",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-c6940a6280"
+  },
+  {
+    "id": "jf-55330d5adf",
+    "titre": "Corporate",
+    "entreprise": "Ulta 3 Cosmetics &amp; Salon",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "mobile"
+    ],
+    "resume_neutre": "Corporate chez Ulta 3 Cosmetics &amp; Salon, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-ulta-3-cosmetics-amp-salon-1136331",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-55330d5adf"
+  },
+  {
+    "id": "jf-f838836687",
+    "titre": "Distribution Centers",
+    "entreprise": "Ulta 3 Cosmetics &amp; Salon",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "mobile"
+    ],
+    "resume_neutre": "Distribution Centers chez Ulta 3 Cosmetics &amp; Salon, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-distribution-centers-ulta-3-cosmetics-amp-salon-1136332",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-f838836687"
+  },
+  {
+    "id": "jf-4ad99bd620",
+    "titre": "Veck IO",
+    "entreprise": "ProductionBeast",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Veck IO chez ProductionBeast, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-veck-io-productionbeast-1136320",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-4ad99bd620"
+  },
+  {
+    "id": "jf-fa1c54d162",
+    "titre": "Driving Directions",
+    "entreprise": "ProductionBeast",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Driving Directions chez ProductionBeast, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-driving-directions-productionbeast-1136319",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-fa1c54d162"
+  },
+  {
+    "id": "jf-e0a41c0c7a",
+    "titre": "For India",
+    "entreprise": "Uniparts India Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "For India chez Uniparts India Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-for-india-uniparts-india-ltd-1136318",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-e0a41c0c7a"
+  },
+  {
+    "id": "jf-7e40ccf692",
+    "titre": "JOIN OUR TEAM",
+    "entreprise": "Precision Safe Sidewalks",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "JOIN OUR TEAM chez Precision Safe Sidewalks, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-our-team-precision-safe-sidewalks-1136321",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-7e40ccf692"
+  },
+  {
+    "id": "jf-e0df4fc769",
+    "titre": "Come join our team",
+    "entreprise": "Belfast Area Chamber of Commerce",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Come join our team chez Belfast Area Chamber of Commerce, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-come-join-our-team-belfast-area-chamber-of-commerce-1136322",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-e0df4fc769"
+  },
+  {
     "id": "jf-d9d9f68347",
     "titre": "The Three Bills",
     "entreprise": "Giant Leap Consulting",
@@ -5529,203 +5733,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-05",
     "ref_unique": "ma-6e2b7c7d39"
-  },
-  {
-    "id": "ma-2f71e997f4",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=6&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=37&relb=110&brelb=110&bscr=2363.5527&scr=2363.5527",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-2f71e997f4"
-  },
-  {
-    "id": "ma-66527676e8",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=7&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=37&relb=110&brelb=110&bscr=2318.4182&scr=2318.4182",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-66527676e8"
-  },
-  {
-    "id": "ma-c2eb0cd3a7",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=8&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=61&relb=100&brelb=100&bscr=2263.5376&scr=2263.5376",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-c2eb0cd3a7"
-  },
-  {
-    "id": "ma-4b52b0deaa",
-    "titre": "Offre d'emploi - technicien en téléphonie et support technique",
-    "entreprise": "A2s One",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - technicien en téléphonie et support technique chez A2s One, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7843532371287002238?ckey=emploi&rgn=0&pos=9&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=709&relb=110&brelb=110&bscr=2232.4075&scr=2232.4075",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-4b52b0deaa"
-  },
-  {
-    "id": "ma-5796c703de",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=10&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=37&relb=110&brelb=110&bscr=2183.3125&scr=2183.3125",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-5796c703de"
-  },
-  {
-    "id": "ma-b906e77bfc",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6539518780875914364?ckey=emploi&rgn=0&pos=11&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=37&relb=110&brelb=110&bscr=2066.1592&scr=2066.1592",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-b906e77bfc"
-  },
-  {
-    "id": "ma-699b4d3393",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=12&elckey=1600855214045495272&p=1&aq=-2735710153311917932&cid=20&jobAge=37&relb=110&brelb=110&bscr=2028.6158&scr=2028.6158",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-699b4d3393"
-  },
-  {
-    "id": "ma-91c0a24030",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "Thaïs",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=1&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=275&relb=100&brelb=100&bscr=2392.046&scr=2392.046",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-91c0a24030"
-  },
-  {
-    "id": "ma-d6d3f3600c",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=2&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=469&relb=100&brelb=100&bscr=2311.1174&scr=2311.1174",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-d6d3f3600c"
-  },
-  {
-    "id": "ma-e528268426",
-    "titre": "Comptable Confirmé(e)",
-    "entreprise": "HOTIN",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé(e) chez HOTIN, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4800876708376601455?ckey=comptable&rgn=946&pos=3&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=37&relb=100&brelb=100&bscr=2296.5464&scr=2296.5464",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-e528268426"
-  },
-  {
-    "id": "ma-3a924db81e",
-    "titre": "Adjoint Responsable Comptable - Mohammedia",
-    "entreprise": "BRIQUETERIE JBEL ANNOUR",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Adjoint Responsable Comptable - Mohammedia chez BRIQUETERIE JBEL ANNOUR, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4584797171913633706?ckey=comptable&rgn=946&pos=4&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=1069&relb=100&brelb=100&bscr=2151.5134&scr=2151.5134",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-3a924db81e"
   }
 ]
