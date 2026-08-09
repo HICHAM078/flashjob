@@ -1,5 +1,97 @@
 [
   {
+    "id": "jf-52ba8b4939",
+    "titre": "CLASSIC",
+    "entreprise": "Get a Job",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "mobile"
+    ],
+    "resume_neutre": "CLASSIC chez Get a Job, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-classic-get-a-job-1136333",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-52ba8b4939"
+  },
+  {
+    "id": "jf-f8d58e322e",
+    "titre": "WereBox",
+    "entreprise": "PlayToMax",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "mobile"
+    ],
+    "resume_neutre": "WereBox chez PlayToMax, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-werebox-playtomax-1136330",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-f8d58e322e"
+  },
+  {
+    "id": "jf-d3dc9ed421",
+    "titre": "Exit Searcher",
+    "entreprise": "PlayToMax",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Exit Searcher chez PlayToMax, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-d3dc9ed421"
+  },
+  {
+    "id": "jf-852bf648c0",
+    "titre": "Nocts",
+    "entreprise": "Skinventory",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Nocts chez Skinventory, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nocts-skinventory-1136329",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-852bf648c0"
+  },
+  {
+    "id": "jf-c31e3cc88a",
+    "titre": "Hiring Process",
+    "entreprise": "Beltrami County",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Hiring Process chez Beltrami County, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hiring-process-beltrami-county-1136346",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-c31e3cc88a"
+  },
+  {
     "id": "ma-37a6536643",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5518,107 +5610,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-06",
     "ref_unique": "jf-81ad617eee"
-  },
-  {
-    "id": "jf-9ebf3553a6",
-    "titre": "Product Manager",
-    "entreprise": "OpenSkills",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "dev",
-      "digital nomad",
-      "infosec",
-      "cloud"
-    ],
-    "resume_neutre": "Product Manager chez OpenSkills, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-9ebf3553a6"
-  },
-  {
-    "id": "jf-d8d5f39909",
-    "titre": "NOW HIRING",
-    "entreprise": "Kore 360",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "NOW HIRING chez Kore 360, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-now-hiring-kore-360-1136135",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-d8d5f39909"
-  },
-  {
-    "id": "jf-88bee44d5b",
-    "titre": "DEMPSTER",
-    "entreprise": "Team Panamera",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "full time",
-      "part time",
-      "sys admin",
-      "infosec"
-    ],
-    "resume_neutre": "DEMPSTER chez Team Panamera, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dempster-team-panamera-1136177",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-88bee44d5b"
-  },
-  {
-    "id": "jf-a9af3fc64b",
-    "titre": "Background job monitoring",
-    "entreprise": "Fajita",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "full time",
-      "part time",
-      "sys admin",
-      "infosec"
-    ],
-    "resume_neutre": "Background job monitoring chez Fajita, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-background-job-monitoring-fajita-1136181",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-a9af3fc64b"
-  },
-  {
-    "id": "jf-ebd8d4dce0",
-    "titre": "The Next Football Superstars After FIFA 2026",
-    "entreprise": "Fochis",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "The Next Football Superstars After FIFA 2026 chez Fochis, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-the-next-football-superstars-after-fifa-2026-fochis-1136215",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-ebd8d4dce0"
   }
 ]
