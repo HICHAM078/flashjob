@@ -1,5 +1,64 @@
 [
   {
+    "id": "jf-d9d9f68347",
+    "titre": "The Three Bills",
+    "entreprise": "Giant Leap Consulting",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "exec"
+    ],
+    "resume_neutre": "The Three Bills chez Giant Leap Consulting, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-the-three-bills-giant-leap-consulting-1136315",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-d9d9f68347"
+  },
+  {
+    "id": "jf-96941c0ca7",
+    "titre": "Assembler",
+    "entreprise": "Manunor Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Assembler chez Manunor Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assembler-manunor-inc-1136312",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-96941c0ca7"
+  },
+  {
+    "id": "jf-468bc7b416",
+    "titre": "Page Not Found",
+    "entreprise": "PAXIO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Game Dev",
+    "remote": true,
+    "competences": [
+      "game dev",
+      "customer support",
+      "dev",
+      "video",
+      "exec"
+    ],
+    "resume_neutre": "Page Not Found chez PAXIO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-page-not-found-paxio-1136324",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-09",
+    "ref_unique": "jf-468bc7b416"
+  },
+  {
     "id": "jf-9a7cc6f3cf",
     "titre": "$15.15 $17 HR depending on location",
     "entreprise": "Wildflower",
@@ -5668,59 +5727,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-05",
     "ref_unique": "ma-3a924db81e"
-  },
-  {
-    "id": "ma-158a8fe4cb",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=5&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=947&relb=100&brelb=100&bscr=2138.0925&scr=2138.0925",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-158a8fe4cb"
-  },
-  {
-    "id": "ma-49df60d704",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=6&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=611&relb=100&brelb=100&bscr=2128.545&scr=2128.545",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-49df60d704"
-  },
-  {
-    "id": "ma-73542d3716",
-    "titre": "Comptable junior anglophone confirmé(e) - ifrs",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable junior anglophone confirmé(e) - ifrs chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1724330499968979581?ckey=comptable&rgn=946&pos=7&elckey=2395279238130908403&p=1&aq=-4560220499367095898&cid=20&jobAge=181&relb=100&brelb=100&bscr=2101.0012&scr=2101.0012",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-05",
-    "ref_unique": "ma-73542d3716"
   }
 ]
