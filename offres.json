@@ -1,5 +1,59 @@
 [
   {
+    "id": "jf-6042e03798",
+    "titre": "Beekeeper Academy of Achievement",
+    "entreprise": "American Academy of Achievement",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "Beekeeper Academy of Achievement chez American Academy of Achievement, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-beekeeper-academy-of-achievement-american-academy-of-achievement-1136345",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-10",
+    "ref_unique": "jf-6042e03798"
+  },
+  {
+    "id": "jf-218c3b1612",
+    "titre": "Driver",
+    "entreprise": "Bapcor Retail",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Driver chez Bapcor Retail, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-retail-1136341",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-10",
+    "ref_unique": "jf-218c3b1612"
+  },
+  {
+    "id": "jf-aa9dac6f28",
+    "titre": "Recognizing the Friction",
+    "entreprise": "tClara",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c"
+    ],
+    "resume_neutre": "Recognizing the Friction chez tClara, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-recognizing-the-friction-tclara-1136342",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-10",
+    "ref_unique": "jf-aa9dac6f28"
+  },
+  {
     "id": "jf-fee94463ea",
     "titre": "HOW APPLY",
     "entreprise": "Captain PQ chemical industries Pvt. Limited",
@@ -5538,71 +5592,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-06",
     "ref_unique": "jf-b3fcd2fa21"
-  },
-  {
-    "id": "jf-230d2a2dd3",
-    "titre": "Supply Chain Transparency",
-    "entreprise": "Ark Intelligence",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "non tech",
-      "design",
-      "speech",
-      "admin"
-    ],
-    "resume_neutre": "Supply Chain Transparency chez Ark Intelligence, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-230d2a2dd3"
-  },
-  {
-    "id": "jf-85dcf865cb",
-    "titre": "test Copy",
-    "entreprise": "boldtechie",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "marketing",
-      "sales",
-      "ecommerce",
-      "shopify"
-    ],
-    "resume_neutre": "test Copy chez boldtechie, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-copy-boldtechie-1136225",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-85dcf865cb"
-  },
-  {
-    "id": "jf-17a1375c80",
-    "titre": "test",
-    "entreprise": "boldtechie",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "marketing",
-      "sales",
-      "ecommerce",
-      "shopify"
-    ],
-    "resume_neutre": "test chez boldtechie, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-boldtechie-1136226",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-06",
-    "ref_unique": "jf-17a1375c80"
   }
 ]
