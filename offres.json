@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-12f4b7b890",
+    "titre": "Jobs",
+    "entreprise": "Whiterose Janitorial Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "Jobs chez Whiterose Janitorial Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-jobs-whiterose-janitorial-services-1136357",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-10",
+    "ref_unique": "jf-12f4b7b890"
+  },
+  {
     "id": "ma-cba6accd36",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5565,23 +5585,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-06",
     "ref_unique": "ma-7598cac303"
-  },
-  {
-    "id": "ma-23e50b5f86",
-    "titre": "OFFRE D’EMPLOI - Chargé(e) Finance",
-    "entreprise": "Cap Mission",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - Chargé(e) Finance chez Cap Mission, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6226538687631783728?ckey=emploi&rgn=0&pos=5&elckey=1245101298052709138&p=1&aq=728101904998162491&cid=20&jobAge=757&relb=110&brelb=110&bscr=2453.856&scr=2453.856",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-06",
-    "ref_unique": "ma-23e50b5f86"
   }
 ]
