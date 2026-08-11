@@ -1,5 +1,23 @@
 [
   {
+    "id": "jf-b9266dc938",
+    "titre": "General Staff Position",
+    "entreprise": "Hunt Remotely",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "General Staff Position chez Hunt Remotely, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-staff-position-hunt-remotely-1136362",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-11",
+    "ref_unique": "jf-b9266dc938"
+  },
+  {
     "id": "jf-12f4b7b890",
     "titre": "Jobs",
     "entreprise": "Whiterose Janitorial Services",
@@ -5567,23 +5585,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-06",
     "ref_unique": "ma-ecc83fd704"
-  },
-  {
-    "id": "ma-7598cac303",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=4&elckey=1245101298052709138&p=1&aq=728101904998162491&cid=20&jobAge=109&relb=100&brelb=100&bscr=2478.1013&scr=2478.1013",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-06",
-    "ref_unique": "ma-7598cac303"
   }
 ]
