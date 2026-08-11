@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-826ad34c4f",
+    "titre": "Electrician Royal Beach Club",
+    "entreprise": "Royal Caribbean International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Electrician Royal Beach Club chez Royal Caribbean International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-11",
+    "ref_unique": "jf-826ad34c4f"
+  },
+  {
+    "id": "jf-74b878e4cb",
+    "titre": "Detail Specialist",
+    "entreprise": "U-Haul",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "payroll",
+      "non tech"
+    ],
+    "resume_neutre": "Detail Specialist chez U-Haul, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-11",
+    "ref_unique": "jf-74b878e4cb"
+  },
+  {
     "id": "jf-2af07afd5d",
     "titre": "12TH PASS",
     "entreprise": "Simond Fibertech Limited - India",
@@ -5428,41 +5472,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-07",
     "ref_unique": "ma-87fef4278d"
-  },
-  {
-    "id": "ma-aa9357eed1",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=6&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=1041&relb=100&brelb=100&bscr=2150.097&scr=2150.097",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-aa9357eed1"
-  },
-  {
-    "id": "ma-41964ba7e0",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=7&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=7641&relb=100&brelb=100&bscr=2136.0127&scr=2136.0127",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-41964ba7e0"
   }
 ]
