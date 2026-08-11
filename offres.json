@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-2af07afd5d",
+    "titre": "12TH PASS",
+    "entreprise": "Simond Fibertech Limited - India",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "mobile",
+      "sys admin",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "12TH PASS chez Simond Fibertech Limited - India, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-12th-pass-simond-fibertech-limited-india-1136368",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-11",
+    "ref_unique": "jf-2af07afd5d"
+  },
+  {
+    "id": "jf-c7d6c4d6a2",
+    "titre": "Payroll specialist UK",
+    "entreprise": "EZSpace Ventures",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "mobile",
+      "sys admin",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "Payroll specialist UK chez EZSpace Ventures, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-uk-ezspace-ventures-1136367",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-11",
+    "ref_unique": "jf-c7d6c4d6a2"
+  },
+  {
     "id": "ma-0a3f6420e7",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5420,41 +5464,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-07",
     "ref_unique": "ma-41964ba7e0"
-  },
-  {
-    "id": "ma-e8f736eb5d",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=8&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=7641&relb=100&brelb=100&bscr=1869.0111&scr=1869.0111",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-e8f736eb5d"
-  },
-  {
-    "id": "ma-2115ae30f8",
-    "titre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2",
-    "entreprise": "Finashore",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2 chez Finashore, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7425518530596075266?ckey=informatique&rgn=0&pos=9&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=108&relb=110&brelb=110&bscr=1676.8535&scr=1676.8534999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-2115ae30f8"
   }
 ]
