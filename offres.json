@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-db9e2cbae0",
+    "titre": "Expression of Interest",
+    "entreprise": "Immutable",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "web3",
+      "game dev",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Expression of Interest chez Immutable, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-db9e2cbae0"
+  },
+  {
+    "id": "jf-048281f1c8",
+    "titre": "FC Lead",
+    "entreprise": "Cart.com",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "FC Lead chez Cart.com, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-048281f1c8"
+  },
+  {
+    "id": "jf-4356db2636",
+    "titre": "service professionals",
+    "entreprise": "Homelyo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "mobile",
+      "sys admin",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "service professionals chez Homelyo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-service-professionals-homelyo-1136366",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-4356db2636"
+  },
+  {
+    "id": "jf-50cc337bc5",
+    "titre": "Sales Team Member Cotton On Westfield Bondi",
+    "entreprise": "Cotton On Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "speech",
+      "finance"
+    ],
+    "resume_neutre": "Sales Team Member Cotton On Westfield Bondi chez Cotton On Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-50cc337bc5"
+  },
+  {
     "id": "jf-826ad34c4f",
     "titre": "Electrician Royal Beach Club",
     "entreprise": "Royal Caribbean International",
@@ -5400,77 +5484,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-07",
     "ref_unique": "ma-04ebe26bf5"
-  },
-  {
-    "id": "ma-762fa146cd",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=2&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=300&relb=100&brelb=100&bscr=2437.4377&scr=2437.4377",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-762fa146cd"
-  },
-  {
-    "id": "ma-bf8c3cccdb",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=3&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=36&relb=110&brelb=110&bscr=2407.344&scr=2407.344",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-bf8c3cccdb"
-  },
-  {
-    "id": "ma-190da9b470",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=7641&relb=100&brelb=100&bscr=2156.2188&scr=2156.2188",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-190da9b470"
-  },
-  {
-    "id": "ma-87fef4278d",
-    "titre": "Responsable Sage X3 & Développement Informatique",
-    "entreprise": "Confidentiel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Sage X3 & Développement Informatique chez Confidentiel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/jdp/6801461924542555331?ckey=informatique&rgn=0&pos=5&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=900&relb=100&brelb=100&bscr=2155.1865&scr=2155.1865",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-87fef4278d"
   }
 ]
