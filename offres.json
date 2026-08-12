@@ -1,5 +1,181 @@
 [
   {
+    "id": "jf-ad56df6977",
+    "titre": "Typefully",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Typefully chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-typefully-ai-supermarket-1136391",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-ad56df6977"
+  },
+  {
+    "id": "jf-3b7910de88",
+    "titre": "Apify",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Apify chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-apify-ai-supermarket-1136554",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-3b7910de88"
+  },
+  {
+    "id": "jf-e9592492c9",
+    "titre": "Aragon AI",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Aragon AI chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-e9592492c9"
+  },
+  {
+    "id": "jf-c20ee65cd3",
+    "titre": "Beehiiv",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Beehiiv chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-beehiiv-ai-supermarket-1136389",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-c20ee65cd3"
+  },
+  {
+    "id": "jf-809b2d940a",
+    "titre": "Meshy",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Meshy chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-meshy-ai-supermarket-1136386",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-809b2d940a"
+  },
+  {
+    "id": "jf-154711794b",
+    "titre": "GetResponse",
+    "entreprise": "AI Supermarket",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "GetResponse chez AI Supermarket, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-getresponse-ai-supermarket-1136556",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-154711794b"
+  },
+  {
+    "id": "jf-dfbfba5803",
+    "titre": "Maintenance Technician",
+    "entreprise": "Goddard Enterprises Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Wordpress",
+    "remote": true,
+    "competences": [
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Maintenance Technician chez Goddard Enterprises Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-goddard-enterprises-ltd-1136387",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-dfbfba5803"
+  },
+  {
+    "id": "jf-8636be0619",
+    "titre": "barber",
+    "entreprise": "Tommy Gun's Original Barbershop",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "web dev",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "barber chez Tommy Gun's Original Barbershop, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-8636be0619"
+  },
+  {
     "id": "jf-d9519c023e",
     "titre": "Junior Crypto Trader",
     "entreprise": "ATOM Partners",
@@ -5358,149 +5534,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-08",
     "ref_unique": "ma-438900b20d"
-  },
-  {
-    "id": "ma-1814099aba",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4557253771563987393?ckey=commercial&rgn=938&pos=12&elckey=-3356963639389479023&p=1&aq=-3315485369312031521&cid=20&jobAge=203&relb=110&brelb=110&bscr=1442.5867&scr=1442.5867",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-1814099aba"
-  },
-  {
-    "id": "ma-5703878d02",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=1&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=227&relb=110&brelb=110&bscr=2518.1375&scr=2518.1375",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-5703878d02"
-  },
-  {
-    "id": "ma-2b7a42cb3e",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=2&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=35&relb=110&brelb=110&bscr=2456.6873&scr=2456.6873",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-2b7a42cb3e"
-  },
-  {
-    "id": "ma-b64c75d578",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=3&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=323&relb=100&brelb=100&bscr=2433.9985&scr=2433.9985",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-b64c75d578"
-  },
-  {
-    "id": "ma-3e5fa94021",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=1065&relb=100&brelb=100&bscr=2137.679&scr=2137.679",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-3e5fa94021"
-  },
-  {
-    "id": "ma-9d6ec506f5",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=7665&relb=100&brelb=100&bscr=2131.0344&scr=2131.0344",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-9d6ec506f5"
-  },
-  {
-    "id": "ma-1e16dc6708",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=7665&relb=100&brelb=100&bscr=2100.6465&scr=2100.6465",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-1e16dc6708"
-  },
-  {
-    "id": "ma-12fa12b881",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=7665&relb=100&brelb=100&bscr=1812.2358&scr=1812.2358",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-12fa12b881"
   }
 ]
