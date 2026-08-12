@@ -1,5 +1,186 @@
 [
   {
+    "id": "jf-24f8d5161d",
+    "titre": "Join a team helping people make better financial decisions",
+    "entreprise": "Valley Bank Women in Business",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "non tech"
+    ],
+    "resume_neutre": "Join a team helping people make better financial decisions chez Valley Bank Women in Business, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-join-a-team-helping-people-make-better-financial-decisions-valley-bank-women-in-business-1136381",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-24f8d5161d"
+  },
+  {
+    "id": "jf-3260547a93",
+    "titre": "Group leader",
+    "entreprise": "PAYTM SERVICES PVT LTD",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Group leader chez PAYTM SERVICES PVT LTD, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-group-leader-paytm-services-pvt-ltd-1136372",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-3260547a93"
+  },
+  {
+    "id": "jf-38f1e77c7d",
+    "titre": "Handyman",
+    "entreprise": "Ocean Hotels Group BARBADOS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Handyman chez Ocean Hotels Group BARBADOS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-ocean-hotels-group-barbados-1136373",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-38f1e77c7d"
+  },
+  {
+    "id": "jf-86ede6c2bf",
+    "titre": "Facilities Technician II #JR100294",
+    "entreprise": "City of Peoria, Arizona",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops",
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Facilities Technician II #JR100294 chez City of Peoria, Arizona, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-facilities-technician-ii-jr100294-city-of-peoria-arizona-1136454",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-86ede6c2bf"
+  },
+  {
+    "id": "jf-f09511dae5",
+    "titre": "Handyman",
+    "entreprise": "Compass Group Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "web dev",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Handyman chez Compass Group Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-compass-group-canada-1136553",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-f09511dae5"
+  },
+  {
+    "id": "jf-5f9aa4b9e4",
+    "titre": "Interdisciplinary",
+    "entreprise": "US Army Corps of Engineers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Interdisciplinary chez US Army Corps of Engineers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1136453",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-5f9aa4b9e4"
+  },
+  {
+    "id": "jf-0e3f1d18f1",
+    "titre": "Message Center Operator",
+    "entreprise": "Amentum",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Message Center Operator chez Amentum, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-message-center-operator-amentum-1136452",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-0e3f1d18f1"
+  },
+  {
+    "id": "jf-0b3f815ee4",
+    "titre": "factory labourer manufacturing",
+    "entreprise": "HongSheng North America Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "web dev",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "factory labourer manufacturing chez HongSheng North America Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-factory-labourer-manufacturing-hongsheng-north-america-inc-1136543",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-0b3f815ee4"
+  },
+  {
+    "id": "jf-fdf6df19a8",
+    "titre": "Meat Department Manager",
+    "entreprise": "Walmart Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "web dev",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Meat Department Manager chez Walmart Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-meat-department-manager-walmart-canada-1136552",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-fdf6df19a8"
+  },
+  {
     "id": "jf-db9e2cbae0",
     "titre": "Expression of Interest",
     "entreprise": "Immutable",
@@ -5322,167 +5503,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-07",
     "ref_unique": "ma-24ab9dc99b"
-  },
-  {
-    "id": "ma-7f76a55e43",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=5&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=36&relb=110&brelb=110&bscr=1553.446&scr=1553.446",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-7f76a55e43"
-  },
-  {
-    "id": "ma-256e40589d",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2148838264961533309?ckey=commercial&rgn=938&pos=6&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=36&relb=110&brelb=110&bscr=1541.7695&scr=1541.7695",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-256e40589d"
-  },
-  {
-    "id": "ma-e1649cd8d7",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=7&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=84&relb=110&brelb=110&bscr=1538.7552&scr=1538.7552",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-e1649cd8d7"
-  },
-  {
-    "id": "ma-5cf4c0916c",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=8&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=108&relb=110&brelb=110&bscr=1513.7374&scr=1513.7374",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-5cf4c0916c"
-  },
-  {
-    "id": "ma-20244cb95b",
-    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=9&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=372&relb=110&brelb=110&bscr=1500.6289&scr=1500.6289",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-20244cb95b"
-  },
-  {
-    "id": "ma-9b88aebe8c",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=10&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=228&relb=110&brelb=110&bscr=1494.0538&scr=1494.0537999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-9b88aebe8c"
-  },
-  {
-    "id": "ma-c3d7524590",
-    "titre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé",
-    "entreprise": "R.Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé chez R.Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/791812486710949407?ckey=commercial&rgn=938&pos=11&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=60&relb=110&brelb=110&bscr=1451.0698&scr=1451.0697999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-c3d7524590"
-  },
-  {
-    "id": "ma-ec72623aad",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4557253771563987393?ckey=commercial&rgn=938&pos=12&elckey=-347953189203465443&p=1&aq=3115415554772346764&cid=20&jobAge=180&relb=110&brelb=110&bscr=1440.2567&scr=1440.2567",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-ec72623aad"
-  },
-  {
-    "id": "ma-04ebe26bf5",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=1&elckey=-6842218124130832643&p=1&aq=7973395016599070196&cid=20&jobAge=204&relb=110&brelb=110&bscr=2573.5466&scr=2573.5466",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-07",
-    "ref_unique": "ma-04ebe26bf5"
   }
 ]
