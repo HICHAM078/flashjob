@@ -1,5 +1,189 @@
 [
   {
+    "id": "jf-d9519c023e",
+    "titre": "Junior Crypto Trader",
+    "entreprise": "ATOM Partners",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "crypto",
+      "web3",
+      "bitcoin",
+      "remote"
+    ],
+    "resume_neutre": "Junior Crypto Trader chez ATOM Partners, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-d9519c023e"
+  },
+  {
+    "id": "jf-8f2b284631",
+    "titre": "Lifeguard",
+    "entreprise": "City of Kamloops",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "admin",
+      "non tech"
+    ],
+    "resume_neutre": "Lifeguard chez City of Kamloops, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lifeguard-city-of-kamloops-1136557",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-8f2b284631"
+  },
+  {
+    "id": "jf-9c02e365f1",
+    "titre": "Your Next Role",
+    "entreprise": "Warmup PLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Your Next Role chez Warmup PLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-your-next-role-warmup-plc-1136448",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-9c02e365f1"
+  },
+  {
+    "id": "jf-61506c798c",
+    "titre": "Talk us here if you canât find the job that youâre looking for",
+    "entreprise": "Universal Wolf",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "exec",
+      "ops",
+      "customer support"
+    ],
+    "resume_neutre": "Talk us here if you canât find the job that youâre looking for chez Universal Wolf, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-61506c798c"
+  },
+  {
+    "id": "jf-c807d7567d",
+    "titre": "Estimator",
+    "entreprise": "CGC Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "speech",
+      "finance"
+    ],
+    "resume_neutre": "Estimator chez CGC Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-c807d7567d"
+  },
+  {
+    "id": "jf-c1420412a2",
+    "titre": "Expression of Interest",
+    "entreprise": "Alloy Robotics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Robotics",
+    "remote": true,
+    "competences": [
+      "robotics"
+    ],
+    "resume_neutre": "Expression of Interest chez Alloy Robotics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-c1420412a2"
+  },
+  {
+    "id": "jf-e8224860ee",
+    "titre": "Non Teaching Staff",
+    "entreprise": "University of Patanjali",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching"
+    ],
+    "resume_neutre": "Non Teaching Staff chez University of Patanjali, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-non-teaching-staff-university-of-patanjali-1136385",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-e8224860ee"
+  },
+  {
+    "id": "jf-8c0d61c1c3",
+    "titre": "Sales Development Representative Attributeâ",
+    "entreprise": "DoiT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "marketing",
+      "cloud",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Sales Development Representative Attributeâ chez DoiT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-8c0d61c1c3"
+  },
+  {
+    "id": "jf-3be298cecf",
+    "titre": "Senior Software QA Engineer",
+    "entreprise": "CoverGo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "customer support",
+      "testing",
+      "quality assurance",
+      "video"
+    ],
+    "resume_neutre": "Senior Software QA Engineer chez CoverGo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-12",
+    "ref_unique": "jf-3be298cecf"
+  },
+  {
     "id": "ma-293c2d17df",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5318,171 +5502,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-08",
     "ref_unique": "ma-12fa12b881"
-  },
-  {
-    "id": "ma-7399fb295d",
-    "titre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2",
-    "entreprise": "Finashore",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2 chez Finashore, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7425518530596075266?ckey=informatique&rgn=0&pos=8&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=131&relb=110&brelb=110&bscr=1676.9127&scr=1676.9127",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-7399fb295d"
-  },
-  {
-    "id": "ma-5b07644850",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=9&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=275&relb=110&brelb=110&bscr=280.84546&scr=280.84546",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-5b07644850"
-  },
-  {
-    "id": "ma-291d0ea9ca",
-    "titre": "GESTIONNAIRES DE CONTRATS",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "GESTIONNAIRES DE CONTRATS chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/490562854043959908?ckey=informatique&rgn=0&pos=10&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=59&relb=110&brelb=110&bscr=277.44986&scr=277.44986",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-291d0ea9ca"
-  },
-  {
-    "id": "ma-b0ae1c741d",
-    "titre": "Acheteur",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Bouskoura",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur a Bouskoura. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4578516949701073805?ckey=informatique&rgn=0&pos=11&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=59&relb=100&brelb=100&bscr=277.37918&scr=277.37918",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-b0ae1c741d"
-  },
-  {
-    "id": "ma-dbed48f900",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=12&elckey=8595515499392705393&p=1&aq=3587269480899824139&cid=20&jobAge=59&relb=110&brelb=110&bscr=273.6113&scr=273.6113",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-08",
-    "ref_unique": "ma-dbed48f900"
-  },
-  {
-    "id": "jf-3a2ddecabc",
-    "titre": "Traba",
-    "entreprise": "ODF",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Traba chez ODF, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-08",
-    "ref_unique": "jf-3a2ddecabc"
-  },
-  {
-    "id": "jf-45c6eabec0",
-    "titre": "Our vacancies",
-    "entreprise": "Geeks Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "marketing",
-      "exec",
-      "digital nomad"
-    ],
-    "resume_neutre": "Our vacancies chez Geeks Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-08",
-    "ref_unique": "jf-45c6eabec0"
-  },
-  {
-    "id": "jf-240afee911",
-    "titre": "CANDIDATURE SPONTANÃE",
-    "entreprise": "ALSEI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "CANDIDATURE SPONTANÃE chez ALSEI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-candidature-spontanee-alsei-1136286",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-08",
-    "ref_unique": "jf-240afee911"
-  },
-  {
-    "id": "jf-6c3553d54b",
-    "titre": "CHECK BACK SOON",
-    "entreprise": "Yacht Club Games",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Seo",
-    "remote": true,
-    "competences": [
-      "seo",
-      "c"
-    ],
-    "resume_neutre": "CHECK BACK SOON chez Yacht Club Games, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-check-back-soon-yacht-club-games-1136293",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-08",
-    "ref_unique": "jf-6c3553d54b"
   }
 ]
