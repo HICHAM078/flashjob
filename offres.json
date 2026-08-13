@@ -1,5 +1,188 @@
 [
   {
+    "id": "jf-1c7ddb302c",
+    "titre": "Title TBD",
+    "entreprise": "IBAC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Title TBD chez IBAC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-title-tbd-ibac-1136572",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-1c7ddb302c"
+  },
+  {
+    "id": "jf-c8a3b0e28f",
+    "titre": "Software Engineer III Mobile",
+    "entreprise": "Stone",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "mobile",
+      "excel",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Software Engineer III Mobile chez Stone, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-c8a3b0e28f"
+  },
+  {
+    "id": "jf-9db00412e8",
+    "titre": "Software Engineer II Golang",
+    "entreprise": "Stone",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "excel",
+      "golang",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Software Engineer II Golang chez Stone, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-9db00412e8"
+  },
+  {
+    "id": "jf-7425cc3b7b",
+    "titre": "P2P BD Assistant",
+    "entreprise": "Bybit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "web3",
+      "crypto",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "P2P BD Assistant chez Bybit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-p2p-bd-assistant-bybit-1136568",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-7425cc3b7b"
+  },
+  {
+    "id": "jf-6f6fc4fb16",
+    "titre": "Surveyor I",
+    "entreprise": "American Bureau of Shipping (ABS)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "engineer",
+      "technical",
+      "ecommerce",
+      "teaching"
+    ],
+    "resume_neutre": "Surveyor I chez American Bureau of Shipping (ABS), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-6f6fc4fb16"
+  },
+  {
+    "id": "jf-3764d479b2",
+    "titre": "Customer Service Representative",
+    "entreprise": "Adaptive Teams",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "sys admin",
+      "education",
+      "customer support",
+      "video"
+    ],
+    "resume_neutre": "Customer Service Representative chez Adaptive Teams, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-adaptive-teams-1136566",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-3764d479b2"
+  },
+  {
+    "id": "jf-88d76e08d4",
+    "titre": "Tunnel Agent",
+    "entreprise": "Skanska Costain STRABAG Joint Venture",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Tunnel Agent chez Skanska Costain STRABAG Joint Venture, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-88d76e08d4"
+  },
+  {
+    "id": "jf-ba25a2c488",
+    "titre": "Sub Agent",
+    "entreprise": "Skanska Costain STRABAG Joint Venture",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Sub Agent chez Skanska Costain STRABAG Joint Venture, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-ba25a2c488"
+  },
+  {
+    "id": "jf-9b7f7da44a",
+    "titre": "Test Job Title",
+    "entreprise": "RecMan.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job Title chez RecMan.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-title-recman-io-1136578",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-9b7f7da44a"
+  },
+  {
     "id": "jf-b9a45071e9",
     "titre": "Operator",
     "entreprise": "SLB",
@@ -5381,171 +5564,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-09",
     "ref_unique": "ma-cfbbabd072"
-  },
-  {
-    "id": "ma-963c290413",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=7689&relb=100&brelb=100&bscr=2124.2734&scr=2124.2734",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-963c290413"
-  },
-  {
-    "id": "ma-06b3208ce9",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=7689&relb=100&brelb=100&bscr=2101.259&scr=2101.259",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-06b3208ce9"
-  },
-  {
-    "id": "ma-f25fda0e64",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=7689&relb=100&brelb=100&bscr=1848.0763&scr=1848.0763",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-f25fda0e64"
-  },
-  {
-    "id": "ma-572be1b4c9",
-    "titre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2",
-    "entreprise": "Finashore",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Finashore filiale de bank of africa recherche des techniciens en maintenance informatique bac+2 chez Finashore, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7425518530596075266?ckey=informatique&rgn=0&pos=8&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=155&relb=110&brelb=110&bscr=1722.6144&scr=1722.6144",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-572be1b4c9"
-  },
-  {
-    "id": "ma-3e275364e9",
-    "titre": "Commercial REI",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=9&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=59&relb=110&brelb=110&bscr=281.41016&scr=281.41016",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-3e275364e9"
-  },
-  {
-    "id": "ma-559a21f82f",
-    "titre": "CONSEILLER TECHNIQUE",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLER TECHNIQUE chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7999405080838451281?ckey=informatique&rgn=0&pos=10&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=59&relb=110&brelb=110&bscr=278.03314&scr=278.03314",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-559a21f82f"
-  },
-  {
-    "id": "ma-bb2ac7b27d",
-    "titre": "Acheteur",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Bouskoura",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur a Bouskoura. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4578516949701073805?ckey=informatique&rgn=0&pos=11&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=83&relb=100&brelb=100&bscr=277.10458&scr=277.10458",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-bb2ac7b27d"
-  },
-  {
-    "id": "ma-c371cc846b",
-    "titre": "Technicien IT",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien IT chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5966951286983669109?ckey=informatique&rgn=0&pos=12&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=227&relb=110&brelb=110&bscr=276.74915&scr=276.74915",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-c371cc846b"
-  },
-  {
-    "id": "jf-8d431578e9",
-    "titre": "Wholesale",
-    "entreprise": "Mercanti",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Game Dev",
-    "remote": true,
-    "competences": [
-      "game dev",
-      "customer support",
-      "dev",
-      "video",
-      "exec"
-    ],
-    "resume_neutre": "Wholesale chez Mercanti, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-wholesale-mercanti-1136325",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-8d431578e9"
   }
 ]
