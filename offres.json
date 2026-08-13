@@ -1,5 +1,107 @@
 [
   {
+    "id": "jf-b9a45071e9",
+    "titre": "Operator",
+    "entreprise": "SLB",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "video",
+      "full time",
+      "non tech",
+      "technical"
+    ],
+    "resume_neutre": "Operator chez SLB, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-operator-slb-1136563",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-b9a45071e9"
+  },
+  {
+    "id": "jf-dc75f684c3",
+    "titre": "E commerce",
+    "entreprise": "Kanji Sweets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ecommerce",
+    "remote": true,
+    "competences": [
+      "ecommerce",
+      "ops"
+    ],
+    "resume_neutre": "E commerce chez Kanji Sweets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-e-commerce-kanji-sweets-1136559",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-dc75f684c3"
+  },
+  {
+    "id": "jf-837bf4f730",
+    "titre": "Seeking a job",
+    "entreprise": "ALEH Writing Services (AWS)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Seeking a job chez ALEH Writing Services (AWS), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-seeking-a-job-aleh-writing-services-aws-1136558",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-837bf4f730"
+  },
+  {
+    "id": "jf-0fa90cb6f9",
+    "titre": "Live In Nanny Bermuda",
+    "entreprise": "Tucker's Farm Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "video",
+      "full time",
+      "non tech"
+    ],
+    "resume_neutre": "Live In Nanny Bermuda chez Tucker's Farm Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-live-in-nanny-bermuda-tuckers-farm-corporation-1136562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-0fa90cb6f9"
+  },
+  {
+    "id": "jf-f4a75badbe",
+    "titre": "Project leaders",
+    "entreprise": "Niyukti Systems, Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ecommerce",
+    "remote": true,
+    "competences": [
+      "ecommerce",
+      "ops",
+      "project manager",
+      "exec",
+      "ads"
+    ],
+    "resume_neutre": "Project leaders chez Niyukti Systems, Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-leaders-niyukti-systems-inc-1136561",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-13",
+    "ref_unique": "jf-f4a75badbe"
+  },
+  {
     "id": "ma-441b1ba4fc",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5445,97 +5547,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-09",
     "ref_unique": "jf-8d431578e9"
-  },
-  {
-    "id": "jf-27a18667ff",
-    "titre": "'This Time Feels Different",
-    "entreprise": "CHINADebate",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "'This Time Feels Different chez CHINADebate, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-this-time-feels-different-chinadebate-1136327",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-27a18667ff"
-  },
-  {
-    "id": "jf-f1bf608dac",
-    "titre": "Faint Cracks",
-    "entreprise": "CHINADebate",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Faint Cracks chez CHINADebate, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-f1bf608dac"
-  },
-  {
-    "id": "jf-c6940a6280",
-    "titre": "Management",
-    "entreprise": "Casna Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Management chez Casna Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-management-casna-group-1136326",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-c6940a6280"
-  },
-  {
-    "id": "jf-55330d5adf",
-    "titre": "Corporate",
-    "entreprise": "Ulta 3 Cosmetics &amp; Salon",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Game Dev",
-    "remote": true,
-    "competences": [
-      "game dev",
-      "mobile"
-    ],
-    "resume_neutre": "Corporate chez Ulta 3 Cosmetics &amp; Salon, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-ulta-3-cosmetics-amp-salon-1136331",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-55330d5adf"
-  },
-  {
-    "id": "jf-f838836687",
-    "titre": "Distribution Centers",
-    "entreprise": "Ulta 3 Cosmetics &amp; Salon",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Game Dev",
-    "remote": true,
-    "competences": [
-      "game dev",
-      "mobile"
-    ],
-    "resume_neutre": "Distribution Centers chez Ulta 3 Cosmetics &amp; Salon, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-distribution-centers-ulta-3-cosmetics-amp-salon-1136332",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-09",
-    "ref_unique": "jf-f838836687"
   }
 ]
