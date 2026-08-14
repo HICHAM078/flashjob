@@ -1,5 +1,155 @@
 [
   {
+    "id": "jf-ff9e54f0ff",
+    "titre": "Room Attendant",
+    "entreprise": "The Abaco Club",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Room Attendant chez The Abaco Club, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-room-attendant-the-abaco-club-1136695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-ff9e54f0ff"
+  },
+  {
+    "id": "jf-88e8443832",
+    "titre": "Locator",
+    "entreprise": "Aecon Group Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "sys admin",
+      "education",
+      "supervisor",
+      "coordinator"
+    ],
+    "resume_neutre": "Locator chez Aecon Group Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-locator-aecon-group-inc-1136666",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-88e8443832"
+  },
+  {
+    "id": "jf-069f0702f2",
+    "titre": "Senior Data Engineer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "full time",
+      "senior",
+      "python"
+    ],
+    "resume_neutre": "Senior Data Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-069f0702f2"
+  },
+  {
+    "id": "jf-39264d9b75",
+    "titre": "Sub Agent",
+    "entreprise": "Skanska",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "finance",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Sub Agent chez Skanska, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-39264d9b75"
+  },
+  {
+    "id": "jf-2abf114dd8",
+    "titre": "HYGPOOLOP",
+    "entreprise": "Hovis Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "finance",
+      "recruiter",
+      "non tech",
+      "scheme"
+    ],
+    "resume_neutre": "HYGPOOLOP chez Hovis Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hygpoolop-hovis-ltd-1136597",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-2abf114dd8"
+  },
+  {
+    "id": "jf-63d1a1bde8",
+    "titre": "MARINE PAINTER &amp; BLASTER",
+    "entreprise": "German Ship Repair Jamaica Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "MARINE PAINTER &amp; BLASTER chez German Ship Repair Jamaica Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marine-painter-amp-blaster-german-ship-repair-jamaica-limited-1136690",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-63d1a1bde8"
+  },
+  {
+    "id": "jf-33d373d1e1",
+    "titre": "Appliances Sales Associate PRINCE GEORGE",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "non tech"
+    ],
+    "resume_neutre": "Appliances Sales Associate PRINCE GEORGE chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-appliances-sales-associate-prince-george-the-home-depot-canada-1136679",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-33d373d1e1"
+  },
+  {
     "id": "ma-6467ba6cc2",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5444,131 +5594,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-10",
     "ref_unique": "ma-925e8c8571"
-  },
-  {
-    "id": "ma-36bde55b46",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=5&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=1113&relb=100&brelb=100&bscr=2078.4983&scr=2078.4983",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-36bde55b46"
-  },
-  {
-    "id": "ma-0b263ef5b2",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=6&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=7714&relb=100&brelb=100&bscr=1855.2299&scr=1855.2298999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-0b263ef5b2"
-  },
-  {
-    "id": "ma-7a83e78a4f",
-    "titre": "Acheteur",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Bouskoura",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur a Bouskoura. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4578516949701073805?ckey=informatique&rgn=0&pos=7&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=108&relb=100&brelb=100&bscr=280.0078&scr=280.0078",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-7a83e78a4f"
-  },
-  {
-    "id": "ma-2e45c603d2",
-    "titre": "Technicien Helpdesk (hybride)",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk (hybride) chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6535327364071145923?ckey=informatique&rgn=0&pos=8&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=60&relb=110&brelb=110&bscr=276.2437&scr=276.2437",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-2e45c603d2"
-  },
-  {
-    "id": "ma-00bb9dc377",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1463087998879522347?ckey=informatique&rgn=0&pos=9&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=156&relb=110&brelb=110&bscr=273.96594&scr=273.96594",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-00bb9dc377"
-  },
-  {
-    "id": "ma-6446d04399",
-    "titre": "Commerciaux francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6972081568966477206?ckey=informatique&rgn=0&pos=10&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=252&relb=110&brelb=110&bscr=270.79065&scr=270.79065",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-6446d04399"
-  },
-  {
-    "id": "ma-a71b52d7ec",
-    "titre": "Caissier / Caissière",
-    "entreprise": "SOFITEL",
-    "ville": "Marrakesh-Safi Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Caissier / Caissière chez SOFITEL, a Marrakesh-Safi Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2383261928650635714?ckey=informatique&rgn=0&pos=11&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=132&relb=100&brelb=100&bscr=268.6688&scr=268.6688",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-a71b52d7ec"
   }
 ]
