@@ -1,5 +1,107 @@
 [
   {
+    "id": "jf-1b4ea209d6",
+    "titre": "Product Manager",
+    "entreprise": "Resourceful Talent Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "saas",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Product Manager chez Resourceful Talent Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-1b4ea209d6"
+  },
+  {
+    "id": "jf-523ad16107",
+    "titre": "Technician",
+    "entreprise": "The Security Centre Limited.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "engineer",
+      "technical",
+      "ecommerce",
+      "teaching"
+    ],
+    "resume_neutre": "Technician chez The Security Centre Limited., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-523ad16107"
+  },
+  {
+    "id": "jf-c19b6abc84",
+    "titre": "All Other Future Considerations",
+    "entreprise": "WB Melback Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "All Other Future Considerations chez WB Melback Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-c19b6abc84"
+  },
+  {
+    "id": "jf-8793090ccb",
+    "titre": "Looking for Job",
+    "entreprise": "ALEH Writing Services (AWS)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "Looking for Job chez ALEH Writing Services (AWS), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-looking-for-job-aleh-writing-services-aws-1136584",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-8793090ccb"
+  },
+  {
+    "id": "jf-431c87b65b",
+    "titre": "Bell Person",
+    "entreprise": "Fairmont Hotels &amp; Resorts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "engineer",
+      "technical",
+      "ecommerce",
+      "teaching"
+    ],
+    "resume_neutre": "Bell Person chez Fairmont Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bell-person-fairmont-hotels-amp-resorts-1136591",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-14",
+    "ref_unique": "jf-431c87b65b"
+  },
+  {
     "id": "jf-1c7ddb302c",
     "titre": "Title TBD",
     "entreprise": "IBAC",
@@ -5474,95 +5576,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-09",
     "ref_unique": "ma-00e44b608c"
-  },
-  {
-    "id": "ma-9f540da293",
-    "titre": "Méléine recrute des commerciaux en assurance auto sur Rabat !!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine recrute des commerciaux en assurance auto sur Rabat !!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5143628844776536457?ckey=commercial&rgn=938&pos=12&elckey=4365413557114143598&p=1&aq=-4812200631534309960&cid=20&jobAge=59&relb=110&brelb=110&bscr=1402.0669&scr=1402.0669",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-9f540da293"
-  },
-  {
-    "id": "ma-94a9d634b6",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=1&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=59&relb=110&brelb=110&bscr=2526.3723&scr=2526.3723",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-94a9d634b6"
-  },
-  {
-    "id": "ma-727e3fc187",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=2&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=347&relb=100&brelb=100&bscr=2496.8152&scr=2496.8152",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-727e3fc187"
-  },
-  {
-    "id": "ma-70a51fdd39",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=3&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=251&relb=100&brelb=100&bscr=2298.6865&scr=2298.6865",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-70a51fdd39"
-  },
-  {
-    "id": "ma-cfbbabd072",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=-2128851377813223602&p=1&aq=2258663596179689797&cid=20&jobAge=1089&relb=100&brelb=100&bscr=2187.0188&scr=2187.0188",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-09",
-    "ref_unique": "ma-cfbbabd072"
   }
 ]
