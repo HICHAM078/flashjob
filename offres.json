@@ -1,5 +1,90 @@
 [
   {
+    "id": "jf-fb2ea38359",
+    "titre": "Shop Assistant Cammeray",
+    "entreprise": "Harris Farm Markets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Shop Assistant Cammeray chez Harris Farm Markets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-fb2ea38359"
+  },
+  {
+    "id": "jf-c5e40bb039",
+    "titre": "Brand Protection & Marketplace Compliance Analyst",
+    "entreprise": "MultiplyMii",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "amazon",
+      "salesforce",
+      "technical",
+      "recruiter"
+    ],
+    "resume_neutre": "Brand Protection & Marketplace Compliance Analyst chez MultiplyMii, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-c5e40bb039"
+  },
+  {
+    "id": "jf-7b67bcead3",
+    "titre": "Store Manager",
+    "entreprise": "Wolt",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "education",
+      "customer support",
+      "finance",
+      "c"
+    ],
+    "resume_neutre": "Store Manager chez Wolt, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-7b67bcead3"
+  },
+  {
+    "id": "jf-d14fe310c6",
+    "titre": "Test Job",
+    "entreprise": "Link Snacks",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job chez Link Snacks, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-d14fe310c6"
+  },
+  {
     "id": "jf-f18db67022",
     "titre": "Infanteer",
     "entreprise": "Canadian Armed Forces | Forces armÃ©es canadiennes",
@@ -5563,77 +5648,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-11",
     "ref_unique": "ma-0ac39c7e47"
-  },
-  {
-    "id": "ma-9cf3bf442c",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8807567178699854695?ckey=commercial&rgn=938&pos=1&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=108&relb=110&brelb=110&bscr=1693.6141&scr=1693.6141",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-9cf3bf442c"
-  },
-  {
-    "id": "ma-ff2316fd27",
-    "titre": "Conseillers Commerciaux en Assurance Décennale !",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers Commerciaux en Assurance Décennale ! chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5466358721660258183?ckey=commercial&rgn=938&pos=2&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=36&relb=110&brelb=110&bscr=1659.6136&scr=1659.6136",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-ff2316fd27"
-  },
-  {
-    "id": "ma-f2671314ce",
-    "titre": "Conseiller Commercial arabo/francophone",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5224435708290653463?ckey=commercial&rgn=938&pos=3&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=84&relb=110&brelb=110&bscr=1649.7693&scr=1649.7693",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-f2671314ce"
-  },
-  {
-    "id": "ma-f4947e51d1",
-    "titre": "Directeur Commercial",
-    "entreprise": "ACCOR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=4&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=276&relb=100&brelb=100&bscr=1621.842&scr=1621.842",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-f4947e51d1"
   }
 ]
