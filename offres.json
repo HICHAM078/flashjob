@@ -1,5 +1,133 @@
 [
   {
+    "id": "jf-c89085e424",
+    "titre": "Current Openings",
+    "entreprise": "Black Talon Security",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec"
+    ],
+    "resume_neutre": "Current Openings chez Black Talon Security, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-c89085e424"
+  },
+  {
+    "id": "jf-e1f6be5b02",
+    "titre": "Porter",
+    "entreprise": "W Hotels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Porter chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-porter-w-hotels-1136724",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-e1f6be5b02"
+  },
+  {
+    "id": "jf-efa7818b53",
+    "titre": "Store Manager Macpac Carindale",
+    "entreprise": "Macpac Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Store Manager Macpac Carindale chez Macpac Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-carindale-macpac-ltd-1136709",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-efa7818b53"
+  },
+  {
+    "id": "jf-90133a764d",
+    "titre": "Team Member",
+    "entreprise": "SubwayÂ® Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Team Member chez SubwayÂ® Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-subwayr-australia-1136726",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-90133a764d"
+  },
+  {
+    "id": "jf-dc54ce2800",
+    "titre": "Store Manager Dan Murphy's Canberra Region",
+    "entreprise": "Dan Murphy's",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Store Manager Dan Murphy's Canberra Region chez Dan Murphy's, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-dan-murphys-canberra-region-dan-murphys-1136712",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-dc54ce2800"
+  },
+  {
+    "id": "jf-39f8d49801",
+    "titre": "Store Manager Macpac Adelaide Airport",
+    "entreprise": "Macpac Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Store Manager Macpac Adelaide Airport chez Macpac Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-39f8d49801"
+  },
+  {
     "id": "jf-d172f8199b",
     "titre": "Gardener Handyman Driver",
     "entreprise": "NT Health",
@@ -5492,113 +5620,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-10",
     "ref_unique": "ma-190d2925d8"
-  },
-  {
-    "id": "ma-74cb6ebda2",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=8&elckey=-3388147733409764770&p=1&aq=4804098918527644124&cid=20&jobAge=300&relb=110&brelb=110&bscr=1539.54&scr=1539.54",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-74cb6ebda2"
-  },
-  {
-    "id": "ma-1079afc815",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=9&elckey=-3388147733409764770&p=1&aq=4804098918527644124&cid=20&jobAge=372&relb=110&brelb=110&bscr=1529.928&scr=1529.928",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-1079afc815"
-  },
-  {
-    "id": "ma-c256a834db",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=10&elckey=-3388147733409764770&p=1&aq=4804098918527644124&cid=20&jobAge=84&relb=110&brelb=110&bscr=1480.0421&scr=1480.0421",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-c256a834db"
-  },
-  {
-    "id": "ma-52ae64e06e",
-    "titre": "CDI - Technico-Commerciaux (H/F) pour un Leader Télécom Français",
-    "entreprise": "Foundever",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CDI - Technico-Commerciaux (H/F) pour un Leader Télécom Français chez Foundever, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6144501287188333242?ckey=commercial&rgn=938&pos=11&elckey=-3388147733409764770&p=1&aq=4804098918527644124&cid=20&jobAge=84&relb=110&brelb=110&bscr=1472.174&scr=1472.1739999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-52ae64e06e"
-  },
-  {
-    "id": "ma-b08018216e",
-    "titre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé",
-    "entreprise": "R.Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé chez R.Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/791812486710949407?ckey=commercial&rgn=938&pos=12&elckey=-3388147733409764770&p=1&aq=4804098918527644124&cid=20&jobAge=84&relb=110&brelb=110&bscr=1465.2896&scr=1465.2896",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-b08018216e"
-  },
-  {
-    "id": "ma-ccc5bad4d5",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=1&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=276&relb=110&brelb=110&bscr=2465.3684&scr=2465.3684",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-ccc5bad4d5"
   }
 ]
