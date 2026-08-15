@@ -1,5 +1,112 @@
 [
   {
+    "id": "jf-f18db67022",
+    "titre": "Infanteer",
+    "entreprise": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "customer support",
+      "ops",
+      "recruiter"
+    ],
+    "resume_neutre": "Infanteer chez Canadian Armed Forces | Forces armÃ©es canadiennes, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-f18db67022"
+  },
+  {
+    "id": "jf-3b8eb112e1",
+    "titre": "Engineer Officer",
+    "entreprise": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Teaching",
+    "remote": true,
+    "competences": [
+      "teaching",
+      "education",
+      "customer support",
+      "ops",
+      "recruiter"
+    ],
+    "resume_neutre": "Engineer Officer chez Canadian Armed Forces | Forces armÃ©es canadiennes, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-3b8eb112e1"
+  },
+  {
+    "id": "jf-6ab9c1cabe",
+    "titre": "Engineering Manager Thailand",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "front end",
+      "infosec"
+    ],
+    "resume_neutre": "Engineering Manager Thailand chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-6ab9c1cabe"
+  },
+  {
+    "id": "jf-0278d852e8",
+    "titre": "Quality Checker",
+    "entreprise": "InTechNative",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "javascript"
+    ],
+    "resume_neutre": "Quality Checker chez InTechNative, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-0278d852e8"
+  },
+  {
+    "id": "jf-ad6165b566",
+    "titre": "Facilities Planner",
+    "entreprise": "Booz Allen Hamilton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "javascript",
+      "technical",
+      "exec",
+      "sys admin"
+    ],
+    "resume_neutre": "Facilities Planner chez Booz Allen Hamilton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-ad6165b566"
+  },
+  {
     "id": "ma-0d034f0d48",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5528,95 +5635,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-11",
     "ref_unique": "ma-f4947e51d1"
-  },
-  {
-    "id": "ma-b4d9c47a6d",
-    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=5&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=468&relb=110&brelb=110&bscr=1607.8099&scr=1607.8099",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-b4d9c47a6d"
-  },
-  {
-    "id": "ma-d1ae2501dc",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=6&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=396&relb=110&brelb=110&bscr=1566.0017&scr=1566.0017",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-d1ae2501dc"
-  },
-  {
-    "id": "ma-66b8c54927",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=7&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=36&relb=110&brelb=110&bscr=1557.4269&scr=1557.4269",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-66b8c54927"
-  },
-  {
-    "id": "ma-c9a61e4166",
-    "titre": "Expert commercial - Upselling - Rémunération attractives",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=8&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=36&relb=110&brelb=110&bscr=1539.7507&scr=1539.7507000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-c9a61e4166"
-  },
-  {
-    "id": "ma-80be007dce",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=9&elckey=-246734234339610361&p=1&aq=-7646074675410834301&cid=20&jobAge=204&relb=110&brelb=110&bscr=1538.6451&scr=1538.6450999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-80be007dce"
   }
 ]
