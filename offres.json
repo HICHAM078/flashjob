@@ -1,5 +1,65 @@
 [
   {
+    "id": "jf-d172f8199b",
+    "titre": "Gardener Handyman Driver",
+    "entreprise": "NT Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "Gardener Handyman Driver chez NT Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-d172f8199b"
+  },
+  {
+    "id": "jf-5bbde419f9",
+    "titre": "Express Your Interest",
+    "entreprise": "Alexander &amp; Bebout, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web Dev",
+    "remote": true,
+    "competences": [
+      "web dev",
+      "hr",
+      "sys admin",
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Express Your Interest chez Alexander &amp; Bebout, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-express-your-interest-alexander-amp-bebout-inc-1136621",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-5bbde419f9"
+  },
+  {
+    "id": "jf-6311917841",
+    "titre": "Carve Out Lead",
+    "entreprise": "Arbex",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Carve Out Lead chez Arbex, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-carve-out-lead-arbex-1136624",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-15",
+    "ref_unique": "jf-6311917841"
+  },
+  {
     "id": "jf-ff9e54f0ff",
     "titre": "Room Attendant",
     "entreprise": "The Abaco Club",
@@ -5540,59 +5600,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-10",
     "ref_unique": "ma-ccc5bad4d5"
-  },
-  {
-    "id": "ma-17e2bd41c9",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=2&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=372&relb=100&brelb=100&bscr=2363.1992&scr=2363.1992",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-17e2bd41c9"
-  },
-  {
-    "id": "ma-864474dbc0",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=3&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=7714&relb=100&brelb=100&bscr=2123.1326&scr=2123.1326",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-864474dbc0"
-  },
-  {
-    "id": "ma-925e8c8571",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=8564331405372419646&p=1&aq=-6679204130848528915&cid=20&jobAge=7714&relb=100&brelb=100&bscr=2086.8674&scr=2086.8674",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-10",
-    "ref_unique": "ma-925e8c8571"
   }
 ]
