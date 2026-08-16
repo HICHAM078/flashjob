@@ -1,5 +1,47 @@
 [
   {
+    "id": "jf-53dba8d7dd",
+    "titre": "Maintenance Planner",
+    "entreprise": "The HEINEKEN Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "music",
+      "teaching",
+      "education"
+    ],
+    "resume_neutre": "Maintenance Planner chez The HEINEKEN Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-53dba8d7dd"
+  },
+  {
+    "id": "jf-cca1738986",
+    "titre": "404",
+    "entreprise": "Train Rex",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "404 chez Train Rex, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-404-train-rex-1136816",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-cca1738986"
+  },
+  {
     "id": "ma-7657d10a8b",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5575,41 +5617,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-12",
     "ref_unique": "ma-7e666bc732"
-  },
-  {
-    "id": "ma-a9eb74f669",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=12&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=36&relb=110&brelb=110&bscr=1485.7482&scr=1485.7482",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-a9eb74f669"
-  },
-  {
-    "id": "ma-f553e99ede",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=1&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=324&relb=110&brelb=110&bscr=2494.463&scr=2494.4629999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-f553e99ede"
   }
 ]
