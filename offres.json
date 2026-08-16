@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-d1968dabb7",
+    "titre": "Cabin Cleaning Agent",
+    "entreprise": "Menzies Aviation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "customer support",
+      "controller",
+      "accounting"
+    ],
+    "resume_neutre": "Cabin Cleaning Agent chez Menzies Aviation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-d1968dabb7"
+  },
+  {
+    "id": "jf-96c6b57ea6",
+    "titre": "Store Manager White House Black Market",
+    "entreprise": "Chico's FAS, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ecommerce",
+    "remote": true,
+    "competences": [
+      "ecommerce",
+      "exec",
+      "marketing",
+      "finance",
+      "senior"
+    ],
+    "resume_neutre": "Store Manager White House Black Market chez Chico's FAS, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-white-house-black-market-chicos-fas-inc-1136826",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-96c6b57ea6"
+  },
+  {
+    "id": "jf-3f74039abe",
+    "titre": "Porteiro RibeirÃ£o Preto",
+    "entreprise": "Savegnago Supermercados",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ecommerce",
+    "remote": true,
+    "competences": [
+      "ecommerce"
+    ],
+    "resume_neutre": "Porteiro RibeirÃ£o Preto chez Savegnago Supermercados, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-porteiro-ribeirao-preto-savegnago-supermercados-1136821",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-3f74039abe"
+  },
+  {
     "id": "jf-53dba8d7dd",
     "titre": "Maintenance Planner",
     "entreprise": "The HEINEKEN Company",
@@ -5563,59 +5625,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-12",
     "ref_unique": "ma-4f4bfc7b37"
-  },
-  {
-    "id": "ma-b67afe8ee8",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=9&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=348&relb=110&brelb=110&bscr=1531.3892&scr=1531.3892",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-b67afe8ee8"
-  },
-  {
-    "id": "ma-c3e52735bb",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=324&relb=110&brelb=110&bscr=1503.8467&scr=1503.8467",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-c3e52735bb"
-  },
-  {
-    "id": "ma-7e666bc732",
-    "titre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé",
-    "entreprise": "R.Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé chez R.Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/791812486710949407?ckey=commercial&rgn=938&pos=11&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=132&relb=110&brelb=110&bscr=1497.0817&scr=1497.0817",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-7e666bc732"
   }
 ]
