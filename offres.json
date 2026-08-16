@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-5ec787d79b",
+    "titre": "Sandblaster",
+    "entreprise": "Tiger Calcium Services Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Music",
+    "remote": true,
+    "competences": [
+      "music",
+      "education",
+      "exec",
+      "marketing",
+      "sales"
+    ],
+    "resume_neutre": "Sandblaster chez Tiger Calcium Services Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sandblaster-tiger-calcium-services-inc-1136800",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-5ec787d79b"
+  },
+  {
     "id": "jf-413ba43879",
     "titre": "Current openings",
     "entreprise": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
@@ -5636,23 +5658,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-11",
     "ref_unique": "ma-4f19286648"
-  },
-  {
-    "id": "ma-76b75f9c08",
-    "titre": "Comptable confirmé généraliste",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=9&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=876&relb=100&brelb=100&bscr=2054.9778&scr=2054.9778",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-76b75f9c08"
   }
 ]
