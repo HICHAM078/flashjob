@@ -1,5 +1,869 @@
 [
   {
+    "id": "ma-7657d10a8b",
+    "titre": "Offre d’Emploi : Développeur Senior",
+    "entreprise": "2CA Business",
+    "ville": "Kenitra",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Offre d’Emploi : Développeur Senior chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4744765883913505841?ckey=emploi&rgn=0&pos=1&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=59&relb=110&brelb=110&bscr=2703.3516&scr=2703.3516",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-7657d10a8b"
+  },
+  {
+    "id": "ma-e4a51c325b",
+    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
+    "entreprise": "Landing Pro Site",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=2&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=926&relb=140&brelb=100&bscr=1844.0607&scr=2581.68498",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-e4a51c325b"
+  },
+  {
+    "id": "ma-ed688ac851",
+    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
+    "entreprise": "TELUS Digital",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=3&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=107&relb=110&brelb=110&bscr=2450.7659&scr=2450.7659",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-ed688ac851"
+  },
+  {
+    "id": "ma-d055c00bb0",
+    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
+    "entreprise": "Call Center Group",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=4&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=59&relb=110&brelb=110&bscr=2402.9792&scr=2402.9792",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-d055c00bb0"
+  },
+  {
+    "id": "ma-50bb91ba3e",
+    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
+    "entreprise": "Valtel",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=5&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=227&relb=110&brelb=110&bscr=2235.578&scr=2235.578",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-50bb91ba3e"
+  },
+  {
+    "id": "ma-adaf854858",
+    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
+    "entreprise": "MICC",
+    "ville": "Marrakech",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=6&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=35&relb=110&brelb=110&bscr=2204.2024&scr=2204.2024",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-adaf854858"
+  },
+  {
+    "id": "ma-1eb1229480",
+    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
+    "entreprise": "Expert Call Center",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=7&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=35&relb=110&brelb=110&bscr=2140.8057&scr=2140.8057",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-1eb1229480"
+  },
+  {
+    "id": "ma-558426acad",
+    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
+    "entreprise": "Menosys",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/795416073498391721?ckey=emploi&rgn=0&pos=8&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=35&relb=110&brelb=110&bscr=2113.6284&scr=2113.6284",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-558426acad"
+  },
+  {
+    "id": "ma-950ef1af9c",
+    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
+    "entreprise": "Finvens Operations",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=9&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=59&relb=110&brelb=110&bscr=2083.0417&scr=2083.0417",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-950ef1af9c"
+  },
+  {
+    "id": "ma-1dcbd3b84b",
+    "titre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes",
+    "entreprise": "France Rénovation",
+    "ville": "Marrakech",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-1389241450486226788?ckey=emploi&rgn=0&pos=10&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=83&relb=110&brelb=110&bscr=1979.4434&scr=1979.4434",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-1dcbd3b84b"
+  },
+  {
+    "id": "ma-760ea1c748",
+    "titre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées !",
+    "entreprise": "Access Teleservices",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées ! chez Access Teleservices, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/7325928884589221452?ckey=emploi&rgn=0&pos=11&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=83&relb=110&brelb=110&bscr=1949.1625&scr=1949.1625",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-760ea1c748"
+  },
+  {
+    "id": "ma-e3c423ed4c",
+    "titre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS)",
+    "entreprise": "VGROUP",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS) chez VGROUP, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-5303807427430823738?ckey=emploi&rgn=0&pos=12&elckey=-1390863330017460496&p=1&aq=4757620937245188080&cid=20&jobAge=419&relb=110&brelb=110&bscr=1878.1788&scr=1878.1787999999997",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-e3c423ed4c"
+  },
+  {
+    "id": "ma-535bf04d48",
+    "titre": "Comptable",
+    "entreprise": "Cash Plus",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/1712050579712721577?ckey=comptable&rgn=946&pos=1&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=416&relb=100&brelb=100&bscr=2580.5203&scr=2580.5203",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-535bf04d48"
+  },
+  {
+    "id": "ma-d86bd59847",
+    "titre": "Comptable",
+    "entreprise": "Dama",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable chez Dama, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-8038422667478869875?ckey=comptable&rgn=946&pos=2&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=275&relb=100&brelb=100&bscr=2564.1338&scr=2564.1338",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-d86bd59847"
+  },
+  {
+    "id": "ma-a4953f7f4b",
+    "titre": "Consultant Comptable senior H/F",
+    "entreprise": "Baker Tilly",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Consultant Comptable senior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/7076118098174475351?ckey=comptable&rgn=946&pos=3&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=299&relb=100&brelb=100&bscr=2367.912&scr=2367.912",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-a4953f7f4b"
+  },
+  {
+    "id": "ma-85198c4050",
+    "titre": "Comptable - Casablanca",
+    "entreprise": "Thaïs",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=4&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=536&relb=100&brelb=100&bscr=2325.6653&scr=2325.6653",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-85198c4050"
+  },
+  {
+    "id": "ma-f8d051c236",
+    "titre": "Comptable Confirmé(e)",
+    "entreprise": "HOTIN",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable Confirmé(e) chez HOTIN, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-4800876708376601455?ckey=comptable&rgn=946&pos=5&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=299&relb=100&brelb=100&bscr=2291.8562&scr=2291.8562",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-f8d051c236"
+  },
+  {
+    "id": "ma-077dbdb44f",
+    "titre": "Aide Comptable",
+    "entreprise": "HR SKILLS MAROC",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=6&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=1331&relb=100&brelb=100&bscr=2266.5447&scr=2266.5447",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-077dbdb44f"
+  },
+  {
+    "id": "ma-b9308186f5",
+    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
+    "entreprise": "Baker Tilly",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-6943309366933874513?ckey=comptable&rgn=946&pos=7&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=323&relb=100&brelb=100&bscr=2148.2324&scr=2148.2324",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-b9308186f5"
+  },
+  {
+    "id": "ma-22fe5b50af",
+    "titre": "Comptable général junior - H/F",
+    "entreprise": "Groupe BBL",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=8&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=873&relb=100&brelb=100&bscr=2025.5165&scr=2025.5165",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-22fe5b50af"
+  },
+  {
+    "id": "ma-6994f6ec0e",
+    "titre": "Comptable confirmé",
+    "entreprise": "HR SKILLS MAROC",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=9&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=1475&relb=100&brelb=100&bscr=1999.1487&scr=1999.1487",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-6994f6ec0e"
+  },
+  {
+    "id": "ma-252300c053",
+    "titre": "Comptable Senior - F/H",
+    "entreprise": "ChapsVision",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable Senior - F/H chez ChapsVision, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4740325843347289512?ckey=comptable&rgn=946&pos=10&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=2913&relb=100&brelb=100&bscr=1984.6527&scr=1984.6527",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-252300c053"
+  },
+  {
+    "id": "ma-a1edab7e3e",
+    "titre": "Comptable confirmé généraliste",
+    "entreprise": "Globe RH",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Comptable confirmé généraliste chez Globe RH, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-7866667091941619192?ckey=comptable&rgn=946&pos=11&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=995&relb=100&brelb=100&bscr=1950.8977&scr=1950.8977",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-a1edab7e3e"
+  },
+  {
+    "id": "ma-88c7546e33",
+    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
+    "entreprise": "L3M Holding",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=12&elckey=7175790810889152443&p=1&aq=-32059440172942967&cid=20&jobAge=1209&relb=100&brelb=100&bscr=1950.1625&scr=1950.1625",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-88c7546e33"
+  },
+  {
+    "id": "ma-a1f15d34f0",
+    "titre": "Conseillers Commerciaux en Assurance Décennale !",
+    "entreprise": "PHENIX ASSURANCES",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseillers Commerciaux en Assurance Décennale ! chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/5466358721660258183?ckey=commercial&rgn=938&pos=1&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=83&relb=110&brelb=110&bscr=1712.0315&scr=1712.0315",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-a1f15d34f0"
+  },
+  {
+    "id": "ma-b60d872f8a",
+    "titre": "Conseiller Commercial arabo/francophone",
+    "entreprise": "Intelcia",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseiller Commercial arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/5224435708290653463?ckey=commercial&rgn=938&pos=2&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=203&relb=110&brelb=110&bscr=1651.5228&scr=1651.5228",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-b60d872f8a"
+  },
+  {
+    "id": "ma-3d46668674",
+    "titre": "Conseiller commercial en mutuelle santé (h/f)",
+    "entreprise": "Wannassur",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-8807567178699854695?ckey=commercial&rgn=938&pos=3&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=59&relb=110&brelb=110&bscr=1627.8153&scr=1627.8153",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-3d46668674"
+  },
+  {
+    "id": "ma-ce9d2ab1ac",
+    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
+    "entreprise": "My BPO",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=4&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=107&relb=110&brelb=110&bscr=1608.1862&scr=1608.1862",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-ce9d2ab1ac"
+  },
+  {
+    "id": "ma-e23c02561c",
+    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
+    "entreprise": "ADM Value",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/1759025645608062725?ckey=commercial&rgn=938&pos=5&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=83&relb=110&brelb=110&bscr=1573.1477&scr=1573.1477",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-e23c02561c"
+  },
+  {
+    "id": "ma-79bda3f80c",
+    "titre": "Directeur Commercial",
+    "entreprise": "ACCOR",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=6&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=395&relb=100&brelb=100&bscr=1566.6621&scr=1566.6621",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-79bda3f80c"
+  },
+  {
+    "id": "ma-373bb3370b",
+    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
+    "entreprise": "Partner Assurance",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=7&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=443&relb=110&brelb=110&bscr=1533.7843&scr=1533.7843",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-373bb3370b"
+  },
+  {
+    "id": "ma-2ff1e5d1fc",
+    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
+    "entreprise": "Partner Assurance",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=8&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=587&relb=110&brelb=110&bscr=1527.2776&scr=1527.2776",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-2ff1e5d1fc"
+  },
+  {
+    "id": "ma-22d8693e9b",
+    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
+    "entreprise": "Méléine Succursale",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=9&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=35&relb=110&brelb=110&bscr=1515.165&scr=1515.165",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-22d8693e9b"
+  },
+  {
+    "id": "ma-d7bf894e47",
+    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
+    "entreprise": "NRG Conseils",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=419&relb=110&brelb=110&bscr=1510.3956&scr=1510.3956",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-d7bf894e47"
+  },
+  {
+    "id": "ma-bab4fe041d",
+    "titre": "Conseiller Commercial en Rétention | Rabat",
+    "entreprise": "Cnexia",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=11&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=515&relb=110&brelb=110&bscr=1507.2004&scr=1507.2004",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-bab4fe041d"
+  },
+  {
+    "id": "ma-4cd063cfe8",
+    "titre": "Expert commercial - Upselling - Rémunération attractives",
+    "entreprise": "Cnexia",
+    "ville": "Rabat",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=12&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=35&relb=110&brelb=110&bscr=1501.521&scr=1501.521",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-4cd063cfe8"
+  },
+  {
+    "id": "ma-4c6b523c03",
+    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
+    "entreprise": "Genius Services",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=1&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=35&relb=110&brelb=110&bscr=2532.0737&scr=2532.0737000000004",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-4c6b523c03"
+  },
+  {
+    "id": "ma-77919ce0fd",
+    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
+    "entreprise": "2CA Business",
+    "ville": "Kenitra",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=2&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=419&relb=110&brelb=110&bscr=2438.9558&scr=2438.9558",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-77919ce0fd"
+  },
+  {
+    "id": "ma-78043fb5af",
+    "titre": "Technicien de Support Informatique",
+    "entreprise": "Forvis Mazars",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=3&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=515&relb=100&brelb=100&bscr=2423.21&scr=2423.21",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-78043fb5af"
+  },
+  {
+    "id": "ma-5cbcefa054",
+    "titre": "Technicien Informatique",
+    "entreprise": "EXPERIENCIAH",
+    "ville": "Bouznika",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=1256&relb=100&brelb=100&bscr=2188.9758&scr=2188.9758",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-5cbcefa054"
+  },
+  {
+    "id": "ma-260027cf01",
+    "titre": "Chef de Projet en Production Informatique (REF03)",
+    "entreprise": "Trusted Advisors",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=2138.7456&scr=2138.7456",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-260027cf01"
+  },
+  {
+    "id": "ma-cc94fa4fc3",
+    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
+    "entreprise": "Trusted Advisors",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=2134.913&scr=2134.913",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-cc94fa4fc3"
+  },
+  {
+    "id": "ma-03e8328dca",
+    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
+    "entreprise": "Trusted Advisors",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=1861.2195&scr=1861.2195",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-03e8328dca"
+  },
+  {
+    "id": "ma-09fff4f135",
+    "titre": "PROFIL BILINGUE",
+    "entreprise": "Consultcollab",
+    "ville": "Télétravail",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=8&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=49&relb=140&brelb=100&bscr=252.18463&scr=353.058482",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-09fff4f135"
+  },
+  {
+    "id": "ma-35691dde8c",
+    "titre": "Conseiller technique",
+    "entreprise": "Intelcia",
+    "ville": "El Jadida",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Conseiller technique chez Intelcia, a El Jadida. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-5059655003342570278?ckey=informatique&rgn=0&pos=9&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=83&relb=110&brelb=110&bscr=289.32614&scr=289.32614",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-35691dde8c"
+  },
+  {
+    "id": "ma-f89819f7e2",
+    "titre": "GESTIONNAIRES DE CONTRATS",
+    "entreprise": "Centre de Services",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "GESTIONNAIRES DE CONTRATS chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/490562854043959908?ckey=informatique&rgn=0&pos=10&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=107&relb=110&brelb=110&bscr=278.0074&scr=278.0074",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-f89819f7e2"
+  },
+  {
+    "id": "ma-9053debd2a",
+    "titre": "Assistante RH",
+    "entreprise": "MD CallCenter",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=11&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=35&relb=110&brelb=110&bscr=277.6013&scr=277.6013",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-9053debd2a"
+  },
+  {
+    "id": "ma-a09664c3ba",
+    "titre": "Commercial REI",
+    "entreprise": "Finvens Operations",
+    "ville": "Casablanca",
+    "pays": "Maroc",
+    "type_contrat": "Non precise",
+    "secteur": "Divers",
+    "remote": false,
+    "competences": [
+      "Voir le detail sur la source"
+    ],
+    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
+    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=12&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=59&relb=110&brelb=110&bscr=276.82333&scr=276.82333",
+    "source_nom": "Jooble",
+    "date_pub": "2026-08-16",
+    "ref_unique": "ma-a09664c3ba"
+  },
+  {
     "id": "jf-5ec787d79b",
     "titre": "Sandblaster",
     "entreprise": "Tiger Calcium Services Inc.",
@@ -4747,916 +5611,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-12",
     "ref_unique": "ma-f553e99ede"
-  },
-  {
-    "id": "ma-2fe0466738",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=2&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=36&relb=110&brelb=110&bscr=2480.9612&scr=2480.9612",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-2fe0466738"
-  },
-  {
-    "id": "ma-8bf22ff23d",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=3&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=420&relb=100&brelb=100&bscr=2418.3977&scr=2418.3977",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-8bf22ff23d"
-  },
-  {
-    "id": "ma-cea240aa66",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=1161&relb=100&brelb=100&bscr=2144.8684&scr=2144.8684",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-cea240aa66"
-  },
-  {
-    "id": "ma-9ed11e8abe",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=7761&relb=100&brelb=100&bscr=2126.543&scr=2126.543",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-9ed11e8abe"
-  },
-  {
-    "id": "ma-53a4aafa9b",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=7761&relb=100&brelb=100&bscr=2086.8674&scr=2086.8674",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-53a4aafa9b"
-  },
-  {
-    "id": "ma-371b2ba54f",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=7761&relb=100&brelb=100&bscr=1869.97&scr=1869.97",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-371b2ba54f"
-  },
-  {
-    "id": "ma-8a6065b423",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=8&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=60&relb=110&brelb=110&bscr=288.58276&scr=288.58276",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-8a6065b423"
-  },
-  {
-    "id": "ma-3d66a4e42d",
-    "titre": "Commercial REI",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=9&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=36&relb=110&brelb=110&bscr=286.20163&scr=286.20163",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-3d66a4e42d"
-  },
-  {
-    "id": "ma-62e807c164",
-    "titre": "CONSEILLER TECHNIQUE",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLER TECHNIQUE chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7999405080838451281?ckey=informatique&rgn=0&pos=10&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=132&relb=110&brelb=110&bscr=284.5911&scr=284.5911",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-62e807c164"
-  },
-  {
-    "id": "ma-e16ee229ce",
-    "titre": "Technicien IT",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien IT chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5966951286983669109?ckey=informatique&rgn=0&pos=11&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=300&relb=110&brelb=110&bscr=278.26355&scr=278.26355",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-e16ee229ce"
-  },
-  {
-    "id": "ma-6e92d1c893",
-    "titre": "Acheteur",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Bouskoura",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur a Bouskoura. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4578516949701073805?ckey=informatique&rgn=0&pos=12&elckey=-7096753085259763695&p=1&aq=1636522651810329686&cid=20&jobAge=156&relb=100&brelb=100&bscr=275.5219&scr=275.5219",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-6e92d1c893"
-  },
-  {
-    "id": "jf-24f8d5161d",
-    "titre": "Join a team helping people make better financial decisions",
-    "entreprise": "Valley Bank Women in Business",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "non tech"
-    ],
-    "resume_neutre": "Join a team helping people make better financial decisions chez Valley Bank Women in Business, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-join-a-team-helping-people-make-better-financial-decisions-valley-bank-women-in-business-1136381",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-24f8d5161d"
-  },
-  {
-    "id": "jf-3260547a93",
-    "titre": "Group leader",
-    "entreprise": "PAYTM SERVICES PVT LTD",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Group leader chez PAYTM SERVICES PVT LTD, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-group-leader-paytm-services-pvt-ltd-1136372",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-3260547a93"
-  },
-  {
-    "id": "jf-38f1e77c7d",
-    "titre": "Handyman",
-    "entreprise": "Ocean Hotels Group BARBADOS",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Handyman chez Ocean Hotels Group BARBADOS, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-ocean-hotels-group-barbados-1136373",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-38f1e77c7d"
-  },
-  {
-    "id": "jf-86ede6c2bf",
-    "titre": "Facilities Technician II #JR100294",
-    "entreprise": "City of Peoria, Arizona",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Ops",
-    "remote": true,
-    "competences": [
-      "ops",
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Facilities Technician II #JR100294 chez City of Peoria, Arizona, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-facilities-technician-ii-jr100294-city-of-peoria-arizona-1136454",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-86ede6c2bf"
-  },
-  {
-    "id": "jf-f09511dae5",
-    "titre": "Handyman",
-    "entreprise": "Compass Group Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "supervisor",
-      "web dev",
-      "travel",
-      "exec"
-    ],
-    "resume_neutre": "Handyman chez Compass Group Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-compass-group-canada-1136553",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-f09511dae5"
-  },
-  {
-    "id": "jf-5f9aa4b9e4",
-    "titre": "Interdisciplinary",
-    "entreprise": "US Army Corps of Engineers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Ops",
-    "remote": true,
-    "competences": [
-      "ops"
-    ],
-    "resume_neutre": "Interdisciplinary chez US Army Corps of Engineers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1136453",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-5f9aa4b9e4"
-  },
-  {
-    "id": "jf-0e3f1d18f1",
-    "titre": "Message Center Operator",
-    "entreprise": "Amentum",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "education",
-      "technical",
-      "customer support",
-      "testing"
-    ],
-    "resume_neutre": "Message Center Operator chez Amentum, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-message-center-operator-amentum-1136452",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-0e3f1d18f1"
-  },
-  {
-    "id": "jf-0b3f815ee4",
-    "titre": "factory labourer manufacturing",
-    "entreprise": "HongSheng North America Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "supervisor",
-      "web dev",
-      "travel",
-      "exec"
-    ],
-    "resume_neutre": "factory labourer manufacturing chez HongSheng North America Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-factory-labourer-manufacturing-hongsheng-north-america-inc-1136543",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-0b3f815ee4"
-  },
-  {
-    "id": "jf-fdf6df19a8",
-    "titre": "Meat Department Manager",
-    "entreprise": "Walmart Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "supervisor",
-      "web dev",
-      "travel",
-      "exec"
-    ],
-    "resume_neutre": "Meat Department Manager chez Walmart Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-meat-department-manager-walmart-canada-1136552",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-fdf6df19a8"
-  },
-  {
-    "id": "jf-db9e2cbae0",
-    "titre": "Expression of Interest",
-    "entreprise": "Immutable",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Saas",
-    "remote": true,
-    "competences": [
-      "saas",
-      "web3",
-      "game dev",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Expression of Interest chez Immutable, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-db9e2cbae0"
-  },
-  {
-    "id": "jf-048281f1c8",
-    "titre": "FC Lead",
-    "entreprise": "Cart.com",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "FC Lead chez Cart.com, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-048281f1c8"
-  },
-  {
-    "id": "jf-4356db2636",
-    "titre": "service professionals",
-    "entreprise": "Homelyo",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "mobile",
-      "sys admin",
-      "full time",
-      "non tech"
-    ],
-    "resume_neutre": "service professionals chez Homelyo, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-service-professionals-homelyo-1136366",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-4356db2636"
-  },
-  {
-    "id": "jf-50cc337bc5",
-    "titre": "Sales Team Member Cotton On Westfield Bondi",
-    "entreprise": "Cotton On Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "marketing",
-      "travel",
-      "speech",
-      "finance"
-    ],
-    "resume_neutre": "Sales Team Member Cotton On Westfield Bondi chez Cotton On Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-12",
-    "ref_unique": "jf-50cc337bc5"
-  },
-  {
-    "id": "jf-826ad34c4f",
-    "titre": "Electrician Royal Beach Club",
-    "entreprise": "Royal Caribbean International",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "infosec",
-      "education",
-      "technical",
-      "supervisor"
-    ],
-    "resume_neutre": "Electrician Royal Beach Club chez Royal Caribbean International, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-11",
-    "ref_unique": "jf-826ad34c4f"
-  },
-  {
-    "id": "jf-74b878e4cb",
-    "titre": "Detail Specialist",
-    "entreprise": "U-Haul",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "marketing",
-      "payroll",
-      "non tech"
-    ],
-    "resume_neutre": "Detail Specialist chez U-Haul, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-11",
-    "ref_unique": "jf-74b878e4cb"
-  },
-  {
-    "id": "jf-2af07afd5d",
-    "titre": "12TH PASS",
-    "entreprise": "Simond Fibertech Limited - India",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "mobile",
-      "sys admin",
-      "full time",
-      "non tech"
-    ],
-    "resume_neutre": "12TH PASS chez Simond Fibertech Limited - India, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-12th-pass-simond-fibertech-limited-india-1136368",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-11",
-    "ref_unique": "jf-2af07afd5d"
-  },
-  {
-    "id": "jf-c7d6c4d6a2",
-    "titre": "Payroll specialist UK",
-    "entreprise": "EZSpace Ventures",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "mobile",
-      "sys admin",
-      "full time",
-      "non tech"
-    ],
-    "resume_neutre": "Payroll specialist UK chez EZSpace Ventures, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-uk-ezspace-ventures-1136367",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-11",
-    "ref_unique": "jf-c7d6c4d6a2"
-  },
-  {
-    "id": "ma-0a3f6420e7",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=806&relb=140&brelb=100&bscr=2065.067&scr=2891.0938",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-0a3f6420e7"
-  },
-  {
-    "id": "ma-6426be6895",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=2&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=228&relb=110&brelb=110&bscr=2689.4043&scr=2689.4043",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-6426be6895"
-  },
-  {
-    "id": "ma-723972c0a3",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=3&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=36&relb=110&brelb=110&bscr=2602.9155&scr=2602.9155",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-723972c0a3"
-  },
-  {
-    "id": "ma-1ee34e48c1",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=4&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=36&relb=110&brelb=110&bscr=2460.7317&scr=2460.7317",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-1ee34e48c1"
-  },
-  {
-    "id": "ma-58b78584e7",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=5&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=36&relb=110&brelb=110&bscr=2360.9229&scr=2360.9229",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-58b78584e7"
-  },
-  {
-    "id": "ma-14973a196f",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=6&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=108&relb=110&brelb=110&bscr=2260.6191&scr=2260.6191",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-14973a196f"
-  },
-  {
-    "id": "ma-67b19c0411",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=7&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=84&relb=110&brelb=110&bscr=2228.0186&scr=2228.0186",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-67b19c0411"
-  },
-  {
-    "id": "ma-8a0c06bb8e",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8071752412835596533?ckey=emploi&rgn=0&pos=8&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=36&relb=110&brelb=110&bscr=2109.6265&scr=2109.6265",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-8a0c06bb8e"
-  },
-  {
-    "id": "ma-e26536073e",
-    "titre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées !",
-    "entreprise": "Access Teleservices",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Des offres d'emploi en plein centre de RABAT AGDAL et bien rémunérées ! chez Access Teleservices, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7325928884589221452?ckey=emploi&rgn=0&pos=9&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=108&relb=110&brelb=110&bscr=2104.3628&scr=2104.3628",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-e26536073e"
-  },
-  {
-    "id": "ma-5a84fb1dee",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=10&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=12&relb=110&brelb=110&bscr=2067.6611&scr=2067.6611",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-5a84fb1dee"
-  },
-  {
-    "id": "ma-665eb01aea",
-    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=11&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=36&relb=110&brelb=110&bscr=2029.2738&scr=2029.2738",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-665eb01aea"
-  },
-  {
-    "id": "ma-ba6774e5ff",
-    "titre": "Offre d’emploi - assistante commerciale en parapharmacie",
-    "entreprise": "Eparamarket.ma",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - assistante commerciale en parapharmacie chez Eparamarket.ma, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2069729328457087107?ckey=emploi&rgn=0&pos=12&elckey=-456004630923242923&p=1&aq=-132829681327163325&cid=20&jobAge=876&relb=100&brelb=100&bscr=1951.46&scr=1951.46",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-ba6774e5ff"
-  },
-  {
-    "id": "ma-3a7a4b3c3d",
-    "titre": "Comptable",
-    "entreprise": "Dama",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Dama, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8038422667478869875?ckey=comptable&rgn=946&pos=1&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=156&relb=100&brelb=100&bscr=2642.7236&scr=2642.7236",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-3a7a4b3c3d"
-  },
-  {
-    "id": "ma-1f9b8a007d",
-    "titre": "Comptable",
-    "entreprise": "Cash Plus",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1712050579712721577?ckey=comptable&rgn=946&pos=2&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=297&relb=100&brelb=100&bscr=2622.5178&scr=2622.5178",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-1f9b8a007d"
-  },
-  {
-    "id": "ma-c863708f8d",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "Thaïs",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=3&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=417&relb=100&brelb=100&bscr=2417.1506&scr=2417.1506",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-c863708f8d"
-  },
-  {
-    "id": "ma-a580a69cc1",
-    "titre": "Consultant Comptable senior H/F",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable senior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7076118098174475351?ckey=comptable&rgn=946&pos=4&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=180&relb=100&brelb=100&bscr=2397.0823&scr=2397.0823",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-a580a69cc1"
-  },
-  {
-    "id": "ma-50da48bb1a",
-    "titre": "Comptable",
-    "entreprise": "Digital Virgo",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Digital Virgo, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2659136699969277412?ckey=comptable&rgn=946&pos=5&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=612&relb=100&brelb=100&bscr=2339.4705&scr=2339.4705",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-50da48bb1a"
-  },
-  {
-    "id": "ma-6980881327",
-    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6943309366933874513?ckey=comptable&rgn=946&pos=6&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=204&relb=100&brelb=100&bscr=2137.4595&scr=2137.4595",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-6980881327"
-  },
-  {
-    "id": "ma-89d35d876f",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=7&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=753&relb=100&brelb=100&bscr=2125.7144&scr=2125.7144",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-89d35d876f"
-  },
-  {
-    "id": "ma-4f19286648",
-    "titre": "Aide Comptable",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8675775964117932635?ckey=comptable&rgn=946&pos=8&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=1212&relb=100&brelb=100&bscr=2094.8218&scr=2094.8218",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-4f19286648"
   }
 ]
