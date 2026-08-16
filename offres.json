@@ -1,5 +1,65 @@
 [
   {
+    "id": "jf-413ba43879",
+    "titre": "Current openings",
+    "entreprise": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "customer support",
+      "javascript"
+    ],
+    "resume_neutre": "Current openings chez Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd), poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-413ba43879"
+  },
+  {
+    "id": "jf-8288addbd3",
+    "titre": "QA Tester Entry Level",
+    "entreprise": "Ace IT Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "dev",
+      "analyst",
+      "quality assurance",
+      "digital nomad"
+    ],
+    "resume_neutre": "QA Tester Entry Level chez Ace IT Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-8288addbd3"
+  },
+  {
+    "id": "jf-c9a1c52bce",
+    "titre": "Why Your First Weeks a New Role Shape Everything That Follows",
+    "entreprise": "Decode-X",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ops",
+    "remote": true,
+    "competences": [
+      "ops"
+    ],
+    "resume_neutre": "Why Your First Weeks a New Role Shape Everything That Follows chez Decode-X, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-16",
+    "ref_unique": "jf-c9a1c52bce"
+  },
+  {
     "id": "jf-fb2ea38359",
     "titre": "Shop Assistant Cammeray",
     "entreprise": "Harris Farm Markets",
@@ -5594,59 +5654,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-11",
     "ref_unique": "ma-76b75f9c08"
-  },
-  {
-    "id": "ma-164762fe6b",
-    "titre": "Comptable confirmé",
-    "entreprise": "HR SKILLS MAROC",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable confirmé chez HR SKILLS MAROC, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4479236405135004815?ckey=comptable&rgn=946&pos=10&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=1356&relb=100&brelb=100&bscr=2029.9403&scr=2029.9403",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-164762fe6b"
-  },
-  {
-    "id": "ma-0d918c5e94",
-    "titre": "Comptable junior anglophone confirmé(e) - ifrs",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable junior anglophone confirmé(e) - ifrs chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1724330499968979581?ckey=comptable&rgn=946&pos=11&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=324&relb=100&brelb=100&bscr=1958.894&scr=1958.894",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-0d918c5e94"
-  },
-  {
-    "id": "ma-0ac39c7e47",
-    "titre": "Collaborateur Comptable - H/F_ CASABLANCA",
-    "entreprise": "L3M Holding",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Collaborateur Comptable - H/F_ CASABLANCA chez L3M Holding, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4509480982882450623?ckey=comptable&rgn=946&pos=12&elckey=1391376705043078776&p=1&aq=-472326806105666620&cid=20&jobAge=1089&relb=100&brelb=100&bscr=1943.2693&scr=1943.2693",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-11",
-    "ref_unique": "ma-0ac39c7e47"
   }
 ]
