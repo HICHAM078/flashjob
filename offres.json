@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-dcd3097f03",
+    "titre": "Executive Assistant",
+    "entreprise": "Numeris",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "hr",
+      "sys admin",
+      "education",
+      "game dev"
+    ],
+    "resume_neutre": "Executive Assistant chez Numeris, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-dcd3097f03"
+  },
+  {
     "id": "ma-a68c0cf418",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5549,27 +5571,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-13",
     "ref_unique": "ma-b6e8971262"
-  },
-  {
-    "id": "jf-0f1c37cbf8",
-    "titre": "Coffee Roaster Campos Coffee",
-    "entreprise": "JDE Peet's",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Teaching",
-    "remote": true,
-    "competences": [
-      "teaching",
-      "education",
-      "customer support",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Coffee Roaster Campos Coffee chez JDE Peet's, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-coffee-roaster-campos-coffee-jde-peets-1136571",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-13",
-    "ref_unique": "jf-0f1c37cbf8"
   }
 ]
