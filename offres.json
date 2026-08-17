@@ -1,5 +1,65 @@
 [
   {
+    "id": "jf-a6da9508c4",
+    "titre": "Nexus",
+    "entreprise": "Flurix.AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Nexus chez Flurix.AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-nexus-flurix-ai-1136845",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-a6da9508c4"
+  },
+  {
+    "id": "jf-eb88f78eaf",
+    "titre": "Team Member",
+    "entreprise": "Costa Coffee Ireland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Team Member chez Costa Coffee Ireland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-costa-coffee-ireland-1136848",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-eb88f78eaf"
+  },
+  {
+    "id": "jf-ca80011a46",
+    "titre": "4 vacatures",
+    "entreprise": "TwinTopics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "4 vacatures chez TwinTopics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-4-vacatures-twintopics-1136849",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-ca80011a46"
+  },
+  {
     "id": "jf-dcd3097f03",
     "titre": "Executive Assistant",
     "entreprise": "Numeris",
@@ -5517,59 +5577,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-13",
     "ref_unique": "ma-bf234d7dd9"
-  },
-  {
-    "id": "ma-a8bab71da1",
-    "titre": "Caissier / Caissière",
-    "entreprise": "SOFITEL",
-    "ville": "Marrakesh-Safi Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Caissier / Caissière chez SOFITEL, a Marrakesh-Safi Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2383261928650635714?ckey=informatique&rgn=0&pos=10&elckey=-7452507001252549829&p=1&aq=5239167083968792717&cid=20&jobAge=204&relb=100&brelb=100&bscr=272.34268&scr=272.34268",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-13",
-    "ref_unique": "ma-a8bab71da1"
-  },
-  {
-    "id": "ma-8d5435dd97",
-    "titre": "Conseillers clientèle en btob",
-    "entreprise": "Unifitel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers clientèle en btob chez Unifitel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7816180418246168368?ckey=informatique&rgn=0&pos=11&elckey=-7452507001252549829&p=1&aq=5239167083968792717&cid=20&jobAge=228&relb=110&brelb=110&bscr=268.80936&scr=268.80936",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-13",
-    "ref_unique": "ma-8d5435dd97"
-  },
-  {
-    "id": "ma-b6e8971262",
-    "titre": "Télévendeurs francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1615708759748734754?ckey=informatique&rgn=0&pos=12&elckey=-7452507001252549829&p=1&aq=5239167083968792717&cid=20&jobAge=60&relb=110&brelb=110&bscr=265.86633&scr=265.86633",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-13",
-    "ref_unique": "ma-b6e8971262"
   }
 ]
