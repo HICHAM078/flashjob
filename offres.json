@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-a4a96af595",
+    "titre": "Member of Technical Staff Engineering",
+    "entreprise": "Physical Superintelligence",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "infosec",
+      "technical",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "Member of Technical Staff Engineering chez Physical Superintelligence, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-a4a96af595"
+  },
+  {
+    "id": "jf-b945f68dc2",
+    "titre": "Strategic Account Executive Lodging",
+    "entreprise": "FreedomPay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "infosec",
+      "game dev",
+      "consulting",
+      "marketing"
+    ],
+    "resume_neutre": "Strategic Account Executive Lodging chez FreedomPay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-b945f68dc2"
+  },
+  {
+    "id": "jf-66555456ba",
+    "titre": "Staff Software Development Engineer SDM",
+    "entreprise": "Delinea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "saas",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Staff Software Development Engineer SDM chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-66555456ba"
+  },
+  {
+    "id": "jf-21ea4c4cb4",
+    "titre": "Senior Software Engineer Case Execution",
+    "entreprise": "Pivotal Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "front end",
+      "python",
+      "customer support",
+      "design"
+    ],
+    "resume_neutre": "Senior Software Engineer Case Execution chez Pivotal Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-21ea4c4cb4"
+  },
+  {
     "id": "jf-d1968dabb7",
     "titre": "Cabin Cleaning Agent",
     "entreprise": "Menzies Aviation",
@@ -5553,77 +5641,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-12",
     "ref_unique": "ma-52aaa75c84"
-  },
-  {
-    "id": "ma-dfa04c55e2",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=5&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=36&relb=110&brelb=110&bscr=1606.2402&scr=1606.2402",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-dfa04c55e2"
-  },
-  {
-    "id": "ma-5c75aa1e7f",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=6&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=60&relb=110&brelb=110&bscr=1558.5736&scr=1558.5736",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-5c75aa1e7f"
-  },
-  {
-    "id": "ma-9c12116650",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=7&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=228&relb=110&brelb=110&bscr=1558.5073&scr=1558.5072999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-9c12116650"
-  },
-  {
-    "id": "ma-4f4bfc7b37",
-    "titre": "Expert commercial - Upselling - Rémunération attractives",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=8&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=36&relb=110&brelb=110&bscr=1553.1776&scr=1553.1776",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-4f4bfc7b37"
   }
 ]
