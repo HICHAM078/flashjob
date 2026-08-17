@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-0a85a994d3",
+    "titre": "Getting It Right",
+    "entreprise": "Brite Enterprises",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Getting It Right chez Brite Enterprises, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-0a85a994d3"
+  },
+  {
+    "id": "jf-638bf9efd9",
+    "titre": "Custom Role",
+    "entreprise": "TAR",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "sales",
+      "golang",
+      "non tech",
+      "digital nomad"
+    ],
+    "resume_neutre": "Custom Role chez TAR, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-17",
+    "ref_unique": "jf-638bf9efd9"
+  },
+  {
     "id": "jf-a4a96af595",
     "titre": "Member of Technical Staff Engineering",
     "entreprise": "Physical Superintelligence",
@@ -5605,41 +5645,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-12",
     "ref_unique": "ma-3e90bfe325"
-  },
-  {
-    "id": "ma-7d24162d6c",
-    "titre": "Directeur Commercial",
-    "entreprise": "ACCOR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=3&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=300&relb=100&brelb=100&bscr=1632.4202&scr=1632.4201999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-7d24162d6c"
-  },
-  {
-    "id": "ma-52aaa75c84",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1759025645608062725?ckey=commercial&rgn=938&pos=4&elckey=-602488150332396495&p=1&aq=-319289236411499653&cid=20&jobAge=36&relb=110&brelb=110&bscr=1608.4077&scr=1608.4077",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-12",
-    "ref_unique": "ma-52aaa75c84"
   }
 ]
