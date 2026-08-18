@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-539b88b651",
+    "titre": "Billing Officer",
+    "entreprise": "FroxJob | Executive Jobs in Nepal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "finance",
+      "exec",
+      "senior",
+      "legal"
+    ],
+    "resume_neutre": "Billing Officer chez FroxJob | Executive Jobs in Nepal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-billing-officer-froxjob-executive-jobs-in-nepal-1136908",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-539b88b651"
+  },
+  {
+    "id": "jf-9fff8f6b93",
+    "titre": "English Editor",
+    "entreprise": "MDPI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "finance",
+      "exec",
+      "senior",
+      "legal"
+    ],
+    "resume_neutre": "English Editor chez MDPI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-english-editor-mdpi-1136891",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-9fff8f6b93"
+  },
+  {
     "id": "jf-a6da9508c4",
     "titre": "Nexus",
     "entreprise": "Flurix.AI",
@@ -5541,41 +5585,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-13",
     "ref_unique": "ma-d56e303cc6"
-  },
-  {
-    "id": "ma-dd98864a9f",
-    "titre": "Consultant N1/N2",
-    "entreprise": "Consort Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant N1/N2 chez Consort Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/77569997315182684?ckey=informatique&rgn=0&pos=8&elckey=-7452507001252549829&p=1&aq=5239167083968792717&cid=20&jobAge=60&relb=110&brelb=110&bscr=273.345&scr=273.345",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-13",
-    "ref_unique": "ma-dd98864a9f"
-  },
-  {
-    "id": "ma-bf234d7dd9",
-    "titre": "Acheteur",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Bouskoura",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur a Bouskoura. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4578516949701073805?ckey=informatique&rgn=0&pos=9&elckey=-7452507001252549829&p=1&aq=5239167083968792717&cid=20&jobAge=180&relb=100&brelb=100&bscr=272.74023&scr=272.74023",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-13",
-    "ref_unique": "ma-bf234d7dd9"
   }
 ]
