@@ -1,5 +1,217 @@
 [
   {
+    "id": "jf-40a8ed2c0d",
+    "titre": "Expression of Interest with First Quantum",
+    "entreprise": "First Quantum Minerals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "ops",
+      "non tech"
+    ],
+    "resume_neutre": "Expression of Interest with First Quantum chez First Quantum Minerals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-40a8ed2c0d"
+  },
+  {
+    "id": "jf-ebb039dc4c",
+    "titre": "Fire Fighter",
+    "entreprise": "Adani Airport Holdings Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "customer support",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Fire Fighter chez Adani Airport Holdings Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-ebb039dc4c"
+  },
+  {
+    "id": "jf-789a3c8966",
+    "titre": "Maintenance and Grounds Officer",
+    "entreprise": "Department of Education and Training",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "ops",
+      "non tech",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Maintenance and Grounds Officer chez Department of Education and Training, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-789a3c8966"
+  },
+  {
+    "id": "jf-3443411591",
+    "titre": "What should I ask them when they say 'Do you have any questions for us",
+    "entreprise": "Baldwin Blueprint",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "customer support",
+      "dev",
+      "ops"
+    ],
+    "resume_neutre": "What should I ask them when they say 'Do you have any questions for us chez Baldwin Blueprint, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-3443411591"
+  },
+  {
+    "id": "jf-c25e90604b",
+    "titre": "What does 'fast paced environment' actually mean for my day day",
+    "entreprise": "Baldwin Blueprint",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "customer support",
+      "dev",
+      "ops"
+    ],
+    "resume_neutre": "What does 'fast paced environment' actually mean for my day day chez Baldwin Blueprint, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-what-does-fast-paced-environment-actually-mean-for-my-day-day-baldwin-blueprint-1136931",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-c25e90604b"
+  },
+  {
+    "id": "jf-79e046a26b",
+    "titre": "Hotline Paralegal",
+    "entreprise": "Legal Services NYC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "dev",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Hotline Paralegal chez Legal Services NYC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-79e046a26b"
+  },
+  {
+    "id": "jf-c0d5258b18",
+    "titre": "Principal Data Engineer",
+    "entreprise": "Vomela",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Principal Data Engineer chez Vomela, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-c0d5258b18"
+  },
+  {
+    "id": "jf-ca1e56c80e",
+    "titre": "FLM",
+    "entreprise": "Hovis Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Scheme",
+    "remote": true,
+    "competences": [
+      "scheme",
+      "medical",
+      "engineer"
+    ],
+    "resume_neutre": "FLM chez Hovis Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-flm-hovis-ltd-1136925",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-ca1e56c80e"
+  },
+  {
+    "id": "jf-dc6dee2378",
+    "titre": "Planner Cayman Islands",
+    "entreprise": "Bouygues BÃ¢timent International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "dev",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Planner Cayman Islands chez Bouygues BÃ¢timent International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-dc6dee2378"
+  },
+  {
+    "id": "jf-a71c84bbc2",
+    "titre": "Field Services Engineer",
+    "entreprise": "Schwing Stetter India",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer"
+    ],
+    "resume_neutre": "Field Services Engineer chez Schwing Stetter India, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-services-engineer-schwing-stetter-india-1136862",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-18",
+    "ref_unique": "jf-a71c84bbc2"
+  },
+  {
     "id": "jf-48ce914286",
     "titre": "Billing Executive",
     "entreprise": "Sanya Pharma Pvt Ltd",
@@ -5384,205 +5596,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-14",
     "ref_unique": "ma-649de89ce8"
-  },
-  {
-    "id": "ma-b0d0d85f0f",
-    "titre": "GESTIONNAIRES DE CONTRATS",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "GESTIONNAIRES DE CONTRATS chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/490562854043959908?ckey=informatique&rgn=0&pos=11&elckey=8348001307747481547&p=1&aq=5102030866486128787&cid=20&jobAge=60&relb=110&brelb=110&bscr=277.8063&scr=277.8063",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-14",
-    "ref_unique": "ma-b0d0d85f0f"
-  },
-  {
-    "id": "ma-3425652a8d",
-    "titre": "ÉCONOME",
-    "entreprise": "SOFITEL",
-    "ville": "M'diq",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ÉCONOME chez SOFITEL, a M'diq. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7357285559815235943?ckey=informatique&rgn=0&pos=12&elckey=8348001307747481547&p=1&aq=5102030866486128787&cid=20&jobAge=60&relb=100&brelb=100&bscr=275.44177&scr=275.44177",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-14",
-    "ref_unique": "ma-3425652a8d"
-  },
-  {
-    "id": "jf-1b4ea209d6",
-    "titre": "Product Manager",
-    "entreprise": "Resourceful Talent Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product Manager",
-    "remote": true,
-    "competences": [
-      "product manager",
-      "exec",
-      "saas",
-      "technical",
-      "dev"
-    ],
-    "resume_neutre": "Product Manager chez Resourceful Talent Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-1b4ea209d6"
-  },
-  {
-    "id": "jf-523ad16107",
-    "titre": "Technician",
-    "entreprise": "The Security Centre Limited.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales",
-      "engineer",
-      "technical",
-      "ecommerce",
-      "teaching"
-    ],
-    "resume_neutre": "Technician chez The Security Centre Limited., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-523ad16107"
-  },
-  {
-    "id": "jf-c19b6abc84",
-    "titre": "All Other Future Considerations",
-    "entreprise": "WB Melback Corporation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "All Other Future Considerations chez WB Melback Corporation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-c19b6abc84"
-  },
-  {
-    "id": "jf-8793090ccb",
-    "titre": "Looking for Job",
-    "entreprise": "ALEH Writing Services (AWS)",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Full Time",
-    "remote": true,
-    "competences": [
-      "full time"
-    ],
-    "resume_neutre": "Looking for Job chez ALEH Writing Services (AWS), poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-looking-for-job-aleh-writing-services-aws-1136584",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-8793090ccb"
-  },
-  {
-    "id": "jf-431c87b65b",
-    "titre": "Bell Person",
-    "entreprise": "Fairmont Hotels &amp; Resorts",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales",
-      "engineer",
-      "technical",
-      "ecommerce",
-      "teaching"
-    ],
-    "resume_neutre": "Bell Person chez Fairmont Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-bell-person-fairmont-hotels-amp-resorts-1136591",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-431c87b65b"
-  },
-  {
-    "id": "jf-1c7ddb302c",
-    "titre": "Title TBD",
-    "entreprise": "IBAC",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Title TBD chez IBAC, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-title-tbd-ibac-1136572",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-13",
-    "ref_unique": "jf-1c7ddb302c"
-  },
-  {
-    "id": "jf-c8a3b0e28f",
-    "titre": "Software Engineer III Mobile",
-    "entreprise": "Stone",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "mobile",
-      "excel",
-      "engineer",
-      "digital nomad"
-    ],
-    "resume_neutre": "Software Engineer III Mobile chez Stone, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-13",
-    "ref_unique": "jf-c8a3b0e28f"
-  },
-  {
-    "id": "jf-9db00412e8",
-    "titre": "Software Engineer II Golang",
-    "entreprise": "Stone",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Dev",
-    "remote": true,
-    "competences": [
-      "dev",
-      "excel",
-      "golang",
-      "engineer",
-      "digital nomad"
-    ],
-    "resume_neutre": "Software Engineer II Golang chez Stone, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-13",
-    "ref_unique": "jf-9db00412e8"
   }
 ]
