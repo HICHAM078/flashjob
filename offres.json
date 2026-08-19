@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-6d55537a29",
+    "titre": "Various",
+    "entreprise": "Plumbers Co-op",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "exec",
+      "customer support",
+      "dev",
+      "ops"
+    ],
+    "resume_neutre": "Various chez Plumbers Co-op, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-6d55537a29"
+  },
+  {
     "id": "jf-044d2813c1",
     "titre": "Test",
     "entreprise": "The iNUA Hotel Collection",
@@ -5583,23 +5605,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-14",
     "ref_unique": "ma-b55b4c353a"
-  },
-  {
-    "id": "ma-85381b7b86",
-    "titre": "Conseiller technique",
-    "entreprise": "Intelcia",
-    "ville": "El Jadida",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller technique chez Intelcia, a El Jadida. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5059655003342570278?ckey=informatique&rgn=0&pos=8&elckey=8348001307747481547&p=1&aq=5102030866486128787&cid=20&jobAge=36&relb=110&brelb=110&bscr=288.22495&scr=288.22495",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-14",
-    "ref_unique": "ma-85381b7b86"
   }
 ]
