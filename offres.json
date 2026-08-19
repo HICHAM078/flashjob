@@ -1,5 +1,46 @@
 [
   {
+    "id": "jf-044d2813c1",
+    "titre": "Test",
+    "entreprise": "The iNUA Hotel Collection",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test chez The iNUA Hotel Collection, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-the-inua-hotel-collection-1136953",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-044d2813c1"
+  },
+  {
+    "id": "jf-2c29d84800",
+    "titre": "General Merchandise Department Manager",
+    "entreprise": "Walmart Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "designer"
+    ],
+    "resume_neutre": "General Merchandise Department Manager chez Walmart Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-2c29d84800"
+  },
+  {
     "id": "jf-40a8ed2c0d",
     "titre": "Expression of Interest with First Quantum",
     "entreprise": "First Quantum Minerals",
@@ -5560,41 +5601,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-14",
     "ref_unique": "ma-85381b7b86"
-  },
-  {
-    "id": "ma-ce1d6ab7ad",
-    "titre": "Commercial REI",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=9&elckey=8348001307747481547&p=1&aq=5102030866486128787&cid=20&jobAge=36&relb=110&brelb=110&bscr=286.59702&scr=286.59702",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-14",
-    "ref_unique": "ma-ce1d6ab7ad"
-  },
-  {
-    "id": "ma-649de89ce8",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=10&elckey=8348001307747481547&p=1&aq=5102030866486128787&cid=20&jobAge=108&relb=110&brelb=110&bscr=279.8176&scr=279.8176",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-14",
-    "ref_unique": "ma-649de89ce8"
   }
 ]
