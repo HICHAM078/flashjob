@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-d9c79c1a26",
+    "titre": "General Cleaner Caribe Hilton",
+    "entreprise": "Hilton",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "dev",
+      "marketing",
+      "exec",
+      "virtual assistant"
+    ],
+    "resume_neutre": "General Cleaner Caribe Hilton chez Hilton, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-d9c79c1a26"
+  },
+  {
+    "id": "jf-c214bfe697",
+    "titre": "Accounts Receivable Clerk",
+    "entreprise": "ALPHA BPO CORP",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "dev",
+      "marketing",
+      "exec",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Accounts Receivable Clerk chez ALPHA BPO CORP, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounts-receivable-clerk-alpha-bpo-corp-1136979",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-c214bfe697"
+  },
+  {
+    "id": "jf-0cfedde443",
+    "titre": "Marketing Operations Specialist",
+    "entreprise": "Engine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "travel",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Marketing Operations Specialist chez Engine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-0cfedde443"
+  },
+  {
+    "id": "jf-a935077091",
+    "titre": "Team Lead Education",
+    "entreprise": "Chaos",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "vfx",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Team Lead Education chez Chaos, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-a935077091"
+  },
+  {
+    "id": "jf-5dfc418c6e",
+    "titre": "Digital Workplace & Automation Specialist",
+    "entreprise": "Dreem Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "testing",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Digital Workplace & Automation Specialist chez Dreem Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-5dfc418c6e"
+  },
+  {
     "id": "jf-3629c70282",
     "titre": "Team Member Special Assignment",
     "entreprise": "Reliance Industries Limited",
@@ -5494,103 +5604,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-15",
     "ref_unique": "ma-035ea08dc2"
-  },
-  {
-    "id": "ma-63f82fd7d6",
-    "titre": "ÉCONOME",
-    "entreprise": "SOFITEL",
-    "ville": "M'diq",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ÉCONOME chez SOFITEL, a M'diq. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7357285559815235943?ckey=informatique&rgn=0&pos=11&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=83&relb=100&brelb=100&bscr=270.95612&scr=270.95612",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-63f82fd7d6"
-  },
-  {
-    "id": "ma-c7589febe2",
-    "titre": "Téléconseillers en réception d'appels - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Téléconseillers en réception d'appels - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4809022213914702002?ckey=informatique&rgn=0&pos=12&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=35&relb=110&brelb=110&bscr=269.05426&scr=269.05426",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-c7589febe2"
-  },
-  {
-    "id": "jf-c89085e424",
-    "titre": "Current Openings",
-    "entreprise": "Black Talon Security",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec"
-    ],
-    "resume_neutre": "Current Openings chez Black Talon Security, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-c89085e424"
-  },
-  {
-    "id": "jf-e1f6be5b02",
-    "titre": "Porter",
-    "entreprise": "W Hotels",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "medical",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Porter chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-porter-w-hotels-1136724",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-e1f6be5b02"
-  },
-  {
-    "id": "jf-efa7818b53",
-    "titre": "Store Manager Macpac Carindale",
-    "entreprise": "Macpac Ltd.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "medical",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Store Manager Macpac Carindale chez Macpac Ltd., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-carindale-macpac-ltd-1136709",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-efa7818b53"
   }
 ]
