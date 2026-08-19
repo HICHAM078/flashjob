@@ -1,5 +1,178 @@
 [
   {
+    "id": "jf-3629c70282",
+    "titre": "Team Member Special Assignment",
+    "entreprise": "Reliance Industries Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Team Member Special Assignment chez Reliance Industries Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-3629c70282"
+  },
+  {
+    "id": "jf-b78518a7f0",
+    "titre": "Reddy Express Karratha Customer Service Representative",
+    "entreprise": "OTR",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Reddy Express Karratha Customer Service Representative chez OTR, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-reddy-express-karratha-customer-service-representative-otr-1136976",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-b78518a7f0"
+  },
+  {
+    "id": "jf-6f7686be2e",
+    "titre": "Maintenance Fitter",
+    "entreprise": "Power FM Bega Bay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Maintenance Fitter chez Power FM Bega Bay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-6f7686be2e"
+  },
+  {
+    "id": "jf-847d9930df",
+    "titre": "Team Member Cotton On Market City Mega",
+    "entreprise": "Cotton On Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Team Member Cotton On Market City Mega chez Cotton On Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-cotton-on-market-city-mega-cotton-on-group-1136969",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-847d9930df"
+  },
+  {
+    "id": "jf-2bce7ca972",
+    "titre": "Solutions Delivery Manager",
+    "entreprise": "Benchling",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "technical",
+      "marketing",
+      "sales"
+    ],
+    "resume_neutre": "Solutions Delivery Manager chez Benchling, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-2bce7ca972"
+  },
+  {
+    "id": "jf-967c1e4df5",
+    "titre": "In Store Visual Merchandiser rebel rCX Chadstone",
+    "entreprise": "Rebel Sport",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "In Store Visual Merchandiser rebel rCX Chadstone chez Rebel Sport, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-in-store-visual-merchandiser-rebel-rcx-chadstone-rebel-sport-1136971",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-967c1e4df5"
+  },
+  {
+    "id": "jf-9e9c355e6c",
+    "titre": "Sales Assistant",
+    "entreprise": "Antojitos Mexicanos La Jefa",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Sales Assistant chez Antojitos Mexicanos La Jefa, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-assistant-antojitos-mexicanos-la-jefa-1136975",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-9e9c355e6c"
+  },
+  {
+    "id": "jf-1c9f558bf4",
+    "titre": "Store Manager Port Macquarie",
+    "entreprise": "Seed Heritage",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Store Manager Port Macquarie chez Seed Heritage, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-seed-heritage-1136974",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-19",
+    "ref_unique": "jf-1c9f558bf4"
+  },
+  {
     "id": "ma-7698a6fd35",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5419,175 +5592,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-15",
     "ref_unique": "jf-efa7818b53"
-  },
-  {
-    "id": "jf-90133a764d",
-    "titre": "Team Member",
-    "entreprise": "SubwayÂ® Australia",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "medical",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Team Member chez SubwayÂ® Australia, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-subwayr-australia-1136726",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-90133a764d"
-  },
-  {
-    "id": "jf-dc54ce2800",
-    "titre": "Store Manager Dan Murphy's Canberra Region",
-    "entreprise": "Dan Murphy's",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "medical",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Store Manager Dan Murphy's Canberra Region chez Dan Murphy's, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-dan-murphys-canberra-region-dan-murphys-1136712",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-dc54ce2800"
-  },
-  {
-    "id": "jf-39f8d49801",
-    "titre": "Store Manager Macpac Adelaide Airport",
-    "entreprise": "Macpac Ltd.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Architecture",
-    "remote": true,
-    "competences": [
-      "architecture",
-      "medical",
-      "exec",
-      "education",
-      "customer support"
-    ],
-    "resume_neutre": "Store Manager Macpac Adelaide Airport chez Macpac Ltd., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-39f8d49801"
-  },
-  {
-    "id": "jf-d172f8199b",
-    "titre": "Gardener Handyman Driver",
-    "entreprise": "NT Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "exec",
-      "medical"
-    ],
-    "resume_neutre": "Gardener Handyman Driver chez NT Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-d172f8199b"
-  },
-  {
-    "id": "jf-5bbde419f9",
-    "titre": "Express Your Interest",
-    "entreprise": "Alexander &amp; Bebout, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Web Dev",
-    "remote": true,
-    "competences": [
-      "web dev",
-      "hr",
-      "sys admin",
-      "marketing",
-      "non tech"
-    ],
-    "resume_neutre": "Express Your Interest chez Alexander &amp; Bebout, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-express-your-interest-alexander-amp-bebout-inc-1136621",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-5bbde419f9"
-  },
-  {
-    "id": "jf-6311917841",
-    "titre": "Carve Out Lead",
-    "entreprise": "Arbex",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Carve Out Lead chez Arbex, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-carve-out-lead-arbex-1136624",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-15",
-    "ref_unique": "jf-6311917841"
-  },
-  {
-    "id": "jf-ff9e54f0ff",
-    "titre": "Room Attendant",
-    "entreprise": "The Abaco Club",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "infosec",
-      "education",
-      "technical",
-      "supervisor"
-    ],
-    "resume_neutre": "Room Attendant chez The Abaco Club, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-room-attendant-the-abaco-club-1136695",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-ff9e54f0ff"
-  },
-  {
-    "id": "jf-88e8443832",
-    "titre": "Locator",
-    "entreprise": "Aecon Group Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "sys admin",
-      "education",
-      "supervisor",
-      "coordinator"
-    ],
-    "resume_neutre": "Locator chez Aecon Group Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-locator-aecon-group-inc-1136666",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-14",
-    "ref_unique": "jf-88e8443832"
   }
 ]
