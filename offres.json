@@ -1,5 +1,131 @@
 [
   {
+    "id": "jf-6600ee4f4d",
+    "titre": "Unexploded Ordnance Tech II",
+    "entreprise": "Alaka`ina Foundation Family of Companies",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "supervisor",
+      "legal",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Unexploded Ordnance Tech II chez Alaka`ina Foundation Family of Companies, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-6600ee4f4d"
+  },
+  {
+    "id": "jf-a42b265bbb",
+    "titre": "Security Guard",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "supervisor",
+      "legal"
+    ],
+    "resume_neutre": "Security Guard chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-a42b265bbb"
+  },
+  {
+    "id": "jf-231cd50c3c",
+    "titre": "Planner &amp; Zoning Specialist",
+    "entreprise": "City of Covington, Georgia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "recruiter",
+      "non tech",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Planner &amp; Zoning Specialist chez City of Covington, Georgia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-231cd50c3c"
+  },
+  {
+    "id": "jf-45452b64c0",
+    "titre": "All Other Roles",
+    "entreprise": "Collate",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "All Other Roles chez Collate, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-45452b64c0"
+  },
+  {
+    "id": "jf-5df3de9db9",
+    "titre": "Email Developer",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "marketing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Email Developer chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-5df3de9db9"
+  },
+  {
+    "id": "jf-f37c9aa203",
+    "titre": "Customer Care Representative Associate Omani Nationals only",
+    "entreprise": "FedEx",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "exec",
+      "ops",
+      "marketing"
+    ],
+    "resume_neutre": "Customer Care Representative Associate Omani Nationals only chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-care-representative-associate-omani-nationals-only-fedex-1136989",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-f37c9aa203"
+  },
+  {
     "id": "jf-d9c79c1a26",
     "titre": "General Cleaner Caribe Hilton",
     "entreprise": "Hilton",
@@ -5496,113 +5622,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-15",
     "ref_unique": "ma-a4ab377f53"
-  },
-  {
-    "id": "ma-a1297752bd",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=7832&relb=100&brelb=100&bscr=2145.7432&scr=2145.7432",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-a1297752bd"
-  },
-  {
-    "id": "ma-2af1a66a2f",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=7832&relb=100&brelb=100&bscr=2095.7043&scr=2095.7043",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-2af1a66a2f"
-  },
-  {
-    "id": "ma-6dcf42ea76",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=7832&relb=100&brelb=100&bscr=1856.237&scr=1856.237",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-6dcf42ea76"
-  },
-  {
-    "id": "ma-bcb1b0336d",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=8&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=25&relb=140&brelb=100&bscr=253.16621&scr=354.43269399999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-bcb1b0336d"
-  },
-  {
-    "id": "ma-c5381a640e",
-    "titre": "Conseiller technique",
-    "entreprise": "Intelcia",
-    "ville": "El Jadida",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller technique chez Intelcia, a El Jadida. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5059655003342570278?ckey=informatique&rgn=0&pos=9&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=59&relb=110&brelb=110&bscr=283.62244&scr=283.62244",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-c5381a640e"
-  },
-  {
-    "id": "ma-035ea08dc2",
-    "titre": "Technicien IT",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien IT chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5966951286983669109?ckey=informatique&rgn=0&pos=10&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=371&relb=110&brelb=110&bscr=271.3353&scr=271.3353",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-035ea08dc2"
   }
 ]
