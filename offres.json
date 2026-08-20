@@ -1,5 +1,150 @@
 [
   {
+    "id": "jf-2b1c887929",
+    "titre": "General Practitioner North Balwyn",
+    "entreprise": "Bupa Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "General Practitioner North Balwyn chez Bupa Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-2b1c887929"
+  },
+  {
+    "id": "jf-5a8849430d",
+    "titre": "Specimen Collector",
+    "entreprise": "Alcotech Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "testing",
+      "travel",
+      "non tech"
+    ],
+    "resume_neutre": "Specimen Collector chez Alcotech Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-5a8849430d"
+  },
+  {
+    "id": "jf-eca31ee886",
+    "titre": "Cell production",
+    "entreprise": "vbs associates",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Cell production chez vbs associates, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-eca31ee886"
+  },
+  {
+    "id": "jf-ec7547f1ac",
+    "titre": "Sales Development Representative",
+    "entreprise": "Verlo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "non tech",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Sales Development Representative chez Verlo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-ec7547f1ac"
+  },
+  {
+    "id": "jf-21a565910f",
+    "titre": "General Interest",
+    "entreprise": "Midjourney",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "General Interest chez Midjourney, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-21a565910f"
+  },
+  {
+    "id": "jf-ec470527a1",
+    "titre": "millwright",
+    "entreprise": "TWI Foods Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "millwright chez TWI Foods Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-millwright-twi-foods-inc-1136996",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-ec470527a1"
+  },
+  {
+    "id": "jf-c4401a037b",
+    "titre": "Field Sales Executive",
+    "entreprise": "Bhushan International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "exec",
+      "ops",
+      "marketing"
+    ],
+    "resume_neutre": "Field Sales Executive chez Bhushan International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-sales-executive-bhushan-international-1136995",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-c4401a037b"
+  },
+  {
     "id": "jf-6600ee4f4d",
     "titre": "Unexploded Ordnance Tech II",
     "entreprise": "Alaka`ina Foundation Family of Companies",
@@ -5496,131 +5641,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-15",
     "ref_unique": "ma-237c973118"
-  },
-  {
-    "id": "ma-d26542777a",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=10&elckey=-8903970129937450555&p=1&aq=5929678531516511498&cid=20&jobAge=83&relb=110&brelb=110&bscr=1498.183&scr=1498.183",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-d26542777a"
-  },
-  {
-    "id": "ma-cacff2f3b1",
-    "titre": "Expert commercial - Upselling - Rémunération attractives",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=11&elckey=-8903970129937450555&p=1&aq=5929678531516511498&cid=20&jobAge=59&relb=110&brelb=110&bscr=1484.6252&scr=1484.6252",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-cacff2f3b1"
-  },
-  {
-    "id": "ma-1633b61a83",
-    "titre": "Méléine recrute des commerciaux en assurance auto sur Rabat !!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine recrute des commerciaux en assurance auto sur Rabat !!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5143628844776536457?ckey=commercial&rgn=938&pos=12&elckey=-8903970129937450555&p=1&aq=5929678531516511498&cid=20&jobAge=59&relb=110&brelb=110&bscr=1452.1741&scr=1452.1741",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-1633b61a83"
-  },
-  {
-    "id": "ma-964368009a",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=1&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=59&relb=110&brelb=110&bscr=2529.187&scr=2529.187",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-964368009a"
-  },
-  {
-    "id": "ma-a071a73e31",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=2&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=491&relb=100&brelb=100&bscr=2444.2727&scr=2444.2727",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-a071a73e31"
-  },
-  {
-    "id": "ma-d07dfec5ad",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=3&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=395&relb=100&brelb=100&bscr=2215.983&scr=2215.983",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-d07dfec5ad"
-  },
-  {
-    "id": "ma-a4ab377f53",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=3048509008844733861&p=1&aq=-1707360727487787446&cid=20&jobAge=1232&relb=100&brelb=100&bscr=2197.342&scr=2197.342",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-15",
-    "ref_unique": "ma-a4ab377f53"
   }
 ]
