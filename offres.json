@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-328bab65e7",
+    "titre": "General Physician",
+    "entreprise": "Srikara Hospitals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "exec",
+      "ops",
+      "marketing"
+    ],
+    "resume_neutre": "General Physician chez Srikara Hospitals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-328bab65e7"
+  },
+  {
+    "id": "jf-d95f9e8d2f",
+    "titre": "Store Manager",
+    "entreprise": "JACK &amp; JONES",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "exec",
+      "virtual assistant",
+      "ops"
+    ],
+    "resume_neutre": "Store Manager chez JACK &amp; JONES, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-d95f9e8d2f"
+  },
+  {
+    "id": "jf-dd9321d837",
+    "titre": "Bellboy",
+    "entreprise": "The Chedi LuÅ¡tica Bay",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "exec",
+      "virtual assistant",
+      "ops"
+    ],
+    "resume_neutre": "Bellboy chez The Chedi LuÅ¡tica Bay, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-dd9321d837"
+  },
+  {
     "id": "ma-5b5b39f959",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5547,59 +5613,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-16",
     "ref_unique": "ma-03e8328dca"
-  },
-  {
-    "id": "ma-09fff4f135",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=8&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=49&relb=140&brelb=100&bscr=252.18463&scr=353.058482",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-09fff4f135"
-  },
-  {
-    "id": "ma-35691dde8c",
-    "titre": "Conseiller technique",
-    "entreprise": "Intelcia",
-    "ville": "El Jadida",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller technique chez Intelcia, a El Jadida. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5059655003342570278?ckey=informatique&rgn=0&pos=9&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=83&relb=110&brelb=110&bscr=289.32614&scr=289.32614",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-35691dde8c"
-  },
-  {
-    "id": "ma-f89819f7e2",
-    "titre": "GESTIONNAIRES DE CONTRATS",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "GESTIONNAIRES DE CONTRATS chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/490562854043959908?ckey=informatique&rgn=0&pos=10&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=107&relb=110&brelb=110&bscr=278.0074&scr=278.0074",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-f89819f7e2"
   }
 ]
