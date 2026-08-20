@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-b0aeb29d82",
+    "titre": "CI001 Courier",
+    "entreprise": "FedEx",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "quality assurance",
+      "education",
+      "ops",
+      "sales"
+    ],
+    "resume_neutre": "CI001 Courier chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-b0aeb29d82"
+  },
+  {
+    "id": "jf-754abeaa19",
+    "titre": "Assembly Technician",
+    "entreprise": "Flow Control Commune",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "exec",
+      "ops",
+      "marketing"
+    ],
+    "resume_neutre": "Assembly Technician chez Flow Control Commune, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-754abeaa19"
+  },
+  {
+    "id": "jf-8e741b7fa5",
+    "titre": "Collections Agent",
+    "entreprise": "CRNCY Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "quality assurance",
+      "education",
+      "ops",
+      "sales"
+    ],
+    "resume_neutre": "Collections Agent chez CRNCY Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-8e741b7fa5"
+  },
+  {
+    "id": "jf-6a6ffef85f",
+    "titre": "COSTING ENGINEER",
+    "entreprise": "Larsen &amp; Toubro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "golang",
+      "data entry"
+    ],
+    "resume_neutre": "COSTING ENGINEER chez Larsen &amp; Toubro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-20",
+    "ref_unique": "jf-6a6ffef85f"
+  },
+  {
     "id": "jf-328bab65e7",
     "titre": "General Physician",
     "entreprise": "Srikara Hospitals",
@@ -5541,77 +5629,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-16",
     "ref_unique": "ma-78043fb5af"
-  },
-  {
-    "id": "ma-5cbcefa054",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=1256&relb=100&brelb=100&bscr=2188.9758&scr=2188.9758",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-5cbcefa054"
-  },
-  {
-    "id": "ma-260027cf01",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=2138.7456&scr=2138.7456",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-260027cf01"
-  },
-  {
-    "id": "ma-cc94fa4fc3",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=2134.913&scr=2134.913",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-cc94fa4fc3"
-  },
-  {
-    "id": "ma-03e8328dca",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=7856&relb=100&brelb=100&bscr=1861.2195&scr=1861.2195",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-03e8328dca"
   }
 ]
