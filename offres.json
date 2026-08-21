@@ -1,5 +1,108 @@
 [
   {
+    "id": "jf-1aacc0aeb7",
+    "titre": "Sales Advisor",
+    "entreprise": "H&amp;M",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "marketing",
+      "exec",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Sales Advisor chez H&amp;M, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-1aacc0aeb7"
+  },
+  {
+    "id": "jf-2ed6ccbfd5",
+    "titre": "Team Member Level 2",
+    "entreprise": "GPC Asia Pacific",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Team Member Level 2 chez GPC Asia Pacific, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-2ed6ccbfd5"
+  },
+  {
+    "id": "jf-86ce496ed6",
+    "titre": "Roupeiro",
+    "entreprise": "Presenza Psicologia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Roupeiro chez Presenza Psicologia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-86ce496ed6"
+  },
+  {
+    "id": "jf-f53825fa28",
+    "titre": "Pilot",
+    "entreprise": "SpaceX",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "c",
+      "ops",
+      "non tech"
+    ],
+    "resume_neutre": "Pilot chez SpaceX, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-f53825fa28"
+  },
+  {
+    "id": "jf-366c3f0e33",
+    "titre": "Accountant",
+    "entreprise": "Tipsy Topsy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "infosec",
+      "customer support",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Accountant chez Tipsy Topsy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-366c3f0e33"
+  },
+  {
     "id": "ma-ac941178c1",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5538,95 +5641,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-17",
     "ref_unique": "ma-86943f6bce"
-  },
-  {
-    "id": "ma-d6fb9fe53d",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=1&elckey=2337001176859161593&p=1&aq=4762540406333977163&cid=20&jobAge=35&relb=110&brelb=110&bscr=2597.0527&scr=2597.0527",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-d6fb9fe53d"
-  },
-  {
-    "id": "ma-521dedc713",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=2&elckey=2337001176859161593&p=1&aq=4762540406333977163&cid=20&jobAge=539&relb=100&brelb=100&bscr=2476.2336&scr=2476.2336",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-521dedc713"
-  },
-  {
-    "id": "ma-de45aa2dde",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=3&elckey=2337001176859161593&p=1&aq=4762540406333977163&cid=20&jobAge=443&relb=110&brelb=110&bscr=2446.7737&scr=2446.7737",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-de45aa2dde"
-  },
-  {
-    "id": "ma-015100ac5d",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=2337001176859161593&p=1&aq=4762540406333977163&cid=20&jobAge=1281&relb=100&brelb=100&bscr=2248.2034&scr=2248.2034",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-015100ac5d"
-  },
-  {
-    "id": "ma-211e5a9573",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=2337001176859161593&p=1&aq=4762540406333977163&cid=20&jobAge=7881&relb=100&brelb=100&bscr=2144.6765&scr=2144.6765",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-211e5a9573"
   }
 ]
