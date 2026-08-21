@@ -1,5 +1,24 @@
 [
   {
+    "id": "jf-d1fae6a16b",
+    "titre": "Loss Prevention Officer",
+    "entreprise": "Manhattan Grand Hotel",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "infosec"
+    ],
+    "resume_neutre": "Loss Prevention Officer chez Manhattan Grand Hotel, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-d1fae6a16b"
+  },
+  {
     "id": "jf-1aacc0aeb7",
     "titre": "Sales Advisor",
     "entreprise": "H&amp;M",
@@ -5623,23 +5642,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-17",
     "ref_unique": "ma-62486a89f0"
-  },
-  {
-    "id": "ma-86943f6bce",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=12&elckey=8831266111786528793&p=1&aq=-4119311560322724296&cid=20&jobAge=539&relb=110&brelb=110&bscr=1495.2203&scr=1495.2203000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-86943f6bce"
   }
 ]
