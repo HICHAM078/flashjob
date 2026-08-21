@@ -1,5 +1,90 @@
 [
   {
+    "id": "jf-aeb095cd9c",
+    "titre": "Front Office Executive",
+    "entreprise": "Radisson Hotel Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Front Office Executive chez Radisson Hotel Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-aeb095cd9c"
+  },
+  {
+    "id": "jf-e97146f04a",
+    "titre": "Account Officer",
+    "entreprise": "Natural Spirits Nepal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "infosec",
+      "customer support",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Account Officer chez Natural Spirits Nepal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-e97146f04a"
+  },
+  {
+    "id": "jf-2b82fde6eb",
+    "titre": "Across all departments",
+    "entreprise": "Vistara Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "marketing",
+      "digital nomad"
+    ],
+    "resume_neutre": "Across all departments chez Vistara Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-2b82fde6eb"
+  },
+  {
+    "id": "jf-18e26f63b0",
+    "titre": "Trimmer",
+    "entreprise": "Canopy Growth Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "non tech",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Trimmer chez Canopy Growth Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-18e26f63b0"
+  },
+  {
     "id": "jf-c6e23d48d7",
     "titre": "Consultant Implementation Engineer",
     "entreprise": "Harbor",
@@ -5577,77 +5662,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-16",
     "ref_unique": "ma-79bda3f80c"
-  },
-  {
-    "id": "ma-373bb3370b",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=7&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=443&relb=110&brelb=110&bscr=1533.7843&scr=1533.7843",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-373bb3370b"
-  },
-  {
-    "id": "ma-2ff1e5d1fc",
-    "titre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous Recrutons des Commerciaux Confirmés en Assurance Décennale chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4508424348006288479?ckey=commercial&rgn=938&pos=8&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=587&relb=110&brelb=110&bscr=1527.2776&scr=1527.2776",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-2ff1e5d1fc"
-  },
-  {
-    "id": "ma-22d8693e9b",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=9&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=35&relb=110&brelb=110&bscr=1515.165&scr=1515.165",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-22d8693e9b"
-  },
-  {
-    "id": "ma-d7bf894e47",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=419&relb=110&brelb=110&bscr=1510.3956&scr=1510.3956",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-d7bf894e47"
   }
 ]
