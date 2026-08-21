@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-c6e23d48d7",
+    "titre": "Consultant Implementation Engineer",
+    "entreprise": "Harbor",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "technical",
+      "accounting",
+      "legal",
+      "golang"
+    ],
+    "resume_neutre": "Consultant Implementation Engineer chez Harbor, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-c6e23d48d7"
+  },
+  {
+    "id": "jf-723c9537ab",
+    "titre": "Laborer",
+    "entreprise": "Wood",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "ops",
+      "engineer"
+    ],
+    "resume_neutre": "Laborer chez Wood, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-laborer-wood-1137016",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-723c9537ab"
+  },
+  {
+    "id": "jf-e83d797e5c",
+    "titre": "Baker Day",
+    "entreprise": "Loblaw Companies Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "non tech",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Baker Day chez Loblaw Companies Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-baker-day-loblaw-companies-limited-1136999",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-e83d797e5c"
+  },
+  {
+    "id": "jf-97d6d632d6",
+    "titre": "Technician 1",
+    "entreprise": "Sunbelt Rentals, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "quality assurance",
+      "education",
+      "ops",
+      "sales"
+    ],
+    "resume_neutre": "Technician 1 chez Sunbelt Rentals, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-97d6d632d6"
+  },
+  {
+    "id": "jf-8cbffd62a4",
+    "titre": "Overnight Task Team FT",
+    "entreprise": "Bass Pro Shops",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "non tech",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Overnight Task Team FT chez Bass Pro Shops, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-21",
+    "ref_unique": "jf-8cbffd62a4"
+  },
+  {
     "id": "jf-b0aeb29d82",
     "titre": "CI001 Courier",
     "entreprise": "FedEx",
@@ -5539,95 +5649,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-16",
     "ref_unique": "ma-d7bf894e47"
-  },
-  {
-    "id": "ma-bab4fe041d",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7287130704395612299?ckey=commercial&rgn=938&pos=11&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=515&relb=110&brelb=110&bscr=1507.2004&scr=1507.2004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-bab4fe041d"
-  },
-  {
-    "id": "ma-4cd063cfe8",
-    "titre": "Expert commercial - Upselling - Rémunération attractives",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=12&elckey=-1181592933433827934&p=1&aq=2473250617744172587&cid=20&jobAge=35&relb=110&brelb=110&bscr=1501.521&scr=1501.521",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-4cd063cfe8"
-  },
-  {
-    "id": "ma-4c6b523c03",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=1&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=35&relb=110&brelb=110&bscr=2532.0737&scr=2532.0737000000004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-4c6b523c03"
-  },
-  {
-    "id": "ma-77919ce0fd",
-    "titre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité de Stage PFE en Informatique (IT) - Avec Possibilité d’Embauche chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9220531427844529282?ckey=informatique&rgn=0&pos=2&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=419&relb=110&brelb=110&bscr=2438.9558&scr=2438.9558",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-77919ce0fd"
-  },
-  {
-    "id": "ma-78043fb5af",
-    "titre": "Technicien de Support Informatique",
-    "entreprise": "Forvis Mazars",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien de Support Informatique chez Forvis Mazars, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6276513443492757400?ckey=informatique&rgn=0&pos=3&elckey=-7675857868361195134&p=1&aq=-3523005180361324678&cid=20&jobAge=515&relb=100&brelb=100&bscr=2423.21&scr=2423.21",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-16",
-    "ref_unique": "ma-78043fb5af"
   }
 ]
