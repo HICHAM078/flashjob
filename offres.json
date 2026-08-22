@@ -1,5 +1,68 @@
 [
   {
+    "id": "jf-b836068566",
+    "titre": "Uday",
+    "entreprise": "MyAarohan",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Uday chez MyAarohan, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-b836068566"
+  },
+  {
+    "id": "jf-2d0e83b303",
+    "titre": "Estimator Brisbane",
+    "entreprise": "McNab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "dev",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Estimator Brisbane chez McNab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-2d0e83b303"
+  },
+  {
+    "id": "jf-e8c8f80981",
+    "titre": "Field Technician III",
+    "entreprise": "Cable Bahamas Ltd.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Field Technician III chez Cable Bahamas Ltd., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-e8c8f80981"
+  },
+  {
     "id": "ma-4d3450ba80",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5595,59 +5658,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-18",
     "ref_unique": "ma-df85bbc1fc"
-  },
-  {
-    "id": "ma-bed00d3bfe",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=7&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=35&relb=110&brelb=110&bscr=1535.0739&scr=1535.0739",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-bed00d3bfe"
-  },
-  {
-    "id": "ma-33ee70998a",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1759025645608062725?ckey=commercial&rgn=938&pos=8&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=131&relb=110&brelb=110&bscr=1526.1685&scr=1526.1685",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-33ee70998a"
-  },
-  {
-    "id": "ma-cc366ed1b9",
-    "titre": "Directeur Commercial",
-    "entreprise": "ACCOR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=9&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=443&relb=100&brelb=100&bscr=1524.8196&scr=1524.8195999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-cc366ed1b9"
   }
 ]
