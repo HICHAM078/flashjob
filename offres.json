@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-0d833069e4",
+    "titre": "Estimator",
+    "entreprise": "Linsco Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "dev",
+      "travel",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "Estimator chez Linsco Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-0d833069e4"
+  },
+  {
+    "id": "jf-08b338b8e5",
+    "titre": "Project Systems Specialist",
+    "entreprise": "Dart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Project Systems Specialist chez Dart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-08b338b8e5"
+  },
+  {
     "id": "jf-b836068566",
     "titre": "Uday",
     "entreprise": "MyAarohan",
@@ -5622,41 +5666,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-18",
     "ref_unique": "ma-01e33e9ef8"
-  },
-  {
-    "id": "ma-6500b32af4",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=5&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=35&relb=110&brelb=110&bscr=1584.3151&scr=1584.3151",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-6500b32af4"
-  },
-  {
-    "id": "ma-df85bbc1fc",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=6&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=155&relb=110&brelb=110&bscr=1552.7821&scr=1552.7821",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-df85bbc1fc"
   }
 ]
