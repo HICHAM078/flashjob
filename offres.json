@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-49f1b52d3f",
+    "titre": "Beauty merchandiser",
+    "entreprise": "Shoppers Drug Mart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "non tech",
+      "customer support",
+      "microsoft",
+      "ops"
+    ],
+    "resume_neutre": "Beauty merchandiser chez Shoppers Drug Mart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-49f1b52d3f"
+  },
+  {
+    "id": "jf-41cc65eda9",
+    "titre": "Orderly",
+    "entreprise": "NT Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "medical"
+    ],
+    "resume_neutre": "Orderly chez NT Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-41cc65eda9"
+  },
+  {
+    "id": "jf-a3560ba58a",
+    "titre": "Senior Executive",
+    "entreprise": "EXL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "exec",
+      "engineer",
+      "senior"
+    ],
+    "resume_neutre": "Senior Executive chez EXL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-22",
+    "ref_unique": "jf-a3560ba58a"
+  },
+  {
     "id": "jf-d1fae6a16b",
     "titre": "Loss Prevention Officer",
     "entreprise": "Manhattan Grand Hotel",
@@ -5588,59 +5650,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-17",
     "ref_unique": "ma-a58da1ea45"
-  },
-  {
-    "id": "ma-2816fdf9ab",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=9&elckey=8831266111786528793&p=1&aq=-4119311560322724296&cid=20&jobAge=467&relb=110&brelb=110&bscr=1513.2004&scr=1513.2004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-2816fdf9ab"
-  },
-  {
-    "id": "ma-0a05f0a361",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=10&elckey=8831266111786528793&p=1&aq=-4119311560322724296&cid=20&jobAge=443&relb=110&brelb=110&bscr=1501.5127&scr=1501.5127",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-0a05f0a361"
-  },
-  {
-    "id": "ma-62486a89f0",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=11&elckey=8831266111786528793&p=1&aq=-4119311560322724296&cid=20&jobAge=59&relb=110&brelb=110&bscr=1499.7216&scr=1499.7216",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-17",
-    "ref_unique": "ma-62486a89f0"
   }
 ]
