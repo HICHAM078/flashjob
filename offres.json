@@ -1,5 +1,23 @@
 [
   {
+    "id": "jf-a4c0a0c0ad",
+    "titre": "Parcel Delivery Drivers",
+    "entreprise": "InPost Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Parcel Delivery Drivers chez InPost Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-a4c0a0c0ad"
+  },
+  {
     "id": "jf-87d731e8b9",
     "titre": "DESARROLLADOR FULL STACK",
     "entreprise": "Kruger NearShore LLC - Rekluti",
@@ -5662,23 +5680,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-18",
     "ref_unique": "ma-7888da5207"
-  },
-  {
-    "id": "ma-90b5a5e879",
-    "titre": "Comptable général expérimenté - normes comptables & fiscales françaises",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général expérimenté - normes comptables & fiscales françaises chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6873510314873222218?ckey=comptable&rgn=946&pos=12&elckey=6059367308135868069&p=1&aq=143164841968988780&cid=20&jobAge=347&relb=100&brelb=100&bscr=1879.6654&scr=1879.6654",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-90b5a5e879"
   }
 ]
