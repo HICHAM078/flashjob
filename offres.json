@@ -1,5 +1,66 @@
 [
   {
+    "id": "jf-5ce2e4b3b0",
+    "titre": "building cleaner",
+    "entreprise": "Newfoundland Chocolate Company",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "building cleaner chez Newfoundland Chocolate Company, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-5ce2e4b3b0"
+  },
+  {
+    "id": "jf-f97c091781",
+    "titre": "Officer",
+    "entreprise": "Lupin Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "non tech"
+    ],
+    "resume_neutre": "Officer chez Lupin Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-f97c091781"
+  },
+  {
+    "id": "jf-6c4553d187",
+    "titre": "Team Manager Newry Extra",
+    "entreprise": "Tesco",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Team Manager Newry Extra chez Tesco, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-6c4553d187"
+  },
+  {
     "id": "ma-9ca20787b8",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5561,59 +5622,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-19",
     "ref_unique": "ma-9368f18070"
-  },
-  {
-    "id": "ma-eb77132138",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=4&elckey=-2955470352559878887&p=1&aq=1488530619230401872&cid=20&jobAge=1328&relb=100&brelb=100&bscr=2188.9758&scr=2188.9758",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-19",
-    "ref_unique": "ma-eb77132138"
-  },
-  {
-    "id": "ma-a907a80ed2",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-2955470352559878887&p=1&aq=1488530619230401872&cid=20&jobAge=7928&relb=100&brelb=100&bscr=2166.861&scr=2166.861",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-19",
-    "ref_unique": "ma-a907a80ed2"
-  },
-  {
-    "id": "ma-6a65d379c0",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=6&elckey=-2955470352559878887&p=1&aq=1488530619230401872&cid=20&jobAge=7928&relb=100&brelb=100&bscr=2160.8232&scr=2160.8232",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-19",
-    "ref_unique": "ma-6a65d379c0"
   }
 ]
