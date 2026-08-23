@@ -1,5 +1,91 @@
 [
   {
+    "id": "jf-87d731e8b9",
+    "titre": "DESARROLLADOR FULL STACK",
+    "entreprise": "Kruger NearShore LLC - Rekluti",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Stack",
+    "remote": true,
+    "competences": [
+      "full stack",
+      "front end",
+      "python",
+      "dev",
+      "testing"
+    ],
+    "resume_neutre": "DESARROLLADOR FULL STACK chez Kruger NearShore LLC - Rekluti, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-87d731e8b9"
+  },
+  {
+    "id": "jf-cb8780cae3",
+    "titre": "Senior Governance Risk and Compliance Analyst",
+    "entreprise": "RainFocus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "saas",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Senior Governance Risk and Compliance Analyst chez RainFocus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-cb8780cae3"
+  },
+  {
+    "id": "jf-5e5c3d69b7",
+    "titre": "CDP",
+    "entreprise": "East Coast Concepts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "CDP chez East Coast Concepts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-5e5c3d69b7"
+  },
+  {
+    "id": "jf-13e6706d6d",
+    "titre": "Post Office Manager",
+    "entreprise": "Shoppers Drug Mart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "dev",
+      "medical",
+      "digital nomad"
+    ],
+    "resume_neutre": "Post Office Manager chez Shoppers Drug Mart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-23",
+    "ref_unique": "jf-13e6706d6d"
+  },
+  {
     "id": "jf-0d833069e4",
     "titre": "Estimator",
     "entreprise": "Linsco Ltd",
@@ -5594,77 +5680,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-18",
     "ref_unique": "ma-90b5a5e879"
-  },
-  {
-    "id": "ma-083c1cb107",
-    "titre": "Agents commerciaux Francophones -",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agents commerciaux Francophones - chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4778453398843731595?ckey=commercial&rgn=938&pos=1&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=35&relb=110&brelb=110&bscr=1674.4081&scr=1674.4081",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-083c1cb107"
-  },
-  {
-    "id": "ma-a622d6123d",
-    "titre": "Conseillers Commerciaux en Assurance Décennale !",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers Commerciaux en Assurance Décennale ! chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5466358721660258183?ckey=commercial&rgn=938&pos=2&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=131&relb=110&brelb=110&bscr=1653.8269&scr=1653.8269",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-a622d6123d"
-  },
-  {
-    "id": "ma-2b438d88ff",
-    "titre": "Conseiller Commercial arabo/francophone",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5224435708290653463?ckey=commercial&rgn=938&pos=3&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=251&relb=110&brelb=110&bscr=1598.9373&scr=1598.9373",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-2b438d88ff"
-  },
-  {
-    "id": "ma-01e33e9ef8",
-    "titre": "Conseiller commercial en mutuelle santé (h/f)",
-    "entreprise": "Wannassur",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en mutuelle santé (h/f) chez Wannassur, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8807567178699854695?ckey=commercial&rgn=938&pos=4&elckey=-4183582614136134308&p=1&aq=-25103710575375427&cid=20&jobAge=107&relb=110&brelb=110&bscr=1593.2719&scr=1593.2719",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-18",
-    "ref_unique": "ma-01e33e9ef8"
   }
 ]
