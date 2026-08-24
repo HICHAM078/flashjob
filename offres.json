@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-343b8ee04f",
+    "titre": "Quantity Surveyor",
+    "entreprise": "Edspired.Tech",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "dev",
+      "excel",
+      "engineer"
+    ],
+    "resume_neutre": "Quantity Surveyor chez Edspired.Tech, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-24",
+    "ref_unique": "jf-343b8ee04f"
+  },
+  {
+    "id": "jf-1110be16cc",
+    "titre": "DTP Operator",
+    "entreprise": "JobTrade",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "dev",
+      "excel",
+      "engineer"
+    ],
+    "resume_neutre": "DTP Operator chez JobTrade, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-24",
+    "ref_unique": "jf-1110be16cc"
+  },
+  {
     "id": "jf-8105e859b3",
     "titre": "Retail Store Associate",
     "entreprise": "Rowan",
@@ -5598,41 +5642,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-19",
     "ref_unique": "ma-06298e71c9"
-  },
-  {
-    "id": "ma-c1b0354cf1",
-    "titre": "CONSEILLER COMMERCIAL EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLER COMMERCIAL EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7835370443954834282?ckey=commercial&rgn=938&pos=11&elckey=3538794582367488313&p=1&aq=-3968032452908459073&cid=20&jobAge=35&relb=110&brelb=110&bscr=1526.9526&scr=1526.9526000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-19",
-    "ref_unique": "ma-c1b0354cf1"
-  },
-  {
-    "id": "ma-3c5066b00e",
-    "titre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire",
-    "entreprise": "Partner Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Urgent !! Nous recrutons -Commercial en Assurance Décennale - Expérience Obligatoire chez Partner Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6634205849451387583?ckey=commercial&rgn=938&pos=12&elckey=3538794582367488313&p=1&aq=-3968032452908459073&cid=20&jobAge=515&relb=110&brelb=110&bscr=1494.6571&scr=1494.6571",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-19",
-    "ref_unique": "ma-3c5066b00e"
   }
 ]
