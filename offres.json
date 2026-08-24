@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-e594cdc067",
+    "titre": "CDP",
+    "entreprise": "Saasuji",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "CDP chez Saasuji, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-24",
+    "ref_unique": "jf-e594cdc067"
+  },
+  {
     "id": "jf-7211f47ce2",
     "titre": "Sandwich artist",
     "entreprise": "Subway",
@@ -5568,25 +5588,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-20",
     "ref_unique": "jf-231cd50c3c"
-  },
-  {
-    "id": "jf-45452b64c0",
-    "titre": "All Other Roles",
-    "entreprise": "Collate",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Customer Support",
-    "remote": true,
-    "competences": [
-      "customer support",
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "All Other Roles chez Collate, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-20",
-    "ref_unique": "jf-45452b64c0"
   }
 ]
