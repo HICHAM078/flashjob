@@ -1,5 +1,86 @@
 [
   {
+    "id": "jf-f9e9a69c77",
+    "titre": "Executive",
+    "entreprise": "Vashi Integrated Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "full time"
+    ],
+    "resume_neutre": "Executive chez Vashi Integrated Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-f9e9a69c77"
+  },
+  {
+    "id": "jf-e01e23f903",
+    "titre": "Bell Captain",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "full time",
+      "customer support",
+      "music",
+      "video"
+    ],
+    "resume_neutre": "Bell Captain chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-e01e23f903"
+  },
+  {
+    "id": "jf-9c8eceba59",
+    "titre": "Store person",
+    "entreprise": "Krannich Solar Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Store person chez Krannich Solar Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-9c8eceba59"
+  },
+  {
+    "id": "jf-0fa0af416a",
+    "titre": "GLUCOBAY TASK FORCE",
+    "entreprise": "Bayer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "sales",
+      "medical",
+      "non tech",
+      "digital nomad"
+    ],
+    "resume_neutre": "GLUCOBAY TASK FORCE chez Bayer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-0fa0af416a"
+  },
+  {
     "id": "ma-1c31671422",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5494,77 +5575,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-20",
     "ref_unique": "ma-e82ee51db0"
-  },
-  {
-    "id": "ma-c17733104a",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=5&elckey=1000837473563128692&p=1&aq=195910679100933892&cid=20&jobAge=443&relb=110&brelb=110&bscr=2195.2524&scr=2195.2524",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-20",
-    "ref_unique": "ma-c17733104a"
-  },
-  {
-    "id": "ma-21f214a26b",
-    "titre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e)",
-    "entreprise": "Mira Clinic",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e) chez Mira Clinic, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2310710765672160544?ckey=emploi&rgn=0&pos=6&elckey=1000837473563128692&p=1&aq=195910679100933892&cid=20&jobAge=179&relb=110&brelb=110&bscr=2146.0308&scr=2146.0308",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-20",
-    "ref_unique": "ma-21f214a26b"
-  },
-  {
-    "id": "ma-440232904e",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=7&elckey=1000837473563128692&p=1&aq=195910679100933892&cid=20&jobAge=35&relb=110&brelb=110&bscr=2131.166&scr=2131.166",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-20",
-    "ref_unique": "ma-440232904e"
-  },
-  {
-    "id": "ma-70b68a669d",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=8&elckey=1000837473563128692&p=1&aq=195910679100933892&cid=20&jobAge=35&relb=110&brelb=110&bscr=2120.5898&scr=2120.5898",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-20",
-    "ref_unique": "ma-70b68a669d"
   }
 ]
