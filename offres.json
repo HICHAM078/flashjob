@@ -1,5 +1,48 @@
 [
   {
+    "id": "jf-8143ddd79d",
+    "titre": "Residential Technician",
+    "entreprise": "The Abaco Club",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "technical",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Residential Technician chez The Abaco Club, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-8143ddd79d"
+  },
+  {
+    "id": "jf-bbd26b7749",
+    "titre": "Electrical Tradesperson",
+    "entreprise": "Territory Generation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Electrical Tradesperson chez Territory Generation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-25",
+    "ref_unique": "jf-bbd26b7749"
+  },
+  {
     "id": "jf-e594cdc067",
     "titre": "CDP",
     "entreprise": "Saasuji",
@@ -5546,47 +5589,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-20",
     "ref_unique": "jf-6600ee4f4d"
-  },
-  {
-    "id": "jf-a42b265bbb",
-    "titre": "Security Guard",
-    "entreprise": "Four Seasons",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Infosec",
-    "remote": true,
-    "competences": [
-      "infosec",
-      "supervisor",
-      "legal"
-    ],
-    "resume_neutre": "Security Guard chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-20",
-    "ref_unique": "jf-a42b265bbb"
-  },
-  {
-    "id": "jf-231cd50c3c",
-    "titre": "Planner &amp; Zoning Specialist",
-    "entreprise": "City of Covington, Georgia",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "recruiter",
-      "non tech",
-      "education",
-      "exec"
-    ],
-    "resume_neutre": "Planner &amp; Zoning Specialist chez City of Covington, Georgia, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-20",
-    "ref_unique": "jf-231cd50c3c"
   }
 ]
