@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-38f1b3a628",
+    "titre": "Technical Staff",
+    "entreprise": "Piramal Pharma Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical"
+    ],
+    "resume_neutre": "Technical Staff chez Piramal Pharma Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-38f1b3a628"
+  },
+  {
+    "id": "jf-00dd603154",
+    "titre": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+    "entreprise": "Smokemart &amp; GiftBox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "virtual assistant"
+    ],
+    "resume_neutre": "Smokemart &amp; GiftBox Palmerstone Sales Assistant chez Smokemart &amp; GiftBox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-00dd603154"
+  },
+  {
+    "id": "jf-492c8ea209",
+    "titre": "Senior Backend Engineer Build AI Agents",
+    "entreprise": "Salesforge",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "senior",
+      "sales",
+      "engineer",
+      "backend"
+    ],
+    "resume_neutre": "Senior Backend Engineer Build AI Agents chez Salesforge, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-492c8ea209"
+  },
+  {
     "id": "ma-338331fbe3",
     "titre": "Offre d’Emploi : Développeur Senior",
     "entreprise": "2CA Business",
@@ -5460,59 +5522,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-21",
     "ref_unique": "ma-7ac2735326"
-  },
-  {
-    "id": "ma-fca3d8d871",
-    "titre": "Comptable Confirmé(e)",
-    "entreprise": "HOTIN",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé(e) chez HOTIN, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4800876708376601455?ckey=comptable&rgn=946&pos=5&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=419&relb=100&brelb=100&bscr=2270.3325&scr=2270.3325",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-fca3d8d871"
-  },
-  {
-    "id": "ma-4532113539",
-    "titre": "Consultant Comptable Confirmé (H/F) - Casablanca",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Confirmé (H/F) - Casablanca chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6943309366933874513?ckey=comptable&rgn=946&pos=6&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=443&relb=100&brelb=100&bscr=2113.9863&scr=2113.9863",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-4532113539"
-  },
-  {
-    "id": "ma-d03dd4dd17",
-    "titre": "Comptable Senior - F/H",
-    "entreprise": "ChapsVision",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Senior - F/H chez ChapsVision, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4740325843347289512?ckey=comptable&rgn=946&pos=7&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=3033&relb=100&brelb=100&bscr=1993.749&scr=1993.749",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-d03dd4dd17"
   }
 ]
