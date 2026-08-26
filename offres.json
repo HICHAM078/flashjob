@@ -1,5 +1,193 @@
 [
   {
+    "id": "jf-246a050bc5",
+    "titre": "Test Job",
+    "entreprise": "Leena AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test Job chez Leena AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-leena-ai-1137142",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-246a050bc5"
+  },
+  {
+    "id": "jf-2ebbb281cf",
+    "titre": "OVERNIGHT SHIFT Retail Merchandiser",
+    "entreprise": "Bass Pro Shops",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "customer support",
+      "ads",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "OVERNIGHT SHIFT Retail Merchandiser chez Bass Pro Shops, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-2ebbb281cf"
+  },
+  {
+    "id": "jf-8746e55231",
+    "titre": "Find a job 3rd comi",
+    "entreprise": "Lemon Tree Premier",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Find a job 3rd comi chez Lemon Tree Premier, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-find-a-job-3rd-comi-lemon-tree-premier-1137127",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-8746e55231"
+  },
+  {
+    "id": "jf-f759c90615",
+    "titre": "Retail Assistant Store Manager",
+    "entreprise": "Skechers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "virtual assistant",
+      "customer support",
+      "marketing",
+      "ops"
+    ],
+    "resume_neutre": "Retail Assistant Store Manager chez Skechers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-f759c90615"
+  },
+  {
+    "id": "jf-2a60e98dfd",
+    "titre": "Rural and Suburban Mail Carrier Allan RR1",
+    "entreprise": "Canada Post / Postes Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "exec",
+      "full time"
+    ],
+    "resume_neutre": "Rural and Suburban Mail Carrier Allan RR1 chez Canada Post / Postes Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-2a60e98dfd"
+  },
+  {
+    "id": "jf-5025830bd4",
+    "titre": "AP Accountant",
+    "entreprise": "Bosta",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "customer support",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "AP Accountant chez Bosta, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-5025830bd4"
+  },
+  {
+    "id": "jf-ac048b10c1",
+    "titre": "Estimator",
+    "entreprise": "Reed",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Estimator chez Reed, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-ac048b10c1"
+  },
+  {
+    "id": "jf-3183882807",
+    "titre": "Butcher",
+    "entreprise": "The Butcher Shoppe",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "marketing",
+      "education",
+      "medical",
+      "ecommerce"
+    ],
+    "resume_neutre": "Butcher chez The Butcher Shoppe, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-3183882807"
+  },
+  {
+    "id": "jf-45cd556612",
+    "titre": "Estimator",
+    "entreprise": "s1jobs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Estimator chez s1jobs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-45cd556612"
+  },
+  {
     "id": "jf-38f1b3a628",
     "titre": "Technical Staff",
     "entreprise": "Piramal Pharma Ltd",
@@ -5360,167 +5548,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-21",
     "ref_unique": "ma-968073af5a"
-  },
-  {
-    "id": "ma-6162b4bc05",
-    "titre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e)",
-    "entreprise": "Mira Clinic",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e) chez Mira Clinic, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2310710765672160544?ckey=emploi&rgn=0&pos=8&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=203&relb=100&brelb=100&bscr=2000.2229&scr=2000.2229",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-6162b4bc05"
-  },
-  {
-    "id": "ma-569fc66420",
-    "titre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech",
-    "entreprise": "Smilycall",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - Télésecrétaire Médicale Expérimentée - SmilyCall Marrakech chez Smilycall, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4820905813588962185?ckey=emploi&rgn=0&pos=9&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=467&relb=100&brelb=100&bscr=1929.1049&scr=1929.1048999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-569fc66420"
-  },
-  {
-    "id": "ma-413f1205e9",
-    "titre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1389241450486226788?ckey=emploi&rgn=0&pos=10&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=203&relb=110&brelb=110&bscr=1917.7424&scr=1917.7424",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-413f1205e9"
-  },
-  {
-    "id": "ma-c933dc5988",
-    "titre": "VOTRE PROCHAIN EMPLOI EST ICI! Recrutement immédiat de téléconseillers experts en enr",
-    "entreprise": "H2MW Groupe",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "VOTRE PROCHAIN EMPLOI EST ICI! Recrutement immédiat de téléconseillers experts en enr chez H2MW Groupe, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8440808085271639102?ckey=emploi&rgn=0&pos=11&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=59&relb=110&brelb=110&bscr=1914.4315&scr=1914.4315",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-c933dc5988"
-  },
-  {
-    "id": "ma-577a80e5f6",
-    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=12&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=35&relb=100&brelb=100&bscr=1885.4695&scr=1885.4695",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-577a80e5f6"
-  },
-  {
-    "id": "ma-d51af239df",
-    "titre": "Comptable",
-    "entreprise": "Dama",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Dama, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8038422667478869875?ckey=comptable&rgn=946&pos=1&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=395&relb=100&brelb=100&bscr=2566.5645&scr=2566.5645",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-d51af239df"
-  },
-  {
-    "id": "ma-940b60e8e6",
-    "titre": "Comptable",
-    "entreprise": "Cash Plus",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1712050579712721577?ckey=comptable&rgn=946&pos=2&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=537&relb=100&brelb=100&bscr=2498.5364&scr=2498.5364",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-940b60e8e6"
-  },
-  {
-    "id": "ma-6d7eea41b3",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "Thaïs",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=3&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=657&relb=100&brelb=100&bscr=2309.7896&scr=2309.7896",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-6d7eea41b3"
-  },
-  {
-    "id": "ma-7ac2735326",
-    "titre": "Consultant Comptable senior H/F",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable senior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7076118098174475351?ckey=comptable&rgn=946&pos=4&elckey=-6894913634612770412&p=1&aq=2996146916261368579&cid=20&jobAge=419&relb=100&brelb=100&bscr=2300.8384&scr=2300.8384",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-7ac2735326"
   }
 ]
