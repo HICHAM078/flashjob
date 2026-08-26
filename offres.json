@@ -1,5 +1,23 @@
 [
   {
+    "id": "jf-f0380d5112",
+    "titre": "LEGO",
+    "entreprise": "Teatro Multiplan MorumbiShopping",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "LEGO chez Teatro Multiplan MorumbiShopping, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lego-teatro-multiplan-morumbishopping-1137112",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-26",
+    "ref_unique": "jf-f0380d5112"
+  },
+  {
     "id": "jf-f9e9a69c77",
     "titre": "Executive",
     "entreprise": "Vashi Integrated Solutions",
@@ -5557,23 +5575,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-20",
     "ref_unique": "ma-69e7fa4e7b"
-  },
-  {
-    "id": "ma-e82ee51db0",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5547284452830156712?ckey=emploi&rgn=0&pos=4&elckey=1000837473563128692&p=1&aq=195910679100933892&cid=20&jobAge=59&relb=110&brelb=110&bscr=2365.744&scr=2365.744",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-20",
-    "ref_unique": "ma-e82ee51db0"
   }
 ]
