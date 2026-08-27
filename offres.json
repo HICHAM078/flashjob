@@ -1,5 +1,207 @@
 [
   {
+    "id": "jf-a77acd1d01",
+    "titre": "Don't see a role for you",
+    "entreprise": "Carv",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Don't see a role for you chez Carv, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-a77acd1d01"
+  },
+  {
+    "id": "jf-c2ccfab66e",
+    "titre": "Equipment Maintenance",
+    "entreprise": "JD.COM",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "ops",
+      "sys admin"
+    ],
+    "resume_neutre": "Equipment Maintenance chez JD.COM, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-c2ccfab66e"
+  },
+  {
+    "id": "jf-1e3c8f73a8",
+    "titre": "N A",
+    "entreprise": "Intuit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "N A chez Intuit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-n-a-intuit-1137159",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-1e3c8f73a8"
+  },
+  {
+    "id": "jf-ce6a0ea7d4",
+    "titre": "Various roles",
+    "entreprise": "Sherborne Schools Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "ops",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Various roles chez Sherborne Schools Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-various-roles-sherborne-schools-group-1137152",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-ce6a0ea7d4"
+  },
+  {
+    "id": "jf-84ea1d8be2",
+    "titre": "Course Director UX UI and AI",
+    "entreprise": "Interaction Design Foundation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "design",
+      "content writing"
+    ],
+    "resume_neutre": "Course Director UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-84ea1d8be2"
+  },
+  {
+    "id": "jf-7b43a0b1e1",
+    "titre": "Education Designer UX UI and AI",
+    "entreprise": "Interaction Design Foundation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "content writing",
+      "education"
+    ],
+    "resume_neutre": "Education Designer UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-7b43a0b1e1"
+  },
+  {
+    "id": "jf-6654e2b1b5",
+    "titre": "Course Writer and Editor UX UI and AI",
+    "entreprise": "Interaction Design Foundation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "content writing"
+    ],
+    "resume_neutre": "Course Writer and Editor UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-6654e2b1b5"
+  },
+  {
+    "id": "jf-e43c87f4a3",
+    "titre": "Mail Sorter",
+    "entreprise": "Geelong Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "dev",
+      "marketing",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Mail Sorter chez Geelong Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-e43c87f4a3"
+  },
+  {
+    "id": "jf-c79df28429",
+    "titre": "Team Manager Newtownards Extra",
+    "entreprise": "Tesco",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Team Manager Newtownards Extra chez Tesco, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-c79df28429"
+  },
+  {
+    "id": "jf-9bf08e3b63",
+    "titre": "General Interest Position",
+    "entreprise": "Coogee Chemicals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "dev",
+      "marketing",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "General Interest Position chez Coogee Chemicals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-9bf08e3b63"
+  },
+  {
     "id": "ma-ba038e619e",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5352,185 +5554,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-22",
     "ref_unique": "ma-f1dfadd1c6"
-  },
-  {
-    "id": "ma-01d511ab1a",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=4&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=1070&relb=140&brelb=100&bscr=1748.6653&scr=2448.1314199999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-01d511ab1a"
-  },
-  {
-    "id": "ma-8053953130",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=5&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=59&relb=110&brelb=110&bscr=2304.8347&scr=2304.8347",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-8053953130"
-  },
-  {
-    "id": "ma-80222dba9e",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5547284452830156712?ckey=emploi&rgn=0&pos=6&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=107&relb=110&brelb=110&bscr=2204.7622&scr=2204.7622",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-80222dba9e"
-  },
-  {
-    "id": "ma-2512ad8eff",
-    "titre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e)",
-    "entreprise": "Mira Clinic",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Medical Advisor / Conseiller(ère) Commercial(e) chez Mira Clinic, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2310710765672160544?ckey=emploi&rgn=0&pos=7&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=227&relb=110&brelb=110&bscr=2150.5908&scr=2150.5908",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-2512ad8eff"
-  },
-  {
-    "id": "ma-58afae6fc3",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=8&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=35&relb=110&brelb=110&bscr=2138.7966&scr=2138.7966",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-58afae6fc3"
-  },
-  {
-    "id": "ma-46286c185f",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=9&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=83&relb=110&brelb=110&bscr=2051.2673&scr=2051.2673",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-46286c185f"
-  },
-  {
-    "id": "ma-2d51dccde5",
-    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=10&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=35&relb=110&brelb=110&bscr=2033.2794&scr=2033.2794",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-2d51dccde5"
-  },
-  {
-    "id": "ma-ececd31a02",
-    "titre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS)",
-    "entreprise": "VGROUP",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : Téléconseillers B2B chez Vgroup (Salaire fixe 4 500 DHS) chez VGROUP, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5303807427430823738?ckey=emploi&rgn=0&pos=11&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=563&relb=110&brelb=110&bscr=1894.6217&scr=1894.6217",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-ececd31a02"
-  },
-  {
-    "id": "ma-4ee36db473",
-    "titre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes",
-    "entreprise": "France Rénovation",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Votre prochain emploi est à Marrakech : Jusqu’à 7800 DH + Primes chez France Rénovation, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1389241450486226788?ckey=emploi&rgn=0&pos=12&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=227&relb=110&brelb=110&bscr=1879.5958&scr=1879.5958",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-4ee36db473"
-  },
-  {
-    "id": "ma-b03359712b",
-    "titre": "Comptable",
-    "entreprise": "Dama",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Dama, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8038422667478869875?ckey=comptable&rgn=946&pos=1&elckey=-6731762414409205340&p=1&aq=993048622800271999&cid=20&jobAge=419&relb=100&brelb=100&bscr=2574.316&scr=2574.316",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-b03359712b"
   }
 ]
