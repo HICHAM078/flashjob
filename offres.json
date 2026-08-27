@@ -1,5 +1,172 @@
 [
   {
+    "id": "jf-3e26fcd097",
+    "titre": "Lead Estimator",
+    "entreprise": "Complex Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "customer support",
+      "microsoft",
+      "exec",
+      "junior"
+    ],
+    "resume_neutre": "Lead Estimator chez Complex Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-3e26fcd097"
+  },
+  {
+    "id": "jf-ff3795370d",
+    "titre": "BACK OF HOUSE",
+    "entreprise": "Buffalo Wild Wings - Fralich, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "math",
+      "exec"
+    ],
+    "resume_neutre": "BACK OF HOUSE chez Buffalo Wild Wings - Fralich, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1137129",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-ff3795370d"
+  },
+  {
+    "id": "jf-70a17d0428",
+    "titre": "GA",
+    "entreprise": "Aimwear",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "GA chez Aimwear, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-70a17d0428"
+  },
+  {
+    "id": "jf-3d14d25598",
+    "titre": "Earn more",
+    "entreprise": "Nick Scali Limited",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "customer support",
+      "microsoft",
+      "exec",
+      "junior"
+    ],
+    "resume_neutre": "Earn more chez Nick Scali Limited, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-3d14d25598"
+  },
+  {
+    "id": "jf-0e439e2845",
+    "titre": "Ramp Attendant",
+    "entreprise": "Swissport",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "math",
+      "exec"
+    ],
+    "resume_neutre": "Ramp Attendant chez Swissport, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-0e439e2845"
+  },
+  {
+    "id": "jf-056a47d4e1",
+    "titre": "Store Manager",
+    "entreprise": "Carters Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "virtual assistant",
+      "customer support",
+      "marketing",
+      "ops"
+    ],
+    "resume_neutre": "Store Manager chez Carters Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-056a47d4e1"
+  },
+  {
+    "id": "jf-1113c4b0cc",
+    "titre": "Video Editor",
+    "entreprise": "Locals",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "travel",
+      "speech",
+      "video",
+      "content writing"
+    ],
+    "resume_neutre": "Video Editor chez Locals, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-1113c4b0cc"
+  },
+  {
+    "id": "jf-32a2d8d55f",
+    "titre": "Appliance Sales Specialist",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales",
+      "non tech"
+    ],
+    "resume_neutre": "Appliance Sales Specialist chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-appliance-sales-specialist-the-home-depot-canada-1137160",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-27",
+    "ref_unique": "jf-32a2d8d55f"
+  },
+  {
     "id": "jf-246a050bc5",
     "titre": "Test Job",
     "entreprise": "Leena AI",
@@ -5400,153 +5567,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-21",
     "ref_unique": "jf-f53825fa28"
-  },
-  {
-    "id": "jf-366c3f0e33",
-    "titre": "Accountant",
-    "entreprise": "Tipsy Topsy",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Accounting",
-    "remote": true,
-    "competences": [
-      "accounting",
-      "infosec",
-      "customer support",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Accountant chez Tipsy Topsy, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-21",
-    "ref_unique": "jf-366c3f0e33"
-  },
-  {
-    "id": "ma-ac941178c1",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=1&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=107&relb=110&brelb=110&bscr=2559.714&scr=2559.714",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-ac941178c1"
-  },
-  {
-    "id": "ma-5aa47eef5f",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=2&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=1046&relb=140&brelb=100&bscr=1708.1016&scr=2391.34224",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-5aa47eef5f"
-  },
-  {
-    "id": "ma-7437c1a155",
-    "titre": "Offre d’Emploi : Développeur Senior",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi : Développeur Senior chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4744765883913505841?ckey=emploi&rgn=0&pos=3&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=35&relb=100&brelb=100&bscr=2368.975&scr=2368.975",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-7437c1a155"
-  },
-  {
-    "id": "ma-e1df0f0558",
-    "titre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi : Téléconseillers Débutants / Expérimentés chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6721592867426620946?ckey=emploi&rgn=0&pos=4&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=35&relb=110&brelb=110&bscr=2316.3313&scr=2316.3313",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-e1df0f0558"
-  },
-  {
-    "id": "ma-1350add096",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=5&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=107&relb=110&brelb=110&bscr=2272.0574&scr=2272.0574",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-1350add096"
-  },
-  {
-    "id": "ma-4600320ed6",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5547284452830156712?ckey=emploi&rgn=0&pos=6&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=83&relb=100&brelb=100&bscr=2114.1926&scr=2114.1926",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-4600320ed6"
-  },
-  {
-    "id": "ma-968073af5a",
-    "titre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C",
-    "entreprise": "Valtel",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs débutants ou confirmés : Découvrez nos offres d'emploi en B2C chez Valtel, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3261402117210501721?ckey=emploi&rgn=0&pos=7&elckey=8723214670066751313&p=1&aq=-3904125751735588419&cid=20&jobAge=35&relb=100&brelb=100&bscr=2028.7874&scr=2028.7874",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-21",
-    "ref_unique": "ma-968073af5a"
   }
 ]
