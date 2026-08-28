@@ -1,5 +1,153 @@
 [
   {
+    "id": "jf-b60788543c",
+    "titre": "Principal Engineer",
+    "entreprise": "The AI Whistleblower Initiative",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "engineer"
+    ],
+    "resume_neutre": "Principal Engineer chez The AI Whistleblower Initiative, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-b60788543c"
+  },
+  {
+    "id": "jf-3046954e89",
+    "titre": "Now Hiring",
+    "entreprise": "Greater Pell City Chamber of Commerce",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "Now Hiring chez Greater Pell City Chamber of Commerce, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-now-hiring-greater-pell-city-chamber-of-commerce-1137165",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-3046954e89"
+  },
+  {
+    "id": "jf-1265a44613",
+    "titre": "Gardener NUSC",
+    "entreprise": "W Hotels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "finance",
+      "non tech",
+      "supervisor"
+    ],
+    "resume_neutre": "Gardener NUSC chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-1265a44613"
+  },
+  {
+    "id": "jf-977577ed12",
+    "titre": "Gardener",
+    "entreprise": "W Hotels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "marketing",
+      "travel",
+      "scheme"
+    ],
+    "resume_neutre": "Gardener chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-977577ed12"
+  },
+  {
+    "id": "jf-e8deb991a4",
+    "titre": "Assistant Manager",
+    "entreprise": "Storage King Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Assistant Manager chez Storage King Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-e8deb991a4"
+  },
+  {
+    "id": "jf-871a61ecc5",
+    "titre": "Senior Level Designer",
+    "entreprise": "Blackbird Interactive",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "game dev",
+      "designer",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Senior Level Designer chez Blackbird Interactive, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-871a61ecc5"
+  },
+  {
+    "id": "jf-43e1f0cd56",
+    "titre": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+    "entreprise": "Tessera Labs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "consulting",
+      "testing",
+      "exec"
+    ],
+    "resume_neutre": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management chez Tessera Labs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-43e1f0cd56"
+  },
+  {
     "id": "jf-a77acd1d01",
     "titre": "Don't see a role for you",
     "entreprise": "Carv",
@@ -5415,144 +5563,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-22",
     "ref_unique": "jf-0d833069e4"
-  },
-  {
-    "id": "jf-08b338b8e5",
-    "titre": "Project Systems Specialist",
-    "entreprise": "Dart",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "education",
-      "customer support",
-      "testing"
-    ],
-    "resume_neutre": "Project Systems Specialist chez Dart, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-22",
-    "ref_unique": "jf-08b338b8e5"
-  },
-  {
-    "id": "jf-b836068566",
-    "titre": "Uday",
-    "entreprise": "MyAarohan",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "non tech"
-    ],
-    "resume_neutre": "Uday chez MyAarohan, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-22",
-    "ref_unique": "jf-b836068566"
-  },
-  {
-    "id": "jf-2d0e83b303",
-    "titre": "Estimator Brisbane",
-    "entreprise": "McNab",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "dev",
-      "marketing",
-      "exec"
-    ],
-    "resume_neutre": "Estimator Brisbane chez McNab, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-22",
-    "ref_unique": "jf-2d0e83b303"
-  },
-  {
-    "id": "jf-e8c8f80981",
-    "titre": "Field Technician III",
-    "entreprise": "Cable Bahamas Ltd.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "education",
-      "customer support",
-      "testing"
-    ],
-    "resume_neutre": "Field Technician III chez Cable Bahamas Ltd., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-22",
-    "ref_unique": "jf-e8c8f80981"
-  },
-  {
-    "id": "ma-4d3450ba80",
-    "titre": "Offre d’Emploi : Développeur Senior",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi : Développeur Senior chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4744765883913505841?ckey=emploi&rgn=0&pos=1&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=59&relb=110&brelb=110&bscr=2685.8857&scr=2685.8857",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-4d3450ba80"
-  },
-  {
-    "id": "ma-076cf7c49b",
-    "titre": "EMPLOI IMMÉDIAT !! Débutants Acceptés -Formation Assurée",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "EMPLOI IMMÉDIAT !! Débutants Acceptés -Formation Assurée chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8677366857058434371?ckey=emploi&rgn=0&pos=2&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=35&relb=110&brelb=110&bscr=2556.5967&scr=2556.5967",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-076cf7c49b"
-  },
-  {
-    "id": "ma-f1dfadd1c6",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=3&elckey=6076978905357231073&p=1&aq=-3324305589481079265&cid=20&jobAge=131&relb=110&brelb=110&bscr=2502.9841&scr=2502.9841",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-22",
-    "ref_unique": "ma-f1dfadd1c6"
   }
 ]
