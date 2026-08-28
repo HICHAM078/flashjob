@@ -1,5 +1,197 @@
 [
   {
+    "id": "jf-2cf89946d2",
+    "titre": "Store Manager",
+    "entreprise": "Crocs, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "customer support",
+      "marketing",
+      "c"
+    ],
+    "resume_neutre": "Store Manager chez Crocs, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-crocs-inc-1137181",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-2cf89946d2"
+  },
+  {
+    "id": "jf-0995bfb540",
+    "titre": "Database Administrator",
+    "entreprise": "TS Imagine",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "dba",
+      "admin",
+      "non tech"
+    ],
+    "resume_neutre": "Database Administrator chez TS Imagine, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-database-administrator-ts-imagine-1137177",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-0995bfb540"
+  },
+  {
+    "id": "jf-40b359f803",
+    "titre": "Vehicle Progressor",
+    "entreprise": "Vertu Motors plc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "hr",
+      "education",
+      "game dev",
+      "customer support"
+    ],
+    "resume_neutre": "Vehicle Progressor chez Vertu Motors plc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vehicle-progressor-vertu-motors-plc-1137176",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-40b359f803"
+  },
+  {
+    "id": "jf-462c1ac9bc",
+    "titre": "Programmatic Campaign Operations Specialist Trader",
+    "entreprise": "VirtuHire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "technical",
+      "customer support",
+      "quality assurance",
+      "video"
+    ],
+    "resume_neutre": "Programmatic Campaign Operations Specialist Trader chez VirtuHire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-462c1ac9bc"
+  },
+  {
+    "id": "jf-4cde46d00d",
+    "titre": "Journeyman I P",
+    "entreprise": "Wood",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "ops",
+      "engineer"
+    ],
+    "resume_neutre": "Journeyman I P chez Wood, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-journeyman-i-p-wood-1137197",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-4cde46d00d"
+  },
+  {
+    "id": "jf-727f323f6c",
+    "titre": "People Director",
+    "entreprise": "Sisal Hub Albania",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "hr",
+      "education",
+      "game dev",
+      "customer support"
+    ],
+    "resume_neutre": "People Director chez Sisal Hub Albania, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-people-director-sisal-hub-albania-1137175",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-727f323f6c"
+  },
+  {
+    "id": "jf-de6d93ac06",
+    "titre": "Health Safety Environment",
+    "entreprise": "JAI HANUMAN UDYOG LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "medical"
+    ],
+    "resume_neutre": "Health Safety Environment chez JAI HANUMAN UDYOG LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-health-safety-environment-jai-hanuman-udyog-limited-1137180",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-de6d93ac06"
+  },
+  {
+    "id": "jf-2dba6f46e9",
+    "titre": "Sourcer Private Destinations",
+    "entreprise": "Royal Caribbean Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "sourcer",
+      "customer support",
+      "dev",
+      "exec"
+    ],
+    "resume_neutre": "Sourcer Private Destinations chez Royal Caribbean Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-2dba6f46e9"
+  },
+  {
+    "id": "jf-875e10b851",
+    "titre": "Test",
+    "entreprise": "Larsen &amp; Toubro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Test chez Larsen &amp; Toubro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-larsen-amp-toubro-1137178",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-28",
+    "ref_unique": "jf-875e10b851"
+  },
+  {
     "id": "ma-5bde99522b",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5376,174 +5568,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-23",
     "ref_unique": "jf-6699ee98f2"
-  },
-  {
-    "id": "jf-5ce2e4b3b0",
-    "titre": "building cleaner",
-    "entreprise": "Newfoundland Chocolate Company",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "building cleaner chez Newfoundland Chocolate Company, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-5ce2e4b3b0"
-  },
-  {
-    "id": "jf-f97c091781",
-    "titre": "Officer",
-    "entreprise": "Lupin Ltd",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "non tech"
-    ],
-    "resume_neutre": "Officer chez Lupin Ltd, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-f97c091781"
-  },
-  {
-    "id": "jf-6c4553d187",
-    "titre": "Team Manager Newry Extra",
-    "entreprise": "Tesco",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "testing",
-      "finance",
-      "sales"
-    ],
-    "resume_neutre": "Team Manager Newry Extra chez Tesco, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-6c4553d187"
-  },
-  {
-    "id": "ma-9ca20787b8",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=1&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=155&relb=110&brelb=110&bscr=2544.0308&scr=2544.0308",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-9ca20787b8"
-  },
-  {
-    "id": "ma-2cf690a07e",
-    "titre": "EMPLOI IMMÉDIAT !! Débutants Acceptés -Formation Assurée",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "EMPLOI IMMÉDIAT !! Débutants Acceptés -Formation Assurée chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8677366857058434371?ckey=emploi&rgn=0&pos=2&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=35&relb=110&brelb=110&bscr=2475.532&scr=2475.532",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-2cf690a07e"
-  },
-  {
-    "id": "ma-f6dd20eab9",
-    "titre": "Offre d’Emploi : Développeur Senior",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi : Développeur Senior chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4744765883913505841?ckey=emploi&rgn=0&pos=3&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=83&relb=110&brelb=110&bscr=2441.8516&scr=2441.8516",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-f6dd20eab9"
-  },
-  {
-    "id": "ma-03e9867f44",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=4&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=155&relb=110&brelb=110&bscr=2309.2473&scr=2309.2473",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-03e9867f44"
-  },
-  {
-    "id": "ma-0ae54a8bc3",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=5&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=1094&relb=140&brelb=100&bscr=1584.9104&scr=2218.87456",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-0ae54a8bc3"
-  },
-  {
-    "id": "ma-cae1751cfc",
-    "titre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca",
-    "entreprise": "Menosys",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - chargé(e) de clientèle francophone en réception d’appels - casablanca chez Menosys, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5547284452830156712?ckey=emploi&rgn=0&pos=6&elckey=-4647387971848697922&p=1&aq=-596402652388882188&cid=20&jobAge=131&relb=110&brelb=110&bscr=2130.1704&scr=2130.1704",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-23",
-    "ref_unique": "ma-cae1751cfc"
   }
 ]
