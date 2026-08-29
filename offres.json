@@ -1,5 +1,130 @@
 [
   {
+    "id": "jf-4527f40ae5",
+    "titre": "Store Manager",
+    "entreprise": "Hola Moda",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "c"
+    ],
+    "resume_neutre": "Store Manager chez Hola Moda, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-4527f40ae5"
+  },
+  {
+    "id": "jf-30f0805316",
+    "titre": "Visual Merchandiser",
+    "entreprise": "Hola Moda",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Visual Merchandiser chez Hola Moda, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-30f0805316"
+  },
+  {
+    "id": "jf-6228fcb423",
+    "titre": "Building Maintenance Technician",
+    "entreprise": "Dart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "education",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Building Maintenance Technician chez Dart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-6228fcb423"
+  },
+  {
+    "id": "jf-1946aac72f",
+    "titre": "Test",
+    "entreprise": "Digest Media",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "consulting",
+      "exec",
+      "ops",
+      "engineer"
+    ],
+    "resume_neutre": "Test chez Digest Media, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-1946aac72f"
+  },
+  {
+    "id": "jf-2d0ae220a5",
+    "titre": "Sales Manager",
+    "entreprise": "Radisson Hotel Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "marketing",
+      "excel",
+      "sales",
+      "engineer"
+    ],
+    "resume_neutre": "Sales Manager chez Radisson Hotel Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-2d0ae220a5"
+  },
+  {
+    "id": "jf-f28be1dc70",
+    "titre": "courier",
+    "entreprise": "FedEx",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "testing",
+      "exec",
+      "math",
+      "content writing"
+    ],
+    "resume_neutre": "courier chez FedEx, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-f28be1dc70"
+  },
+  {
     "id": "ma-2e4ae23233",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5450,120 +5575,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-25",
     "ref_unique": "ma-ff7ea8131d"
-  },
-  {
-    "id": "ma-ba19d1a3a8",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=9&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=35&relb=110&brelb=110&bscr=279.33502&scr=279.33502",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-ba19d1a3a8"
-  },
-  {
-    "id": "ma-9766b0cd7c",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=10&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=35&relb=110&brelb=110&bscr=274.7861&scr=274.7861",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-9766b0cd7c"
-  },
-  {
-    "id": "ma-27ef7e8a99",
-    "titre": "Formateur télévente - cdi",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Formateur télévente - cdi chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6206763093187131410?ckey=informatique&rgn=0&pos=11&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=131&relb=110&brelb=110&bscr=272.6361&scr=272.6361",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-27ef7e8a99"
-  },
-  {
-    "id": "ma-d65ec27868",
-    "titre": "ÉCONOME",
-    "entreprise": "SOFITEL",
-    "ville": "M'diq",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ÉCONOME chez SOFITEL, a M'diq. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7357285559815235943?ckey=informatique&rgn=0&pos=12&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=323&relb=100&brelb=100&bscr=268.7036&scr=268.7036",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-d65ec27868"
-  },
-  {
-    "id": "jf-8143ddd79d",
-    "titre": "Residential Technician",
-    "entreprise": "The Abaco Club",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "education",
-      "technical",
-      "customer support",
-      "dev"
-    ],
-    "resume_neutre": "Residential Technician chez The Abaco Club, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-25",
-    "ref_unique": "jf-8143ddd79d"
-  },
-  {
-    "id": "jf-bbd26b7749",
-    "titre": "Electrical Tradesperson",
-    "entreprise": "Territory Generation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "technical",
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "Electrical Tradesperson chez Territory Generation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-25",
-    "ref_unique": "jf-bbd26b7749"
   }
 ]
