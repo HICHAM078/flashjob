@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-e41de80010",
+    "titre": "handyman woman",
+    "entreprise": "Royal Lepage Icon Realty",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "education",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "handyman woman chez Royal Lepage Icon Realty, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-e41de80010"
+  },
+  {
+    "id": "jf-e4a89f0fe0",
+    "titre": "åæ",
+    "entreprise": "Stanley Black &amp; Decker, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "non tech"
+    ],
+    "resume_neutre": "åæ chez Stanley Black &amp; Decker, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-e4a89f0fe0"
+  },
+  {
     "id": "jf-d3943a6dac",
     "titre": "Donât see your role Apply here",
     "entreprise": "Atreides",
@@ -5528,41 +5568,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-24",
     "ref_unique": "ma-dfea329389"
-  },
-  {
-    "id": "ma-c9c9062d8c",
-    "titre": "ÉCONOME",
-    "entreprise": "SOFITEL",
-    "ville": "M'diq",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ÉCONOME chez SOFITEL, a M'diq. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7357285559815235943?ckey=informatique&rgn=0&pos=11&elckey=-919523464972075833&p=1&aq=395956184846695956&cid=20&jobAge=299&relb=100&brelb=100&bscr=263.96747&scr=263.96747",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-24",
-    "ref_unique": "ma-c9c9062d8c"
-  },
-  {
-    "id": "ma-02b0a8f1b5",
-    "titre": "Technicien coordinateur SAV H/F",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien coordinateur SAV H/F chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4941022481629230025?ckey=informatique&rgn=0&pos=12&elckey=-919523464972075833&p=1&aq=395956184846695956&cid=20&jobAge=251&relb=110&brelb=110&bscr=263.12738&scr=263.12738",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-24",
-    "ref_unique": "ma-02b0a8f1b5"
   }
 ]
