@@ -1,5 +1,111 @@
 [
   {
+    "id": "jf-d3943a6dac",
+    "titre": "Donât see your role Apply here",
+    "entreprise": "Atreides",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "exec",
+      "ops",
+      "medical"
+    ],
+    "resume_neutre": "Donât see your role Apply here chez Atreides, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-d3943a6dac"
+  },
+  {
+    "id": "jf-eabe09b343",
+    "titre": "English Teacher",
+    "entreprise": "Pembroke School",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "customer support",
+      "marketing",
+      "c"
+    ],
+    "resume_neutre": "English Teacher chez Pembroke School, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-english-teacher-pembroke-school-1137182",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-eabe09b343"
+  },
+  {
+    "id": "jf-4609f3363a",
+    "titre": "Cdp",
+    "entreprise": "Hilton Salwa Beach Resort &amp; Villas",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech"
+    ],
+    "resume_neutre": "Cdp chez Hilton Salwa Beach Resort &amp; Villas, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-4609f3363a"
+  },
+  {
+    "id": "jf-e06974dc8b",
+    "titre": "Meat and Seafood Clerk",
+    "entreprise": "Pete's Frootique",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "web dev",
+      "exec",
+      "customer support",
+      "ops"
+    ],
+    "resume_neutre": "Meat and Seafood Clerk chez Pete's Frootique, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-e06974dc8b"
+  },
+  {
+    "id": "jf-a2884f1650",
+    "titre": "Receiver",
+    "entreprise": "Pete's Frootique",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "web dev",
+      "exec",
+      "customer support",
+      "ops"
+    ],
+    "resume_neutre": "Receiver chez Pete's Frootique, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-29",
+    "ref_unique": "jf-a2884f1650"
+  },
+  {
     "id": "jf-2cf89946d2",
     "titre": "Store Manager",
     "entreprise": "Crocs, Inc.",
@@ -5458,115 +5564,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-24",
     "ref_unique": "ma-02b0a8f1b5"
-  },
-  {
-    "id": "jf-343b8ee04f",
-    "titre": "Quantity Surveyor",
-    "entreprise": "Edspired.Tech",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "excel",
-      "engineer"
-    ],
-    "resume_neutre": "Quantity Surveyor chez Edspired.Tech, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-24",
-    "ref_unique": "jf-343b8ee04f"
-  },
-  {
-    "id": "jf-1110be16cc",
-    "titre": "DTP Operator",
-    "entreprise": "JobTrade",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "dev",
-      "excel",
-      "engineer"
-    ],
-    "resume_neutre": "DTP Operator chez JobTrade, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-24",
-    "ref_unique": "jf-1110be16cc"
-  },
-  {
-    "id": "jf-8105e859b3",
-    "titre": "Retail Store Associate",
-    "entreprise": "Rowan",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "dev",
-      "exec",
-      "math"
-    ],
-    "resume_neutre": "Retail Store Associate chez Rowan, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-8105e859b3"
-  },
-  {
-    "id": "jf-28ea4788c5",
-    "titre": "Senior Specialist Global QMS",
-    "entreprise": "Orca Bio",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Hr",
-    "remote": true,
-    "competences": [
-      "hr",
-      "sys admin",
-      "customer support",
-      "marketing",
-      "education"
-    ],
-    "resume_neutre": "Senior Specialist Global QMS chez Orca Bio, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-28ea4788c5"
-  },
-  {
-    "id": "jf-6699ee98f2",
-    "titre": "Across all departments",
-    "entreprise": "Saasuji",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "non tech",
-      "design",
-      "marketing",
-      "digital nomad"
-    ],
-    "resume_neutre": "Across all departments chez Saasuji, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-23",
-    "ref_unique": "jf-6699ee98f2"
   }
 ]
