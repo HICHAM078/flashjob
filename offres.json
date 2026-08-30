@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-fe67536259",
+    "titre": "Residential Valuer",
+    "entreprise": "Acumentis Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "exec",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Residential Valuer chez Acumentis Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-residential-valuer-acumentis-group-1137214",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-30",
+    "ref_unique": "jf-fe67536259"
+  },
+  {
     "id": "jf-620abaedb9",
     "titre": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
     "entreprise": "Elements Recruitment Australia",
@@ -5558,23 +5580,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-25",
     "ref_unique": "ma-4ac56824bd"
-  },
-  {
-    "id": "ma-09be01641c",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=8073&relb=100&brelb=100&bscr=2133.2566&scr=2133.2566",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-09be01641c"
   }
 ]
