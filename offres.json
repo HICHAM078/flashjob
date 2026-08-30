@@ -1,5 +1,60 @@
 [
   {
+    "id": "jf-620abaedb9",
+    "titre": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
+    "entreprise": "Elements Recruitment Australia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Recruiter",
+    "remote": true,
+    "competences": [
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE chez Elements Recruitment Australia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-30",
+    "ref_unique": "jf-620abaedb9"
+  },
+  {
+    "id": "jf-42ff824f34",
+    "titre": "HIGIENIZADOR DE CARROS MACAÃ RJ",
+    "entreprise": "Localiza&amp;Co",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "HIGIENIZADOR DE CARROS MACAÃ RJ chez Localiza&amp;Co, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-macae-rj-localizaampco-1137203",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-30",
+    "ref_unique": "jf-42ff824f34"
+  },
+  {
+    "id": "jf-8131c908d3",
+    "titre": "HIGIENIZADOR DE CARROS CURITIBA PR",
+    "entreprise": "Localiza&amp;Co",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "HIGIENIZADOR DE CARROS CURITIBA PR chez Localiza&amp;Co, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-curitiba-pr-localizaampco-1137204",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-30",
+    "ref_unique": "jf-8131c908d3"
+  },
+  {
     "id": "jf-4527f40ae5",
     "titre": "Store Manager",
     "entreprise": "Hola Moda",
@@ -5521,59 +5576,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-25",
     "ref_unique": "ma-09be01641c"
-  },
-  {
-    "id": "ma-758c9e5a2d",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=6&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=8073&relb=100&brelb=100&bscr=1864.1667&scr=1864.1667000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-758c9e5a2d"
-  },
-  {
-    "id": "ma-3026310128",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=7&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=265&relb=140&brelb=100&bscr=248.14374&scr=347.401236",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-3026310128"
-  },
-  {
-    "id": "ma-ff7ea8131d",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=8&elckey=-3565759229681596073&p=1&aq=-5551264935958574913&cid=20&jobAge=35&relb=110&brelb=110&bscr=289.85083&scr=289.85083",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-25",
-    "ref_unique": "ma-ff7ea8131d"
   }
 ]
