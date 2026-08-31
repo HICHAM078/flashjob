@@ -1,5 +1,69 @@
 [
   {
+    "id": "jf-857c447c28",
+    "titre": "AI Engineer Data APIs",
+    "entreprise": "Benzinga",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "video",
+      "engineer"
+    ],
+    "resume_neutre": "AI Engineer Data APIs chez Benzinga, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-857c447c28"
+  },
+  {
+    "id": "jf-94361efa34",
+    "titre": "GTM",
+    "entreprise": "Wonderful",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "sys admin",
+      "technical",
+      "marketing"
+    ],
+    "resume_neutre": "GTM chez Wonderful, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-94361efa34"
+  },
+  {
+    "id": "jf-5dfb52f4d2",
+    "titre": "Professional PAT Tester",
+    "entreprise": "Guardian Electrical Compliance Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Microsoft",
+    "remote": true,
+    "competences": [
+      "microsoft",
+      "testing",
+      "sys admin",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Professional PAT Tester chez Guardian Electrical Compliance Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-5dfb52f4d2"
+  },
+  {
     "id": "ma-aa1e5c63dd",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5507,64 +5571,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-27",
     "ref_unique": "jf-32a2d8d55f"
-  },
-  {
-    "id": "jf-246a050bc5",
-    "titre": "Test Job",
-    "entreprise": "Leena AI",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Test Job chez Leena AI, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-job-leena-ai-1137142",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-26",
-    "ref_unique": "jf-246a050bc5"
-  },
-  {
-    "id": "jf-2ebbb281cf",
-    "titre": "OVERNIGHT SHIFT Retail Merchandiser",
-    "entreprise": "Bass Pro Shops",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Supervisor",
-    "remote": true,
-    "competences": [
-      "supervisor",
-      "customer support",
-      "ads",
-      "exec",
-      "ops"
-    ],
-    "resume_neutre": "OVERNIGHT SHIFT Retail Merchandiser chez Bass Pro Shops, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-26",
-    "ref_unique": "jf-2ebbb281cf"
-  },
-  {
-    "id": "jf-8746e55231",
-    "titre": "Find a job 3rd comi",
-    "entreprise": "Lemon Tree Premier",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Find a job 3rd comi chez Lemon Tree Premier, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-find-a-job-3rd-comi-lemon-tree-premier-1137127",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-26",
-    "ref_unique": "jf-8746e55231"
   }
 ]
