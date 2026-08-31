@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-8de7f72cec",
+    "titre": "MOT Tester",
+    "entreprise": "Mr Clutch Autocentres",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "sys admin",
+      "education",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "MOT Tester chez Mr Clutch Autocentres, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-8de7f72cec"
+  },
+  {
+    "id": "jf-1c9f783fb8",
+    "titre": "Shunter",
+    "entreprise": "Stobart",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "scheme",
+      "ops",
+      "legal",
+      "medical"
+    ],
+    "resume_neutre": "Shunter chez Stobart, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-1c9f783fb8"
+  },
+  {
+    "id": "jf-8ec9d58f8d",
+    "titre": "Customer Service Agent",
+    "entreprise": "Thrifty Car and Van Rental",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "sys admin",
+      "education",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "Customer Service Agent chez Thrifty Car and Van Rental, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-8ec9d58f8d"
+  },
+  {
+    "id": "jf-ff3339ba62",
+    "titre": "Handyperson",
+    "entreprise": "Wellburn Care Homes Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "C",
+    "remote": true,
+    "competences": [
+      "c",
+      "scheme",
+      "ops",
+      "legal",
+      "medical"
+    ],
+    "resume_neutre": "Handyperson chez Wellburn Care Homes Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyperson-wellburn-care-homes-ltd-1137217",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-ff3339ba62"
+  },
+  {
+    "id": "jf-c11b1fb10d",
+    "titre": "Assistant Manager",
+    "entreprise": "Clarks International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "sys admin",
+      "education",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "Assistant Manager chez Clarks International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-manager-clarks-international-1137220",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-c11b1fb10d"
+  },
+  {
+    "id": "jf-0f9431a617",
+    "titre": "Wireperson",
+    "entreprise": "TRANT ENGINEERING LIMITED",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "sys admin",
+      "education",
+      "finance",
+      "scheme"
+    ],
+    "resume_neutre": "Wireperson chez TRANT ENGINEERING LIMITED, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-08-31",
+    "ref_unique": "jf-0f9431a617"
+  },
+  {
     "id": "ma-845113eca0",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5463,113 +5595,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-26",
     "ref_unique": "ma-90740349e6"
-  },
-  {
-    "id": "ma-9bc4a00412",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=4&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=8097&relb=100&brelb=100&bscr=2123.7036&scr=2123.7036",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-9bc4a00412"
-  },
-  {
-    "id": "ma-82222bb0cf",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=5&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=8097&relb=100&brelb=100&bscr=1847.5582&scr=1847.5582000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-82222bb0cf"
-  },
-  {
-    "id": "ma-2adbbbb593",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=6&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=289&relb=140&brelb=100&bscr=248.85167&scr=348.392338",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-2adbbbb593"
-  },
-  {
-    "id": "ma-ee91d95ed7",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=7&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=35&relb=110&brelb=110&bscr=281.09937&scr=281.09937",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-ee91d95ed7"
-  },
-  {
-    "id": "ma-8f5696c176",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=8&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=35&relb=110&brelb=110&bscr=280.33325&scr=280.33325",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-8f5696c176"
-  },
-  {
-    "id": "ma-f1491e6b94",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=9&elckey=4156617966822026548&p=1&aq=7590988924429063456&cid=20&jobAge=35&relb=110&brelb=110&bscr=276.68732&scr=276.68732",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-26",
-    "ref_unique": "ma-f1491e6b94"
   }
 ]
