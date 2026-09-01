@@ -1,5 +1,144 @@
 [
   {
+    "id": "jf-f3b2d681c4",
+    "titre": "Construction Estimator",
+    "entreprise": "Streamline Search",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "infosec",
+      "music",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Construction Estimator chez Streamline Search, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-construction-estimator-streamline-search-1137238",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-f3b2d681c4"
+  },
+  {
+    "id": "jf-fc3f97c2a0",
+    "titre": "Kitchen Porter W Edinburgh",
+    "entreprise": "W Hotels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "infosec",
+      "music",
+      "education",
+      "exec"
+    ],
+    "resume_neutre": "Kitchen Porter W Edinburgh chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-w-edinburgh-w-hotels-1137237",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-fc3f97c2a0"
+  },
+  {
+    "id": "jf-9f55b6076f",
+    "titre": "Delivery Driver",
+    "entreprise": "The Drinks LLAB",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Delivery Driver chez The Drinks LLAB, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-delivery-driver-the-drinks-llab-1137242",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-9f55b6076f"
+  },
+  {
+    "id": "jf-fbc8b7645b",
+    "titre": "Estimator",
+    "entreprise": "Fifth Avenue Properties / Fifth Avenue Homes",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "Estimator chez Fifth Avenue Properties / Fifth Avenue Homes, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-fifth-avenue-properties-fifth-avenue-homes-1137236",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-fbc8b7645b"
+  },
+  {
+    "id": "jf-558b869eed",
+    "titre": "Picker",
+    "entreprise": "Vashi Integrated Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "Picker chez Vashi Integrated Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-picker-vashi-integrated-solutions-1137239",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-558b869eed"
+  },
+  {
+    "id": "jf-5a8a96feb5",
+    "titre": "Fire Officer",
+    "entreprise": "JLL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "exec",
+      "ops",
+      "engineer"
+    ],
+    "resume_neutre": "Fire Officer chez JLL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-fire-officer-jll-1137230",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-5a8a96feb5"
+  },
+  {
+    "id": "jf-4aeb5106cd",
+    "titre": "Parts Person",
+    "entreprise": "AMA Group Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Parts Person chez AMA Group Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-parts-person-ama-group-ltd-1137250",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-4aeb5106cd"
+  },
+  {
     "id": "ma-b4ef2f7016",
     "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
     "entreprise": "TELUS Digital",
@@ -5427,148 +5566,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-27",
     "ref_unique": "jf-ce6a0ea7d4"
-  },
-  {
-    "id": "jf-84ea1d8be2",
-    "titre": "Course Director UX UI and AI",
-    "entreprise": "Interaction Design Foundation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "design",
-      "content writing"
-    ],
-    "resume_neutre": "Course Director UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-84ea1d8be2"
-  },
-  {
-    "id": "jf-7b43a0b1e1",
-    "titre": "Education Designer UX UI and AI",
-    "entreprise": "Interaction Design Foundation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "content writing",
-      "education"
-    ],
-    "resume_neutre": "Education Designer UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-7b43a0b1e1"
-  },
-  {
-    "id": "jf-6654e2b1b5",
-    "titre": "Course Writer and Editor UX UI and AI",
-    "entreprise": "Interaction Design Foundation",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "content writing"
-    ],
-    "resume_neutre": "Course Writer and Editor UX UI and AI chez Interaction Design Foundation, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-6654e2b1b5"
-  },
-  {
-    "id": "jf-e43c87f4a3",
-    "titre": "Mail Sorter",
-    "entreprise": "Geelong Careers",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "dev",
-      "marketing",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "Mail Sorter chez Geelong Careers, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-e43c87f4a3"
-  },
-  {
-    "id": "jf-c79df28429",
-    "titre": "Team Manager Newtownards Extra",
-    "entreprise": "Tesco",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "customer support",
-      "testing",
-      "finance",
-      "sales"
-    ],
-    "resume_neutre": "Team Manager Newtownards Extra chez Tesco, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-c79df28429"
-  },
-  {
-    "id": "jf-9bf08e3b63",
-    "titre": "General Interest Position",
-    "entreprise": "Coogee Chemicals",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "dev",
-      "marketing",
-      "finance",
-      "exec"
-    ],
-    "resume_neutre": "General Interest Position chez Coogee Chemicals, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-9bf08e3b63"
-  },
-  {
-    "id": "ma-ba038e619e",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=1&elckey=-1831247917512517363&p=1&aq=7372321270031309939&cid=20&jobAge=262&relb=110&brelb=110&bscr=2577.562&scr=2577.562",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-27",
-    "ref_unique": "ma-ba038e619e"
   }
 ]
