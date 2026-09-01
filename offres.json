@@ -1,5 +1,47 @@
 [
   {
+    "id": "jf-f4eed1c173",
+    "titre": "Commercial Building Estimator",
+    "entreprise": "Complex Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "customer support",
+      "microsoft",
+      "exec",
+      "junior"
+    ],
+    "resume_neutre": "Commercial Building Estimator chez Complex Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-f4eed1c173"
+  },
+  {
+    "id": "jf-bdfc9d9da2",
+    "titre": "ENTERPRISE ARCHITECT L0",
+    "entreprise": "Wipro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "design",
+      "digital nomad"
+    ],
+    "resume_neutre": "ENTERPRISE ARCHITECT L0 chez Wipro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-architect-l0-wipro-1137226",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-bdfc9d9da2"
+  },
+  {
     "id": "jf-857c447c28",
     "titre": "AI Engineer Data APIs",
     "entreprise": "Benzinga",
@@ -5530,46 +5572,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-27",
     "ref_unique": "jf-056a47d4e1"
-  },
-  {
-    "id": "jf-1113c4b0cc",
-    "titre": "Video Editor",
-    "entreprise": "Locals",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "travel",
-      "speech",
-      "video",
-      "content writing"
-    ],
-    "resume_neutre": "Video Editor chez Locals, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-1113c4b0cc"
-  },
-  {
-    "id": "jf-32a2d8d55f",
-    "titre": "Appliance Sales Specialist",
-    "entreprise": "The Home Depot Canada",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales",
-      "non tech"
-    ],
-    "resume_neutre": "Appliance Sales Specialist chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-appliance-sales-specialist-the-home-depot-canada-1137160",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-32a2d8d55f"
   }
 ]
