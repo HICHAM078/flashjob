@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-1d3e6cebf5",
+    "titre": "Job Role",
+    "entreprise": "Tap Growth ai",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Job Role chez Tap Growth ai, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-role-tap-growth-ai-1137246",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-1d3e6cebf5"
+  },
+  {
+    "id": "jf-e12295673b",
+    "titre": "Business Analyst IT",
+    "entreprise": "Gildan",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "embedded",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Business Analyst IT chez Gildan, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-analyst-it-gildan-1137243",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-e12295673b"
+  },
+  {
+    "id": "jf-b847d7c4a7",
+    "titre": "Plant Fitter",
+    "entreprise": "Linsco Ltd",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Plant Fitter chez Linsco Ltd, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-b847d7c4a7"
+  },
+  {
+    "id": "jf-04fc4a179c",
+    "titre": "Airport Ground Staff Customer Service Associate",
+    "entreprise": "Fronix Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Airport Ground Staff Customer Service Associate chez Fronix Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-01",
+    "ref_unique": "jf-04fc4a179c"
+  },
+  {
     "id": "jf-f3b2d681c4",
     "titre": "Construction Estimator",
     "entreprise": "Streamline Search",
@@ -5489,82 +5573,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-28",
     "ref_unique": "jf-43e1f0cd56"
-  },
-  {
-    "id": "jf-a77acd1d01",
-    "titre": "Don't see a role for you",
-    "entreprise": "Carv",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "Don't see a role for you chez Carv, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-a77acd1d01"
-  },
-  {
-    "id": "jf-c2ccfab66e",
-    "titre": "Equipment Maintenance",
-    "entreprise": "JD.COM",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "ops",
-      "sys admin"
-    ],
-    "resume_neutre": "Equipment Maintenance chez JD.COM, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-c2ccfab66e"
-  },
-  {
-    "id": "jf-1e3c8f73a8",
-    "titre": "N A",
-    "entreprise": "Intuit",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Tech",
-    "remote": true,
-    "competences": [
-      "Voir l'offre sur la source"
-    ],
-    "resume_neutre": "N A chez Intuit, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-n-a-intuit-1137159",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-1e3c8f73a8"
-  },
-  {
-    "id": "jf-ce6a0ea7d4",
-    "titre": "Various roles",
-    "entreprise": "Sherborne Schools Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "ops",
-      "sys admin",
-      "education"
-    ],
-    "resume_neutre": "Various roles chez Sherborne Schools Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-various-roles-sherborne-schools-group-1137152",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-27",
-    "ref_unique": "jf-ce6a0ea7d4"
   }
 ]
