@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-e06557d585",
+    "titre": "Produce Clerk",
+    "entreprise": "Food Basics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "customer support",
+      "education",
+      "exec",
+      "sales"
+    ],
+    "resume_neutre": "Produce Clerk chez Food Basics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-e06557d585"
+  },
+  {
+    "id": "jf-93a480ecfb",
+    "titre": "Assistant Store Manager Puerto Rico Premium Outlets",
+    "entreprise": "Brooks Brothers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "virtual assistant",
+      "hr",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Assistant Store Manager Puerto Rico Premium Outlets chez Brooks Brothers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-puerto-rico-premium-outlets-brooks-brothers-1137241",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-93a480ecfb"
+  },
+  {
     "id": "jf-1d3e6cebf5",
     "titre": "Job Role",
     "entreprise": "Tap Growth ai",
@@ -5529,49 +5573,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-28",
     "ref_unique": "jf-e8deb991a4"
-  },
-  {
-    "id": "jf-871a61ecc5",
-    "titre": "Senior Level Designer",
-    "entreprise": "Blackbird Interactive",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "game dev",
-      "designer",
-      "technical",
-      "customer support"
-    ],
-    "resume_neutre": "Senior Level Designer chez Blackbird Interactive, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-871a61ecc5"
-  },
-  {
-    "id": "jf-43e1f0cd56",
-    "titre": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-    "entreprise": "Tessera Labs",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "sys admin",
-      "consulting",
-      "testing",
-      "exec"
-    ],
-    "resume_neutre": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management chez Tessera Labs, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-43e1f0cd56"
   }
 ]
