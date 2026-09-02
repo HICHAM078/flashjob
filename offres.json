@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-b3e99b9dfa",
+    "titre": "FLM",
+    "entreprise": "Hovis Bakeries",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Scheme",
+    "remote": true,
+    "competences": [
+      "scheme",
+      "medical",
+      "engineer"
+    ],
+    "resume_neutre": "FLM chez Hovis Bakeries, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-flm-hovis-bakeries-1137262",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-b3e99b9dfa"
+  },
+  {
+    "id": "jf-d8fa95cbb8",
+    "titre": "Expression of Interest Canât see a role thatâs right for you",
+    "entreprise": "C2 Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Expression of Interest Canât see a role thatâs right for you chez C2 Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-d8fa95cbb8"
+  },
+  {
     "id": "jf-e06557d585",
     "titre": "Produce Clerk",
     "entreprise": "Food Basics",
@@ -5529,49 +5569,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-28",
     "ref_unique": "jf-1265a44613"
-  },
-  {
-    "id": "jf-977577ed12",
-    "titre": "Gardener",
-    "entreprise": "W Hotels",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "education",
-      "marketing",
-      "travel",
-      "scheme"
-    ],
-    "resume_neutre": "Gardener chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-977577ed12"
-  },
-  {
-    "id": "jf-e8deb991a4",
-    "titre": "Assistant Manager",
-    "entreprise": "Storage King Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing"
-    ],
-    "resume_neutre": "Assistant Manager chez Storage King Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-e8deb991a4"
   }
 ]
