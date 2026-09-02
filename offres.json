@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-012dd69b85",
+    "titre": "Vehicle Technician MOT Tester",
+    "entreprise": "Halfords",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Vehicle Technician MOT Tester chez Halfords, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-012dd69b85"
+  },
+  {
+    "id": "jf-09346d67ba",
+    "titre": "Carpenter",
+    "entreprise": "St. Regis Hotels &amp; Resorts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Carpenter chez St. Regis Hotels &amp; Resorts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-carpenter-st-regis-hotels-amp-resorts-1137253",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-09346d67ba"
+  },
+  {
+    "id": "jf-a24e7525a7",
+    "titre": "Assistant Housekeeping Manager",
+    "entreprise": "Marriott International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Assistant Housekeeping Manager chez Marriott International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-assistant-housekeeping-manager-marriott-international-1137255",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-a24e7525a7"
+  },
+  {
+    "id": "jf-bf36f8586a",
+    "titre": "Maintenance Technician 40hrs week",
+    "entreprise": "Delta Hotels by Marriott Edinburgh",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Maintenance Technician 40hrs week chez Delta Hotels by Marriott Edinburgh, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-bf36f8586a"
+  },
+  {
     "id": "ma-4cd10b37aa",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5490,78 +5578,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-28",
     "ref_unique": "jf-2dba6f46e9"
-  },
-  {
-    "id": "jf-875e10b851",
-    "titre": "Test",
-    "entreprise": "Larsen &amp; Toubro",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Test chez Larsen &amp; Toubro, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-test-larsen-amp-toubro-1137178",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-875e10b851"
-  },
-  {
-    "id": "ma-5bde99522b",
-    "titre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN)",
-    "entreprise": "TELUS Digital",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "#TELUS Digital /Offre d’emploi : Télévendeurs bilingue (FR/EN) chez TELUS Digital, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8717689617624345809?ckey=emploi&rgn=0&pos=1&elckey=-5321394563091750700&p=1&aq=-6367022557303657072&cid=20&jobAge=287&relb=110&brelb=110&bscr=2628.9036&scr=2628.9036",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-28",
-    "ref_unique": "ma-5bde99522b"
-  },
-  {
-    "id": "ma-8cf5e76e64",
-    "titre": "Opportunité d’Emploi - Mission Recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d’Emploi - Mission Recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2105004106005973467?ckey=emploi&rgn=0&pos=2&elckey=-5321394563091750700&p=1&aq=-6367022557303657072&cid=20&jobAge=47&relb=110&brelb=110&bscr=2566.1667&scr=2566.1667",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-28",
-    "ref_unique": "ma-8cf5e76e64"
-  },
-  {
-    "id": "ma-203dc179a8",
-    "titre": "Offre d’Emploi : Développeur Senior",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’Emploi : Développeur Senior chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4744765883913505841?ckey=emploi&rgn=0&pos=3&elckey=-5321394563091750700&p=1&aq=-6367022557303657072&cid=20&jobAge=215&relb=110&brelb=110&bscr=2559.0803&scr=2559.0803",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-28",
-    "ref_unique": "ma-203dc179a8"
   }
 ]
