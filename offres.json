@@ -1,5 +1,136 @@
 [
   {
+    "id": "jf-c71f18c04d",
+    "titre": "Domestic",
+    "entreprise": "NT Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "customer support",
+      "medical",
+      "non tech"
+    ],
+    "resume_neutre": "Domestic chez NT Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-c71f18c04d"
+  },
+  {
+    "id": "jf-1eb08f3866",
+    "titre": "Joiner",
+    "entreprise": "City of York Council",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Scheme",
+    "remote": true,
+    "competences": [
+      "scheme",
+      "medical",
+      "engineer",
+      "customer support",
+      "c"
+    ],
+    "resume_neutre": "Joiner chez City of York Council, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-1eb08f3866"
+  },
+  {
+    "id": "jf-ded8f58f22",
+    "titre": "H&amp;M Visual Merchandiser Plaza del Sol",
+    "entreprise": "H&amp;M",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "designer",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "H&amp;M Visual Merchandiser Plaza del Sol chez H&amp;M, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-ded8f58f22"
+  },
+  {
+    "id": "jf-248a4aef00",
+    "titre": "JANITOR",
+    "entreprise": "Buffalo Wild Wings - Fralich, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "vfx",
+      "customer support",
+      "dev",
+      "non tech"
+    ],
+    "resume_neutre": "JANITOR chez Buffalo Wild Wings - Fralich, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-248a4aef00"
+  },
+  {
+    "id": "jf-2dd9e466fa",
+    "titre": "handyman woman",
+    "entreprise": "The Russell Inn Hotel &amp; Conference Centre",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "customer support",
+      "education",
+      "medical"
+    ],
+    "resume_neutre": "handyman woman chez The Russell Inn Hotel &amp; Conference Centre, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-woman-the-russell-inn-hotel-amp-conference-centre-1137282",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-2dd9e466fa"
+  },
+  {
+    "id": "jf-462cd22820",
+    "titre": "Rural and Suburban Mail Carrier",
+    "entreprise": "Canada Post / Postes Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "customer support",
+      "education",
+      "medical"
+    ],
+    "resume_neutre": "Rural and Suburban Mail Carrier chez Canada Post / Postes Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-02",
+    "ref_unique": "jf-462cd22820"
+  },
+  {
     "id": "jf-012dd69b85",
     "titre": "Vehicle Technician MOT Tester",
     "entreprise": "Halfords",
@@ -5448,135 +5579,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-28",
     "ref_unique": "jf-0995bfb540"
-  },
-  {
-    "id": "jf-40b359f803",
-    "titre": "Vehicle Progressor",
-    "entreprise": "Vertu Motors plc",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "hr",
-      "education",
-      "game dev",
-      "customer support"
-    ],
-    "resume_neutre": "Vehicle Progressor chez Vertu Motors plc, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-vehicle-progressor-vertu-motors-plc-1137176",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-40b359f803"
-  },
-  {
-    "id": "jf-462c1ac9bc",
-    "titre": "Programmatic Campaign Operations Specialist Trader",
-    "entreprise": "VirtuHire",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Amazon",
-    "remote": true,
-    "competences": [
-      "amazon",
-      "technical",
-      "customer support",
-      "quality assurance",
-      "video"
-    ],
-    "resume_neutre": "Programmatic Campaign Operations Specialist Trader chez VirtuHire, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-462c1ac9bc"
-  },
-  {
-    "id": "jf-4cde46d00d",
-    "titre": "Journeyman I P",
-    "entreprise": "Wood",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "consulting",
-      "exec",
-      "ops",
-      "engineer"
-    ],
-    "resume_neutre": "Journeyman I P chez Wood, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-journeyman-i-p-wood-1137197",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-4cde46d00d"
-  },
-  {
-    "id": "jf-727f323f6c",
-    "titre": "People Director",
-    "entreprise": "Sisal Hub Albania",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "hr",
-      "education",
-      "game dev",
-      "customer support"
-    ],
-    "resume_neutre": "People Director chez Sisal Hub Albania, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-people-director-sisal-hub-albania-1137175",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-727f323f6c"
-  },
-  {
-    "id": "jf-de6d93ac06",
-    "titre": "Health Safety Environment",
-    "entreprise": "JAI HANUMAN UDYOG LIMITED",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech",
-      "medical"
-    ],
-    "resume_neutre": "Health Safety Environment chez JAI HANUMAN UDYOG LIMITED, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-health-safety-environment-jai-hanuman-udyog-limited-1137180",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-de6d93ac06"
-  },
-  {
-    "id": "jf-2dba6f46e9",
-    "titre": "Sourcer Private Destinations",
-    "entreprise": "Royal Caribbean Group",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sys Admin",
-    "remote": true,
-    "competences": [
-      "sys admin",
-      "sourcer",
-      "customer support",
-      "dev",
-      "exec"
-    ],
-    "resume_neutre": "Sourcer Private Destinations chez Royal Caribbean Group, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-2dba6f46e9"
   }
 ]
