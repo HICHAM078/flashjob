@@ -1,5 +1,108 @@
 [
   {
+    "id": "jf-3ada642b5d",
+    "titre": "Amazon Specialist",
+    "entreprise": "Volar Fashion",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon"
+    ],
+    "resume_neutre": "Amazon Specialist chez Volar Fashion, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-amazon-specialist-volar-fashion-1137268",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-3ada642b5d"
+  },
+  {
+    "id": "jf-08b6684c23",
+    "titre": "Store Manager Port Macquarie",
+    "entreprise": "Ampol",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "testing",
+      "exec",
+      "full time",
+      "marketing"
+    ],
+    "resume_neutre": "Store Manager Port Macquarie chez Ampol, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-ampol-1137295",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-08b6684c23"
+  },
+  {
+    "id": "jf-dfe11e03f2",
+    "titre": "Multi Skilled Maintenance Technician",
+    "entreprise": "Sigma",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "customer support",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Multi Skilled Maintenance Technician chez Sigma, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-dfe11e03f2"
+  },
+  {
+    "id": "jf-da02832867",
+    "titre": "Chief Steward",
+    "entreprise": "W Hotels",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "customer support",
+      "exec"
+    ],
+    "resume_neutre": "Chief Steward chez W Hotels, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-da02832867"
+  },
+  {
+    "id": "jf-47c402b0c0",
+    "titre": "Mapping Test via Sandra",
+    "entreprise": "Ennismore",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "exec",
+      "testing"
+    ],
+    "resume_neutre": "Mapping Test via Sandra chez Ennismore, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-47c402b0c0"
+  },
+  {
     "id": "jf-111cd1f825",
     "titre": "Field Officer Bendigo",
     "entreprise": "Department of Justice and Community Safety, Victoria",
@@ -5481,106 +5584,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-29",
     "ref_unique": "ma-264f09ad41"
-  },
-  {
-    "id": "ma-3fd7091605",
-    "titre": "Consultant N1/N2",
-    "entreprise": "Consort Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant N1/N2 chez Consort Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/77569997315182684?ckey=informatique&rgn=0&pos=12&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=65&relb=110&brelb=110&bscr=257.64053&scr=257.64053",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-3fd7091605"
-  },
-  {
-    "id": "jf-e41de80010",
-    "titre": "handyman woman",
-    "entreprise": "Royal Lepage Icon Realty",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "education",
-      "medical",
-      "non tech"
-    ],
-    "resume_neutre": "handyman woman chez Royal Lepage Icon Realty, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-e41de80010"
-  },
-  {
-    "id": "jf-e4a89f0fe0",
-    "titre": "åæ",
-    "entreprise": "Stanley Black &amp; Decker, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Marketing",
-    "remote": true,
-    "competences": [
-      "marketing",
-      "non tech"
-    ],
-    "resume_neutre": "åæ chez Stanley Black &amp; Decker, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-e4a89f0fe0"
-  },
-  {
-    "id": "jf-d3943a6dac",
-    "titre": "Donât see your role Apply here",
-    "entreprise": "Atreides",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Travel",
-    "remote": true,
-    "competences": [
-      "travel",
-      "exec",
-      "ops",
-      "medical"
-    ],
-    "resume_neutre": "Donât see your role Apply here chez Atreides, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-d3943a6dac"
-  },
-  {
-    "id": "jf-eabe09b343",
-    "titre": "English Teacher",
-    "entreprise": "Pembroke School",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "sys admin",
-      "customer support",
-      "marketing",
-      "c"
-    ],
-    "resume_neutre": "English Teacher chez Pembroke School, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-english-teacher-pembroke-school-1137182",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-eabe09b343"
   }
 ]
