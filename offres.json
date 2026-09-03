@@ -1,5 +1,110 @@
 [
   {
+    "id": "jf-2afc3045e7",
+    "titre": "Driver",
+    "entreprise": "St. George's University",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "teaching",
+      "supervisor",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Driver chez St. George's University, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-driver-st-georges-university-1137289",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-2afc3045e7"
+  },
+  {
+    "id": "jf-c2617195d0",
+    "titre": "Data Entry Clerk",
+    "entreprise": "Astrek Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Non Tech",
+    "remote": true,
+    "competences": [
+      "non tech",
+      "data entry",
+      "admin",
+      "ops"
+    ],
+    "resume_neutre": "Data Entry Clerk chez Astrek Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-c2617195d0"
+  },
+  {
+    "id": "jf-09e62897e0",
+    "titre": "Grades Person",
+    "entreprise": "Wilco Contractors Northwest Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Math",
+    "remote": true,
+    "competences": [
+      "math"
+    ],
+    "resume_neutre": "Grades Person chez Wilco Contractors Northwest Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-09e62897e0"
+  },
+  {
+    "id": "jf-4d874455ec",
+    "titre": "Service Sales Executive",
+    "entreprise": "Emplyfy",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "microsoft",
+      "excel",
+      "sales",
+      "exec"
+    ],
+    "resume_neutre": "Service Sales Executive chez Emplyfy, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-service-sales-executive-emplyfy-1137280",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-4d874455ec"
+  },
+  {
+    "id": "jf-d93af6189a",
+    "titre": "Regional Sales Manager",
+    "entreprise": "OrderYOYO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "scheme",
+      "mobile"
+    ],
+    "resume_neutre": "Regional Sales Manager chez OrderYOYO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-d93af6189a"
+  },
+  {
     "id": "jf-3ada642b5d",
     "titre": "Amazon Specialist",
     "entreprise": "Volar Fashion",
@@ -5494,95 +5599,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-29",
     "ref_unique": "ma-7b6a89e41f"
-  },
-  {
-    "id": "ma-adf2e65817",
-    "titre": "Acheteur ( H/F)",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur ( H/F) a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6970637143646398985?ckey=informatique&rgn=0&pos=7&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=41&relb=100&brelb=100&bscr=268.4723&scr=268.4723",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-adf2e65817"
-  },
-  {
-    "id": "ma-6c25c2cb86",
-    "titre": "Commerciaux francophones - télécom",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux francophones - télécom chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6972081568966477206?ckey=informatique&rgn=0&pos=8&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=41&relb=110&brelb=110&bscr=266.30023&scr=266.30023",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-6c25c2cb86"
-  },
-  {
-    "id": "ma-3251d69583",
-    "titre": "Conseillers commerciaux FAI - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FAI - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8278104816559239085?ckey=informatique&rgn=0&pos=9&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=65&relb=110&brelb=110&bscr=265.9225&scr=265.9225",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-3251d69583"
-  },
-  {
-    "id": "ma-66072e0d98",
-    "titre": "Acheteur",
-    "entreprise": "Total Energies",
-    "ville": "Assahrij",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur chez Total Energies, a Assahrij. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7065753835730074739?ckey=informatique&rgn=0&pos=10&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=41&relb=100&brelb=100&bscr=260.6126&scr=260.6126",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-66072e0d98"
-  },
-  {
-    "id": "ma-264f09ad41",
-    "titre": "CONSEILLER TECHNIQUE",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLER TECHNIQUE chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7999405080838451281?ckey=informatique&rgn=0&pos=11&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=545&relb=110&brelb=110&bscr=260.46985&scr=260.46985",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-264f09ad41"
   }
 ]
