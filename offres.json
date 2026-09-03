@@ -1,5 +1,114 @@
 [
   {
+    "id": "jf-111cd1f825",
+    "titre": "Field Officer Bendigo",
+    "entreprise": "Department of Justice and Community Safety, Victoria",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "exec",
+      "medical",
+      "recruiter"
+    ],
+    "resume_neutre": "Field Officer Bendigo chez Department of Justice and Community Safety, Victoria, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-111cd1f825"
+  },
+  {
+    "id": "jf-a4cdc08fb3",
+    "titre": "Detailer",
+    "entreprise": "Go Auto",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "hr"
+    ],
+    "resume_neutre": "Detailer chez Go Auto, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-a4cdc08fb3"
+  },
+  {
+    "id": "jf-9134fb2861",
+    "titre": "Kitchen Technician",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "vfx",
+      "customer support",
+      "dev",
+      "non tech"
+    ],
+    "resume_neutre": "Kitchen Technician chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-9134fb2861"
+  },
+  {
+    "id": "jf-2fcadcd07d",
+    "titre": "Vehicle Detailer",
+    "entreprise": "Clutch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "hr"
+    ],
+    "resume_neutre": "Vehicle Detailer chez Clutch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-2fcadcd07d"
+  },
+  {
+    "id": "jf-c6dc6e9379",
+    "titre": "Payroll Clerk",
+    "entreprise": "PVH Group Inc",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "vfx",
+      "customer support",
+      "dev",
+      "non tech"
+    ],
+    "resume_neutre": "Payroll Clerk chez PVH Group Inc, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-03",
+    "ref_unique": "jf-c6dc6e9379"
+  },
+  {
     "id": "jf-c71f18c04d",
     "titre": "Domestic",
     "entreprise": "NT Health",
@@ -5473,111 +5582,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-08-29",
     "ref_unique": "jf-eabe09b343"
-  },
-  {
-    "id": "jf-4609f3363a",
-    "titre": "Cdp",
-    "entreprise": "Hilton Salwa Beach Resort &amp; Villas",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Testing",
-    "remote": true,
-    "competences": [
-      "testing",
-      "non tech"
-    ],
-    "resume_neutre": "Cdp chez Hilton Salwa Beach Resort &amp; Villas, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-4609f3363a"
-  },
-  {
-    "id": "jf-e06974dc8b",
-    "titre": "Meat and Seafood Clerk",
-    "entreprise": "Pete's Frootique",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Supervisor",
-    "remote": true,
-    "competences": [
-      "supervisor",
-      "web dev",
-      "exec",
-      "customer support",
-      "ops"
-    ],
-    "resume_neutre": "Meat and Seafood Clerk chez Pete's Frootique, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-e06974dc8b"
-  },
-  {
-    "id": "jf-a2884f1650",
-    "titre": "Receiver",
-    "entreprise": "Pete's Frootique",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Supervisor",
-    "remote": true,
-    "competences": [
-      "supervisor",
-      "web dev",
-      "exec",
-      "customer support",
-      "ops"
-    ],
-    "resume_neutre": "Receiver chez Pete's Frootique, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-29",
-    "ref_unique": "jf-a2884f1650"
-  },
-  {
-    "id": "jf-2cf89946d2",
-    "titre": "Store Manager",
-    "entreprise": "Crocs, Inc.",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec",
-      "sys admin",
-      "customer support",
-      "marketing",
-      "c"
-    ],
-    "resume_neutre": "Store Manager chez Crocs, Inc., poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-crocs-inc-1137181",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-2cf89946d2"
-  },
-  {
-    "id": "jf-0995bfb540",
-    "titre": "Database Administrator",
-    "entreprise": "TS Imagine",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Finance",
-    "remote": true,
-    "competences": [
-      "finance",
-      "dba",
-      "admin",
-      "non tech"
-    ],
-    "resume_neutre": "Database Administrator chez TS Imagine, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-database-administrator-ts-imagine-1137177",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-28",
-    "ref_unique": "jf-0995bfb540"
   }
 ]
