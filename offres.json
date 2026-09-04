@@ -1,5 +1,66 @@
 [
   {
+    "id": "jf-fee1094c5c",
+    "titre": "Public Area Attendant",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "legal",
+      "non tech"
+    ],
+    "resume_neutre": "Public Area Attendant chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-fee1094c5c"
+  },
+  {
+    "id": "jf-63fdee7240",
+    "titre": "Irrigation Technician",
+    "entreprise": "MSC Cruises",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "legal",
+      "non tech",
+      "sys admin"
+    ],
+    "resume_neutre": "Irrigation Technician chez MSC Cruises, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-63fdee7240"
+  },
+  {
+    "id": "jf-7a79735891",
+    "titre": "Job Summary",
+    "entreprise": "WorkaJobs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time"
+    ],
+    "resume_neutre": "Job Summary chez WorkaJobs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-7a79735891"
+  },
+  {
     "id": "jf-2afc3045e7",
     "titre": "Driver",
     "entreprise": "St. George's University",
@@ -5545,59 +5606,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-29",
     "ref_unique": "ma-bfb5c24631"
-  },
-  {
-    "id": "ma-cf0a9b8515",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=4&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=8174&relb=100&brelb=100&bscr=2081.055&scr=2081.055",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-cf0a9b8515"
-  },
-  {
-    "id": "ma-92552d7b03",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=5&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=8174&relb=100&brelb=100&bscr=1851.1643&scr=1851.1643",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-92552d7b03"
-  },
-  {
-    "id": "ma-7b6a89e41f",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=6&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=366&relb=140&brelb=100&bscr=245.90788&scr=344.271032",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-7b6a89e41f"
   }
 ]
