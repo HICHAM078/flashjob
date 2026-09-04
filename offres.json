@@ -1,5 +1,68 @@
 [
   {
+    "id": "jf-80371ad613",
+    "titre": "MRO Buyer",
+    "entreprise": "U.P.PRO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "MRO Buyer chez U.P.PRO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mro-buyer-u-p-pro-1137303",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-80371ad613"
+  },
+  {
+    "id": "jf-c74189965d",
+    "titre": "Urban walker",
+    "entreprise": "walkr - turn your Google Meet walk-friendly",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Time",
+    "remote": true,
+    "competences": [
+      "full time",
+      "part time"
+    ],
+    "resume_neutre": "Urban walker chez walkr - turn your Google Meet walk-friendly, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-urban-walker-walkr-turn-your-google-meet-walk-friendly-1137296",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-c74189965d"
+  },
+  {
+    "id": "jf-85e1714eb7",
+    "titre": "Office Maid",
+    "entreprise": "Hacksaw Gaming",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "game dev"
+    ],
+    "resume_neutre": "Office Maid chez Hacksaw Gaming, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-85e1714eb7"
+  },
+  {
     "id": "ma-79d1d7818d",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5533,59 +5596,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-30",
     "ref_unique": "ma-89985865a3"
-  },
-  {
-    "id": "ma-66c208f419",
-    "titre": "Conseiller technique",
-    "entreprise": "Intelcia",
-    "ville": "El Jadida",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller technique chez Intelcia, a El Jadida. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5059655003342570278?ckey=informatique&rgn=0&pos=10&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=328&relb=110&brelb=110&bscr=279.30212&scr=279.30212",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-66c208f419"
-  },
-  {
-    "id": "ma-28bb8d3ebb",
-    "titre": "Acheteur ( H/F)",
-    "entreprise": "Voir l'offre sur la source",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Acheteur ( H/F) a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6970637143646398985?ckey=informatique&rgn=0&pos=11&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=16&relb=100&brelb=100&bscr=273.20822&scr=273.20822",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-28bb8d3ebb"
-  },
-  {
-    "id": "ma-604f4bf241",
-    "titre": "Téléconseillers en réception d'appels - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Téléconseillers en réception d'appels - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4809022213914702002?ckey=informatique&rgn=0&pos=12&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=88&relb=110&brelb=110&bscr=272.42035&scr=272.42035",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-604f4bf241"
   }
 ]
