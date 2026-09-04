@@ -1,5 +1,86 @@
 [
   {
+    "id": "jf-cf860b4d14",
+    "titre": "Customer Support & Success Specialist",
+    "entreprise": "Warehance",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Customer Support & Success Specialist chez Warehance, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-cf860b4d14"
+  },
+  {
+    "id": "jf-2818c69ab0",
+    "titre": "Roupeiro Muro Alto PE",
+    "entreprise": "GAV Resorts",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Excel",
+    "remote": true,
+    "competences": [
+      "excel",
+      "non tech"
+    ],
+    "resume_neutre": "Roupeiro Muro Alto PE chez GAV Resorts, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-2818c69ab0"
+  },
+  {
+    "id": "jf-46cee647e6",
+    "titre": "QA Engineer",
+    "entreprise": "SunnyData",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "dev",
+      "testing",
+      "marketing",
+      "quality assurance"
+    ],
+    "resume_neutre": "QA Engineer chez SunnyData, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-46cee647e6"
+  },
+  {
+    "id": "jf-c0597193d7",
+    "titre": "Store Manager BOSS Store Plaza Las Americas",
+    "entreprise": "HUGO BOSS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "react",
+      "education",
+      "consulting",
+      "customer support"
+    ],
+    "resume_neutre": "Store Manager BOSS Store Plaza Las Americas chez HUGO BOSS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-c0597193d7"
+  },
+  {
     "id": "jf-80371ad613",
     "titre": "MRO Buyer",
     "entreprise": "U.P.PRO",
@@ -5524,77 +5605,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-30",
     "ref_unique": "ma-5af7ea9efb"
-  },
-  {
-    "id": "ma-35ee65b2db",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=6&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=390&relb=140&brelb=100&bscr=248.56569&scr=347.99196599999993",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-35ee65b2db"
-  },
-  {
-    "id": "ma-06203a5f5d",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=7&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=64&relb=110&brelb=110&bscr=288.05362&scr=288.05362",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-06203a5f5d"
-  },
-  {
-    "id": "ma-b4daa33a25",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=8&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=64&relb=110&brelb=110&bscr=286.57153&scr=286.57153",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-b4daa33a25"
-  },
-  {
-    "id": "ma-89985865a3",
-    "titre": "Assistante RH",
-    "entreprise": "MD CallCenter",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistante RH chez MD CallCenter, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5096683301685781977?ckey=informatique&rgn=0&pos=9&elckey=7032617347463197231&p=1&aq=1621414841048587085&cid=20&jobAge=64&relb=110&brelb=110&bscr=284.88248&scr=284.88248",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-30",
-    "ref_unique": "ma-89985865a3"
   }
 ]
