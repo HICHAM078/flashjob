@@ -1,5 +1,26 @@
 [
   {
+    "id": "jf-0fc88af824",
+    "titre": "Police Officer",
+    "entreprise": "Scottish Police Authority",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "recruiter",
+      "non tech"
+    ],
+    "resume_neutre": "Police Officer chez Scottish Police Authority, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-04",
+    "ref_unique": "jf-0fc88af824"
+  },
+  {
     "id": "jf-fee1094c5c",
     "titre": "Public Area Attendant",
     "entreprise": "Four Seasons",
@@ -5588,23 +5609,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-29",
     "ref_unique": "ma-7d99482fc8"
-  },
-  {
-    "id": "ma-bfb5c24631",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=3&elckey=3936429481380742981&p=1&aq=744260992671456513&cid=20&jobAge=8174&relb=100&brelb=100&bscr=2121.4138&scr=2121.4138",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-29",
-    "ref_unique": "ma-bfb5c24631"
   }
 ]
