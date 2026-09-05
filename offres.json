@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-d14286abb3",
+    "titre": "Junior Crypto Analyst & Trader",
+    "entreprise": "Empire Assets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "crypto",
+      "remote",
+      "trader",
+      "analyst"
+    ],
+    "resume_neutre": "Junior Crypto Analyst & Trader chez Empire Assets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-05",
+    "ref_unique": "jf-d14286abb3"
+  },
+  {
     "id": "ma-521dd8cf3e",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5563,23 +5585,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-08-31",
     "ref_unique": "ma-2ea0b8a5d5"
-  },
-  {
-    "id": "ma-77eca41be3",
-    "titre": "CONSEILLER TECHNIQUE",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLER TECHNIQUE chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7999405080838451281?ckey=informatique&rgn=0&pos=11&elckey=-7670053140198892064&p=1&aq=1586818709377829652&cid=20&jobAge=594&relb=110&brelb=110&bscr=261.16595&scr=261.16595",
-    "source_nom": "Jooble",
-    "date_pub": "2026-08-31",
-    "ref_unique": "ma-77eca41be3"
   }
 ]
