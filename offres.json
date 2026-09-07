@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-c11e3a62db",
+    "titre": "AI Response Analyst",
+    "entreprise": "iMerit Technology",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "quality assurance",
+      "ai"
+    ],
+    "resume_neutre": "AI Response Analyst chez iMerit Technology, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-07",
+    "ref_unique": "jf-c11e3a62db"
+  },
+  {
     "id": "ma-cd3b49892c",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5557,25 +5577,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-09-01",
     "ref_unique": "jf-bdfc9d9da2"
-  },
-  {
-    "id": "jf-857c447c28",
-    "titre": "AI Engineer Data APIs",
-    "entreprise": "Benzinga",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Golang",
-    "remote": true,
-    "competences": [
-      "golang",
-      "video",
-      "engineer"
-    ],
-    "resume_neutre": "AI Engineer Data APIs chez Benzinga, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-08-31",
-    "ref_unique": "jf-857c447c28"
   }
 ]
