@@ -1,5 +1,264 @@
 [
   {
+    "id": "jf-8291a32945",
+    "titre": "Deputy Corporate Officer",
+    "entreprise": "City of Kamloops",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "exec",
+      "c",
+      "education"
+    ],
+    "resume_neutre": "Deputy Corporate Officer chez City of Kamloops, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-deputy-corporate-officer-city-of-kamloops-1137327",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-8291a32945"
+  },
+  {
+    "id": "jf-4072d59880",
+    "titre": "Porter",
+    "entreprise": "Gather + Gather",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Porter chez Gather + Gather, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-porter-gather-gather-1137350",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-4072d59880"
+  },
+  {
+    "id": "jf-0d7b4ceddf",
+    "titre": "Campus testing",
+    "entreprise": "Birla Opus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "golang",
+      "testing"
+    ],
+    "resume_neutre": "Campus testing chez Birla Opus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-campus-testing-birla-opus-1137331",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-0d7b4ceddf"
+  },
+  {
+    "id": "jf-bae3e376ae",
+    "titre": "General Practitioner Cairns",
+    "entreprise": "Ausdocs Holdings Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "General Practitioner Cairns chez Ausdocs Holdings Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-bae3e376ae"
+  },
+  {
+    "id": "jf-f001129fde",
+    "titre": "General Practitioner Townsville",
+    "entreprise": "Ausdocs Holdings Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "General Practitioner Townsville chez Ausdocs Holdings Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-general-practitioner-townsville-ausdocs-holdings-group-1137342",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-f001129fde"
+  },
+  {
+    "id": "jf-608766110f",
+    "titre": "Collection and Delivery Driver",
+    "entreprise": "Parcelforce Worldwide",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Collection and Delivery Driver chez Parcelforce Worldwide, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-collection-and-delivery-driver-parcelforce-worldwide-1137352",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-608766110f"
+  },
+  {
+    "id": "jf-19b78b694f",
+    "titre": "Estimator",
+    "entreprise": "MEPJOBS UK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Estimator chez MEPJOBS UK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-estimator-mepjobs-uk-1137347",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-19b78b694f"
+  },
+  {
+    "id": "jf-0dfef146a1",
+    "titre": "Platypus Store Manager Doncaster",
+    "entreprise": "Platypus Shoes",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Platypus Store Manager Doncaster chez Platypus Shoes, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-doncaster-platypus-shoes-1137341",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-0dfef146a1"
+  },
+  {
+    "id": "jf-52a457e4f0",
+    "titre": "Maintenance Specialist",
+    "entreprise": "Kapsch Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "Maintenance Specialist chez Kapsch Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-52a457e4f0"
+  },
+  {
+    "id": "jf-2d40ba0c0e",
+    "titre": "RETAIL STORE MANAGER TAMWORTH",
+    "entreprise": "Spendless Shoes",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "microsoft",
+      "exec"
+    ],
+    "resume_neutre": "RETAIL STORE MANAGER TAMWORTH chez Spendless Shoes, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-2d40ba0c0e"
+  },
+  {
+    "id": "jf-73db81712d",
+    "titre": "Lead Go Getter",
+    "entreprise": "SGF Labs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Lead Go Getter chez SGF Labs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-go-getter-sgf-labs-1137330",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-73db81712d"
+  },
+  {
+    "id": "jf-7a0ff446cd",
+    "titre": "Prepper",
+    "entreprise": "HP4 RECRUITMENT LTD",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "testing",
+      "finance",
+      "sales"
+    ],
+    "resume_neutre": "Prepper chez HP4 RECRUITMENT LTD, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-prepper-hp4-recruitment-ltd-1137349",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-7a0ff446cd"
+  },
+  {
     "id": "jf-85d7aaed86",
     "titre": "Traffic Control Person",
     "entreprise": "AWP Safety",
@@ -5246,221 +5505,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-04",
     "ref_unique": "ma-7d320b007c"
-  },
-  {
-    "id": "ma-877bf8705a",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=6&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=88&relb=110&brelb=110&bscr=1758.0472&scr=1758.0472000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-877bf8705a"
-  },
-  {
-    "id": "ma-7f685acc21",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7915662939778803886?ckey=commercial&rgn=938&pos=7&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=40&relb=110&brelb=110&bscr=1729.8917&scr=1729.8917",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-7f685acc21"
-  },
-  {
-    "id": "ma-d298bdb31e",
-    "titre": "Conseillers Commerciaux en Assurance Décennale !",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers Commerciaux en Assurance Décennale ! chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5466358721660258183?ckey=commercial&rgn=938&pos=8&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=544&relb=110&brelb=110&bscr=1671.4344&scr=1671.4344",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-d298bdb31e"
-  },
-  {
-    "id": "ma-861a9dcfb2",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=9&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=64&relb=110&brelb=110&bscr=1665.0216&scr=1665.0215999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-861a9dcfb2"
-  },
-  {
-    "id": "ma-6ca3349992",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=10&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=40&relb=110&brelb=110&bscr=1659.9751&scr=1659.9750999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-6ca3349992"
-  },
-  {
-    "id": "ma-a4f15db7f4",
-    "titre": "Expert commercial - Upselling - Rémunération attractives",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expert commercial - Upselling - Rémunération attractives chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1135911196606696063?ckey=commercial&rgn=938&pos=11&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=280&relb=110&brelb=110&bscr=1649.2908&scr=1649.2908000000002",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-a4f15db7f4"
-  },
-  {
-    "id": "ma-42c8db6ccc",
-    "titre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé",
-    "entreprise": "R.Service",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Expérimentés en Emission d’appels ITALOPHONES à Salé chez R.Service, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/791812486710949407?ckey=commercial&rgn=938&pos=12&elckey=-5726555042090790430&p=1&aq=-8887449430360470672&cid=20&jobAge=40&relb=110&brelb=110&bscr=1648.1693&scr=1648.1693",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-42c8db6ccc"
-  },
-  {
-    "id": "ma-61f79da581",
-    "titre": "Technicien(ne) Support Informatique",
-    "entreprise": "Perfect Telemarketing",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien(ne) Support Informatique chez Perfect Telemarketing, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3027201859236144010?ckey=informatique&rgn=0&pos=1&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=16&relb=110&brelb=110&bscr=3052.7185&scr=3052.7185",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-61f79da581"
-  },
-  {
-    "id": "ma-db504ee0f2",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=2&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=40&relb=100&brelb=100&bscr=2869.1675&scr=2869.1675",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-db504ee0f2"
-  },
-  {
-    "id": "ma-ab8978ecf7",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=3&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=181&relb=100&brelb=100&bscr=2834.485&scr=2834.485",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-ab8978ecf7"
-  },
-  {
-    "id": "ma-6d9447f5c1",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=4&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=8317&relb=100&brelb=100&bscr=2124.2734&scr=2124.2734",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-6d9447f5c1"
-  },
-  {
-    "id": "ma-d09d7accdc",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=8317&relb=100&brelb=100&bscr=2065.7026&scr=2065.7026",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-d09d7accdc"
   }
 ]
