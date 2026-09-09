@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ac23e0844d",
+    "titre": "Social Comms",
+    "entreprise": "NOPE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "education",
+      "technical",
+      "content writing",
+      "social media"
+    ],
+    "resume_neutre": "Social Comms chez NOPE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-ac23e0844d"
+  },
+  {
     "id": "ma-3cc065c747",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5500,23 +5522,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-02",
     "ref_unique": "ma-7ae2ec867e"
-  },
-  {
-    "id": "ma-1bdb2e0a73",
-    "titre": "Comptable junior anglophone confirmé(e) - ifrs",
-    "entreprise": "Globe RH",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable junior anglophone confirmé(e) - ifrs chez Globe RH, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1724330499968979581?ckey=comptable&rgn=946&pos=10&elckey=-4231662676694080043&p=1&aq=-5591697802754158892&cid=20&jobAge=855&relb=100&brelb=100&bscr=1839.8723&scr=1839.8723",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-02",
-    "ref_unique": "ma-1bdb2e0a73"
   }
 ]
