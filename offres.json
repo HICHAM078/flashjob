@@ -1,5 +1,203 @@
 [
   {
+    "id": "jf-85d7aaed86",
+    "titre": "Traffic Control Person",
+    "entreprise": "AWP Safety",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "exec",
+      "c",
+      "education"
+    ],
+    "resume_neutre": "Traffic Control Person chez AWP Safety, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-traffic-control-person-awp-safety-1137326",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-85d7aaed86"
+  },
+  {
+    "id": "jf-c4ab1aeb0a",
+    "titre": "Baker",
+    "entreprise": "Ocean Hotels Group BARBADOS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Baker chez Ocean Hotels Group BARBADOS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-baker-ocean-hotels-group-barbados-1137318",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-c4ab1aeb0a"
+  },
+  {
+    "id": "jf-f732e7edc6",
+    "titre": "FOH",
+    "entreprise": "The Burger's Priest",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "exec",
+      "c",
+      "education"
+    ],
+    "resume_neutre": "FOH chez The Burger's Priest, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-foh-the-burgers-priest-1137328",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-f732e7edc6"
+  },
+  {
+    "id": "jf-bdab86d9a0",
+    "titre": "Security Guard",
+    "entreprise": "Royal Caribbean International",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Security Guard chez Royal Caribbean International, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-security-guard-royal-caribbean-international-1137323",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-bdab86d9a0"
+  },
+  {
+    "id": "jf-42a1f3930f",
+    "titre": "Diver",
+    "entreprise": "Amentum",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Diver chez Amentum, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1137316",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-42a1f3930f"
+  },
+  {
+    "id": "jf-534787afb4",
+    "titre": "Air Traffic Engineering Technician",
+    "entreprise": "Bermuda Airport Authority",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Air Traffic Engineering Technician chez Bermuda Airport Authority, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-air-traffic-engineering-technician-bermuda-airport-authority-1137322",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-534787afb4"
+  },
+  {
+    "id": "jf-1048f5c4f9",
+    "titre": "Houseman",
+    "entreprise": "Four Seasons",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "customer support",
+      "testing",
+      "video",
+      "ops"
+    ],
+    "resume_neutre": "Houseman chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-houseman-four-seasons-1137317",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-1048f5c4f9"
+  },
+  {
+    "id": "jf-e9f58324c9",
+    "titre": "Â SUPERVISEUR 26 27",
+    "entreprise": "The Home Depot Canada",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Testing",
+    "remote": true,
+    "competences": [
+      "testing",
+      "non tech",
+      "exec",
+      "c",
+      "education"
+    ],
+    "resume_neutre": "Â SUPERVISEUR 26 27 chez The Home Depot Canada, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1137329",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-e9f58324c9"
+  },
+  {
+    "id": "jf-63fdee7240",
+    "titre": "Irrigation Technician",
+    "entreprise": "MSC Cruises",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "legal",
+      "non tech",
+      "sys admin"
+    ],
+    "resume_neutre": "Irrigation Technician chez MSC Cruises, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-09",
+    "ref_unique": "jf-63fdee7240"
+  },
+  {
     "id": "ma-32072253d7",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5264,173 +5462,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-04",
     "ref_unique": "ma-d09d7accdc"
-  },
-  {
-    "id": "ma-3d0a998b6c",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=6&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=8317&relb=100&brelb=100&bscr=1826.009&scr=1826.009",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-3d0a998b6c"
-  },
-  {
-    "id": "ma-3d314fa209",
-    "titre": "PROFIL BILINGUE",
-    "entreprise": "Consultcollab",
-    "ville": "Télétravail",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PROFIL BILINGUE chez Consultcollab, a Télétravail. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1361372734075100905?ckey=informatique&rgn=0&pos=7&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=509&relb=140&brelb=100&bscr=234.43929&scr=328.215006",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-3d314fa209"
-  },
-  {
-    "id": "ma-f424cb39e0",
-    "titre": "Technicien Helpdesk",
-    "entreprise": "Consort Maroc",
-    "ville": "Maroc",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Helpdesk chez Consort Maroc, a Maroc. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2046828110984530269?ckey=informatique&rgn=0&pos=8&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=40&relb=110&brelb=110&bscr=279.07013&scr=279.07013",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-f424cb39e0"
-  },
-  {
-    "id": "ma-cbdf866bed",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=9&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=40&relb=110&brelb=110&bscr=275.99515&scr=275.99515",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-cbdf866bed"
-  },
-  {
-    "id": "ma-64b64f2b8a",
-    "titre": "Call ma nous recrutons à casablanca !",
-    "entreprise": "Call Ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Call ma nous recrutons à casablanca ! chez Call Ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6082437462003990062?ckey=informatique&rgn=0&pos=10&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=40&relb=110&brelb=110&bscr=272.17218&scr=272.17218",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-64b64f2b8a"
-  },
-  {
-    "id": "ma-7e703bee02",
-    "titre": "Recrutement - téléconseiller(e)",
-    "entreprise": "Var Partenaires",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Recrutement - téléconseiller(e) chez Var Partenaires, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6284493176044525376?ckey=informatique&rgn=0&pos=11&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=16&relb=110&brelb=110&bscr=272.10614&scr=272.10614",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-7e703bee02"
-  },
-  {
-    "id": "ma-b177ee0176",
-    "titre": "URGENT : Commerciaux francophones",
-    "entreprise": "Right Place Call Morocco",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "URGENT : Commerciaux francophones chez Right Place Call Morocco, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3108861841564716575?ckey=informatique&rgn=0&pos=12&elckey=6225924096691393986&p=1&aq=2294277442017408643&cid=20&jobAge=88&relb=110&brelb=110&bscr=260.64474&scr=260.64474",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-04",
-    "ref_unique": "ma-b177ee0176"
-  },
-  {
-    "id": "jf-0fc88af824",
-    "titre": "Police Officer",
-    "entreprise": "Scottish Police Authority",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "customer support",
-      "recruiter",
-      "non tech"
-    ],
-    "resume_neutre": "Police Officer chez Scottish Police Authority, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-09-04",
-    "ref_unique": "jf-0fc88af824"
-  },
-  {
-    "id": "jf-fee1094c5c",
-    "titre": "Public Area Attendant",
-    "entreprise": "Four Seasons",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "supervisor",
-      "legal",
-      "non tech"
-    ],
-    "resume_neutre": "Public Area Attendant chez Four Seasons, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-09-04",
-    "ref_unique": "jf-fee1094c5c"
   }
 ]
