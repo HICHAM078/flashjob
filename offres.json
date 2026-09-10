@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-2007e18e1a",
+    "titre": "Business Development Manager",
+    "entreprise": "Libertex Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "crypto",
+      "marketing"
+    ],
+    "resume_neutre": "Business Development Manager chez Libertex Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-10",
+    "ref_unique": "jf-2007e18e1a"
+  },
+  {
+    "id": "jf-d5284ca888",
+    "titre": "Quality Dispense Technician North",
+    "entreprise": "Thatchers Cider",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "marketing",
+      "finance",
+      "exec",
+      "excel"
+    ],
+    "resume_neutre": "Quality Dispense Technician North chez Thatchers Cider, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-10",
+    "ref_unique": "jf-d5284ca888"
+  },
+  {
+    "id": "jf-cf860b4d14",
+    "titre": "Customer Support & Success Specialist",
+    "entreprise": "Warehance",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Customer Support & Success Specialist chez Warehance, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-10",
+    "ref_unique": "jf-cf860b4d14"
+  },
+  {
+    "id": "jf-46cee647e6",
+    "titre": "QA Engineer",
+    "entreprise": "SunnyData",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Technical",
+    "remote": true,
+    "competences": [
+      "technical",
+      "dev",
+      "testing",
+      "marketing",
+      "quality assurance"
+    ],
+    "resume_neutre": "QA Engineer chez SunnyData, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-10",
+    "ref_unique": "jf-46cee647e6"
+  },
+  {
     "id": "ma-b2e9fb5d32",
     "titre": "Opportunité d’Emploi - Mission Recouvrement",
     "entreprise": "Great Call",
@@ -5463,77 +5547,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-05",
     "ref_unique": "ma-5b06f739e4"
-  },
-  {
-    "id": "ma-bdab4dfd9e",
-    "titre": "Consultant Comptable senior H/F",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable senior H/F chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7076118098174475351?ckey=comptable&rgn=946&pos=6&elckey=-3020846044503177568&p=1&aq=-7667873331357918672&cid=20&jobAge=783&relb=100&brelb=100&bscr=2186.2378&scr=2186.2378",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-05",
-    "ref_unique": "ma-bdab4dfd9e"
-  },
-  {
-    "id": "ma-e4165a5bbd",
-    "titre": "Comptable - Casablanca",
-    "entreprise": "Thaïs",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable - Casablanca chez Thaïs, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4726588517602777079?ckey=comptable&rgn=946&pos=7&elckey=-3020846044503177568&p=1&aq=-7667873331357918672&cid=20&jobAge=1020&relb=100&brelb=100&bscr=2141.6619&scr=2141.6619",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-05",
-    "ref_unique": "ma-e4165a5bbd"
-  },
-  {
-    "id": "ma-db9536ab05",
-    "titre": "Comptable Confirmé(e)",
-    "entreprise": "HOTIN",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Confirmé(e) chez HOTIN, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4800876708376601455?ckey=comptable&rgn=946&pos=8&elckey=-3020846044503177568&p=1&aq=-7667873331357918672&cid=20&jobAge=783&relb=100&brelb=100&bscr=2043.1034&scr=2043.1034",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-05",
-    "ref_unique": "ma-db9536ab05"
-  },
-  {
-    "id": "ma-7a963a3a95",
-    "titre": "Comptable général junior - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable général junior - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8666842929458320144?ckey=comptable&rgn=946&pos=9&elckey=-3020846044503177568&p=1&aq=-7667873331357918672&cid=20&jobAge=1356&relb=100&brelb=100&bscr=1985.8821&scr=1985.8820999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-05",
-    "ref_unique": "ma-7a963a3a95"
   }
 ]
