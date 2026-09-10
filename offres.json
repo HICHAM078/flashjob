@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-cb8780cae3",
+    "titre": "Senior Governance Risk and Compliance Analyst",
+    "entreprise": "RainFocus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "design",
+      "saas",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Senior Governance Risk and Compliance Analyst chez RainFocus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-10",
+    "ref_unique": "jf-cb8780cae3"
+  },
+  {
     "id": "jf-2007e18e1a",
     "titre": "Business Development Manager",
     "entreprise": "Libertex Group",
@@ -5529,23 +5551,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-05",
     "ref_unique": "ma-4ff8ee9a5e"
-  },
-  {
-    "id": "ma-5b06f739e4",
-    "titre": "Comptable",
-    "entreprise": "Cash Plus",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1712050579712721577?ckey=comptable&rgn=946&pos=5&elckey=-3020846044503177568&p=1&aq=-7667873331357918672&cid=20&jobAge=900&relb=100&brelb=100&bscr=2349.7034&scr=2349.7034",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-05",
-    "ref_unique": "ma-5b06f739e4"
   }
 ]
