@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-d14286abb3",
+    "titre": "Junior Crypto Analyst & Trader",
+    "entreprise": "Empire Assets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Part Time",
+    "remote": true,
+    "competences": [
+      "part time",
+      "junior",
+      "analyst",
+      "crypto",
+      "other"
+    ],
+    "resume_neutre": "Junior Crypto Analyst & Trader chez Empire Assets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-11",
+    "ref_unique": "jf-d14286abb3"
+  },
+  {
     "id": "ma-89a7e119ce",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5529,23 +5551,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-06",
     "ref_unique": "ma-121423fe6d"
-  },
-  {
-    "id": "ma-1daef9732c",
-    "titre": "Comptable",
-    "entreprise": "Cash Plus",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Cash Plus, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1712050579712721577?ckey=comptable&rgn=946&pos=5&elckey=-5021783739040234273&p=1&aq=-4166496121653707763&cid=20&jobAge=924&relb=100&brelb=100&bscr=2380.213&scr=2380.213",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-1daef9732c"
   }
 ]
