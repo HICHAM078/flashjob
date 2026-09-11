@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-3927cff1f9",
+    "titre": "External Data Specialist",
+    "entreprise": "eClinical Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Cloud",
+    "remote": true,
+    "competences": [
+      "cloud",
+      "exec",
+      "stats"
+    ],
+    "resume_neutre": "External Data Specialist chez eClinical Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-11",
+    "ref_unique": "jf-3927cff1f9"
+  },
+  {
     "id": "jf-d14286abb3",
     "titre": "Junior Crypto Analyst & Trader",
     "entreprise": "Empire Assets",
@@ -5533,23 +5553,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-06",
     "ref_unique": "ma-3e03a7cc1d"
-  },
-  {
-    "id": "ma-121423fe6d",
-    "titre": "Assistant Comptable - H/F",
-    "entreprise": "Groupe BBL",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistant Comptable - H/F chez Groupe BBL, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3541731060209055388?ckey=comptable&rgn=946&pos=4&elckey=-5021783739040234273&p=1&aq=-4166496121653707763&cid=20&jobAge=229&relb=100&brelb=100&bscr=2386.4758&scr=2386.4758",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-121423fe6d"
   }
 ]
