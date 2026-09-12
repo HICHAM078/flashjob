@@ -1,5 +1,66 @@
 [
   {
+    "id": "jf-8768e38c98",
+    "titre": "Engineering Manager TLM Platform",
+    "entreprise": "Harper",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "docker",
+      "technical"
+    ],
+    "resume_neutre": "Engineering Manager TLM Platform chez Harper, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-12",
+    "ref_unique": "jf-8768e38c98"
+  },
+  {
+    "id": "jf-6faf7f95af",
+    "titre": "Senior Communications Officer Strategic Communications",
+    "entreprise": "GiveWell",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "senior",
+      "medical"
+    ],
+    "resume_neutre": "Senior Communications Officer Strategic Communications chez GiveWell, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-12",
+    "ref_unique": "jf-6faf7f95af"
+  },
+  {
+    "id": "jf-45479c2cfc",
+    "titre": "Senior People & Talent Operations Partner",
+    "entreprise": "TestGorilla",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "non tech"
+    ],
+    "resume_neutre": "Senior People & Talent Operations Partner chez TestGorilla, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-12",
+    "ref_unique": "jf-45479c2cfc"
+  },
+  {
     "id": "jf-3927cff1f9",
     "titre": "External Data Specialist",
     "entreprise": "eClinical Solutions",
@@ -5499,59 +5560,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-06",
     "ref_unique": "ma-d378300b25"
-  },
-  {
-    "id": "ma-92a39ed397",
-    "titre": "stagiaire en comptabilité",
-    "entreprise": "africa deblock trading",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "stagiaire en comptabilité chez africa deblock trading, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4381083666714815220?ckey=comptable&rgn=946&pos=1&elckey=-5021783739040234273&p=1&aq=-4166496121653707763&cid=20&jobAge=74&relb=140&brelb=100&bscr=2424.7966&scr=3394.7152400000004",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-92a39ed397"
-  },
-  {
-    "id": "ma-466e7a2d26",
-    "titre": "Comptable",
-    "entreprise": "Konipa",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Konipa, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3396568995326685770?ckey=comptable&rgn=946&pos=2&elckey=-5021783739040234273&p=1&aq=-4166496121653707763&cid=20&jobAge=279&relb=100&brelb=100&bscr=2601.2234&scr=2601.2234",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-466e7a2d26"
-  },
-  {
-    "id": "ma-3e03a7cc1d",
-    "titre": "Comptable",
-    "entreprise": "Dama",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable chez Dama, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1387462049168860158?ckey=comptable&rgn=946&pos=3&elckey=-5021783739040234273&p=1&aq=-4166496121653707763&cid=20&jobAge=783&relb=100&brelb=100&bscr=2426.2327&scr=2426.2327",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-3e03a7cc1d"
   }
 ]
