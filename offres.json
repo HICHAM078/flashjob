@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-197245bf5e",
+    "titre": "Marketing Student Assistant",
+    "entreprise": "Copenhagen Optimization",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "strategy",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Marketing Student Assistant chez Copenhagen Optimization, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-12",
+    "ref_unique": "jf-197245bf5e"
+  },
+  {
     "id": "jf-8768e38c98",
     "titre": "Engineering Manager TLM Platform",
     "entreprise": "Harper",
@@ -5542,23 +5564,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-06",
     "ref_unique": "ma-c251666d02"
-  },
-  {
-    "id": "ma-d378300b25",
-    "titre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL WEB ASSURANCE H/F- SALAIRE MOTIVANT- EMPLOI A LONG TERME chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4402076825015875982?ckey=emploi&rgn=0&pos=12&elckey=6855672420139594804&p=1&aq=-1543112607555616916&cid=20&jobAge=135&relb=110&brelb=110&bscr=1817.366&scr=1817.366",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-d378300b25"
   }
 ]
