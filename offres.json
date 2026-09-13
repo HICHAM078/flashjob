@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-bb7744e387",
+    "titre": "HR Operations Specialist",
+    "entreprise": "Law Offices of Sabrina Li",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "HR Operations Specialist chez Law Offices of Sabrina Li, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-13",
+    "ref_unique": "jf-bb7744e387"
+  },
+  {
     "id": "jf-197245bf5e",
     "titre": "Marketing Student Assistant",
     "entreprise": "Copenhagen Optimization",
@@ -5546,23 +5568,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-06",
     "ref_unique": "ma-a67470eb13"
-  },
-  {
-    "id": "ma-c251666d02",
-    "titre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000)",
-    "entreprise": "Offshore Valley",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - COMMERCIAL SÉDENTAIRE BTOB ( Salaire + Primes 18000) chez Offshore Valley, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1214338516639147469?ckey=emploi&rgn=0&pos=11&elckey=6855672420139594804&p=1&aq=-1543112607555616916&cid=20&jobAge=87&relb=110&brelb=110&bscr=1927.952&scr=1927.952",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-06",
-    "ref_unique": "ma-c251666d02"
   }
 ]
