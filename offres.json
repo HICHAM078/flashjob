@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-63f0b0b8a3",
+    "titre": "Technical Product Lead AI Finance App",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "infosec",
+      "exec",
+      "technical"
+    ],
+    "resume_neutre": "Technical Product Lead AI Finance App chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-13",
+    "ref_unique": "jf-63f0b0b8a3"
+  },
+  {
     "id": "jf-3cd3061526",
     "titre": "Software Engineer",
     "entreprise": "Mirantis",
@@ -5553,23 +5575,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-07",
     "ref_unique": "ma-100e72665f"
-  },
-  {
-    "id": "ma-ab4d340913",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=9&elckey=-2059348803742819842&p=1&aq=-8879889533874228977&cid=20&jobAge=65&relb=110&brelb=110&bscr=1998.334&scr=1998.3340000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-07",
-    "ref_unique": "ma-ab4d340913"
   }
 ]
