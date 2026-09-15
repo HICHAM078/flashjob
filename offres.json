@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-ba43411a33",
+    "titre": "Junior Payroll Assistant",
+    "entreprise": "Sleek",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "virtual assistant",
+      "education",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Junior Payroll Assistant chez Sleek, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-15",
+    "ref_unique": "jf-ba43411a33"
+  },
+  {
+    "id": "jf-2cb0e7ce2c",
+    "titre": "Customer Experience Representative",
+    "entreprise": "Prop Firm Match Global â FZCO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "hr",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Customer Experience Representative chez Prop Firm Match Global â FZCO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-15",
+    "ref_unique": "jf-2cb0e7ce2c"
+  },
+  {
     "id": "ma-539e7ab0c5",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5539,41 +5583,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-08",
     "ref_unique": "ma-53399d5fda"
-  },
-  {
-    "id": "ma-0377d4059b",
-    "titre": "Opportunités d’emploi à saisir ! débutants acceptés !",
-    "entreprise": "Expert Call Center",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunités d’emploi à saisir ! débutants acceptés ! chez Expert Call Center, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4324152343333803311?ckey=emploi&rgn=0&pos=7&elckey=6506939273630515876&p=1&aq=6127060504013853975&cid=20&jobAge=40&relb=110&brelb=110&bscr=2268.6667&scr=2268.6667",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-08",
-    "ref_unique": "ma-0377d4059b"
-  },
-  {
-    "id": "ma-e2e4c9ac46",
-    "titre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés",
-    "entreprise": "MICC",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Marrakech - Opportunité d’emploi stable pour téléprospecteurs francophones motivés chez MICC, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1475606011682301191?ckey=emploi&rgn=0&pos=8&elckey=6506939273630515876&p=1&aq=6127060504013853975&cid=20&jobAge=88&relb=110&brelb=110&bscr=2059.3767&scr=2059.3767",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-08",
-    "ref_unique": "ma-e2e4c9ac46"
   }
 ]
