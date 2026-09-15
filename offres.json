@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ac23e0844d",
+    "titre": "Social Comms",
+    "entreprise": "NOPE",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "education",
+      "technical",
+      "content writing",
+      "social media"
+    ],
+    "resume_neutre": "Social Comms chez NOPE, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-15",
+    "ref_unique": "jf-ac23e0844d"
+  },
+  {
     "id": "ma-5275f8790e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5561,23 +5583,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-09",
     "ref_unique": "ma-d0f7a16d61"
-  },
-  {
-    "id": "ma-dfa4f9d845",
-    "titre": "Opportunité d'emploi: Téléconseiller expert en b2b.",
-    "entreprise": "MG Groupe",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Opportunité d'emploi: Téléconseiller expert en b2b. chez MG Groupe, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/208915376094257340?ckey=emploi&rgn=0&pos=7&elckey=6151185357637729742&p=1&aq=7625042505143387013&cid=20&jobAge=64&relb=110&brelb=110&bscr=2311.7969&scr=2311.7969",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-09",
-    "ref_unique": "ma-dfa4f9d845"
   }
 ]
