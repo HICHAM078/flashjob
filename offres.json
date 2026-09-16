@@ -1,5 +1,69 @@
 [
   {
+    "id": "jf-d93af6189a",
+    "titre": "Regional Sales Manager",
+    "entreprise": "OrderYOYO",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "customer support",
+      "marketing",
+      "scheme",
+      "mobile"
+    ],
+    "resume_neutre": "Regional Sales Manager chez OrderYOYO, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-16",
+    "ref_unique": "jf-d93af6189a"
+  },
+  {
+    "id": "jf-857c447c28",
+    "titre": "AI Engineer Data APIs",
+    "entreprise": "Benzinga",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "video",
+      "engineer"
+    ],
+    "resume_neutre": "AI Engineer Data APIs chez Benzinga, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-16",
+    "ref_unique": "jf-857c447c28"
+  },
+  {
+    "id": "jf-462c1ac9bc",
+    "titre": "Programmatic Campaign Operations Specialist Trader",
+    "entreprise": "VirtuHire",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Amazon",
+    "remote": true,
+    "competences": [
+      "amazon",
+      "technical",
+      "customer support",
+      "quality assurance",
+      "video"
+    ],
+    "resume_neutre": "Programmatic Campaign Operations Specialist Trader chez VirtuHire, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-16",
+    "ref_unique": "jf-462c1ac9bc"
+  },
+  {
     "id": "ma-889e9f8d82",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5406,59 +5470,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-10",
     "ref_unique": "ma-115807d25a"
-  },
-  {
-    "id": "ma-859eaf9933",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=3&elckey=-4752977741643466061&p=1&aq=8365582776634572667&cid=20&jobAge=181&relb=100&brelb=100&bscr=2765.945&scr=2765.945",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-10",
-    "ref_unique": "ma-859eaf9933"
-  },
-  {
-    "id": "ma-e205cb16a8",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=4&elckey=-4752977741643466061&p=1&aq=8365582776634572667&cid=20&jobAge=184&relb=100&brelb=100&bscr=2765.064&scr=2765.064",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-10",
-    "ref_unique": "ma-e205cb16a8"
-  },
-  {
-    "id": "ma-2b5dbb7957",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3618717329956308599?ckey=informatique&rgn=0&pos=5&elckey=-4752977741643466061&p=1&aq=8365582776634572667&cid=20&jobAge=40&relb=110&brelb=110&bscr=2585.4028&scr=2585.4028",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-10",
-    "ref_unique": "ma-2b5dbb7957"
   }
 ]
