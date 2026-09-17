@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-9e9af7916b",
+    "titre": "Principal Product Manager",
+    "entreprise": "DomainTools",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "infosec",
+      "marketing",
+      "design"
+    ],
+    "resume_neutre": "Principal Product Manager chez DomainTools, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-17",
+    "ref_unique": "jf-9e9af7916b"
+  },
+  {
     "id": "jf-d93af6189a",
     "titre": "Regional Sales Manager",
     "entreprise": "OrderYOYO",
@@ -5452,23 +5474,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-10",
     "ref_unique": "ma-087d2566d8"
-  },
-  {
-    "id": "ma-115807d25a",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=2&elckey=-4752977741643466061&p=1&aq=8365582776634572667&cid=20&jobAge=64&relb=100&brelb=100&bscr=2896.5222&scr=2896.5222",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-10",
-    "ref_unique": "ma-115807d25a"
   }
 ]
