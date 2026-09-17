@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-31c76cd6bc",
+    "titre": "Golang Kubernetes Engineer",
+    "entreprise": "Arango",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "golang",
+      "engineer"
+    ],
+    "resume_neutre": "Golang Kubernetes Engineer chez Arango, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-17",
+    "ref_unique": "jf-31c76cd6bc"
+  },
+  {
     "id": "jf-3389d09436",
     "titre": "AI agent engineer",
     "entreprise": "Sticker Mule",
@@ -5453,23 +5473,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-11",
     "ref_unique": "ma-3173948f5b"
-  },
-  {
-    "id": "ma-14281ff927",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=1&elckey=2969399454860156560&p=1&aq=-1780636790627754971&cid=20&jobAge=208&relb=100&brelb=100&bscr=2851.735&scr=2851.735",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-11",
-    "ref_unique": "ma-14281ff927"
   }
 ]
