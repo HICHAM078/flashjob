@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-35bbcb32ce",
+    "titre": "AI Trainer Image QA Evaluator",
+    "entreprise": "iMerit Technology",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ai",
+    "remote": true,
+    "competences": [
+      "ai",
+      "data annotation",
+      "quality assurance"
+    ],
+    "resume_neutre": "AI Trainer Image QA Evaluator chez iMerit Technology, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-17",
+    "ref_unique": "jf-35bbcb32ce"
+  },
+  {
     "id": "jf-9e9af7916b",
     "titre": "Principal Product Manager",
     "entreprise": "DomainTools",
@@ -5456,23 +5476,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-10",
     "ref_unique": "ma-2b152fa00f"
-  },
-  {
-    "id": "ma-087d2566d8",
-    "titre": "Technicien(ne) Support Informatique",
-    "entreprise": "Perfect Telemarketing",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien(ne) Support Informatique chez Perfect Telemarketing, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3027201859236144010?ckey=informatique&rgn=0&pos=1&elckey=-4752977741643466061&p=1&aq=8365582776634572667&cid=20&jobAge=160&relb=110&brelb=110&bscr=3065.1924&scr=3065.1924",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-10",
-    "ref_unique": "ma-087d2566d8"
   }
 ]
