@@ -1,5 +1,152 @@
 [
   {
+    "id": "jf-bb7744e387",
+    "titre": "HR Operations Specialist",
+    "entreprise": "Law Offices of Sabrina Li",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "HR Operations Specialist chez Law Offices of Sabrina Li, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-bb7744e387"
+  },
+  {
+    "id": "jf-197245bf5e",
+    "titre": "Marketing Student Assistant",
+    "entreprise": "Copenhagen Optimization",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "strategy",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Marketing Student Assistant chez Copenhagen Optimization, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-197245bf5e"
+  },
+  {
+    "id": "jf-8768e38c98",
+    "titre": "Engineering Manager TLM Platform",
+    "entreprise": "Harper",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "docker",
+      "technical"
+    ],
+    "resume_neutre": "Engineering Manager TLM Platform chez Harper, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-8768e38c98"
+  },
+  {
+    "id": "jf-6faf7f95af",
+    "titre": "Senior Communications Officer Strategic Communications",
+    "entreprise": "GiveWell",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "senior",
+      "medical"
+    ],
+    "resume_neutre": "Senior Communications Officer Strategic Communications chez GiveWell, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-6faf7f95af"
+  },
+  {
+    "id": "jf-45479c2cfc",
+    "titre": "Senior People & Talent Operations Partner",
+    "entreprise": "TestGorilla",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "non tech"
+    ],
+    "resume_neutre": "Senior People & Talent Operations Partner chez TestGorilla, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-45479c2cfc"
+  },
+  {
+    "id": "jf-3927cff1f9",
+    "titre": "External Data Specialist",
+    "entreprise": "eClinical Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Cloud",
+    "remote": true,
+    "competences": [
+      "cloud",
+      "exec",
+      "stats"
+    ],
+    "resume_neutre": "External Data Specialist chez eClinical Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-3927cff1f9"
+  },
+  {
+    "id": "jf-d14286abb3",
+    "titre": "Junior Crypto Analyst & Trader",
+    "entreprise": "Empire Assets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Part Time",
+    "remote": true,
+    "competences": [
+      "part time",
+      "junior",
+      "analyst",
+      "crypto",
+      "other"
+    ],
+    "resume_neutre": "Junior Crypto Analyst & Trader chez Empire Assets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-18",
+    "ref_unique": "jf-d14286abb3"
+  },
+  {
     "id": "ma-e291e7a422",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5326,131 +5473,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-13",
     "ref_unique": "ma-6a24e07003"
-  },
-  {
-    "id": "ma-f18ec2008f",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=1&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=136&relb=100&brelb=100&bscr=2755.7979&scr=2755.7978999999996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-f18ec2008f"
-  },
-  {
-    "id": "ma-7bb952ca86",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=2&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=256&relb=100&brelb=100&bscr=2737.2312&scr=2737.2312",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-7bb952ca86"
-  },
-  {
-    "id": "ma-21045948f0",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=3&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=496&relb=100&brelb=100&bscr=2466.9055&scr=2466.9055",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-21045948f0"
-  },
-  {
-    "id": "ma-b36f179a66",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=4&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=88&relb=100&brelb=100&bscr=2272.07&scr=2272.07",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-b36f179a66"
-  },
-  {
-    "id": "ma-daa2edb434",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=8533&relb=100&brelb=100&bscr=2079.7488&scr=2079.7488",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-daa2edb434"
-  },
-  {
-    "id": "ma-d5a9f69420",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=8533&relb=100&brelb=100&bscr=1947.3717&scr=1947.3717",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-d5a9f69420"
-  },
-  {
-    "id": "ma-f4e29f7900",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-5820239489621824463&p=1&aq=-6715420817611669173&cid=20&jobAge=8533&relb=100&brelb=100&bscr=1638.5685&scr=1638.5685",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-13",
-    "ref_unique": "ma-f4e29f7900"
   }
 ]
