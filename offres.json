@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-20b52952cd",
+    "titre": "Backend Software Engineer",
+    "entreprise": "Airspace Link",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "resume_neutre": "Backend Software Engineer chez Airspace Link, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-20",
+    "ref_unique": "jf-20b52952cd"
+  },
+  {
     "id": "jf-ba43411a33",
     "titre": "Junior Payroll Assistant",
     "entreprise": "Sleek",
@@ -5467,23 +5489,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-15",
     "ref_unique": "ma-7c3c87e9dd"
-  },
-  {
-    "id": "ma-1fd265e151",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7915662939778803886?ckey=commercial&rgn=938&pos=9&elckey=-2327964235396763637&p=1&aq=8294747015621445430&cid=20&jobAge=304&relb=110&brelb=110&bscr=1646.6558&scr=1646.6558",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-15",
-    "ref_unique": "ma-1fd265e151"
   }
 ]
