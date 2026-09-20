@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-c68d972ca9",
+    "titre": "VP Pricing & Packaging",
+    "entreprise": "Delinea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "infosec",
+      "vfx"
+    ],
+    "resume_neutre": "VP Pricing & Packaging chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-20",
+    "ref_unique": "jf-c68d972ca9"
+  },
+  {
+    "id": "jf-c9c763ed96",
+    "titre": "Customer Success Manager Mexico",
+    "entreprise": "JumpCloud",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "saas",
+      "sys admin",
+      "swift"
+    ],
+    "resume_neutre": "Customer Success Manager Mexico chez JumpCloud, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-20",
+    "ref_unique": "jf-c9c763ed96"
+  },
+  {
     "id": "jf-a282db62f5",
     "titre": "Senior Shopify Developer",
     "entreprise": "Sanctuary Computer",
@@ -5441,41 +5485,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-14",
     "ref_unique": "ma-94dc81fa54"
-  },
-  {
-    "id": "ma-bf0d92062a",
-    "titre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sédentaires - Expert Fibre Optique (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5290729453401588236?ckey=commercial&rgn=938&pos=10&elckey=-7410810502588853384&p=1&aq=8087800197393896615&cid=20&jobAge=41&relb=110&brelb=110&bscr=1604.2942&scr=1604.2942",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-14",
-    "ref_unique": "ma-bf0d92062a"
-  },
-  {
-    "id": "ma-129f9bdbf9",
-    "titre": "Offre d’emploi - assistante commerciale",
-    "entreprise": "ISUPMEDICAL ACADEMY",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - assistante commerciale chez ISUPMEDICAL ACADEMY, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1636745477839988922?ckey=commercial&rgn=938&pos=11&elckey=-7410810502588853384&p=1&aq=8087800197393896615&cid=20&jobAge=185&relb=100&brelb=100&bscr=1586.1259&scr=1586.1259",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-14",
-    "ref_unique": "ma-129f9bdbf9"
   }
 ]
