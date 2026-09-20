@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-e95bad70f1",
+    "titre": "Software Deployment Engineer",
+    "entreprise": "KPI Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "sys admin",
+      "education",
+      "consulting"
+    ],
+    "resume_neutre": "Software Deployment Engineer chez KPI Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-20",
+    "ref_unique": "jf-e95bad70f1"
+  },
+  {
     "id": "jf-c68d972ca9",
     "titre": "VP Pricing & Packaging",
     "entreprise": "Delinea",
@@ -5467,23 +5489,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-14",
     "ref_unique": "ma-62c0881baf"
-  },
-  {
-    "id": "ma-94dc81fa54",
-    "titre": "Conseiller commercial en énergie - Antichurn / Rétention",
-    "entreprise": "ADM Value",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en énergie - Antichurn / Rétention chez ADM Value, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1759025645608062725?ckey=commercial&rgn=938&pos=9&elckey=-7410810502588853384&p=1&aq=8087800197393896615&cid=20&jobAge=41&relb=110&brelb=110&bscr=1604.2942&scr=1604.2942",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-14",
-    "ref_unique": "ma-94dc81fa54"
   }
 ]
