@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ba43411a33",
+    "titre": "Junior Payroll Assistant",
+    "entreprise": "Sleek",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Payroll",
+    "remote": true,
+    "competences": [
+      "payroll",
+      "virtual assistant",
+      "education",
+      "technical",
+      "supervisor"
+    ],
+    "resume_neutre": "Junior Payroll Assistant chez Sleek, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-20",
+    "ref_unique": "jf-ba43411a33"
+  },
+  {
     "id": "ma-aa1582ee71",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5463,23 +5485,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-15",
     "ref_unique": "ma-1fd265e151"
-  },
-  {
-    "id": "ma-9ab568336d",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=10&elckey=-2327964235396763637&p=1&aq=8294747015621445430&cid=20&jobAge=40&relb=110&brelb=110&bscr=1635.706&scr=1635.7060000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-15",
-    "ref_unique": "ma-9ab568336d"
   }
 ]
