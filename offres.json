@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-9ee31430a5",
+    "titre": "Senior .NET Software Engineer",
+    "entreprise": "OkWhen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "c sharp",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior .NET Software Engineer chez OkWhen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-21",
+    "ref_unique": "jf-9ee31430a5"
+  },
+  {
+    "id": "jf-2400a66d00",
+    "titre": "Frontend Engineer",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "design",
+      "react",
+      "graphql",
+      "react.js"
+    ],
+    "resume_neutre": "Frontend Engineer chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-21",
+    "ref_unique": "jf-2400a66d00"
+  },
+  {
     "id": "jf-20b52952cd",
     "titre": "Backend Software Engineer",
     "entreprise": "Airspace Link",
@@ -5453,41 +5497,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-15",
     "ref_unique": "ma-de67d77e18"
-  },
-  {
-    "id": "ma-6b4ab3cd73",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5246409498256870764?ckey=commercial&rgn=938&pos=7&elckey=-2327964235396763637&p=1&aq=8294747015621445430&cid=20&jobAge=112&relb=110&brelb=110&bscr=1660.9576&scr=1660.9575999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-15",
-    "ref_unique": "ma-6b4ab3cd73"
-  },
-  {
-    "id": "ma-7c3c87e9dd",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6149396667631961915?ckey=commercial&rgn=938&pos=8&elckey=-2327964235396763637&p=1&aq=8294747015621445430&cid=20&jobAge=112&relb=110&brelb=110&bscr=1660.9576&scr=1660.9575999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-15",
-    "ref_unique": "ma-7c3c87e9dd"
   }
 ]
