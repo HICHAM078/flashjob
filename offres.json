@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-979c2065d2",
+    "titre": "Sr Solutions Architect",
+    "entreprise": "ExtraHop",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "design",
+      "infosec",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Sr Solutions Architect chez ExtraHop, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-21",
+    "ref_unique": "jf-979c2065d2"
+  },
+  {
     "id": "ma-096719c89a",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5471,23 +5493,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-16",
     "ref_unique": "ma-8cb608efcc"
-  },
-  {
-    "id": "ma-e74c6ddbe1",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EXPÉRIMENTÉS",
-    "entreprise": "LBH Consulting",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EXPÉRIMENTÉS chez LBH Consulting, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8093316447098396562?ckey=commercial&rgn=938&pos=8&elckey=3655053715288183139&p=1&aq=7532376521107990308&cid=20&jobAge=304&relb=110&brelb=110&bscr=1675.4263&scr=1675.4263",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-16",
-    "ref_unique": "ma-e74c6ddbe1"
   }
 ]
