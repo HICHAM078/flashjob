@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ecf0cbfae7",
+    "titre": "Software Developer Security Analytics",
+    "entreprise": "RedMimicry",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "infosec",
+      "dev",
+      "stats",
+      "full time"
+    ],
+    "resume_neutre": "Software Developer Security Analytics chez RedMimicry, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-ecf0cbfae7"
+  },
+  {
     "id": "jf-6a35459a86",
     "titre": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
     "entreprise": "Mindrift - Data annotation",
@@ -5474,23 +5496,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-17",
     "ref_unique": "ma-587072c370"
-  },
-  {
-    "id": "ma-d7b8f2710c",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=7&elckey=2748177196397338744&p=1&aq=118391169082405307&cid=20&jobAge=64&relb=110&brelb=110&bscr=1652.4022&scr=1652.4022",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-17",
-    "ref_unique": "ma-d7b8f2710c"
   }
 ]
