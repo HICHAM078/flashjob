@@ -1,5 +1,46 @@
 [
   {
+    "id": "jf-6a35459a86",
+    "titre": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+    "entreprise": "Mindrift - Data annotation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Annotation",
+    "remote": true,
+    "competences": [
+      "data annotation",
+      "c"
+    ],
+    "resume_neutre": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA chez Mindrift - Data annotation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-6a35459a86"
+  },
+  {
+    "id": "jf-c87d4e0531",
+    "titre": "Senior Growth Product Manager AI Native",
+    "entreprise": "Magic Eden",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "marketing",
+      "exec",
+      "design",
+      "crypto"
+    ],
+    "resume_neutre": "Senior Growth Product Manager AI Native chez Magic Eden, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-c87d4e0531"
+  },
+  {
     "id": "jf-c47152760a",
     "titre": "People Operations Coordinator",
     "entreprise": "Ashby",
@@ -5451,41 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-17",
     "ref_unique": "ma-d7b8f2710c"
-  },
-  {
-    "id": "ma-22dbeb4a4d",
-    "titre": "COMMERCIAL EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAL EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7915662939778803886?ckey=commercial&rgn=938&pos=8&elckey=2748177196397338744&p=1&aq=118391169082405307&cid=20&jobAge=352&relb=110&brelb=110&bscr=1638.4049&scr=1638.4049",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-17",
-    "ref_unique": "ma-22dbeb4a4d"
-  },
-  {
-    "id": "ma-ab6b509521",
-    "titre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat: recrutement de commerciaux en assurance automobile!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2697298878642917374?ckey=commercial&rgn=938&pos=9&elckey=2748177196397338744&p=1&aq=118391169082405307&cid=20&jobAge=40&relb=110&brelb=110&bscr=1608.8456&scr=1608.8456",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-17",
-    "ref_unique": "ma-ab6b509521"
   }
 ]
