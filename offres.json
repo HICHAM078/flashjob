@@ -1,5 +1,68 @@
 [
   {
+    "id": "jf-f51827f20f",
+    "titre": "Junior Digital Assets Operations Analyst",
+    "entreprise": "Omega Enterprises",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "crypto",
+      "remote",
+      "education",
+      "web3"
+    ],
+    "resume_neutre": "Junior Digital Assets Operations Analyst chez Omega Enterprises, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-f51827f20f"
+  },
+  {
+    "id": "jf-31c76cd6bc",
+    "titre": "Golang Kubernetes Engineer",
+    "entreprise": "Arango",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "golang",
+      "engineer"
+    ],
+    "resume_neutre": "Golang Kubernetes Engineer chez Arango, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-31c76cd6bc"
+  },
+  {
+    "id": "jf-3389d09436",
+    "titre": "AI agent engineer",
+    "entreprise": "Sticker Mule",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Ai",
+    "remote": true,
+    "competences": [
+      "ai",
+      "golang",
+      "javascript",
+      "typescript"
+    ],
+    "resume_neutre": "AI agent engineer chez Sticker Mule, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-23",
+    "ref_unique": "jf-3389d09436"
+  },
+  {
     "id": "ma-8f332fa94e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5429,59 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-18",
     "ref_unique": "ma-b2523f22a7"
-  },
-  {
-    "id": "ma-95acb8c651",
-    "titre": "Nous recrutons des commerciaux en assurance santé - rejoignez une équipe solide",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des commerciaux en assurance santé - rejoignez une équipe solide chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4492391121107334427?ckey=commercial&rgn=938&pos=9&elckey=3981356155695313283&p=1&aq=8505640117240351134&cid=20&jobAge=64&relb=110&brelb=110&bscr=1715.4779&scr=1715.4779",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-18",
-    "ref_unique": "ma-95acb8c651"
-  },
-  {
-    "id": "ma-ba3fe36c64",
-    "titre": "Directeur Commercial",
-    "entreprise": "ACCOR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur Commercial chez ACCOR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6208957432693427544?ckey=commercial&rgn=938&pos=10&elckey=3981356155695313283&p=1&aq=8505640117240351134&cid=20&jobAge=1192&relb=100&brelb=100&bscr=1702.3394&scr=1702.3394",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-18",
-    "ref_unique": "ma-ba3fe36c64"
-  },
-  {
-    "id": "ma-b1e1f790ad",
-    "titre": "Méléine Rabat recrute des commerciaux pour ses projets en assurance auto!!!",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Méléine Rabat recrute des commerciaux pour ses projets en assurance auto!!! chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8776772138556575333?ckey=commercial&rgn=938&pos=11&elckey=3981356155695313283&p=1&aq=8505640117240351134&cid=20&jobAge=40&relb=110&brelb=110&bscr=1601.1127&scr=1601.1127",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-18",
-    "ref_unique": "ma-b1e1f790ad"
   }
 ]
