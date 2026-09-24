@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ebadcd003d",
+    "titre": "Technical Product Manager AI Stockbroking App",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Technical Product Manager AI Stockbroking App chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-24",
+    "ref_unique": "jf-ebadcd003d"
+  },
+  {
     "id": "jf-f51827f20f",
     "titre": "Junior Digital Assets Operations Analyst",
     "entreprise": "Omega Enterprises",
@@ -5474,23 +5496,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-18",
     "ref_unique": "ma-dc26f759cd"
-  },
-  {
-    "id": "ma-b2523f22a7",
-    "titre": "Nous recrutons des commerciaux en assurance santé - rejoignez une équipe solide",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des commerciaux en assurance santé - rejoignez une équipe solide chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5050708259601016610?ckey=commercial&rgn=938&pos=8&elckey=3981356155695313283&p=1&aq=8505640117240351134&cid=20&jobAge=184&relb=110&brelb=110&bscr=1743.2319&scr=1743.2319",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-18",
-    "ref_unique": "ma-b2523f22a7"
   }
 ]
