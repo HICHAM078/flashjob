@@ -1,5 +1,26 @@
 [
   {
+    "id": "jf-228a016c57",
+    "titre": "Software Engineer",
+    "entreprise": "Prenosis",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Software Engineer chez Prenosis, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-24",
+    "ref_unique": "jf-228a016c57"
+  },
+  {
     "id": "ma-63b2f9e9b8",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5457,23 +5478,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-19",
     "ref_unique": "ma-1b9cb139e3"
-  },
-  {
-    "id": "ma-b7953c1714",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=2&elckey=-1323202840929153521&p=1&aq=5256767361411918641&cid=20&jobAge=277&relb=100&brelb=100&bscr=2608.4487&scr=2608.4487",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-19",
-    "ref_unique": "ma-b7953c1714"
   }
 ]
