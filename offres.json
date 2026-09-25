@@ -1,5 +1,115 @@
 [
   {
+    "id": "jf-c76ecb5eab",
+    "titre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+    "entreprise": "Mercier Consultancy Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "education",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria chez Mercier Consultancy Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-25",
+    "ref_unique": "jf-c76ecb5eab"
+  },
+  {
+    "id": "jf-e95bad70f1",
+    "titre": "Software Deployment Engineer",
+    "entreprise": "KPI Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "sys admin",
+      "education",
+      "consulting"
+    ],
+    "resume_neutre": "Software Deployment Engineer chez KPI Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-25",
+    "ref_unique": "jf-e95bad70f1"
+  },
+  {
+    "id": "jf-c68d972ca9",
+    "titre": "VP Pricing & Packaging",
+    "entreprise": "Delinea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "infosec",
+      "vfx"
+    ],
+    "resume_neutre": "VP Pricing & Packaging chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-25",
+    "ref_unique": "jf-c68d972ca9"
+  },
+  {
+    "id": "jf-c9c763ed96",
+    "titre": "Customer Success Manager Mexico",
+    "entreprise": "JumpCloud",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "saas",
+      "sys admin",
+      "swift"
+    ],
+    "resume_neutre": "Customer Success Manager Mexico chez JumpCloud, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-25",
+    "ref_unique": "jf-c9c763ed96"
+  },
+  {
+    "id": "jf-a282db62f5",
+    "titre": "Senior Shopify Developer",
+    "entreprise": "Sanctuary Computer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "senior",
+      "front end",
+      "shopify"
+    ],
+    "resume_neutre": "Senior Shopify Developer chez Sanctuary Computer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-25",
+    "ref_unique": "jf-a282db62f5"
+  },
+  {
     "id": "ma-050701a5f6",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5365,95 +5475,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-20",
     "ref_unique": "ma-ab3f1bc7f2"
-  },
-  {
-    "id": "ma-89026805e7",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=2&elckey=-3289114867673387240&p=1&aq=4680282670950358421&cid=20&jobAge=424&relb=100&brelb=100&bscr=2570.8442&scr=2570.8442",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-20",
-    "ref_unique": "ma-89026805e7"
-  },
-  {
-    "id": "ma-89dfdbe0fa",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=3&elckey=-3289114867673387240&p=1&aq=4680282670950358421&cid=20&jobAge=304&relb=100&brelb=100&bscr=2535.8848&scr=2535.8848",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-20",
-    "ref_unique": "ma-89dfdbe0fa"
-  },
-  {
-    "id": "ma-5e753c7680",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=4&elckey=-3289114867673387240&p=1&aq=4680282670950358421&cid=20&jobAge=40&relb=110&brelb=110&bscr=2506.5703&scr=2506.5703",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-20",
-    "ref_unique": "ma-5e753c7680"
-  },
-  {
-    "id": "ma-fbf8bafca0",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=5&elckey=-3289114867673387240&p=1&aq=4680282670950358421&cid=20&jobAge=256&relb=100&brelb=100&bscr=2096.0723&scr=2096.0723",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-20",
-    "ref_unique": "ma-fbf8bafca0"
-  },
-  {
-    "id": "ma-f6b94ca9da",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-3289114867673387240&p=1&aq=4680282670950358421&cid=20&jobAge=8701&relb=100&brelb=100&bscr=1829.9197&scr=1829.9197",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-20",
-    "ref_unique": "ma-f6b94ca9da"
   }
 ]
