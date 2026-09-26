@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-2400a66d00",
+    "titre": "Frontend Engineer",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "design",
+      "react",
+      "graphql",
+      "react.js"
+    ],
+    "resume_neutre": "Frontend Engineer chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-26",
+    "ref_unique": "jf-2400a66d00"
+  },
+  {
+    "id": "jf-9ee31430a5",
+    "titre": "Senior .NET Software Engineer",
+    "entreprise": "OkWhen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "c sharp",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior .NET Software Engineer chez OkWhen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-26",
+    "ref_unique": "jf-9ee31430a5"
+  },
+  {
+    "id": "jf-20b52952cd",
+    "titre": "Backend Software Engineer",
+    "entreprise": "Airspace Link",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "resume_neutre": "Backend Software Engineer chez Airspace Link, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-26",
+    "ref_unique": "jf-20b52952cd"
+  },
+  {
     "id": "ma-cb7775fddd",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5405,59 +5471,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-21",
     "ref_unique": "ma-0d6b469ccc"
-  },
-  {
-    "id": "ma-61fe9a8e45",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=3&elckey=5879833296677256390&p=1&aq=-3166534376762164320&cid=20&jobAge=329&relb=100&brelb=100&bscr=2527.1465&scr=2527.1465",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-21",
-    "ref_unique": "ma-61fe9a8e45"
-  },
-  {
-    "id": "ma-d26b1234b8",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=4&elckey=5879833296677256390&p=1&aq=-3166534376762164320&cid=20&jobAge=281&relb=100&brelb=100&bscr=2101.3264&scr=2101.3264",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-21",
-    "ref_unique": "ma-d26b1234b8"
-  },
-  {
-    "id": "ma-c7edabb944",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=5&elckey=5879833296677256390&p=1&aq=-3166534376762164320&cid=20&jobAge=8727&relb=100&brelb=100&bscr=1841.1487&scr=1841.1487",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-21",
-    "ref_unique": "ma-c7edabb944"
   }
 ]
