@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-84cde0ac03",
+    "titre": "Director Payment Integrity",
+    "entreprise": "SIHO Insurance Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "education",
+      "supervisor",
+      "customer support"
+    ],
+    "resume_neutre": "Director Payment Integrity chez SIHO Insurance Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-27",
+    "ref_unique": "jf-84cde0ac03"
+  },
+  {
     "id": "ma-9fc03d05d9",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5449,23 +5471,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-22",
     "ref_unique": "ma-c217a25385"
-  },
-  {
-    "id": "ma-3aab3e9c87",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=3&elckey=-4000622699658959508&p=1&aq=1933392114782307183&cid=20&jobAge=352&relb=100&brelb=100&bscr=2517.9326&scr=2517.9326",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-22",
-    "ref_unique": "ma-3aab3e9c87"
   }
 ]
