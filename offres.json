@@ -1,5 +1,64 @@
 [
   {
+    "id": "jf-356682c0b9",
+    "titre": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+    "entreprise": "Workana",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos chez Workana, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-30",
+    "ref_unique": "jf-356682c0b9"
+  },
+  {
+    "id": "jf-0316bd3336",
+    "titre": "Video Data Annotator",
+    "entreprise": "iMerit Technology",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance",
+      "ai",
+      "data annotation"
+    ],
+    "resume_neutre": "Video Data Annotator chez iMerit Technology, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-30",
+    "ref_unique": "jf-0316bd3336"
+  },
+  {
+    "id": "jf-228a016c57",
+    "titre": "Software Engineer",
+    "entreprise": "Prenosis",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "engineer",
+      "digital nomad"
+    ],
+    "resume_neutre": "Software Engineer chez Prenosis, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-09-30",
+    "ref_unique": "jf-228a016c57"
+  },
+  {
     "id": "ma-0655e4d2ca",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5403,59 +5462,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-25",
     "ref_unique": "ma-a79a566fbe"
-  },
-  {
-    "id": "ma-2d7c40eee2",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-7358366296354052016&p=1&aq=6914339733852358774&cid=20&jobAge=8821&relb=100&brelb=100&bscr=1845.7139&scr=1845.7138999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-25",
-    "ref_unique": "ma-2d7c40eee2"
-  },
-  {
-    "id": "ma-84565155f2",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-7358366296354052016&p=1&aq=6914339733852358774&cid=20&jobAge=8821&relb=100&brelb=100&bscr=1545.3389&scr=1545.3388999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-25",
-    "ref_unique": "ma-84565155f2"
-  },
-  {
-    "id": "ma-80e22cd31b",
-    "titre": "Gérant restaurant",
-    "entreprise": "Restauration",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gérant restaurant chez Restauration, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3488213869610634650?ckey=informatique&rgn=0&pos=8&elckey=-7358366296354052016&p=1&aq=6914339733852358774&cid=20&jobAge=458&relb=140&brelb=100&bscr=225.0401&scr=315.05613999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-25",
-    "ref_unique": "ma-80e22cd31b"
   }
 ]
