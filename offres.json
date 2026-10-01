@@ -1,5 +1,130 @@
 [
   {
+    "id": "jf-5733e5c826",
+    "titre": "Enterprise Sales Development Representative",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "sales"
+    ],
+    "resume_neutre": "Enterprise Sales Development Representative chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-5733e5c826"
+  },
+  {
+    "id": "jf-dcf20b0de9",
+    "titre": "Client Advisor",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Client Advisor chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-dcf20b0de9"
+  },
+  {
+    "id": "jf-c76ecb5eab",
+    "titre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+    "entreprise": "Mercier Consultancy Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "education",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria chez Mercier Consultancy Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-c76ecb5eab"
+  },
+  {
+    "id": "jf-e95bad70f1",
+    "titre": "Software Deployment Engineer",
+    "entreprise": "KPI Solutions",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "sys admin",
+      "education",
+      "consulting"
+    ],
+    "resume_neutre": "Software Deployment Engineer chez KPI Solutions, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-e95bad70f1"
+  },
+  {
+    "id": "jf-c68d972ca9",
+    "titre": "VP Pricing & Packaging",
+    "entreprise": "Delinea",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "infosec",
+      "vfx"
+    ],
+    "resume_neutre": "VP Pricing & Packaging chez Delinea, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-c68d972ca9"
+  },
+  {
+    "id": "jf-c9c763ed96",
+    "titre": "Customer Success Manager Mexico",
+    "entreprise": "JumpCloud",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "exec",
+      "saas",
+      "sys admin",
+      "swift"
+    ],
+    "resume_neutre": "Customer Success Manager Mexico chez JumpCloud, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-01",
+    "ref_unique": "jf-c9c763ed96"
+  },
+  {
     "id": "ma-b228beb088",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5334,113 +5459,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-26",
     "ref_unique": "ma-623073fda3"
-  },
-  {
-    "id": "ma-1c9528ad39",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=8845&relb=100&brelb=100&bscr=1981.7462&scr=1981.7462",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-1c9528ad39"
-  },
-  {
-    "id": "ma-0baaddeaa2",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=8845&relb=100&brelb=100&bscr=1869.2987&scr=1869.2987",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-0baaddeaa2"
-  },
-  {
-    "id": "ma-ac68fa805f",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=8845&relb=100&brelb=100&bscr=1553.608&scr=1553.608",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-ac68fa805f"
-  },
-  {
-    "id": "ma-e27fe889a5",
-    "titre": "Gérant restaurant",
-    "entreprise": "Restauration",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gérant restaurant chez Restauration, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3488213869610634650?ckey=informatique&rgn=0&pos=8&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=481&relb=140&brelb=100&bscr=222.36848&scr=311.315872",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-e27fe889a5"
-  },
-  {
-    "id": "ma-3ca2b21add",
-    "titre": "Hôtesse d'accueil salle de sport",
-    "entreprise": "Riviera Fitness Club",
-    "ville": "Sidi Bouknadel",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Hôtesse d'accueil salle de sport chez Riviera Fitness Club, a Sidi Bouknadel. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7068826734911009346?ckey=informatique&rgn=0&pos=9&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=123&relb=140&brelb=100&bscr=209.82565&scr=293.75591000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-3ca2b21add"
-  },
-  {
-    "id": "ma-8f92db7e02",
-    "titre": "Agent administratif  Secteur Énergies Renouvelables (H/F)",
-    "entreprise": "bridge way partners",
-    "ville": "Marrakech Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agent administratif  Secteur Énergies Renouvelables (H/F) chez bridge way partners, a Marrakech Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4932147395861015086?ckey=informatique&rgn=0&pos=10&elckey=6151660163929245254&p=1&aq=4380355237862802512&cid=20&jobAge=28&relb=140&brelb=100&bscr=198.81627&scr=278.342778",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-26",
-    "ref_unique": "ma-8f92db7e02"
   }
 ]
