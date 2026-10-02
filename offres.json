@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-2400a66d00",
+    "titre": "Frontend Engineer",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "design",
+      "react",
+      "graphql",
+      "react.js"
+    ],
+    "resume_neutre": "Frontend Engineer chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-02",
+    "ref_unique": "jf-2400a66d00"
+  },
+  {
+    "id": "jf-9ee31430a5",
+    "titre": "Senior .NET Software Engineer",
+    "entreprise": "OkWhen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "c sharp",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior .NET Software Engineer chez OkWhen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-02",
+    "ref_unique": "jf-9ee31430a5"
+  },
+  {
+    "id": "jf-20b52952cd",
+    "titre": "Backend Software Engineer",
+    "entreprise": "Airspace Link",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "resume_neutre": "Backend Software Engineer chez Airspace Link, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-02",
+    "ref_unique": "jf-20b52952cd"
+  },
+  {
     "id": "ma-f8ce6ca9bd",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5393,59 +5459,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-27",
     "ref_unique": "ma-1288c34d8a"
-  },
-  {
-    "id": "ma-707deb66d7",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=-8069874128339624284&p=1&aq=2247173911825075524&cid=20&jobAge=8870&relb=100&brelb=100&bscr=1992.2389&scr=1992.2389",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-27",
-    "ref_unique": "ma-707deb66d7"
-  },
-  {
-    "id": "ma-5f39f707da",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-8069874128339624284&p=1&aq=2247173911825075524&cid=20&jobAge=8870&relb=100&brelb=100&bscr=1867.6101&scr=1867.6101",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-27",
-    "ref_unique": "ma-5f39f707da"
-  },
-  {
-    "id": "ma-233cbd62bb",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=-8069874128339624284&p=1&aq=2247173911825075524&cid=20&jobAge=8870&relb=100&brelb=100&bscr=1555.8215&scr=1555.8215",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-27",
-    "ref_unique": "ma-233cbd62bb"
   }
 ]
