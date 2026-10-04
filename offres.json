@@ -1,5 +1,25 @@
 [
   {
+    "id": "jf-c24a836cdf",
+    "titre": "Head of Operations",
+    "entreprise": "Leverage Live Local",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Non Tech",
+    "remote": true,
+    "competences": [
+      "non tech",
+      "ops",
+      "exec"
+    ],
+    "resume_neutre": "Head of Operations chez Leverage Live Local, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-04",
+    "ref_unique": "jf-c24a836cdf"
+  },
+  {
     "id": "jf-ecf0cbfae7",
     "titre": "Software Developer Security Analytics",
     "entreprise": "RedMimicry",
@@ -5445,23 +5465,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-09-29",
     "ref_unique": "ma-24e13eb278"
-  },
-  {
-    "id": "ma-93d2ba43ea",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=3&elckey=4240487535081173755&p=1&aq=-546204544453846179&cid=20&jobAge=641&relb=100&brelb=100&bscr=2420.7751&scr=2420.7751",
-    "source_nom": "Jooble",
-    "date_pub": "2026-09-29",
-    "ref_unique": "ma-93d2ba43ea"
   }
 ]
