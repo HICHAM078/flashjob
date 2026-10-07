@@ -1,5 +1,86 @@
 [
   {
+    "id": "jf-e4654fa071",
+    "titre": "Project Manager",
+    "entreprise": "Spiralyze",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "ops",
+      "marketing",
+      "cro"
+    ],
+    "resume_neutre": "Project Manager chez Spiralyze, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-07",
+    "ref_unique": "jf-e4654fa071"
+  },
+  {
+    "id": "jf-5733e5c826",
+    "titre": "Enterprise Sales Development Representative",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "sales"
+    ],
+    "resume_neutre": "Enterprise Sales Development Representative chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-07",
+    "ref_unique": "jf-5733e5c826"
+  },
+  {
+    "id": "jf-dcf20b0de9",
+    "titre": "Client Advisor",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Client Advisor chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-07",
+    "ref_unique": "jf-dcf20b0de9"
+  },
+  {
+    "id": "jf-c76ecb5eab",
+    "titre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+    "entreprise": "Mercier Consultancy Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "education",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Danish Speaking Solutions Consultant Work Sofia Bulgaria chez Mercier Consultancy Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-07",
+    "ref_unique": "jf-c76ecb5eab"
+  },
+  {
     "id": "ma-33b0980fef",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5381,77 +5462,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-02",
     "ref_unique": "ma-c200551ca1"
-  },
-  {
-    "id": "ma-a0f5502b92",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=4&elckey=4857794036988906796&p=1&aq=-3350800079010391565&cid=20&jobAge=545&relb=100&brelb=100&bscr=1982.6447&scr=1982.6447",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-02",
-    "ref_unique": "ma-a0f5502b92"
-  },
-  {
-    "id": "ma-514277dbaf",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=5&elckey=4857794036988906796&p=1&aq=-3350800079010391565&cid=20&jobAge=8990&relb=100&brelb=100&bscr=1979.0684&scr=1979.0684000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-02",
-    "ref_unique": "ma-514277dbaf"
-  },
-  {
-    "id": "ma-4543a7e555",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=4857794036988906796&p=1&aq=-3350800079010391565&cid=20&jobAge=8990&relb=100&brelb=100&bscr=1821.2312&scr=1821.2312",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-02",
-    "ref_unique": "ma-4543a7e555"
-  },
-  {
-    "id": "ma-445bac7967",
-    "titre": "Chef de Projet Plan de Continuité Informatique CP-PSI -...",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet Plan de Continuité Informatique CP-PSI -... chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1892062122636152060?ckey=informatique&rgn=0&pos=7&elckey=4857794036988906796&p=1&aq=-3350800079010391565&cid=20&jobAge=8991&relb=100&brelb=100&bscr=1506.0911&scr=1506.0911",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-02",
-    "ref_unique": "ma-445bac7967"
   }
 ]
