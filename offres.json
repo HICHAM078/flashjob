@@ -1,5 +1,45 @@
 [
   {
+    "id": "jf-6630ef225e",
+    "titre": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+    "entreprise": "Tierarzt Plus Partner",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical"
+    ],
+    "resume_neutre": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o chez Tierarzt Plus Partner, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-08",
+    "ref_unique": "jf-6630ef225e"
+  },
+  {
+    "id": "jf-9ee31430a5",
+    "titre": "Senior .NET Software Engineer",
+    "entreprise": "OkWhen",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "c sharp",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior .NET Software Engineer chez OkWhen, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-08",
+    "ref_unique": "jf-9ee31430a5"
+  },
+  {
     "id": "ma-5ac914b0ba",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5414,41 +5454,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-03",
     "ref_unique": "ma-44f9a42ba8"
-  },
-  {
-    "id": "ma-8f4dc464ba",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=5&elckey=-5022661959347309102&p=1&aq=-1060018461965794556&cid=20&jobAge=568&relb=100&brelb=100&bscr=1999.5629&scr=1999.5629",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-03",
-    "ref_unique": "ma-8f4dc464ba"
-  },
-  {
-    "id": "ma-29b0e041ad",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=-5022661959347309102&p=1&aq=-1060018461965794556&cid=20&jobAge=9013&relb=100&brelb=100&bscr=1845.7139&scr=1845.7138999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-03",
-    "ref_unique": "ma-29b0e041ad"
   }
 ]
