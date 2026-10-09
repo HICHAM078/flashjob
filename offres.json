@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-d14286abb3",
+    "titre": "Junior Crypto Analyst & Trader",
+    "entreprise": "Empire Assets",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Crypto",
+    "remote": true,
+    "competences": [
+      "crypto",
+      "finance",
+      "trader",
+      "remote",
+      "part time"
+    ],
+    "resume_neutre": "Junior Crypto Analyst & Trader chez Empire Assets, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-09",
+    "ref_unique": "jf-d14286abb3"
+  },
+  {
+    "id": "jf-84cde0ac03",
+    "titre": "Director Payment Integrity",
+    "entreprise": "SIHO Insurance Services",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "education",
+      "supervisor",
+      "customer support"
+    ],
+    "resume_neutre": "Director Payment Integrity chez SIHO Insurance Services, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-09",
+    "ref_unique": "jf-84cde0ac03"
+  },
+  {
     "id": "ma-c7878fa65d",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5410,41 +5454,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-04",
     "ref_unique": "ma-72c7c21164"
-  },
-  {
-    "id": "ma-1c147ae26f",
-    "titre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F)",
-    "entreprise": "UTAC",
-    "ville": "Khouribga",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Systèmes, Réseaux et Support Informatique N2 (H/F) chez UTAC, a Khouribga. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4320586525861923743?ckey=informatique&rgn=0&pos=5&elckey=7643453620066275071&p=1&aq=3497053219524901658&cid=20&jobAge=593&relb=100&brelb=100&bscr=1975.7505&scr=1975.7505",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-04",
-    "ref_unique": "ma-1c147ae26f"
-  },
-  {
-    "id": "ma-64379771d8",
-    "titre": "Chef de Projet en Production Informatique (REF03)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de Projet en Production Informatique (REF03) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8268902969161129961?ckey=informatique&rgn=0&pos=6&elckey=7643453620066275071&p=1&aq=3497053219524901658&cid=20&jobAge=9038&relb=100&brelb=100&bscr=1833.7067&scr=1833.7066999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-04",
-    "ref_unique": "ma-64379771d8"
   }
 ]
