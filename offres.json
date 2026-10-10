@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-230d496be8",
+    "titre": "Product Design Lead",
+    "entreprise": "Fuel50",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "sys admin",
+      "front end",
+      "technical"
+    ],
+    "resume_neutre": "Product Design Lead chez Fuel50, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-10",
+    "ref_unique": "jf-230d496be8"
+  },
+  {
     "id": "jf-d14286abb3",
     "titre": "Junior Crypto Analyst & Trader",
     "entreprise": "Empire Assets",
@@ -5436,23 +5458,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-04",
     "ref_unique": "ma-d55710b7b1"
-  },
-  {
-    "id": "ma-72c7c21164",
-    "titre": "Chefs de Projet Informatique MOE/MOA (REF04)",
-    "entreprise": "Trusted Advisors",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chefs de Projet Informatique MOE/MOA (REF04) chez Trusted Advisors, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6352109365178127961?ckey=informatique&rgn=0&pos=4&elckey=7643453620066275071&p=1&aq=3497053219524901658&cid=20&jobAge=9038&relb=100&brelb=100&bscr=1981.7462&scr=1981.7462",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-04",
-    "ref_unique": "ma-72c7c21164"
   }
 ]
