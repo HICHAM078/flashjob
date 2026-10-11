@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-8170b0c31a",
+    "titre": "Federal Business Development Director",
+    "entreprise": "Fortanix",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "infosec",
+      "teaching",
+      "consulting",
+      "technical"
+    ],
+    "resume_neutre": "Federal Business Development Director chez Fortanix, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-11",
+    "ref_unique": "jf-8170b0c31a"
+  },
+  {
+    "id": "jf-ebadcd003d",
+    "titre": "Technical Product Manager AI Stockbroking App",
+    "entreprise": "Bjak",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Technical Product Manager AI Stockbroking App chez Bjak, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-11",
+    "ref_unique": "jf-ebadcd003d"
+  },
+  {
     "id": "ma-b21925340a",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5426,41 +5470,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-06",
     "ref_unique": "ma-5e0de94988"
-  },
-  {
-    "id": "ma-361d74d49c",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=1507071209777521494&p=1&aq=8644279487679703202&cid=20&jobAge=687&relb=100&brelb=100&bscr=2455.4731&scr=2455.4731",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-06",
-    "ref_unique": "ma-361d74d49c"
-  },
-  {
-    "id": "ma-bcf04586b4",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=2&elckey=1507071209777521494&p=1&aq=8644279487679703202&cid=20&jobAge=810&relb=100&brelb=100&bscr=2378.1775&scr=2378.1775",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-06",
-    "ref_unique": "ma-bcf04586b4"
   }
 ]
