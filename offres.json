@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-9137072d5d",
+    "titre": "Manager Clinical Data Management",
+    "entreprise": "EDETEK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Manager Clinical Data Management chez EDETEK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-11",
+    "ref_unique": "jf-9137072d5d"
+  },
+  {
     "id": "jf-8bd78ec394",
     "titre": "Junior Sales Development Representative IT Industry",
     "entreprise": "Huzzle",
@@ -5452,23 +5474,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-05",
     "ref_unique": "ma-d28918561b"
-  },
-  {
-    "id": "ma-01d3f6ab13",
-    "titre": "Chef de cuisine banquet",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Chef de cuisine banquet chez EXPERIENCIAH, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6821618586053717781?ckey=commercial&rgn=938&pos=12&elckey=1525800018439884757&p=1&aq=2719034395844972780&cid=20&jobAge=233&relb=100&brelb=100&bscr=268.47986&scr=268.47986",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-05",
-    "ref_unique": "ma-01d3f6ab13"
   }
 ]
