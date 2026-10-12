@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-766e06b837",
+    "titre": "Marketing and Sales Administrator",
+    "entreprise": "Hunt St",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "marketing",
+      "finance",
+      "admin",
+      "exec"
+    ],
+    "resume_neutre": "Marketing and Sales Administrator chez Hunt St, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-12",
+    "ref_unique": "jf-766e06b837"
+  },
+  {
     "id": "jf-9feee5a884",
     "titre": "Technical Account Manager",
     "entreprise": "DEUNA",
@@ -5456,23 +5478,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-06",
     "ref_unique": "ma-8a146f0e1e"
-  },
-  {
-    "id": "ma-e840c31cf5",
-    "titre": "Agent de Réservations",
-    "entreprise": "FAIRMONT",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Agent de Réservations chez FAIRMONT, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7618077644494514261?ckey=commercial&rgn=938&pos=11&elckey=-4575505114435780890&p=1&aq=1070699091379153086&cid=20&jobAge=474&relb=100&brelb=100&bscr=267.64468&scr=267.64468",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-06",
-    "ref_unique": "ma-e840c31cf5"
   }
 ]
