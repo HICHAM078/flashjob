@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-9feee5a884",
+    "titre": "Technical Account Manager",
+    "entreprise": "DEUNA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "hr",
+      "technical",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Technical Account Manager chez DEUNA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-12",
+    "ref_unique": "jf-9feee5a884"
+  },
+  {
     "id": "jf-8170b0c31a",
     "titre": "Federal Business Development Director",
     "entreprise": "Fortanix",
@@ -5452,23 +5474,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-06",
     "ref_unique": "ma-e840c31cf5"
-  },
-  {
-    "id": "ma-5e0de94988",
-    "titre": "Assistant achat polyvalent",
-    "entreprise": "Carrefour Medical",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Assistant achat polyvalent chez Carrefour Medical, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5809219706155685263?ckey=commercial&rgn=938&pos=12&elckey=-4575505114435780890&p=1&aq=1070699091379153086&cid=20&jobAge=306&relb=100&brelb=100&bscr=261.04807&scr=261.04807",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-06",
-    "ref_unique": "ma-5e0de94988"
   }
 ]
