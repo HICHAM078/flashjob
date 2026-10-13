@@ -1,5 +1,82 @@
 [
   {
+    "id": "jf-4bd7c55106",
+    "titre": "Technical Customer Support",
+    "entreprise": "QuickMail",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Technical Customer Support chez QuickMail, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-4bd7c55106"
+  },
+  {
+    "id": "jf-e4654fa071",
+    "titre": "Project Manager",
+    "entreprise": "Spiralyze",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Project Manager",
+    "remote": true,
+    "competences": [
+      "project manager",
+      "exec",
+      "ops",
+      "marketing",
+      "cro"
+    ],
+    "resume_neutre": "Project Manager chez Spiralyze, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-e4654fa071"
+  },
+  {
+    "id": "jf-5733e5c826",
+    "titre": "Enterprise Sales Development Representative",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "sales"
+    ],
+    "resume_neutre": "Enterprise Sales Development Representative chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-5733e5c826"
+  },
+  {
+    "id": "jf-dcf20b0de9",
+    "titre": "Client Advisor",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Client Advisor chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-dcf20b0de9"
+  },
+  {
     "id": "ma-b387724424",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5400,77 +5477,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-08",
     "ref_unique": "ma-74c3822ecc"
-  },
-  {
-    "id": "ma-7ab372f554",
-    "titre": "Expérience exigée : Commerciaux experts en assurance automobile / recrutement immédiat",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Expérience exigée : Commerciaux experts en assurance automobile / recrutement immédiat chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6343658762919142893?ckey=commercial&rgn=938&pos=12&elckey=-7134654560349479782&p=1&aq=7398305331356012735&cid=20&jobAge=738&relb=110&brelb=110&bscr=1232.2937&scr=1232.2937",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-7ab372f554"
-  },
-  {
-    "id": "ma-3d791e7bef",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=1&elckey=795563377791949226&p=1&aq=186785991844595753&cid=20&jobAge=738&relb=100&brelb=100&bscr=2433.6519&scr=2433.6519",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-3d791e7bef"
-  },
-  {
-    "id": "ma-3c6ce1b3d3",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=2&elckey=795563377791949226&p=1&aq=186785991844595753&cid=20&jobAge=858&relb=100&brelb=100&bscr=2355.3074&scr=2355.3074",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-3c6ce1b3d3"
-  },
-  {
-    "id": "ma-32bdbb6007",
-    "titre": "Gérant restaurant",
-    "entreprise": "Restauration",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gérant restaurant chez Restauration, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3488213869610634650?ckey=informatique&rgn=0&pos=3&elckey=795563377791949226&p=1&aq=186785991844595753&cid=20&jobAge=771&relb=140&brelb=100&bscr=261.83765&scr=366.57271000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-32bdbb6007"
   }
 ]
