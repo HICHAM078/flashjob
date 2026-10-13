@@ -1,5 +1,70 @@
 [
   {
+    "id": "jf-da78598336",
+    "titre": "Senior Sales Executive Central Region",
+    "entreprise": "SimSpace Corporation",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "education"
+    ],
+    "resume_neutre": "Senior Sales Executive Central Region chez SimSpace Corporation, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-da78598336"
+  },
+  {
+    "id": "jf-1c8b955b9b",
+    "titre": "Product Design Director",
+    "entreprise": "Midnite",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "exec",
+      "sys admin",
+      "game dev",
+      "testing"
+    ],
+    "resume_neutre": "Product Design Director chez Midnite, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-1c8b955b9b"
+  },
+  {
+    "id": "jf-fb8b0898c1",
+    "titre": "Platform and Integration Engineer Security Telemetry",
+    "entreprise": "RedMimicry",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "infosec",
+      "engineer",
+      "part time"
+    ],
+    "resume_neutre": "Platform and Integration Engineer Security Telemetry chez RedMimicry, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-13",
+    "ref_unique": "jf-fb8b0898c1"
+  },
+  {
     "id": "ma-f6972c3e16",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5416,59 +5481,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-07",
     "ref_unique": "ma-08f2386aff"
-  },
-  {
-    "id": "ma-f00a9a82e4",
-    "titre": "Outlet Manager",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Outlet Manager chez EXPERIENCIAH, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2728750407103429181?ckey=commercial&rgn=938&pos=12&elckey=-5855079837392630336&p=1&aq=3313116748558402818&cid=20&jobAge=711&relb=100&brelb=100&bscr=284.19788&scr=284.19788",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-07",
-    "ref_unique": "ma-f00a9a82e4"
-  },
-  {
-    "id": "ma-05825bbd64",
-    "titre": "Technicien Informatique",
-    "entreprise": "EXPERIENCIAH",
-    "ville": "Bouznika",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Technicien Informatique chez EXPERIENCIAH, a Bouznika. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7914709138892301154?ckey=informatique&rgn=0&pos=1&elckey=1151317293784735360&p=1&aq=-5673165874697257141&cid=20&jobAge=711&relb=100&brelb=100&bscr=2384.3389&scr=2384.3389",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-07",
-    "ref_unique": "ma-05825bbd64"
-  },
-  {
-    "id": "ma-ff647f923c",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=2&elckey=1151317293784735360&p=1&aq=-5673165874697257141&cid=20&jobAge=714&relb=100&brelb=100&bscr=2321.7854&scr=2321.7854",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-07",
-    "ref_unique": "ma-ff647f923c"
   }
 ]
