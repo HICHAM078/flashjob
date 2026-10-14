@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-0da4454f5d",
+    "titre": "Principal Software Engineer",
+    "entreprise": "Vytalize Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "infosec",
+      "python",
+      "docker"
+    ],
+    "resume_neutre": "Principal Software Engineer chez Vytalize Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-14",
+    "ref_unique": "jf-0da4454f5d"
+  },
+  {
+    "id": "jf-8a059d129e",
+    "titre": "Graphic Designer & Video Editor",
+    "entreprise": "BlueTuskr",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "designer",
+      "customer support",
+      "testing",
+      "marketing"
+    ],
+    "resume_neutre": "Graphic Designer & Video Editor chez BlueTuskr, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-14",
+    "ref_unique": "jf-8a059d129e"
+  },
+  {
     "id": "jf-4bd7c55106",
     "titre": "Technical Customer Support",
     "entreprise": "QuickMail",
@@ -5441,41 +5485,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-08",
     "ref_unique": "ma-5181c1cf13"
-  },
-  {
-    "id": "ma-bc29e2b92c",
-    "titre": "Recrutement commerciaux en télévente - 6 000 dh fixe + primes déplafonnées",
-    "entreprise": "Net Courtage Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Recrutement commerciaux en télévente - 6 000 dh fixe + primes déplafonnées chez Net Courtage Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5290345646959144726?ckey=commercial&rgn=938&pos=10&elckey=-7134654560349479782&p=1&aq=7398305331356012735&cid=20&jobAge=42&relb=110&brelb=110&bscr=1381.4525&scr=1381.4525",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-bc29e2b92c"
-  },
-  {
-    "id": "ma-74c3822ecc",
-    "titre": "Directeur commercial grands comptes environnement industriel",
-    "entreprise": "Globe RH",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Directeur commercial grands comptes environnement industriel chez Globe RH, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8587566455990118113?ckey=commercial&rgn=938&pos=11&elckey=-7134654560349479782&p=1&aq=7398305331356012735&cid=20&jobAge=498&relb=100&brelb=100&bscr=1307.1232&scr=1307.1232",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-74c3822ecc"
   }
 ]
