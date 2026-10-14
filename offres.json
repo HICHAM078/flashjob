@@ -1,5 +1,23 @@
 [
   {
+    "id": "jf-6630ef225e",
+    "titre": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+    "entreprise": "Tierarzt Plus Partner",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Medical",
+    "remote": true,
+    "competences": [
+      "medical"
+    ],
+    "resume_neutre": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o chez Tierarzt Plus Partner, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-14",
+    "ref_unique": "jf-6630ef225e"
+  },
+  {
     "id": "ma-c76dccde01",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5471,23 +5489,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-09",
     "ref_unique": "ma-dc741cafd3"
-  },
-  {
-    "id": "ma-b5664d8417",
-    "titre": "Commercial Télévente B2C - Belgique (H/F)",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Télévente B2C - Belgique (H/F) chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-643509571675187255?ckey=commercial&rgn=938&pos=9&elckey=4643592548009796186&p=1&aq=3003885534775892966&cid=20&jobAge=546&relb=110&brelb=110&bscr=1528.9635&scr=1528.9635",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-09",
-    "ref_unique": "ma-b5664d8417"
   }
 ]
