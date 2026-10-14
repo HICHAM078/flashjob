@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-e3fa267ff0",
+    "titre": "Principal Product Manager Strategic Initiatives",
+    "entreprise": "Thyme Care",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "technical",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Principal Product Manager Strategic Initiatives chez Thyme Care, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-14",
+    "ref_unique": "jf-e3fa267ff0"
+  },
+  {
+    "id": "jf-ce5828fff2",
+    "titre": "Client Engagement Representative Work From Home",
+    "entreprise": "AO Garcia Agency",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Work From Home",
+    "remote": true,
+    "competences": [
+      "work from home",
+      "sys admin",
+      "education",
+      "exec",
+      "finance"
+    ],
+    "resume_neutre": "Client Engagement Representative Work From Home chez AO Garcia Agency, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-14",
+    "ref_unique": "jf-ce5828fff2"
+  },
+  {
     "id": "jf-0da4454f5d",
     "titre": "Principal Software Engineer",
     "entreprise": "Vytalize Health",
@@ -5449,41 +5493,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-08",
     "ref_unique": "ma-db45b07efe"
-  },
-  {
-    "id": "ma-19e451c5d7",
-    "titre": "Offre d’emploi - assistante commerciale",
-    "entreprise": "ISUPMEDICAL ACADEMY",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - assistante commerciale chez ISUPMEDICAL ACADEMY, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1636745477839988922?ckey=commercial&rgn=938&pos=8&elckey=-7134654560349479782&p=1&aq=7398305331356012735&cid=20&jobAge=762&relb=100&brelb=100&bscr=1475.3334&scr=1475.3334",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-19e451c5d7"
-  },
-  {
-    "id": "ma-5181c1cf13",
-    "titre": "COMMERCIAUX EN ASSURANCE AUTO / MOTO / MRH",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE AUTO / MOTO / MRH chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7691073585227882547?ckey=commercial&rgn=938&pos=9&elckey=-7134654560349479782&p=1&aq=7398305331356012735&cid=20&jobAge=714&relb=110&brelb=110&bscr=1460.5242&scr=1460.5242",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-08",
-    "ref_unique": "ma-5181c1cf13"
   }
 ]
