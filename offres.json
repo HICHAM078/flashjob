@@ -1,5 +1,68 @@
 [
   {
+    "id": "jf-8fa4ab11c2",
+    "titre": "Payment Operations Specialist",
+    "entreprise": "Utopia",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "customer support",
+      "marketing",
+      "accounting",
+      "finance"
+    ],
+    "resume_neutre": "Payment Operations Specialist chez Utopia, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-15",
+    "ref_unique": "jf-8fa4ab11c2"
+  },
+  {
+    "id": "jf-665b51d610",
+    "titre": "AI Trainer",
+    "entreprise": "iMerit Technology",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Data Annotation",
+    "remote": true,
+    "competences": [
+      "data annotation",
+      "ai training"
+    ],
+    "resume_neutre": "AI Trainer chez iMerit Technology, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-15",
+    "ref_unique": "jf-665b51d610"
+  },
+  {
+    "id": "jf-230d496be8",
+    "titre": "Product Design Lead",
+    "entreprise": "Fuel50",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "sys admin",
+      "front end",
+      "technical"
+    ],
+    "resume_neutre": "Product Design Lead chez Fuel50, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-15",
+    "ref_unique": "jf-230d496be8"
+  },
+  {
     "id": "ma-d7115b6b00",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5423,59 +5486,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-10",
     "ref_unique": "ma-cc1c65b81e"
-  },
-  {
-    "id": "ma-ed8a2851e4",
-    "titre": "Commerciaux Sedentaire prise de RDV",
-    "entreprise": "Focus Leads",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sedentaire prise de RDV chez Focus Leads, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2158547130804158345?ckey=commercial&rgn=938&pos=8&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=137&relb=110&brelb=110&bscr=1540.2601&scr=1540.2601",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-ed8a2851e4"
-  },
-  {
-    "id": "ma-582690dad1",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=9&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=41&relb=110&brelb=110&bscr=1510.9277&scr=1510.9277",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-582690dad1"
-  },
-  {
-    "id": "ma-035b4aa561",
-    "titre": "Télévendeur / commercial marché belge",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeur / commercial marché belge chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7438557096390352262?ckey=commercial&rgn=938&pos=10&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=689&relb=110&brelb=110&bscr=1507.2457&scr=1507.2457",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-035b4aa561"
   }
 ]
