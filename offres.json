@@ -1,5 +1,23 @@
 [
   {
+    "id": "jf-9ff4a12d43",
+    "titre": "Customer Support Specialist",
+    "entreprise": "Ultimate Marketing",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Customer Support Specialist chez Ultimate Marketing, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-15",
+    "ref_unique": "jf-9ff4a12d43"
+  },
+  {
     "id": "jf-6630ef225e",
     "titre": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
     "entreprise": "Tierarzt Plus Partner",
@@ -5471,23 +5489,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-09",
     "ref_unique": "ma-a98135bb88"
-  },
-  {
-    "id": "ma-dc741cafd3",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=8&elckey=4643592548009796186&p=1&aq=3003885534775892966&cid=20&jobAge=42&relb=110&brelb=110&bscr=1547.1831&scr=1547.1831",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-09",
-    "ref_unique": "ma-dc741cafd3"
   }
 ]
