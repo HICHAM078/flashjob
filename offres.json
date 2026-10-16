@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-4bf304f8fc",
+    "titre": "Account Manager Mid Market",
+    "entreprise": "Allego",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "customer support",
+      "marketing",
+      "ops"
+    ],
+    "resume_neutre": "Account Manager Mid Market chez Allego, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-4bf304f8fc"
+  },
+  {
+    "id": "jf-9742566895",
+    "titre": "Senior Software Engineer II Applied AI",
+    "entreprise": "Wrapbook",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend"
+    ],
+    "resume_neutre": "Senior Software Engineer II Applied AI chez Wrapbook, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-9742566895"
+  },
+  {
+    "id": "jf-9137072d5d",
+    "titre": "Manager Clinical Data Management",
+    "entreprise": "EDETEK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "sys admin",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Manager Clinical Data Management chez EDETEK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-9137072d5d"
+  },
+  {
     "id": "ma-4920a66e3e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5417,59 +5483,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-11",
     "ref_unique": "ma-983de508ac"
-  },
-  {
-    "id": "ma-dc0d30b416",
-    "titre": "Commercial Télévente B2C - Belgique (H/F)",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Télévente B2C - Belgique (H/F) chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-643509571675187255?ckey=commercial&rgn=938&pos=9&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=593&relb=110&brelb=110&bscr=1495.8408&scr=1495.8408",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-dc0d30b416"
-  },
-  {
-    "id": "ma-a2c5e34903",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=10&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=305&relb=110&brelb=110&bscr=1487.5897&scr=1487.5897",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-a2c5e34903"
-  },
-  {
-    "id": "ma-fd15f60b04",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=11&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=185&relb=110&brelb=110&bscr=1476.8864&scr=1476.8864",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-fd15f60b04"
   }
 ]
