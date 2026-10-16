@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-03c9e71eff",
+    "titre": "Director US Tax & Accounting #35344",
+    "entreprise": "Manila Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Director US Tax & Accounting #35344 chez Manila Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-03c9e71eff"
+  },
+  {
+    "id": "jf-858a373d98",
+    "titre": "Project and Quality Administrator Work From Home Dayshift",
+    "entreprise": "Twoconnect",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Work From Home",
+    "remote": true,
+    "competences": [
+      "work from home",
+      "jira",
+      "sys admin",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Project and Quality Administrator Work From Home Dayshift chez Twoconnect, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-858a373d98"
+  },
+  {
     "id": "jf-98e12c19b6",
     "titre": "Sr REACT NATIVE",
     "entreprise": "Somnio Software",
@@ -5458,41 +5502,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-10",
     "ref_unique": "ma-4c7100359f"
-  },
-  {
-    "id": "ma-cc2fbf7108",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=3&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=65&relb=110&brelb=110&bscr=1573.8683&scr=1573.8683",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-cc2fbf7108"
-  },
-  {
-    "id": "ma-9eaca2a671",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=4&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=41&relb=110&brelb=110&bscr=1573.8683&scr=1573.8683",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-9eaca2a671"
   }
 ]
