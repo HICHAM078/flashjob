@@ -1,5 +1,67 @@
 [
   {
+    "id": "jf-98e12c19b6",
+    "titre": "Sr REACT NATIVE",
+    "entreprise": "Somnio Software",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "React Native",
+    "remote": true,
+    "competences": [
+      "react native",
+      "react",
+      "dev",
+      "python",
+      "javascript"
+    ],
+    "resume_neutre": "Sr REACT NATIVE chez Somnio Software, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-98e12c19b6"
+  },
+  {
+    "id": "jf-f5cc7ed0b7",
+    "titre": "Contracts Manager Federal",
+    "entreprise": "Akicita Federal, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "medical",
+      "recruiter"
+    ],
+    "resume_neutre": "Contracts Manager Federal chez Akicita Federal, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-f5cc7ed0b7"
+  },
+  {
+    "id": "jf-ce2594ba1a",
+    "titre": "Federal Account Manager Client Relationships",
+    "entreprise": "Akicita Federal, LLC",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "golang",
+      "recruiter"
+    ],
+    "resume_neutre": "Federal Account Manager Client Relationships chez Akicita Federal, LLC, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-16",
+    "ref_unique": "jf-ce2594ba1a"
+  },
+  {
     "id": "jf-8fa4ab11c2",
     "titre": "Payment Operations Specialist",
     "entreprise": "Utopia",
@@ -5432,59 +5494,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-10",
     "ref_unique": "ma-9eaca2a671"
-  },
-  {
-    "id": "ma-397c7a56d1",
-    "titre": "RECRUTEMENT : COMMERCIAUX EN ASSURANCE DÉCENNALE",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT : COMMERCIAUX EN ASSURANCE DÉCENNALE chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1017572454462944339?ckey=commercial&rgn=938&pos=5&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=41&relb=110&brelb=110&bscr=1561.5134&scr=1561.5134",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-397c7a56d1"
-  },
-  {
-    "id": "ma-fb35050045",
-    "titre": "Conseiller Commercial Arabo/francophone",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/203780971880129447?ckey=commercial&rgn=938&pos=6&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=89&relb=110&brelb=110&bscr=1558.7959&scr=1558.7959",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-fb35050045"
-  },
-  {
-    "id": "ma-cc1c65b81e",
-    "titre": "Commercial Télévente B2C - Belgique (H/F)",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Télévente B2C - Belgique (H/F) chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-643509571675187255?ckey=commercial&rgn=938&pos=7&elckey=5449298565375516330&p=1&aq=890577905983116502&cid=20&jobAge=569&relb=110&brelb=110&bscr=1549.7605&scr=1549.7605",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-10",
-    "ref_unique": "ma-cc1c65b81e"
   }
 ]
