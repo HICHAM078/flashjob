@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-77360fca3a",
+    "titre": "Associate Data Scientist",
+    "entreprise": "AlgaeCal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "python",
+      "customer support",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Associate Data Scientist chez AlgaeCal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-77360fca3a"
+  },
+  {
+    "id": "jf-e5f503eb99",
+    "titre": "Director of IT and Workplace",
+    "entreprise": "Hippocratic AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "infosec",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Director of IT and Workplace chez Hippocratic AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-e5f503eb99"
+  },
+  {
+    "id": "jf-72be8ce79d",
+    "titre": "Customer Success Associate",
+    "entreprise": "Voltus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "testing",
+      "exec",
+      "ops",
+      "sales"
+    ],
+    "resume_neutre": "Customer Success Associate chez Voltus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-72be8ce79d"
+  },
+  {
     "id": "jf-4bf304f8fc",
     "titre": "Account Manager Mid Market",
     "entreprise": "Allego",
@@ -5429,59 +5495,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-11",
     "ref_unique": "ma-373d125877"
-  },
-  {
-    "id": "ma-9f86d4f24a",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=6&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=65&relb=110&brelb=110&bscr=1526.017&scr=1526.017",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-9f86d4f24a"
-  },
-  {
-    "id": "ma-b336f23c78",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=7&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=89&relb=110&brelb=110&bscr=1524.611&scr=1524.611",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-b336f23c78"
-  },
-  {
-    "id": "ma-983de508ac",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=8&elckey=7384026498099464302&p=1&aq=-1150876343671252372&cid=20&jobAge=41&relb=110&brelb=110&bscr=1524.611&scr=1524.611",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-11",
-    "ref_unique": "ma-983de508ac"
   }
 ]
