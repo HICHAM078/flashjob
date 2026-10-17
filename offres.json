@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-b2899cd0f7",
+    "titre": "Head of Technology",
+    "entreprise": "Sanctuary Computer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "senior",
+      "full stack",
+      "front end"
+    ],
+    "resume_neutre": "Head of Technology chez Sanctuary Computer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-b2899cd0f7"
+  },
+  {
+    "id": "jf-3838ece64e",
+    "titre": "Director of Product Management and IT Operations",
+    "entreprise": "Self Bill Pro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "infosec",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Director of Product Management and IT Operations chez Self Bill Pro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-3838ece64e"
+  },
+  {
+    "id": "jf-2fd0eca28c",
+    "titre": "SAP RE FX Consultant",
+    "entreprise": "Yopeso Romania SRL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "design",
+      "technical",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "SAP RE FX Consultant chez Yopeso Romania SRL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-2fd0eca28c"
+  },
+  {
+    "id": "jf-540dfb9e57",
+    "titre": "APAC Python",
+    "entreprise": "Kodland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python",
+      "teaching",
+      "education",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "APAC Python chez Kodland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-17",
+    "ref_unique": "jf-540dfb9e57"
+  },
+  {
     "id": "ma-d3efd42a55",
     "titre": "Portes ouvertes - opportunités d’emploi",
     "entreprise": "Great Call",
@@ -5407,77 +5495,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-12",
     "ref_unique": "ma-b8a6b7e8b5"
-  },
-  {
-    "id": "ma-5e8ef849f7",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=6&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=116&relb=110&brelb=110&bscr=1527.182&scr=1527.182",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-5e8ef849f7"
-  },
-  {
-    "id": "ma-8259477779",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=7&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=92&relb=110&brelb=110&bscr=1511.4918&scr=1511.4918",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-8259477779"
-  },
-  {
-    "id": "ma-37f5a284bc",
-    "titre": "Commercial Télévente B2C - Belgique (H/F)",
-    "entreprise": "Logic Sales",
-    "ville": "Temara",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial Télévente B2C - Belgique (H/F) chez Logic Sales, a Temara. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-643509571675187255?ckey=commercial&rgn=938&pos=8&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=620&relb=110&brelb=110&bscr=1492.6915&scr=1492.6915000000001",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-37f5a284bc"
-  },
-  {
-    "id": "ma-d0bca7ba89",
-    "titre": "Commercial(e) Sédentaire BtoB",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Sédentaire BtoB chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6772370522292424089?ckey=commercial&rgn=938&pos=9&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=212&relb=110&brelb=110&bscr=1472.3862&scr=1472.3862",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-d0bca7ba89"
   }
 ]
