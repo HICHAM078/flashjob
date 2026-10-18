@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-2c42154490",
+    "titre": "Software Engineer AI Coding Tasks",
+    "entreprise": "Askable",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "python",
+      "javascript",
+      "typescript",
+      "golang"
+    ],
+    "resume_neutre": "Software Engineer AI Coding Tasks chez Askable, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-18",
+    "ref_unique": "jf-2c42154490"
+  },
+  {
     "id": "jf-b2899cd0f7",
     "titre": "Head of Technology",
     "entreprise": "Sanctuary Computer",
@@ -5477,23 +5499,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-12",
     "ref_unique": "ma-b3aea83070"
-  },
-  {
-    "id": "ma-b8a6b7e8b5",
-    "titre": "Conseiller Commercial Arabo/francophone",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/203780971880129447?ckey=commercial&rgn=938&pos=5&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=140&relb=110&brelb=110&bscr=1540.5707&scr=1540.5707",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-b8a6b7e8b5"
   }
 ]
