@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-35e0ed1fab",
+    "titre": "Graduate Transport Planner",
+    "entreprise": "Curtins",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "consulting",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Graduate Transport Planner chez Curtins, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-18",
+    "ref_unique": "jf-35e0ed1fab"
+  },
+  {
+    "id": "jf-de371a64fb",
+    "titre": "Key Account Manager Danish Market Native Speaker Copenhagen",
+    "entreprise": "Packmatic GmbH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "technical",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Key Account Manager Danish Market Native Speaker Copenhagen chez Packmatic GmbH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-18",
+    "ref_unique": "jf-de371a64fb"
+  },
+  {
+    "id": "jf-e6c183b9bb",
+    "titre": "Technical Account Manager",
+    "entreprise": "Yuno",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "hr",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Technical Account Manager chez Yuno, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-18",
+    "ref_unique": "jf-e6c183b9bb"
+  },
+  {
+    "id": "jf-5b19eeb010",
+    "titre": "Commercial Account Manager LATAM",
+    "entreprise": "Apryse",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Commercial Account Manager LATAM chez Apryse, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-18",
+    "ref_unique": "jf-5b19eeb010"
+  },
+  {
     "id": "jf-2c42154490",
     "titre": "Software Engineer AI Coding Tasks",
     "entreprise": "Askable",
@@ -5427,77 +5511,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-12",
     "ref_unique": "ma-7d3767309c"
-  },
-  {
-    "id": "ma-21d44d4963",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=1&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=284&relb=110&brelb=110&bscr=1640.5358&scr=1640.5358",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-21d44d4963"
-  },
-  {
-    "id": "ma-eaedd2c853",
-    "titre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7273066089235346616?ckey=commercial&rgn=938&pos=2&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=596&relb=110&brelb=110&bscr=1634.198&scr=1634.198",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-eaedd2c853"
-  },
-  {
-    "id": "ma-9ab5cb2c82",
-    "titre": "Commerciaux Sedentaire prise de RDV",
-    "entreprise": "Focus Leads",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux Sedentaire prise de RDV chez Focus Leads, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2158547130804158345?ckey=commercial&rgn=938&pos=3&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=188&relb=110&brelb=110&bscr=1569.0542&scr=1569.0542",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-9ab5cb2c82"
-  },
-  {
-    "id": "ma-b3aea83070",
-    "titre": "RECRUTEMENT : COMMERCIAUX EN ASSURANCE DÉCENNALE",
-    "entreprise": "Méléine Succursale",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT : COMMERCIAUX EN ASSURANCE DÉCENNALE chez Méléine Succursale, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1017572454462944339?ckey=commercial&rgn=938&pos=4&elckey=4030045687119945867&p=1&aq=2370466052041267102&cid=20&jobAge=44&relb=110&brelb=110&bscr=1544.089&scr=1544.0889999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-12",
-    "ref_unique": "ma-b3aea83070"
   }
 ]
