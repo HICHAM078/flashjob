@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-c29af192f1",
+    "titre": "Senior Software Engineer",
+    "entreprise": "Sothebyâs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "senior",
+      "sales",
+      "engineer"
+    ],
+    "resume_neutre": "Senior Software Engineer chez Sothebyâs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-19",
+    "ref_unique": "jf-c29af192f1"
+  },
+  {
+    "id": "jf-5e9d2817ee",
+    "titre": "Senior Backend Engineer",
+    "entreprise": "Rain",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "finance",
+      "mobile",
+      "senior",
+      "medical"
+    ],
+    "resume_neutre": "Senior Backend Engineer chez Rain, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-19",
+    "ref_unique": "jf-5e9d2817ee"
+  },
+  {
     "id": "ma-6fcd11e79e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5443,41 +5487,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-14",
     "ref_unique": "ma-7eed4fe789"
-  },
-  {
-    "id": "ma-d54992b3a2",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=10&elckey=4870193782274084891&p=1&aq=-611189313934284521&cid=20&jobAge=376&relb=110&brelb=110&bscr=1557.036&scr=1557.0360000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-14",
-    "ref_unique": "ma-d54992b3a2"
-  },
-  {
-    "id": "ma-45d8b6603a",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5745831475218079804?ckey=commercial&rgn=938&pos=11&elckey=4870193782274084891&p=1&aq=-611189313934284521&cid=20&jobAge=40&relb=110&brelb=110&bscr=1538.677&scr=1538.677",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-14",
-    "ref_unique": "ma-45d8b6603a"
   }
 ]
