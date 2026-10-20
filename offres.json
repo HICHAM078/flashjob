@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-8ea1275922",
+    "titre": "Customer Support Consultant hospitality",
+    "entreprise": "SupportYourApp",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "customer support",
+      "saas",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Customer Support Consultant hospitality chez SupportYourApp, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-20",
+    "ref_unique": "jf-8ea1275922"
+  },
+  {
     "id": "ma-90506e63bb",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5469,23 +5491,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-15",
     "ref_unique": "ma-14ad6dd17a"
-  },
-  {
-    "id": "ma-ffcaea2c4f",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5745831475218079804?ckey=commercial&rgn=938&pos=11&elckey=2223958017564564651&p=1&aq=844011141100755940&cid=20&jobAge=40&relb=110&brelb=110&bscr=1542.8433&scr=1542.8433",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-15",
-    "ref_unique": "ma-ffcaea2c4f"
   }
 ]
