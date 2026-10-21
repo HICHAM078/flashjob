@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-03c9e71eff",
+    "titre": "Director US Tax & Accounting #35344",
+    "entreprise": "Manila Recruitment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Director US Tax & Accounting #35344 chez Manila Recruitment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-21",
+    "ref_unique": "jf-03c9e71eff"
+  },
+  {
+    "id": "jf-858a373d98",
+    "titre": "Project and Quality Administrator Work From Home Dayshift",
+    "entreprise": "Twoconnect",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Work From Home",
+    "remote": true,
+    "competences": [
+      "work from home",
+      "jira",
+      "sys admin",
+      "education",
+      "customer support"
+    ],
+    "resume_neutre": "Project and Quality Administrator Work From Home Dayshift chez Twoconnect, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-21",
+    "ref_unique": "jf-858a373d98"
+  },
+  {
     "id": "ma-1436bf965f",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5434,41 +5478,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-16",
     "ref_unique": "ma-1c21186c77"
-  },
-  {
-    "id": "ma-4c81eab56f",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=4&elckey=-9207024530789056895&p=1&aq=-556573579840362842&cid=20&jobAge=928&relb=100&brelb=100&bscr=2427.876&scr=2427.876",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-16",
-    "ref_unique": "ma-4c81eab56f"
-  },
-  {
-    "id": "ma-b07c480d6e",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=5&elckey=-9207024530789056895&p=1&aq=-556573579840362842&cid=20&jobAge=1048&relb=100&brelb=100&bscr=2366.23&scr=2366.23",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-16",
-    "ref_unique": "ma-b07c480d6e"
   }
 ]
