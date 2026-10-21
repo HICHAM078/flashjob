@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-781b79a297",
+    "titre": "Risk Analyst",
+    "entreprise": "Pavago",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "saas",
+      "sys admin",
+      "infosec",
+      "python"
+    ],
+    "resume_neutre": "Risk Analyst chez Pavago, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-21",
+    "ref_unique": "jf-781b79a297"
+  },
+  {
     "id": "jf-8ea1275922",
     "titre": "Customer Support Consultant hospitality",
     "entreprise": "SupportYourApp",
@@ -5473,23 +5495,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-15",
     "ref_unique": "ma-8a7f47e4a1"
-  },
-  {
-    "id": "ma-14ad6dd17a",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=10&elckey=2223958017564564651&p=1&aq=844011141100755940&cid=20&jobAge=400&relb=110&brelb=110&bscr=1598.0638&scr=1598.0638",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-15",
-    "ref_unique": "ma-14ad6dd17a"
   }
 ]
