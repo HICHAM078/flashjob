@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-43530472e2",
+    "titre": "Clinical Data Manager",
+    "entreprise": "Penumbra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Clinical Data Manager chez Penumbra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-43530472e2"
+  },
+  {
     "id": "jf-03c9e71eff",
     "titre": "Director US Tax & Accounting #35344",
     "entreprise": "Manila Recruitment",
@@ -5460,23 +5482,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-16",
     "ref_unique": "ma-cd6588eb7c"
-  },
-  {
-    "id": "ma-1c21186c77",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=3&elckey=-9207024530789056895&p=1&aq=-556573579840362842&cid=20&jobAge=376&relb=110&brelb=110&bscr=2904.9614&scr=2904.9614",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-16",
-    "ref_unique": "ma-1c21186c77"
   }
 ]
