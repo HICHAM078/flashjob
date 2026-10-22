@@ -1,5 +1,137 @@
 [
   {
+    "id": "jf-cc09768b7a",
+    "titre": "Senior Backend Engineer",
+    "entreprise": "DuckDuckGo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Backend",
+    "remote": true,
+    "competences": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "resume_neutre": "Senior Backend Engineer chez DuckDuckGo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-cc09768b7a"
+  },
+  {
+    "id": "jf-77360fca3a",
+    "titre": "Associate Data Scientist",
+    "entreprise": "AlgaeCal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "python",
+      "customer support",
+      "marketing",
+      "dev"
+    ],
+    "resume_neutre": "Associate Data Scientist chez AlgaeCal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-77360fca3a"
+  },
+  {
+    "id": "jf-e5f503eb99",
+    "titre": "Director of IT and Workplace",
+    "entreprise": "Hippocratic AI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "infosec",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Director of IT and Workplace chez Hippocratic AI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-e5f503eb99"
+  },
+  {
+    "id": "jf-72be8ce79d",
+    "titre": "Customer Success Associate",
+    "entreprise": "Voltus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "testing",
+      "exec",
+      "ops",
+      "sales"
+    ],
+    "resume_neutre": "Customer Success Associate chez Voltus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-72be8ce79d"
+  },
+  {
+    "id": "jf-4bf304f8fc",
+    "titre": "Account Manager Mid Market",
+    "entreprise": "Allego",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "customer support",
+      "marketing",
+      "ops"
+    ],
+    "resume_neutre": "Account Manager Mid Market chez Allego, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-4bf304f8fc"
+  },
+  {
+    "id": "jf-9742566895",
+    "titre": "Senior Software Engineer II Applied AI",
+    "entreprise": "Wrapbook",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend"
+    ],
+    "resume_neutre": "Senior Software Engineer II Applied AI chez Wrapbook, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-22",
+    "ref_unique": "jf-9742566895"
+  },
+  {
     "id": "ma-adfdf24beb",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5350,113 +5482,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-17",
     "ref_unique": "ma-77924b449d"
-  },
-  {
-    "id": "ma-0afbe5ddd7",
-    "titre": "Professeur Permanent en Informatique - Marrakech",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Marrakech chez EDVANTIS HIGHER EDUCATION GROUP, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4747113845154422236?ckey=informatique&rgn=0&pos=3&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=87&relb=100&brelb=100&bscr=2885.3984&scr=2885.3984",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-0afbe5ddd7"
-  },
-  {
-    "id": "ma-d0e2d9c706",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=4&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=951&relb=100&brelb=100&bscr=2401.9365&scr=2401.9365",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-d0e2d9c706"
-  },
-  {
-    "id": "ma-1b30a8761b",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=5&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=1071&relb=100&brelb=100&bscr=2299.514&scr=2299.514",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-1b30a8761b"
-  },
-  {
-    "id": "ma-81e784cb3f",
-    "titre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca",
-    "entreprise": "ANNOUR TECHNOLOGIES",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca chez ANNOUR TECHNOLOGIES, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7077929458573654531?ckey=informatique&rgn=0&pos=6&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=927&relb=100&brelb=100&bscr=2239.416&scr=2239.416",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-81e784cb3f"
-  },
-  {
-    "id": "ma-312f53f500",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=7&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=1311&relb=100&brelb=100&bscr=2039.7184&scr=2039.7184",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-312f53f500"
-  },
-  {
-    "id": "ma-9cf3afba85",
-    "titre": "Commercial REI",
-    "entreprise": "Finvens Operations",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial REI chez Finvens Operations, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7018056839777123326?ckey=informatique&rgn=0&pos=8&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=471&relb=110&brelb=110&bscr=293.48456&scr=293.48456",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-9cf3afba85"
   }
 ]
