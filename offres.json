@@ -1,5 +1,221 @@
 [
   {
+    "id": "jf-41e814fb02",
+    "titre": "Senior DevOps Engineer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops",
+      "engineer",
+      "dev",
+      "python",
+      "golang"
+    ],
+    "resume_neutre": "Senior DevOps Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-41e814fb02"
+  },
+  {
+    "id": "jf-35e0ed1fab",
+    "titre": "Graduate Transport Planner",
+    "entreprise": "Curtins",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "consulting",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Graduate Transport Planner chez Curtins, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-35e0ed1fab"
+  },
+  {
+    "id": "jf-de371a64fb",
+    "titre": "Key Account Manager Danish Market Native Speaker Copenhagen",
+    "entreprise": "Packmatic GmbH",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "saas",
+      "technical",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Key Account Manager Danish Market Native Speaker Copenhagen chez Packmatic GmbH, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-de371a64fb"
+  },
+  {
+    "id": "jf-e6c183b9bb",
+    "titre": "Technical Account Manager",
+    "entreprise": "Yuno",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "hr",
+      "python",
+      "technical"
+    ],
+    "resume_neutre": "Technical Account Manager chez Yuno, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-e6c183b9bb"
+  },
+  {
+    "id": "jf-5b19eeb010",
+    "titre": "Commercial Account Manager LATAM",
+    "entreprise": "Apryse",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Commercial Account Manager LATAM chez Apryse, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-5b19eeb010"
+  },
+  {
+    "id": "jf-2c42154490",
+    "titre": "Software Engineer AI Coding Tasks",
+    "entreprise": "Askable",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "python",
+      "javascript",
+      "typescript",
+      "golang"
+    ],
+    "resume_neutre": "Software Engineer AI Coding Tasks chez Askable, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-2c42154490"
+  },
+  {
+    "id": "jf-b2899cd0f7",
+    "titre": "Head of Technology",
+    "entreprise": "Sanctuary Computer",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "engineer",
+      "senior",
+      "full stack",
+      "front end"
+    ],
+    "resume_neutre": "Head of Technology chez Sanctuary Computer, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-b2899cd0f7"
+  },
+  {
+    "id": "jf-3838ece64e",
+    "titre": "Director of Product Management and IT Operations",
+    "entreprise": "Self Bill Pro",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "infosec",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Director of Product Management and IT Operations chez Self Bill Pro, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-3838ece64e"
+  },
+  {
+    "id": "jf-2fd0eca28c",
+    "titre": "SAP RE FX Consultant",
+    "entreprise": "Yopeso Romania SRL",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "design",
+      "technical",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "SAP RE FX Consultant chez Yopeso Romania SRL, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-2fd0eca28c"
+  },
+  {
+    "id": "jf-540dfb9e57",
+    "titre": "APAC Python",
+    "entreprise": "Kodland",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Python",
+    "remote": true,
+    "competences": [
+      "python",
+      "teaching",
+      "education",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "APAC Python chez Kodland, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-540dfb9e57"
+  },
+  {
     "id": "ma-c84ffd8927",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5284,185 +5500,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-18",
     "ref_unique": "ma-3146575a69"
-  },
-  {
-    "id": "ma-d94d62c713",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7928419199007243330?ckey=commercial&rgn=938&pos=10&elckey=-6077523962040489409&p=1&aq=-2706524672869573009&cid=20&jobAge=63&relb=110&brelb=110&bscr=1555.2072&scr=1555.2072",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-d94d62c713"
-  },
-  {
-    "id": "ma-0f3823d4aa",
-    "titre": "Commercial(e) Junior - Assurance",
-    "entreprise": "Infocea Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Junior - Assurance chez Infocea Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/211537372718286668?ckey=commercial&rgn=938&pos=11&elckey=-6077523962040489409&p=1&aq=-2706524672869573009&cid=20&jobAge=231&relb=110&brelb=110&bscr=1552.7142&scr=1552.7142",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-0f3823d4aa"
-  },
-  {
-    "id": "ma-d2f296e4db",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5087921200464237928?ckey=commercial&rgn=938&pos=12&elckey=-6077523962040489409&p=1&aq=-2706524672869573009&cid=20&jobAge=87&relb=110&brelb=110&bscr=1552.5269&scr=1552.5269",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-d2f296e4db"
-  },
-  {
-    "id": "ma-03edc14ecf",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=63&relb=110&brelb=110&bscr=3080.3289&scr=3080.3289",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-03edc14ecf"
-  },
-  {
-    "id": "ma-d2de6d9ca3",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=2&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=423&relb=110&brelb=110&bscr=2924.43&scr=2924.43",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-d2de6d9ca3"
-  },
-  {
-    "id": "ma-780fb7afa5",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=3&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=63&relb=100&brelb=100&bscr=2862.1345&scr=2862.1345",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-780fb7afa5"
-  },
-  {
-    "id": "ma-0e76c8dff1",
-    "titre": "Une technicienne en informatique",
-    "entreprise": "GROUPE SCOLAIRE VIVALDI",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Une technicienne en informatique chez GROUPE SCOLAIRE VIVALDI, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/5287064724240955619?ckey=informatique&rgn=0&pos=4&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=975&relb=100&brelb=100&bscr=2317.189&scr=2317.189",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-0e76c8dff1"
-  },
-  {
-    "id": "ma-dad63874bd",
-    "titre": "Testeur informatique",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Testeur informatique chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2639648248273524601?ckey=informatique&rgn=0&pos=5&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=1095&relb=100&brelb=100&bscr=2278.4268&scr=2278.4268",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-dad63874bd"
-  },
-  {
-    "id": "ma-2bc7811a8a",
-    "titre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca",
-    "entreprise": "ANNOUR TECHNOLOGIES",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca chez ANNOUR TECHNOLOGIES, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7077929458573654531?ckey=informatique&rgn=0&pos=6&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=951&relb=100&brelb=100&bscr=2184.8599&scr=2184.8599",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-2bc7811a8a"
-  },
-  {
-    "id": "ma-d00c0c6cd8",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=7&elckey=5874955176741695007&p=1&aq=8604229524877635950&cid=20&jobAge=231&relb=110&brelb=110&bscr=292.64993&scr=292.64993",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-d00c0c6cd8"
   }
 ]
