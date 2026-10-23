@@ -1,5 +1,69 @@
 [
   {
+    "id": "jf-7316d8d579",
+    "titre": "Accounting & Finance Manager",
+    "entreprise": "Political Asylum Lawyers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Accounting & Finance Manager chez Political Asylum Lawyers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-7316d8d579"
+  },
+  {
+    "id": "jf-d096056b5d",
+    "titre": "Accounting Operations",
+    "entreprise": "Plaid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "technical",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Accounting Operations chez Plaid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-d096056b5d"
+  },
+  {
+    "id": "jf-195bcccbd3",
+    "titre": "lkjlkjxcv",
+    "entreprise": "scvsdv",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing",
+      "medical",
+      "engineer"
+    ],
+    "resume_neutre": "lkjlkjxcv chez scvsdv, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-23",
+    "ref_unique": "jf-195bcccbd3"
+  },
+  {
     "id": "jf-cc09768b7a",
     "titre": "Senior Backend Engineer",
     "entreprise": "DuckDuckGo",
@@ -5428,59 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-17",
     "ref_unique": "ma-7fa4fa1888"
-  },
-  {
-    "id": "ma-e99414bebb",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=12&elckey=-8012251894764437381&p=1&aq=3535605849225018878&cid=20&jobAge=447&relb=110&brelb=110&bscr=1568.9233&scr=1568.9233",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-e99414bebb"
-  },
-  {
-    "id": "ma-88ae3155c1",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=39&relb=110&brelb=110&bscr=3061.564&scr=3061.564",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-88ae3155c1"
-  },
-  {
-    "id": "ma-77924b449d",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=2&elckey=3940227244017747035&p=1&aq=3708906695892548111&cid=20&jobAge=399&relb=110&brelb=110&bscr=2973.7388&scr=2973.7387999999996",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-17",
-    "ref_unique": "ma-77924b449d"
   }
 ]
