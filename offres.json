@@ -1,5 +1,26 @@
 [
   {
+    "id": "jf-2f9aaf9cfa",
+    "titre": "Travel Support Specialist",
+    "entreprise": "Aisles &amp; Abroad",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "Travel Support Specialist chez Aisles &amp; Abroad, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-24",
+    "ref_unique": "jf-2f9aaf9cfa"
+  },
+  {
     "id": "jf-41e814fb02",
     "titre": "Senior DevOps Engineer",
     "entreprise": "Lemon.io",
@@ -5482,23 +5503,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-18",
     "ref_unique": "ma-fd416c9f89"
-  },
-  {
-    "id": "ma-3146575a69",
-    "titre": "Conseiller commercial en assurance",
-    "entreprise": "AMP ASSUR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en assurance chez AMP ASSUR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2872071695559578120?ckey=commercial&rgn=938&pos=9&elckey=-6077523962040489409&p=1&aq=-2706524672869573009&cid=20&jobAge=159&relb=100&brelb=100&bscr=1566.0667&scr=1566.0667",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-3146575a69"
   }
 ]
