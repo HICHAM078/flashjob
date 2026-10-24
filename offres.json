@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-05b3b83a18",
+    "titre": "Accounting and Implementation Manager",
+    "entreprise": "Aprio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Accounting and Implementation Manager chez Aprio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-24",
+    "ref_unique": "jf-05b3b83a18"
+  },
+  {
     "id": "jf-2f9aaf9cfa",
     "titre": "Travel Support Specialist",
     "entreprise": "Aisles &amp; Abroad",
@@ -5485,23 +5507,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-18",
     "ref_unique": "ma-fe80c4cace"
-  },
-  {
-    "id": "ma-fd416c9f89",
-    "titre": "Conseiller Commercial Arabo/francophone",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial Arabo/francophone chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/203780971880129447?ckey=commercial&rgn=938&pos=8&elckey=-6077523962040489409&p=1&aq=-2706524672869573009&cid=20&jobAge=279&relb=110&brelb=110&bscr=1609.1166&scr=1609.1166",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-18",
-    "ref_unique": "ma-fd416c9f89"
   }
 ]
