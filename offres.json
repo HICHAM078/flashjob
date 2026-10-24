@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-ecc5577f8a",
+    "titre": "Sales Development Representative German Speaking",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "sys admin",
+      "dev",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Sales Development Representative German Speaking chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-24",
+    "ref_unique": "jf-ecc5577f8a"
+  },
+  {
+    "id": "jf-204c86aa9b",
+    "titre": "Senior Frontend Engineer",
+    "entreprise": "B2spin",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "design",
+      "react",
+      "embedded",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior Frontend Engineer chez B2spin, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-24",
+    "ref_unique": "jf-204c86aa9b"
+  },
+  {
+    "id": "jf-72075b3258",
+    "titre": "Sales Development Representative B2B",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "salesforce",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Sales Development Representative B2B chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-24",
+    "ref_unique": "jf-72075b3258"
+  },
+  {
     "id": "ma-8efef159b2",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5453,59 +5519,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-19",
     "ref_unique": "ma-a13b604bea"
-  },
-  {
-    "id": "ma-9d5bd82baa",
-    "titre": "Commerciaux BtoB Votre Avenir commence chez MYBPO !",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux BtoB Votre Avenir commence chez MYBPO ! chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1898659468440729658?ckey=commercial&rgn=938&pos=5&elckey=-1970675690516533748&p=1&aq=-8443926004438152973&cid=20&jobAge=90&relb=110&brelb=110&bscr=1656.0435&scr=1656.0435",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-19",
-    "ref_unique": "ma-9d5bd82baa"
-  },
-  {
-    "id": "ma-0268dd66b5",
-    "titre": "Conseiller Commercial FAI Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial FAI Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7810660446344098389?ckey=commercial&rgn=938&pos=6&elckey=-1970675690516533748&p=1&aq=-8443926004438152973&cid=20&jobAge=114&relb=110&brelb=110&bscr=1641.5438&scr=1641.5438",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-19",
-    "ref_unique": "ma-0268dd66b5"
-  },
-  {
-    "id": "ma-62a00570dd",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=7&elckey=-1970675690516533748&p=1&aq=-8443926004438152973&cid=20&jobAge=450&relb=110&brelb=110&bscr=1626.6914&scr=1626.6914",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-19",
-    "ref_unique": "ma-62a00570dd"
   }
 ]
