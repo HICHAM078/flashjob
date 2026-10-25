@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-c29af192f1",
+    "titre": "Senior Software Engineer",
+    "entreprise": "Sothebyâs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "senior",
+      "sales",
+      "engineer"
+    ],
+    "resume_neutre": "Senior Software Engineer chez Sothebyâs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-25",
+    "ref_unique": "jf-c29af192f1"
+  },
+  {
+    "id": "jf-5e9d2817ee",
+    "titre": "Senior Backend Engineer",
+    "entreprise": "Rain",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "finance",
+      "mobile",
+      "senior",
+      "medical"
+    ],
+    "resume_neutre": "Senior Backend Engineer chez Rain, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-25",
+    "ref_unique": "jf-5e9d2817ee"
+  },
+  {
     "id": "ma-36626cae9b",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5479,41 +5523,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-20",
     "ref_unique": "ma-873ac10b81"
-  },
-  {
-    "id": "ma-088d1a7d22",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=4&elckey=1969423056435633599&p=1&aq=6452037626264722264&cid=20&jobAge=40&relb=110&brelb=110&bscr=1638.179&scr=1638.179",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-20",
-    "ref_unique": "ma-088d1a7d22"
-  },
-  {
-    "id": "ma-e4de8258a6",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=5&elckey=1969423056435633599&p=1&aq=6452037626264722264&cid=20&jobAge=40&relb=110&brelb=110&bscr=1631.7035&scr=1631.7035",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-20",
-    "ref_unique": "ma-e4de8258a6"
   }
 ]
