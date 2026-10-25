@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-4b54ce2c41",
+    "titre": "Field Phlebotomy Supervisor Northern California",
+    "entreprise": "Getlabs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "testing",
+      "marketing",
+      "exec",
+      "mobile"
+    ],
+    "resume_neutre": "Field Phlebotomy Supervisor Northern California chez Getlabs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-25",
+    "ref_unique": "jf-4b54ce2c41"
+  },
+  {
     "id": "jf-c29af192f1",
     "titre": "Senior Software Engineer",
     "entreprise": "Sothebyâs",
@@ -5505,23 +5527,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-20",
     "ref_unique": "ma-cca8682588"
-  },
-  {
-    "id": "ma-873ac10b81",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=3&elckey=1969423056435633599&p=1&aq=6452037626264722264&cid=20&jobAge=112&relb=110&brelb=110&bscr=1638.179&scr=1638.179",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-20",
-    "ref_unique": "ma-873ac10b81"
   }
 ]
