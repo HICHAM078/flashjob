@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-dd7a3fe527",
+    "titre": "Solutions Engineer",
+    "entreprise": "Onebrief",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ansible",
+      "grafana",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Solutions Engineer chez Onebrief, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-25",
+    "ref_unique": "jf-dd7a3fe527"
+  },
+  {
     "id": "jf-ecc5577f8a",
     "titre": "Sales Development Representative German Speaking",
     "entreprise": "Huzzle",
@@ -5501,23 +5523,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-19",
     "ref_unique": "ma-5be997194a"
-  },
-  {
-    "id": "ma-a13b604bea",
-    "titre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3820999321404910598?ckey=commercial&rgn=938&pos=4&elckey=-1970675690516533748&p=1&aq=-8443926004438152973&cid=20&jobAge=450&relb=110&brelb=110&bscr=1662.2582&scr=1662.2582",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-19",
-    "ref_unique": "ma-a13b604bea"
   }
 ]
