@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-07968e768b",
+    "titre": "Senior Software Engineer",
+    "entreprise": "Klardaten",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack"
+    ],
+    "resume_neutre": "Senior Software Engineer chez Klardaten, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-26",
+    "ref_unique": "jf-07968e768b"
+  },
+  {
+    "id": "jf-781b79a297",
+    "titre": "Risk Analyst",
+    "entreprise": "Pavago",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "saas",
+      "sys admin",
+      "infosec",
+      "python"
+    ],
+    "resume_neutre": "Risk Analyst chez Pavago, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-26",
+    "ref_unique": "jf-781b79a297"
+  },
+  {
+    "id": "jf-8ea1275922",
+    "titre": "Customer Support Consultant hospitality",
+    "entreprise": "SupportYourApp",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Consulting",
+    "remote": true,
+    "competences": [
+      "consulting",
+      "customer support",
+      "saas",
+      "infosec",
+      "technical"
+    ],
+    "resume_neutre": "Customer Support Consultant hospitality chez SupportYourApp, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-26",
+    "ref_unique": "jf-8ea1275922"
+  },
+  {
     "id": "ma-e9c20ac048",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5465,59 +5531,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-21",
     "ref_unique": "ma-67bf2430a5"
-  },
-  {
-    "id": "ma-ca47f72b34",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=2&elckey=1613669140442847465&p=1&aq=-911159024010324293&cid=20&jobAge=40&relb=110&brelb=110&bscr=1719.12&scr=1719.12",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-21",
-    "ref_unique": "ma-ca47f72b34"
-  },
-  {
-    "id": "ma-02bcd57fd6",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=3&elckey=1613669140442847465&p=1&aq=-911159024010324293&cid=20&jobAge=136&relb=110&brelb=110&bscr=1697.0062&scr=1697.0062",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-21",
-    "ref_unique": "ma-02bcd57fd6"
-  },
-  {
-    "id": "ma-52880375e7",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=4&elckey=1613669140442847465&p=1&aq=-911159024010324293&cid=20&jobAge=40&relb=110&brelb=110&bscr=1697.0062&scr=1697.0062",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-21",
-    "ref_unique": "ma-52880375e7"
   }
 ]
