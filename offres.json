@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-43530472e2",
+    "titre": "Clinical Data Manager",
+    "entreprise": "Penumbra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Clinical Data Manager chez Penumbra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-27",
+    "ref_unique": "jf-43530472e2"
+  },
+  {
     "id": "ma-9ff008a34e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5509,23 +5531,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-22",
     "ref_unique": "ma-170baa7532"
-  },
-  {
-    "id": "ma-c6420db8ba",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=2&elckey=-9110697736763081530&p=1&aq=5889446584557911623&cid=20&jobAge=64&relb=110&brelb=110&bscr=1650.2382&scr=1650.2382",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-22",
-    "ref_unique": "ma-c6420db8ba"
   }
 ]
