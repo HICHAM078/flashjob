@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-f113002dd4",
+    "titre": "Account Executive",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "dev",
+      "video",
+      "finance",
+      "exec"
+    ],
+    "resume_neutre": "Account Executive chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-27",
+    "ref_unique": "jf-f113002dd4"
+  },
+  {
+    "id": "jf-ff9781ffc7",
+    "titre": "Senior Software Engineer LATAM",
+    "entreprise": "Wagmo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "react",
+      "sys admin",
+      "python"
+    ],
+    "resume_neutre": "Senior Software Engineer LATAM chez Wagmo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-27",
+    "ref_unique": "jf-ff9781ffc7"
+  },
+  {
     "id": "jf-07968e768b",
     "titre": "Senior Software Engineer",
     "entreprise": "Klardaten",
@@ -5495,41 +5539,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-21",
     "ref_unique": "ma-d1e7741f16"
-  },
-  {
-    "id": "ma-8cbb3b8383",
-    "titre": "Responsable Comptabilité / Senior Hôtellerie et Restauration - Casablanca",
-    "entreprise": "GROUPE MCE",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Comptabilité / Senior Hôtellerie et Restauration - Casablanca chez GROUPE MCE, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-818184275951356217?ckey=comptable&rgn=946&pos=12&elckey=5033220579562172490&p=1&aq=5427687248935188913&cid=20&jobAge=640&relb=100&brelb=100&bscr=2027.18&scr=2027.18",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-21",
-    "ref_unique": "ma-8cbb3b8383"
-  },
-  {
-    "id": "ma-67bf2430a5",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=1&elckey=1613669140442847465&p=1&aq=-911159024010324293&cid=20&jobAge=40&relb=110&brelb=110&bscr=1729.4401&scr=1729.4401",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-21",
-    "ref_unique": "ma-67bf2430a5"
   }
 ]
