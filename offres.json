@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-11bda86c69",
+    "titre": "Senior Finance Manager Management Accountant",
+    "entreprise": "D2B",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "saas",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Senior Finance Manager Management Accountant chez D2B, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-28",
+    "ref_unique": "jf-11bda86c69"
+  },
+  {
+    "id": "jf-7316d8d579",
+    "titre": "Accounting & Finance Manager",
+    "entreprise": "Political Asylum Lawyers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Accounting & Finance Manager chez Political Asylum Lawyers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-28",
+    "ref_unique": "jf-7316d8d579"
+  },
+  {
+    "id": "jf-d096056b5d",
+    "titre": "Accounting Operations",
+    "entreprise": "Plaid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "technical",
+      "customer support",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Accounting Operations chez Plaid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-28",
+    "ref_unique": "jf-d096056b5d"
+  },
+  {
+    "id": "jf-cc09768b7a",
+    "titre": "Senior Backend Engineer",
+    "entreprise": "DuckDuckGo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Backend",
+    "remote": true,
+    "competences": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "resume_neutre": "Senior Backend Engineer chez DuckDuckGo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-28",
+    "ref_unique": "jf-cc09768b7a"
+  },
+  {
     "id": "ma-d45e298b95",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5421,77 +5509,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-23",
     "ref_unique": "ma-28f8a8a649"
-  },
-  {
-    "id": "ma-6a3fc9e9d4",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=8&elckey=-3678802388976193015&p=1&aq=-8034067256100303264&cid=20&jobAge=544&relb=110&brelb=110&bscr=1608.7522&scr=1608.7522",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-23",
-    "ref_unique": "ma-6a3fc9e9d4"
-  },
-  {
-    "id": "ma-f8b3beb098",
-    "titre": "Conseiller Commercial FAI Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial FAI Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7810660446344098389?ckey=commercial&rgn=938&pos=9&elckey=-3678802388976193015&p=1&aq=-8034067256100303264&cid=20&jobAge=112&relb=110&brelb=110&bscr=1570.7081&scr=1570.7081",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-23",
-    "ref_unique": "ma-f8b3beb098"
-  },
-  {
-    "id": "ma-79e8ef19c2",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7928419199007243330?ckey=commercial&rgn=938&pos=10&elckey=-3678802388976193015&p=1&aq=-8034067256100303264&cid=20&jobAge=136&relb=110&brelb=110&bscr=1567.3965&scr=1567.3965000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-23",
-    "ref_unique": "ma-79e8ef19c2"
-  },
-  {
-    "id": "ma-bc450db846",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5087921200464237928?ckey=commercial&rgn=938&pos=11&elckey=-3678802388976193015&p=1&aq=-8034067256100303264&cid=20&jobAge=208&relb=110&brelb=110&bscr=1562.9249&scr=1562.9249",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-23",
-    "ref_unique": "ma-bc450db846"
   }
 ]
