@@ -1,5 +1,107 @@
 [
   {
+    "id": "jf-ed8bf87f72",
+    "titre": "Front End Developer",
+    "entreprise": "Edconic",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "front end"
+    ],
+    "resume_neutre": "Front End Developer chez Edconic, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-29",
+    "ref_unique": "jf-ed8bf87f72"
+  },
+  {
+    "id": "jf-dcccef1c61",
+    "titre": "z",
+    "entreprise": "y",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Tech",
+    "remote": true,
+    "competences": [
+      "Voir l'offre sur la source"
+    ],
+    "resume_neutre": "z chez y, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-z-y-1137595",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-29",
+    "ref_unique": "jf-dcccef1c61"
+  },
+  {
+    "id": "jf-05b3b83a18",
+    "titre": "Accounting and Implementation Manager",
+    "entreprise": "Aprio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "education"
+    ],
+    "resume_neutre": "Accounting and Implementation Manager chez Aprio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-29",
+    "ref_unique": "jf-05b3b83a18"
+  },
+  {
+    "id": "jf-2f9aaf9cfa",
+    "titre": "Travel Support Specialist",
+    "entreprise": "Aisles &amp; Abroad",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "customer support",
+      "non tech"
+    ],
+    "resume_neutre": "Travel Support Specialist chez Aisles &amp; Abroad, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-29",
+    "ref_unique": "jf-2f9aaf9cfa"
+  },
+  {
+    "id": "jf-41e814fb02",
+    "titre": "Senior DevOps Engineer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops",
+      "engineer",
+      "dev",
+      "python",
+      "golang"
+    ],
+    "resume_neutre": "Senior DevOps Engineer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-29",
+    "ref_unique": "jf-41e814fb02"
+  },
+  {
     "id": "ma-25480d1390",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5376,95 +5478,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-24",
     "ref_unique": "ma-69b1d950cb"
-  },
-  {
-    "id": "ma-8444d5da97",
-    "titre": "Professeur Permanent en Informatique - Marrakech",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Safi",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Marrakech chez EDVANTIS HIGHER EDUCATION GROUP, a Safi. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4747113845154422236?ckey=informatique&rgn=0&pos=3&elckey=-5103946661593165040&p=1&aq=2453187731407332046&cid=20&jobAge=207&relb=100&brelb=100&bscr=2883.1226&scr=2883.1226",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-24",
-    "ref_unique": "ma-8444d5da97"
-  },
-  {
-    "id": "ma-fa105030aa",
-    "titre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca",
-    "entreprise": "ANNOUR TECHNOLOGIES",
-    "ville": "Mohammedia",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Ingénieur Réseaux et Sécurité Informatique - Casablanca chez ANNOUR TECHNOLOGIES, a Mohammedia. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7077929458573654531?ckey=informatique&rgn=0&pos=4&elckey=-5103946661593165040&p=1&aq=2453187731407332046&cid=20&jobAge=1095&relb=100&brelb=100&bscr=2138.7456&scr=2138.7456",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-24",
-    "ref_unique": "ma-fa105030aa"
-  },
-  {
-    "id": "ma-42699cc20a",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=5&elckey=-5103946661593165040&p=1&aq=2453187731407332046&cid=20&jobAge=1479&relb=100&brelb=100&bscr=2109.1157&scr=2109.1157",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-24",
-    "ref_unique": "ma-42699cc20a"
-  },
-  {
-    "id": "ma-d5b021efc6",
-    "titre": "Nous recrutons des profils en recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des profils en recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/863091025486249715?ckey=informatique&rgn=0&pos=6&elckey=-5103946661593165040&p=1&aq=2453187731407332046&cid=20&jobAge=63&relb=110&brelb=110&bscr=307.0436&scr=307.0436",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-24",
-    "ref_unique": "ma-d5b021efc6"
-  },
-  {
-    "id": "ma-8b56168a6c",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=7&elckey=-5103946661593165040&p=1&aq=2453187731407332046&cid=20&jobAge=375&relb=110&brelb=110&bscr=286.85278&scr=286.85278",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-24",
-    "ref_unique": "ma-8b56168a6c"
   }
 ]
