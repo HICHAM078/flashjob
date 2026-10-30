@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-9e527d3652",
+    "titre": "Cloud Engineer Automation",
+    "entreprise": "Smile Digital Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "grafana",
+      "infosec",
+      "python",
+      "customer support"
+    ],
+    "resume_neutre": "Cloud Engineer Automation chez Smile Digital Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-30",
+    "ref_unique": "jf-9e527d3652"
+  },
+  {
+    "id": "jf-dd7a3fe527",
+    "titre": "Solutions Engineer",
+    "entreprise": "Onebrief",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "ansible",
+      "grafana",
+      "sys admin",
+      "infosec"
+    ],
+    "resume_neutre": "Solutions Engineer chez Onebrief, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-30",
+    "ref_unique": "jf-dd7a3fe527"
+  },
+  {
+    "id": "jf-ecc5577f8a",
+    "titre": "Sales Development Representative German Speaking",
+    "entreprise": "Huzzle",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "sys admin",
+      "dev",
+      "marketing",
+      "finance"
+    ],
+    "resume_neutre": "Sales Development Representative German Speaking chez Huzzle, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-30",
+    "ref_unique": "jf-ecc5577f8a"
+  },
+  {
+    "id": "jf-204c86aa9b",
+    "titre": "Senior Frontend Engineer",
+    "entreprise": "B2spin",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Front End",
+    "remote": true,
+    "competences": [
+      "front end",
+      "design",
+      "react",
+      "embedded",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior Frontend Engineer chez B2spin, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-30",
+    "ref_unique": "jf-204c86aa9b"
+  },
+  {
     "id": "ma-968ed4ac99",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5390,77 +5478,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-25",
     "ref_unique": "ma-93860b573c"
-  },
-  {
-    "id": "ma-28efd74152",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=3&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=592&relb=110&brelb=110&bscr=2860.443&scr=2860.443",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-28efd74152"
-  },
-  {
-    "id": "ma-69234aa76a",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=4&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=1504&relb=100&brelb=100&bscr=2061.92&scr=2061.92",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-69234aa76a"
-  },
-  {
-    "id": "ma-59fe24d07b",
-    "titre": "Nous recrutons des profils en recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des profils en recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/863091025486249715?ckey=informatique&rgn=0&pos=5&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=88&relb=110&brelb=110&bscr=307.0437&scr=307.0437",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-59fe24d07b"
-  },
-  {
-    "id": "ma-7501cfe53c",
-    "titre": "Gestionnaire de recouvrement",
-    "entreprise": "2CA Business",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Gestionnaire de recouvrement chez 2CA Business, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6952950271109179518?ckey=informatique&rgn=0&pos=6&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=400&relb=110&brelb=110&bscr=287.16068&scr=287.16068",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-7501cfe53c"
   }
 ]
