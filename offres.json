@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-4ecff566c7",
+    "titre": "Contract Recruiter",
+    "entreprise": "CAI",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sys Admin",
+    "remote": true,
+    "competences": [
+      "sys admin",
+      "technical",
+      "recruiter",
+      "customer support",
+      "quality assurance"
+    ],
+    "resume_neutre": "Contract Recruiter chez CAI, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-4ecff566c7"
+  },
+  {
+    "id": "jf-9330b295a1",
+    "titre": "AWS Cloud Solutions Architect",
+    "entreprise": "Cloudary SAS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Architecture",
+    "remote": true,
+    "competences": [
+      "architecture",
+      "design",
+      "ansible",
+      "infosec",
+      "docker"
+    ],
+    "resume_neutre": "AWS Cloud Solutions Architect chez Cloudary SAS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-9330b295a1"
+  },
+  {
+    "id": "jf-4b54ce2c41",
+    "titre": "Field Phlebotomy Supervisor Northern California",
+    "entreprise": "Getlabs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Supervisor",
+    "remote": true,
+    "competences": [
+      "supervisor",
+      "testing",
+      "marketing",
+      "exec",
+      "mobile"
+    ],
+    "resume_neutre": "Field Phlebotomy Supervisor Northern California chez Getlabs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-4b54ce2c41"
+  },
+  {
     "id": "ma-907724b41d",
     "titre": "Offre d’emploi - service recouvrement",
     "entreprise": "Great Call",
@@ -5428,59 +5494,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-26",
     "ref_unique": "ma-9be2c8afd9"
-  },
-  {
-    "id": "ma-a7595bd8a8",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=11&elckey=-7880456866540998620&p=1&aq=763660613758053554&cid=20&jobAge=41&relb=110&brelb=110&bscr=1543.6857&scr=1543.6857",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-26",
-    "ref_unique": "ma-a7595bd8a8"
-  },
-  {
-    "id": "ma-ecc4bd7583",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7928419199007243330?ckey=commercial&rgn=938&pos=12&elckey=-7880456866540998620&p=1&aq=763660613758053554&cid=20&jobAge=89&relb=110&brelb=110&bscr=1539.6512&scr=1539.6512",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-26",
-    "ref_unique": "ma-ecc4bd7583"
-  },
-  {
-    "id": "ma-f18558bca8",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=4072022272241185796&p=1&aq=4448795648789956409&cid=20&jobAge=113&relb=110&brelb=110&bscr=3150.611&scr=3150.611",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-26",
-    "ref_unique": "ma-f18558bca8"
   }
 ]
