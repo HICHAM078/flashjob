@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-a47e1d5b41",
+    "titre": "Competent Wind Turbine Technicians EU UK APAC 2027",
+    "entreprise": "GEV Wind Power",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "testing",
+      "exec"
+    ],
+    "resume_neutre": "Competent Wind Turbine Technicians EU UK APAC 2027 chez GEV Wind Power, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-a47e1d5b41"
+  },
+  {
+    "id": "jf-0006cde138",
+    "titre": "Country Manager Canada",
+    "entreprise": "Polaroid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Country Manager Canada chez Polaroid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-0006cde138"
+  },
+  {
+    "id": "jf-12d43b2523",
+    "titre": "Client Support &amp; Travel Booking Online",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "customer support",
+      "virtual assistant",
+      "non tech"
+    ],
+    "resume_neutre": "Client Support &amp; Travel Booking Online chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-12d43b2523"
+  },
+  {
     "id": "jf-9e527d3652",
     "titre": "Cloud Engineer Automation",
     "entreprise": "Smile Digital Health",
@@ -5424,59 +5490,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-25",
     "ref_unique": "ma-373fafb6ed"
-  },
-  {
-    "id": "ma-92acd86d67",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7928419199007243330?ckey=commercial&rgn=938&pos=12&elckey=-6680792069678499389&p=1&aq=352357187845876563&cid=20&jobAge=64&relb=110&brelb=110&bscr=1507.8691&scr=1507.8691",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-92acd86d67"
-  },
-  {
-    "id": "ma-022da4dcf7",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=88&relb=110&brelb=110&bscr=3146.041&scr=3146.041",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-022da4dcf7"
-  },
-  {
-    "id": "ma-93860b573c",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=2&elckey=5271687069103685027&p=1&aq=1672347514821913735&cid=20&jobAge=232&relb=100&brelb=100&bscr=2881.7336&scr=2881.7336",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-93860b573c"
   }
 ]
