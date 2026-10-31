@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-da84a85019",
+    "titre": "Online Client Support &amp; Travel Booking We Will Train You",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "customer support",
+      "virtual assistant",
+      "non tech"
+    ],
+    "resume_neutre": "Online Client Support &amp; Travel Booking We Will Train You chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-10-31",
+    "ref_unique": "jf-da84a85019"
+  },
+  {
     "id": "jf-a47e1d5b41",
     "titre": "Competent Wind Turbine Technicians EU UK APAC 2027",
     "entreprise": "GEV Wind Power",
@@ -5472,23 +5494,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-25",
     "ref_unique": "ma-801f9f185d"
-  },
-  {
-    "id": "ma-373fafb6ed",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=11&elckey=-6680792069678499389&p=1&aq=352357187845876563&cid=20&jobAge=40&relb=110&brelb=110&bscr=1552.8508&scr=1552.8508",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-25",
-    "ref_unique": "ma-373fafb6ed"
   }
 ]
