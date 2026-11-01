@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-1b4d521ac3",
+    "titre": "Scientific Account Executive",
+    "entreprise": "Adaptyv",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "api"
+    ],
+    "resume_neutre": "Scientific Account Executive chez Adaptyv, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-01",
+    "ref_unique": "jf-1b4d521ac3"
+  },
+  {
     "id": "jf-4ecff566c7",
     "titre": "Contract Recruiter",
     "entreprise": "CAI",
@@ -5476,23 +5498,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-26",
     "ref_unique": "ma-dda2b99976"
-  },
-  {
-    "id": "ma-9be2c8afd9",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=10&elckey=-7880456866540998620&p=1&aq=763660613758053554&cid=20&jobAge=257&relb=110&brelb=110&bscr=1543.6857&scr=1543.6857",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-26",
-    "ref_unique": "ma-9be2c8afd9"
   }
 ]
