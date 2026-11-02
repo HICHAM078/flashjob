@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-354739c976",
+    "titre": "Partner Operations Manager",
+    "entreprise": "Mecka",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Partner Operations Manager chez Mecka, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-02",
+    "ref_unique": "jf-354739c976"
+  },
+  {
     "id": "jf-f113002dd4",
     "titre": "Account Executive",
     "entreprise": "Huzzle",
@@ -5472,23 +5494,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-27",
     "ref_unique": "ma-023ba0f766"
-  },
-  {
-    "id": "ma-7af36a5bde",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=11&elckey=3339087745025564544&p=1&aq=-2188743474979848722&cid=20&jobAge=41&relb=110&brelb=110&bscr=1541.0262&scr=1541.0262",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-27",
-    "ref_unique": "ma-7af36a5bde"
   }
 ]
