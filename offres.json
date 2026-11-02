@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-1b42707933",
+    "titre": "Virtual Destination Wedding Coordinator",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "coordinator",
+      "customer support",
+      "travel",
+      "legal"
+    ],
+    "resume_neutre": "Virtual Destination Wedding Coordinator chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-02",
+    "ref_unique": "jf-1b42707933"
+  },
+  {
+    "id": "jf-fbcb96db95",
+    "titre": "Virtual Scheduling Assistant",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "travel"
+    ],
+    "resume_neutre": "Virtual Scheduling Assistant chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-02",
+    "ref_unique": "jf-fbcb96db95"
+  },
+  {
     "id": "jf-354739c976",
     "titre": "Partner Operations Manager",
     "entreprise": "Mecka",
@@ -5458,41 +5502,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-27",
     "ref_unique": "ma-9da7bd8249"
-  },
-  {
-    "id": "ma-c0b2b6e4e6",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3217384780557533374?ckey=commercial&rgn=938&pos=9&elckey=3339087745025564544&p=1&aq=-2188743474979848722&cid=20&jobAge=41&relb=110&brelb=110&bscr=1542.4891&scr=1542.4891",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-27",
-    "ref_unique": "ma-c0b2b6e4e6"
-  },
-  {
-    "id": "ma-023ba0f766",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=10&elckey=3339087745025564544&p=1&aq=-2188743474979848722&cid=20&jobAge=281&relb=110&brelb=110&bscr=1541.0262&scr=1541.0262",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-27",
-    "ref_unique": "ma-023ba0f766"
   }
 ]
