@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-39eb7bcf38",
+    "titre": "Software Engineer Infrastructure",
+    "entreprise": "Sodalis, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "embedded",
+      "sys admin",
+      "cloud"
+    ],
+    "resume_neutre": "Software Engineer Infrastructure chez Sodalis, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-03",
+    "ref_unique": "jf-39eb7bcf38"
+  },
+  {
+    "id": "jf-ddbf023d65",
+    "titre": "Team Lead Account Executive",
+    "entreprise": "Capmo",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "exec",
+      "junior",
+      "marketing",
+      "sales"
+    ],
+    "resume_neutre": "Team Lead Account Executive chez Capmo, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-03",
+    "ref_unique": "jf-ddbf023d65"
+  },
+  {
     "id": "ma-eff95ded1c",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5462,41 +5506,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-28",
     "ref_unique": "ma-89c5c58282"
-  },
-  {
-    "id": "ma-98b9209cff",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=8&elckey=7564297526466246622&p=1&aq=-4132732010860298102&cid=20&jobAge=305&relb=110&brelb=110&bscr=1534.4816&scr=1534.4815999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-28",
-    "ref_unique": "ma-98b9209cff"
-  },
-  {
-    "id": "ma-679c673e9b",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=9&elckey=7564297526466246622&p=1&aq=-4132732010860298102&cid=20&jobAge=41&relb=110&brelb=110&bscr=1534.4816&scr=1534.4815999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-28",
-    "ref_unique": "ma-679c673e9b"
   }
 ]
