@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-b40eb07ee7",
+    "titre": "AI ML Engineer",
+    "entreprise": "Docusketch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "ai",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "resume_neutre": "AI ML Engineer chez Docusketch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-03",
+    "ref_unique": "jf-b40eb07ee7"
+  },
+  {
     "id": "jf-39eb7bcf38",
     "titre": "Software Engineer Infrastructure",
     "entreprise": "Sodalis, Inc.",
@@ -5488,23 +5510,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-28",
     "ref_unique": "ma-ab413c5114"
-  },
-  {
-    "id": "ma-89c5c58282",
-    "titre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE",
-    "entreprise": "Green Sourcing",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE chez Green Sourcing, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7523291341350898631?ckey=commercial&rgn=938&pos=7&elckey=7564297526466246622&p=1&aq=-4132732010860298102&cid=20&jobAge=185&relb=110&brelb=110&bscr=1547.06&scr=1547.06",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-28",
-    "ref_unique": "ma-89c5c58282"
   }
 ]
