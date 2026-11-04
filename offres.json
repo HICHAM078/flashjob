@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-ad2233ba5b",
+    "titre": "Senior Property Manager ENG",
+    "entreprise": "StaffRight",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "hr",
+      "technical",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "Senior Property Manager ENG chez StaffRight, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-04",
+    "ref_unique": "jf-ad2233ba5b"
+  },
+  {
     "id": "jf-8f7af99be6",
     "titre": "Tax Manager Private Client",
     "entreprise": "Aprio",
@@ -5484,23 +5506,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-29",
     "ref_unique": "ma-d66c0e4f38"
-  },
-  {
-    "id": "ma-d77a2282dd",
-    "titre": "COMMERCIAUX EN ASSURANCE AUTOMOBILE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE AUTOMOBILE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2497762825497429997?ckey=commercial&rgn=938&pos=8&elckey=-3160069350739682373&p=1&aq=8592621459209264314&cid=20&jobAge=257&relb=110&brelb=110&bscr=1562.1772&scr=1562.1772",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-29",
-    "ref_unique": "ma-d77a2282dd"
   }
 ]
