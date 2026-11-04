@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-8f7af99be6",
+    "titre": "Tax Manager Private Client",
+    "entreprise": "Aprio",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "consulting",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Tax Manager Private Client chez Aprio, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-04",
+    "ref_unique": "jf-8f7af99be6"
+  },
+  {
+    "id": "jf-03fb0a4090",
+    "titre": "Client Accounting Division Manager",
+    "entreprise": "Burkland Associates",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "accounting",
+      "amazon",
+      "hr",
+      "sys admin"
+    ],
+    "resume_neutre": "Client Accounting Division Manager chez Burkland Associates, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-04",
+    "ref_unique": "jf-03fb0a4090"
+  },
+  {
     "id": "ma-b23a37d399",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5458,41 +5502,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-29",
     "ref_unique": "ma-d77a2282dd"
-  },
-  {
-    "id": "ma-a5e1f112f1",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3217384780557533374?ckey=commercial&rgn=938&pos=9&elckey=-3160069350739682373&p=1&aq=8592621459209264314&cid=20&jobAge=41&relb=110&brelb=110&bscr=1540.0804&scr=1540.0804",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-29",
-    "ref_unique": "ma-a5e1f112f1"
-  },
-  {
-    "id": "ma-363c8c99db",
-    "titre": "Conseiller commercial en assurance",
-    "entreprise": "AMP ASSUR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en assurance chez AMP ASSUR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2872071695559578120?ckey=commercial&rgn=938&pos=10&elckey=-3160069350739682373&p=1&aq=8592621459209264314&cid=20&jobAge=425&relb=100&brelb=100&bscr=1534.468&scr=1534.468",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-29",
-    "ref_unique": "ma-363c8c99db"
   }
 ]
