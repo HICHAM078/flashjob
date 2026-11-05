@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-68461c4513",
+    "titre": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "coordinator",
+      "customer support",
+      "exec",
+      "ops"
+    ],
+    "resume_neutre": "Entry Level Scheduling &amp; Coordinating Reservations Online chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-05",
+    "ref_unique": "jf-68461c4513"
+  },
+  {
     "id": "jf-711b55c0b3",
     "titre": "M&A Praktikum Intern",
     "entreprise": "Vogel",
@@ -5492,23 +5514,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-30",
     "ref_unique": "ma-6929db6e9f"
-  },
-  {
-    "id": "ma-9e272b4d15",
-    "titre": "Conseiller Commercial BtoB en Téléphonie (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial BtoB en Téléphonie (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7959544355821710198?ckey=commercial&rgn=938&pos=7&elckey=2589375049535999323&p=1&aq=-2100476638548926867&cid=20&jobAge=41&relb=110&brelb=110&bscr=1536.4038&scr=1536.4038",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-30",
-    "ref_unique": "ma-9e272b4d15"
   }
 ]
