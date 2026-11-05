@@ -1,5 +1,89 @@
 [
   {
+    "id": "jf-f1bff3a761",
+    "titre": "AI Content Reviewer Video Annotation",
+    "entreprise": "iMerit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Content Writing",
+    "remote": true,
+    "competences": [
+      "content writing",
+      "ai",
+      "other"
+    ],
+    "resume_neutre": "AI Content Reviewer Video Annotation chez iMerit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-05",
+    "ref_unique": "jf-f1bff3a761"
+  },
+  {
+    "id": "jf-2ce32958fb",
+    "titre": "Software Engineer",
+    "entreprise": "Claims",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "ai",
+      "blockchain"
+    ],
+    "resume_neutre": "Software Engineer chez Claims, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-05",
+    "ref_unique": "jf-2ce32958fb"
+  },
+  {
+    "id": "jf-da84a85019",
+    "titre": "Online Client Support &amp; Travel Booking We Will Train You",
+    "entreprise": "Destination Careers",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Travel",
+    "remote": true,
+    "competences": [
+      "travel",
+      "education",
+      "customer support",
+      "virtual assistant",
+      "non tech"
+    ],
+    "resume_neutre": "Online Client Support &amp; Travel Booking We Will Train You chez Destination Careers, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-05",
+    "ref_unique": "jf-da84a85019"
+  },
+  {
+    "id": "jf-0006cde138",
+    "titre": "Country Manager Canada",
+    "entreprise": "Polaroid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "education",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Country Manager Canada chez Polaroid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-05",
+    "ref_unique": "jf-0006cde138"
+  },
+  {
     "id": "ma-528147efad",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5410,77 +5494,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-31",
     "ref_unique": "ma-ef880e41f1"
-  },
-  {
-    "id": "ma-d8743a7521",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=11&elckey=-2347342563890255023&p=1&aq=-6103575356703814293&cid=20&jobAge=737&relb=110&brelb=110&bscr=1501.3615&scr=1501.3614999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-d8743a7521"
-  },
-  {
-    "id": "ma-620c7aad6c",
-    "titre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE",
-    "entreprise": "Green Sourcing",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE chez Green Sourcing, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7523291341350898631?ckey=commercial&rgn=938&pos=12&elckey=-2347342563890255023&p=1&aq=-6103575356703814293&cid=20&jobAge=257&relb=110&brelb=110&bscr=1493.8634&scr=1493.8634",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-620c7aad6c"
-  },
-  {
-    "id": "ma-ba4eab49d3",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=-8841607498817622223&p=1&aq=5447916770798892076&cid=20&jobAge=233&relb=110&brelb=110&bscr=3133.4138&scr=3133.4138",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-ba4eab49d3"
-  },
-  {
-    "id": "ma-d785c9cdb2",
-    "titre": "Professeur Permanent en Informatique - Marrakech",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Marrakech chez EDVANTIS HIGHER EDUCATION GROUP, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9033936882722324991?ckey=informatique&rgn=0&pos=2&elckey=-8841607498817622223&p=1&aq=5447916770798892076&cid=20&jobAge=377&relb=100&brelb=100&bscr=2820.442&scr=2820.442",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-d785c9cdb2"
   }
 ]
