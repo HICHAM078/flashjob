@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-d9fc916011",
+    "titre": "Senior Vue Developer",
+    "entreprise": "Lemon.io",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Engineer",
+    "remote": true,
+    "competences": [
+      "engineer",
+      "dev",
+      "full time",
+      "full stack",
+      "remote"
+    ],
+    "resume_neutre": "Senior Vue Developer chez Lemon.io, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-06",
+    "ref_unique": "jf-d9fc916011"
+  },
+  {
     "id": "jf-b7778cbade",
     "titre": "Senior Staff Infrastructure & Security Engineer",
     "entreprise": "CivilGrid",
@@ -5480,23 +5502,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-31",
     "ref_unique": "ma-65efba6a25"
-  },
-  {
-    "id": "ma-b03877df63",
-    "titre": "Conseiller Commercial BtoB en Téléphonie (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial BtoB en Téléphonie (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7959544355821710198?ckey=commercial&rgn=938&pos=9&elckey=-2347342563890255023&p=1&aq=-6103575356703814293&cid=20&jobAge=41&relb=110&brelb=110&bscr=1519.0262&scr=1519.0262",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-b03877df63"
   }
 ]
