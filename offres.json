@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-b7778cbade",
+    "titre": "Senior Staff Infrastructure & Security Engineer",
+    "entreprise": "CivilGrid",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "design",
+      "dev",
+      "marketing",
+      "exec"
+    ],
+    "resume_neutre": "Senior Staff Infrastructure & Security Engineer chez CivilGrid, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-06",
+    "ref_unique": "jf-b7778cbade"
+  },
+  {
     "id": "jf-f1bff3a761",
     "titre": "AI Content Reviewer Video Annotation",
     "entreprise": "iMerit",
@@ -5476,23 +5498,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-10-31",
     "ref_unique": "ma-b03877df63"
-  },
-  {
-    "id": "ma-ef880e41f1",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7871350405429767605?ckey=commercial&rgn=938&pos=10&elckey=-2347342563890255023&p=1&aq=-6103575356703814293&cid=20&jobAge=41&relb=110&brelb=110&bscr=1513.574&scr=1513.574",
-    "source_nom": "Jooble",
-    "date_pub": "2026-10-31",
-    "ref_unique": "ma-ef880e41f1"
   }
 ]
