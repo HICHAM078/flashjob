@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-57a066df24",
+    "titre": "Registered Nurse",
+    "entreprise": "Caringhand Home Health Solutions, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "customer support",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Registered Nurse chez Caringhand Home Health Solutions, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-07",
+    "ref_unique": "jf-57a066df24"
+  },
+  {
     "id": "jf-ccac2e5e22",
     "titre": "Accountant",
     "entreprise": "Serve Robotics",
@@ -5490,23 +5512,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-01",
     "ref_unique": "ma-c1aa1add3a"
-  },
-  {
-    "id": "ma-b251e8f9f9",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3217384780557533374?ckey=commercial&rgn=938&pos=6&elckey=-8362580295340301478&p=1&aq=-5694298577862104161&cid=20&jobAge=114&relb=110&brelb=110&bscr=1582.0403&scr=1582.0403",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-01",
-    "ref_unique": "ma-b251e8f9f9"
   }
 ]
