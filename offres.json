@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-ccac2e5e22",
+    "titre": "Accountant",
+    "entreprise": "Serve Robotics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "design",
+      "customer support",
+      "dev",
+      "finance"
+    ],
+    "resume_neutre": "Accountant chez Serve Robotics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-07",
+    "ref_unique": "jf-ccac2e5e22"
+  },
+  {
+    "id": "jf-36cf13f46f",
+    "titre": "Senior Full Stack Engineer People Products",
+    "entreprise": "Thumbtack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Full Stack",
+    "remote": true,
+    "competences": [
+      "full stack",
+      "design",
+      "saas",
+      "react",
+      "salesforce"
+    ],
+    "resume_neutre": "Senior Full Stack Engineer People Products chez Thumbtack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-07",
+    "ref_unique": "jf-36cf13f46f"
+  },
+  {
     "id": "jf-25a23c9164",
     "titre": "Agile Program Manager",
     "entreprise": "Toptal",
@@ -5464,41 +5508,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-01",
     "ref_unique": "ma-b251e8f9f9"
-  },
-  {
-    "id": "ma-f0417939a7",
-    "titre": "Conseiller commercial en assurance",
-    "entreprise": "AMP ASSUR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en assurance chez AMP ASSUR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2872071695559578120?ckey=commercial&rgn=938&pos=7&elckey=-8362580295340301478&p=1&aq=-5694298577862104161&cid=20&jobAge=498&relb=100&brelb=100&bscr=1571.1313&scr=1571.1313",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-01",
-    "ref_unique": "ma-f0417939a7"
-  },
-  {
-    "id": "ma-8ecf6fef71",
-    "titre": "Conseiller Commercial BtoB en Téléphonie (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial BtoB en Téléphonie (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7959544355821710198?ckey=commercial&rgn=938&pos=8&elckey=-8362580295340301478&p=1&aq=-5694298577862104161&cid=20&jobAge=42&relb=110&brelb=110&bscr=1565.0314&scr=1565.0314",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-01",
-    "ref_unique": "ma-8ecf6fef71"
   }
 ]
