@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-5c3a0fc752",
+    "titre": "Junior Market Analyst",
+    "entreprise": "MEYA HOLDINGS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other",
+      "crypto",
+      "finance",
+      "remote work",
+      "remote"
+    ],
+    "resume_neutre": "Junior Market Analyst chez MEYA HOLDINGS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-07",
+    "ref_unique": "jf-5c3a0fc752"
+  },
+  {
     "id": "ma-806015038e",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5470,23 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-02",
     "ref_unique": "ma-c79b28c0b7"
-  },
-  {
-    "id": "ma-3a7315e3a3",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=11&elckey=8657890130629972469&p=1&aq=2979926107460004051&cid=20&jobAge=788&relb=110&brelb=110&bscr=1537.1482&scr=1537.1481999999999",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-02",
-    "ref_unique": "ma-3a7315e3a3"
   }
 ]
