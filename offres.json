@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-e4ea691ff4",
+    "titre": "AI Developer",
+    "entreprise": "Salvo Software",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "grafana",
+      "infosec",
+      "python",
+      "docker"
+    ],
+    "resume_neutre": "AI Developer chez Salvo Software, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-08",
+    "ref_unique": "jf-e4ea691ff4"
+  },
+  {
     "id": "jf-5c3a0fc752",
     "titre": "Junior Market Analyst",
     "entreprise": "MEYA HOLDINGS",
@@ -5474,23 +5496,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-02",
     "ref_unique": "ma-32fd83646b"
-  },
-  {
-    "id": "ma-c79b28c0b7",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7871350405429767605?ckey=commercial&rgn=938&pos=10&elckey=8657890130629972469&p=1&aq=2979926107460004051&cid=20&jobAge=92&relb=110&brelb=110&bscr=1546.3881&scr=1546.3881",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-02",
-    "ref_unique": "ma-c79b28c0b7"
   }
 ]
