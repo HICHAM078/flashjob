@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-b40eb07ee7",
+    "titre": "AI ML Engineer",
+    "entreprise": "Docusketch",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "ai",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "resume_neutre": "AI ML Engineer chez Docusketch, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-08",
+    "ref_unique": "jf-b40eb07ee7"
+  },
+  {
     "id": "ma-aa54c93919",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5466,23 +5488,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-03",
     "ref_unique": "ma-f4f80cb498"
-  },
-  {
-    "id": "ma-5f512588ed",
-    "titre": "Conseiller Commercial FAI Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial FAI Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7810660446344098389?ckey=commercial&rgn=938&pos=12&elckey=3585006682604003221&p=1&aq=7427011265585211423&cid=20&jobAge=378&relb=110&brelb=110&bscr=1557.7822&scr=1557.7822",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-03",
-    "ref_unique": "ma-5f512588ed"
   }
 ]
