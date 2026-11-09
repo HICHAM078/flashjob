@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-eb9a50b498",
+    "titre": "Account Executive Enterprise",
+    "entreprise": "Harvey",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Account Executive Enterprise chez Harvey, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-09",
+    "ref_unique": "jf-eb9a50b498"
+  },
+  {
     "id": "jf-b40eb07ee7",
     "titre": "AI ML Engineer",
     "entreprise": "Docusketch",
@@ -5470,23 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-03",
     "ref_unique": "ma-e6d1ea51c0"
-  },
-  {
-    "id": "ma-f4f80cb498",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3217384780557533374?ckey=commercial&rgn=938&pos=11&elckey=3585006682604003221&p=1&aq=7427011265585211423&cid=20&jobAge=162&relb=110&brelb=110&bscr=1570.6848&scr=1570.6848",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-03",
-    "ref_unique": "ma-f4f80cb498"
   }
 ]
