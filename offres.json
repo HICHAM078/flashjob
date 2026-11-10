@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-ef2c22195a",
+    "titre": "Revenue Cycle Manager",
+    "entreprise": "Adaptive Innovations",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "sys admin",
+      "education",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Revenue Cycle Manager chez Adaptive Innovations, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-ef2c22195a"
+  },
+  {
+    "id": "jf-eaccf127a1",
+    "titre": "Senior Product Manager",
+    "entreprise": "Pencil",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product Manager",
+    "remote": true,
+    "competences": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "sys admin"
+    ],
+    "resume_neutre": "Senior Product Manager chez Pencil, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-eaccf127a1"
+  },
+  {
+    "id": "jf-29c689224b",
+    "titre": "UI Developer",
+    "entreprise": "RainFocus",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "react",
+      "front end",
+      "customer support"
+    ],
+    "resume_neutre": "UI Developer chez RainFocus, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-29c689224b"
+  },
+  {
     "id": "ma-5d2a0adbb0",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5426,59 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-04",
     "ref_unique": "ma-8a949d1f19"
-  },
-  {
-    "id": "ma-a84f363c12",
-    "titre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE",
-    "entreprise": "Green Sourcing",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "RECRUTEMENT - ASSISTANTE MÉDICALE COMMERCIALE chez Green Sourcing, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7523291341350898631?ckey=commercial&rgn=938&pos=11&elckey=3592027452087710427&p=1&aq=8007279768454873580&cid=20&jobAge=355&relb=110&brelb=110&bscr=1527.1365&scr=1527.1365",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-04",
-    "ref_unique": "ma-a84f363c12"
-  },
-  {
-    "id": "ma-da7cd06057",
-    "titre": "Conseiller Commercial FAI Rabat",
-    "entreprise": "Intelcia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial FAI Rabat chez Intelcia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7810660446344098389?ckey=commercial&rgn=938&pos=12&elckey=3592027452087710427&p=1&aq=8007279768454873580&cid=20&jobAge=403&relb=110&brelb=110&bscr=1523.3013&scr=1523.3013",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-04",
-    "ref_unique": "ma-da7cd06057"
-  },
-  {
-    "id": "ma-f34fa29ad2",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=-2902237482839656773&p=1&aq=612824305268807533&cid=20&jobAge=43&relb=110&brelb=110&bscr=2924.7854&scr=2924.7854",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-04",
-    "ref_unique": "ma-f34fa29ad2"
   }
 ]
