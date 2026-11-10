@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-d7d9cc7e08",
+    "titre": "Senior Software Engineer â Kubernetes Control Plane",
+    "entreprise": "Buoyant",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Golang",
+    "remote": true,
+    "competences": [
+      "golang",
+      "dev",
+      "senior",
+      "golang",
+      "engineer"
+    ],
+    "resume_neutre": "Senior Software Engineer â Kubernetes Control Plane chez Buoyant, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-d7d9cc7e08"
+  },
+  {
+    "id": "jf-e31a571103",
+    "titre": "HIL Support Specialist",
+    "entreprise": "Extend Your Team",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "c sharp",
+      "amazon",
+      "customer support",
+      "dev"
+    ],
+    "resume_neutre": "HIL Support Specialist chez Extend Your Team, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-e31a571103"
+  },
+  {
+    "id": "jf-3b2a021037",
+    "titre": "Senior Agentic AI Engineer NDA",
+    "entreprise": "GT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "react",
+      "sys admin",
+      "infosec",
+      "python"
+    ],
+    "resume_neutre": "Senior Agentic AI Engineer NDA chez GT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-3b2a021037"
+  },
+  {
+    "id": "jf-c80834bae3",
+    "titre": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+    "entreprise": "Allara",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "technical",
+      "customer support",
+      "video",
+      "medical"
+    ],
+    "resume_neutre": "Telehealth Endocrinologist Evenings Fridays and or Weekends chez Allara, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-c80834bae3"
+  },
+  {
     "id": "ma-bcd39a943a",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5408,77 +5496,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-05",
     "ref_unique": "ma-0dde54a5ce"
-  },
-  {
-    "id": "ma-118032a66a",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7665511109098494395?ckey=commercial&rgn=938&pos=11&elckey=-7132339425118218568&p=1&aq=-7484101776167476411&cid=20&jobAge=499&relb=110&brelb=110&bscr=1544.7363&scr=1544.7363000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-05",
-    "ref_unique": "ma-118032a66a"
-  },
-  {
-    "id": "ma-1ab573cb44",
-    "titre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "ZENITH ASSURANCES RECRUTE ! Conseiller Commercial en Assurance H/F chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8219438616358771412?ckey=commercial&rgn=938&pos=12&elckey=-7132339425118218568&p=1&aq=-7484101776167476411&cid=20&jobAge=43&relb=110&brelb=110&bscr=1544.7363&scr=1544.7363000000003",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-05",
-    "ref_unique": "ma-1ab573cb44"
-  },
-  {
-    "id": "ma-2a544cf80c",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=4820139713663965848&p=1&aq=-7544271772185880253&cid=20&jobAge=67&relb=110&brelb=110&bscr=2921.0024&scr=2921.0024",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-05",
-    "ref_unique": "ma-2a544cf80c"
-  },
-  {
-    "id": "ma-720de0ea30",
-    "titre": "Professeur Permanent en Informatique - Marrakech",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Marrakech chez EDVANTIS HIGHER EDUCATION GROUP, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9033936882722324991?ckey=informatique&rgn=0&pos=2&elckey=4820139713663965848&p=1&aq=-7544271772185880253&cid=20&jobAge=499&relb=100&brelb=100&bscr=2759.422&scr=2759.422",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-05",
-    "ref_unique": "ma-720de0ea30"
   }
 ]
