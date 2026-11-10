@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-0559a873db",
+    "titre": "Recruiting Coordinator",
+    "entreprise": "Pebl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Coordinator",
+    "remote": true,
+    "competences": [
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "golang"
+    ],
+    "resume_neutre": "Recruiting Coordinator chez Pebl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-0559a873db"
+  },
+  {
+    "id": "jf-48c88a6b96",
+    "titre": "Web3 Business Development",
+    "entreprise": "CertiK",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Crypto",
+    "remote": true,
+    "competences": [
+      "crypto",
+      "web3",
+      "blockchain",
+      "defi",
+      "infosec"
+    ],
+    "resume_neutre": "Web3 Business Development chez CertiK, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-10",
+    "ref_unique": "jf-48c88a6b96"
+  },
+  {
     "id": "jf-ef2c22195a",
     "titre": "Revenue Cycle Manager",
     "entreprise": "Adaptive Innovations",
@@ -5456,41 +5500,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-04",
     "ref_unique": "ma-aaf732b231"
-  },
-  {
-    "id": "ma-505ec876f3",
-    "titre": "Commerciaux experts en Assurance Automobile à RABAT",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux experts en Assurance Automobile à RABAT chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1085619072604481280?ckey=commercial&rgn=938&pos=9&elckey=3592027452087710427&p=1&aq=8007279768454873580&cid=20&jobAge=43&relb=110&brelb=110&bscr=1564.2053&scr=1564.2053",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-04",
-    "ref_unique": "ma-505ec876f3"
-  },
-  {
-    "id": "ma-8a949d1f19",
-    "titre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE CONSTRUCTION chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4576132047582431360?ckey=commercial&rgn=938&pos=10&elckey=3592027452087710427&p=1&aq=8007279768454873580&cid=20&jobAge=835&relb=110&brelb=110&bscr=1558.8966&scr=1558.8965999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-04",
-    "ref_unique": "ma-8a949d1f19"
   }
 ]
