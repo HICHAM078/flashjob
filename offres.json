@@ -1,5 +1,91 @@
 [
   {
+    "id": "jf-57a066df24",
+    "titre": "Registered Nurse",
+    "entreprise": "Caringhand Home Health Solutions, Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "supervisor",
+      "customer support",
+      "travel",
+      "exec"
+    ],
+    "resume_neutre": "Registered Nurse chez Caringhand Home Health Solutions, Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-57a066df24"
+  },
+  {
+    "id": "jf-ccac2e5e22",
+    "titre": "Accountant",
+    "entreprise": "Serve Robotics",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Accounting",
+    "remote": true,
+    "competences": [
+      "accounting",
+      "design",
+      "customer support",
+      "dev",
+      "finance"
+    ],
+    "resume_neutre": "Accountant chez Serve Robotics, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-ccac2e5e22"
+  },
+  {
+    "id": "jf-25a23c9164",
+    "titre": "Agile Program Manager",
+    "entreprise": "Toptal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Program Management",
+    "remote": true,
+    "competences": [
+      "program management",
+      "Agile",
+      "Scrum"
+    ],
+    "resume_neutre": "Agile Program Manager chez Toptal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-25a23c9164"
+  },
+  {
+    "id": "jf-c14de42265",
+    "titre": "Feltsense AI Engineer",
+    "entreprise": "Silver.dev",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Feltsense AI Engineer chez Silver.dev, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-c14de42265"
+  },
+  {
     "id": "ma-7ebef24fa2",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5394,77 +5480,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-07",
     "ref_unique": "ma-3f08ade66b"
-  },
-  {
-    "id": "ma-480f554f27",
-    "titre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F)",
-    "entreprise": "TELEACTIS",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F) chez TELEACTIS, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2481276437881537996?ckey=informatique&rgn=0&pos=4&elckey=2299286228354879231&p=1&aq=-2397761704950412551&cid=20&jobAge=113&relb=110&brelb=110&bscr=2600.297&scr=2600.297",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-07",
-    "ref_unique": "ma-480f554f27"
-  },
-  {
-    "id": "ma-83cb89acbe",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=5&elckey=2299286228354879231&p=1&aq=-2397761704950412551&cid=20&jobAge=1817&relb=100&brelb=100&bscr=2167.8564&scr=2167.8564",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-07",
-    "ref_unique": "ma-83cb89acbe"
-  },
-  {
-    "id": "ma-ada7b18829",
-    "titre": "Conseiller Commercial",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186460278820311994?ckey=informatique&rgn=0&pos=6&elckey=2299286228354879231&p=1&aq=-2397761704950412551&cid=20&jobAge=65&relb=110&brelb=110&bscr=297.6232&scr=297.6232",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-07",
-    "ref_unique": "ma-ada7b18829"
-  },
-  {
-    "id": "ma-c1b98bc502",
-    "titre": "Nous recrutons des profils en recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des profils en recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6393265108598192559?ckey=informatique&rgn=0&pos=7&elckey=2299286228354879231&p=1&aq=-2397761704950412551&cid=20&jobAge=305&relb=110&brelb=110&bscr=296.49197&scr=296.49197",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-07",
-    "ref_unique": "ma-c1b98bc502"
   }
 ]
