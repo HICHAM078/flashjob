@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-fe1c20bab9",
+    "titre": "Patient Care Specialist I",
+    "entreprise": "Boston Scientific",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Patient Care Specialist I chez Boston Scientific, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-fe1c20bab9"
+  },
+  {
     "id": "jf-06815052cd",
     "titre": "Strategy & Operations Coach APAC",
     "entreprise": "Mento",
@@ -5470,23 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-06",
     "ref_unique": "ma-6c204e29f7"
-  },
-  {
-    "id": "ma-4e30fdae82",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=1811129263477952268&p=1&aq=3575779604131397181&cid=20&jobAge=90&relb=110&brelb=110&bscr=3070.6267&scr=3070.6267",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-06",
-    "ref_unique": "ma-4e30fdae82"
   }
 ]
