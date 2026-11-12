@@ -1,5 +1,71 @@
 [
   {
+    "id": "jf-06815052cd",
+    "titre": "Strategy & Operations Coach APAC",
+    "entreprise": "Mento",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "marketing",
+      "exec",
+      "senior",
+      "ops"
+    ],
+    "resume_neutre": "Strategy & Operations Coach APAC chez Mento, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-06815052cd"
+  },
+  {
+    "id": "jf-02d537a6fd",
+    "titre": "Bilingual Patient Engagement Specialist I English Spanish",
+    "entreprise": "Sprinter Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "speech",
+      "ops",
+      "excel"
+    ],
+    "resume_neutre": "Bilingual Patient Engagement Specialist I English Spanish chez Sprinter Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-02d537a6fd"
+  },
+  {
+    "id": "jf-12c122bdd7",
+    "titre": "Data Engineer",
+    "entreprise": "Addepto",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education"
+    ],
+    "resume_neutre": "Data Engineer chez Addepto, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-12",
+    "ref_unique": "jf-12c122bdd7"
+  },
+  {
     "id": "ma-8aeadbf235",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5422,59 +5488,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-06",
     "ref_unique": "ma-4e30fdae82"
-  },
-  {
-    "id": "ma-8ac5cb6bfd",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=2&elckey=1811129263477952268&p=1&aq=3575779604131397181&cid=20&jobAge=522&relb=100&brelb=100&bscr=2748.1929&scr=2748.1929",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-06",
-    "ref_unique": "ma-8ac5cb6bfd"
-  },
-  {
-    "id": "ma-bc4dc29eb1",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=3&elckey=1811129263477952268&p=1&aq=3575779604131397181&cid=20&jobAge=882&relb=110&brelb=110&bscr=2665.4844&scr=2665.4844",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-06",
-    "ref_unique": "ma-bc4dc29eb1"
-  },
-  {
-    "id": "ma-7c3f82817b",
-    "titre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F)",
-    "entreprise": "TELEACTIS",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F) chez TELEACTIS, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2481276437881537996?ckey=informatique&rgn=0&pos=4&elckey=1811129263477952268&p=1&aq=3575779604131397181&cid=20&jobAge=90&relb=110&brelb=110&bscr=2654.3643&scr=2654.3643",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-06",
-    "ref_unique": "ma-7c3f82817b"
   }
 ]
