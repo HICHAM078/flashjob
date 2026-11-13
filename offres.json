@@ -1,5 +1,93 @@
 [
   {
+    "id": "jf-8ed8fdacc2",
+    "titre": "Research Engineer Privacy and Anonymization",
+    "entreprise": "Pragmatike",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "embedded",
+      "infosec",
+      "python",
+      "education"
+    ],
+    "resume_neutre": "Research Engineer Privacy and Anonymization chez Pragmatike, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-13",
+    "ref_unique": "jf-8ed8fdacc2"
+  },
+  {
+    "id": "jf-82eef31bf9",
+    "titre": "Freelance Question Reviewers",
+    "entreprise": "AMBOSS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Hr",
+    "remote": true,
+    "competences": [
+      "hr",
+      "education",
+      "customer support",
+      "content writing",
+      "marketing"
+    ],
+    "resume_neutre": "Freelance Question Reviewers chez AMBOSS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-freelance-question-reviewers-amboss-1137791",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-13",
+    "ref_unique": "jf-82eef31bf9"
+  },
+  {
+    "id": "jf-e4ea691ff4",
+    "titre": "AI Developer",
+    "entreprise": "Salvo Software",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "grafana",
+      "infosec",
+      "python",
+      "docker"
+    ],
+    "resume_neutre": "AI Developer chez Salvo Software, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-13",
+    "ref_unique": "jf-e4ea691ff4"
+  },
+  {
+    "id": "jf-5c3a0fc752",
+    "titre": "Junior Market Analyst",
+    "entreprise": "MEYA HOLDINGS",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance",
+      "analyst",
+      "junior",
+      "part time",
+      "crypto"
+    ],
+    "resume_neutre": "Junior Market Analyst chez MEYA HOLDINGS, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-13",
+    "ref_unique": "jf-5c3a0fc752"
+  },
+  {
     "id": "ma-fdcdbf0944",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5400,77 +5488,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-08",
     "ref_unique": "ma-c1c559e492"
-  },
-  {
-    "id": "ma-66ec634b20",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=2&elckey=2306306997838586437&p=1&aq=7453124176075971812&cid=20&jobAge=570&relb=100&brelb=100&bscr=2681.6973&scr=2681.6973",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-66ec634b20"
-  },
-  {
-    "id": "ma-0d66e87e83",
-    "titre": "Planificateurs des interventions techniques (dépannage informatique)",
-    "entreprise": "Genius Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Planificateurs des interventions techniques (dépannage informatique) chez Genius Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2252654534749097560?ckey=informatique&rgn=0&pos=3&elckey=2306306997838586437&p=1&aq=7453124176075971812&cid=20&jobAge=930&relb=110&brelb=110&bscr=2669.9072&scr=2669.9072",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-0d66e87e83"
-  },
-  {
-    "id": "ma-21743ba0cc",
-    "titre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F)",
-    "entreprise": "TELEACTIS",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F) chez TELEACTIS, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2481276437881537996?ckey=informatique&rgn=0&pos=4&elckey=2306306997838586437&p=1&aq=7453124176075971812&cid=20&jobAge=138&relb=110&brelb=110&bscr=2609.8545&scr=2609.8545",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-21743ba0cc"
-  },
-  {
-    "id": "ma-83d6f23703",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=5&elckey=2306306997838586437&p=1&aq=7453124176075971812&cid=20&jobAge=1842&relb=100&brelb=100&bscr=2086.2268&scr=2086.2268",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-83d6f23703"
   }
 ]
