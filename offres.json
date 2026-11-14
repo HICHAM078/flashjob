@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-eb9a50b498",
+    "titre": "Account Executive Enterprise",
+    "entreprise": "Harvey",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Saas",
+    "remote": true,
+    "competences": [
+      "saas",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing"
+    ],
+    "resume_neutre": "Account Executive Enterprise chez Harvey, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-14",
+    "ref_unique": "jf-eb9a50b498"
+  },
+  {
     "id": "ma-520ad0d26b",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5473,23 +5495,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-09",
     "ref_unique": "ma-434562a3fd"
-  },
-  {
-    "id": "ma-1bd810b25d",
-    "titre": "Conseiller commercial en assurance",
-    "entreprise": "AMP ASSUR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en assurance chez AMP ASSUR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2872071695559578120?ckey=commercial&rgn=938&pos=12&elckey=-341058141993239447&p=1&aq=-1475613710337964085&cid=20&jobAge=693&relb=100&brelb=100&bscr=1491.6871&scr=1491.6871",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-09",
-    "ref_unique": "ma-1bd810b25d"
   }
 ]
