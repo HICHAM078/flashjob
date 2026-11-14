@@ -1,5 +1,27 @@
 [
   {
+    "id": "jf-971298d87f",
+    "titre": "Software Engineer AI Tooling",
+    "entreprise": "Supabase",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "front end",
+      "customer support",
+      "testing"
+    ],
+    "resume_neutre": "Software Engineer AI Tooling chez Supabase, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-14",
+    "ref_unique": "jf-971298d87f"
+  },
+  {
     "id": "jf-8ed8fdacc2",
     "titre": "Research Engineer Privacy and Anonymization",
     "entreprise": "Pragmatike",
@@ -5470,23 +5492,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-08",
     "ref_unique": "ma-656fdded5f"
-  },
-  {
-    "id": "ma-c1c559e492",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=2306306997838586437&p=1&aq=7453124176075971812&cid=20&jobAge=138&relb=110&brelb=110&bscr=3000.1353&scr=3000.1353",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-c1c559e492"
   }
 ]
