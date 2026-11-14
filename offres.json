@@ -1,5 +1,48 @@
 [
   {
+    "id": "jf-8e4d97ae00",
+    "titre": "Global Partnerships BD Lead",
+    "entreprise": "Fuku",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Web3",
+    "remote": true,
+    "competences": [
+      "web3",
+      "sys admin",
+      "finance",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Global Partnerships BD Lead chez Fuku, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-14",
+    "ref_unique": "jf-8e4d97ae00"
+  },
+  {
+    "id": "jf-60c98aa377",
+    "titre": "Scaled Account Manager EMEA",
+    "entreprise": "DoiT",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "marketing",
+      "cloud",
+      "microsoft"
+    ],
+    "resume_neutre": "Scaled Account Manager EMEA chez DoiT, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-scaled-account-manager-emea-doit-1137795",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-14",
+    "ref_unique": "jf-60c98aa377"
+  },
+  {
     "id": "jf-971298d87f",
     "titre": "Software Engineer AI Tooling",
     "entreprise": "Supabase",
@@ -5456,41 +5499,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-08",
     "ref_unique": "ma-44abed2366"
-  },
-  {
-    "id": "ma-794346c3f3",
-    "titre": "Conseiller commercial en assurance",
-    "entreprise": "AMP ASSUR",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller commercial en assurance chez AMP ASSUR, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2872071695559578120?ckey=commercial&rgn=938&pos=11&elckey=8800571932765953637&p=1&aq=-9086147729285659415&cid=20&jobAge=666&relb=100&brelb=100&bscr=1506.5099&scr=1506.5099",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-794346c3f3"
-  },
-  {
-    "id": "ma-656fdded5f",
-    "titre": "EXPERT COMMERCIAL B2B SENIOR FRANCOPHONE",
-    "entreprise": "Sevra solutions",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "EXPERT COMMERCIAL B2B SENIOR FRANCOPHONE chez Sevra solutions, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7405163772092987399?ckey=commercial&rgn=938&pos=12&elckey=8800571932765953637&p=1&aq=-9086147729285659415&cid=20&jobAge=90&relb=110&brelb=110&bscr=1504.6254&scr=1504.6254",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-08",
-    "ref_unique": "ma-656fdded5f"
   }
 ]
