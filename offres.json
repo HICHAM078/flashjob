@@ -1,5 +1,159 @@
 [
   {
+    "id": "jf-86c68c8d5f",
+    "titre": "Expert Talent Pool Physical AI",
+    "entreprise": "Clera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "education",
+      "testing",
+      "travel",
+      "robotics"
+    ],
+    "resume_neutre": "Expert Talent Pool Physical AI chez Clera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-86c68c8d5f"
+  },
+  {
+    "id": "jf-9dc9b8b147",
+    "titre": "Expert Talent Pool Feedback and Alignment",
+    "entreprise": "Clera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Quality Assurance",
+    "remote": true,
+    "competences": [
+      "quality assurance",
+      "finance",
+      "math",
+      "exec",
+      "content writing"
+    ],
+    "resume_neutre": "Expert Talent Pool Feedback and Alignment chez Clera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-9dc9b8b147"
+  },
+  {
+    "id": "jf-e64dc036bb",
+    "titre": "Engineering Manager Network Engineering",
+    "entreprise": "PatientPoint",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "infosec",
+      "technical",
+      "dev"
+    ],
+    "resume_neutre": "Engineering Manager Network Engineering chez PatientPoint, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-e64dc036bb"
+  },
+  {
+    "id": "jf-fe1c20bab9",
+    "titre": "Patient Care Specialist I",
+    "entreprise": "Boston Scientific",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "resume_neutre": "Patient Care Specialist I chez Boston Scientific, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-fe1c20bab9"
+  },
+  {
+    "id": "jf-06815052cd",
+    "titre": "Strategy & Operations Coach APAC",
+    "entreprise": "Mento",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Education",
+    "remote": true,
+    "competences": [
+      "education",
+      "marketing",
+      "exec",
+      "senior",
+      "ops"
+    ],
+    "resume_neutre": "Strategy & Operations Coach APAC chez Mento, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-06815052cd"
+  },
+  {
+    "id": "jf-02d537a6fd",
+    "titre": "Bilingual Patient Engagement Specialist I English Spanish",
+    "entreprise": "Sprinter Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support",
+      "dev",
+      "speech",
+      "ops",
+      "excel"
+    ],
+    "resume_neutre": "Bilingual Patient Engagement Specialist I English Spanish chez Sprinter Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-02d537a6fd"
+  },
+  {
+    "id": "jf-12c122bdd7",
+    "titre": "Data Engineer",
+    "entreprise": "Addepto",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education"
+    ],
+    "resume_neutre": "Data Engineer chez Addepto, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-18",
+    "ref_unique": "jf-12c122bdd7"
+  },
+  {
     "id": "ma-18636a86f0",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5353,131 +5507,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-12",
     "ref_unique": "ma-806f558226"
-  },
-  {
-    "id": "ma-17d8288e6b",
-    "titre": "Nous recrutons des Commerciaux Francophones en Assurance Santé !",
-    "entreprise": "NRG Conseils",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des Commerciaux Francophones en Assurance Santé ! chez NRG Conseils, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4973365332728350123?ckey=commercial&rgn=938&pos=9&elckey=-5807900369515987782&p=1&aq=-8405028236482982983&cid=20&jobAge=67&relb=110&brelb=110&bscr=1538.8392&scr=1538.8392",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-17d8288e6b"
-  },
-  {
-    "id": "ma-e668e96b88",
-    "titre": "Commerciaux experts en Assurance Automobile à RABAT",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux experts en Assurance Automobile à RABAT chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1085619072604481280?ckey=commercial&rgn=938&pos=10&elckey=-5807900369515987782&p=1&aq=-8405028236482982983&cid=20&jobAge=67&relb=110&brelb=110&bscr=1536.9884&scr=1536.9884",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-e668e96b88"
-  },
-  {
-    "id": "ma-4626801570",
-    "titre": "Commercial sédentaire parfaitement francophone - Rabat",
-    "entreprise": "Next CX",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial sédentaire parfaitement francophone - Rabat chez Next CX, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-4954366252763885845?ckey=commercial&rgn=938&pos=11&elckey=-5807900369515987782&p=1&aq=-8405028236482982983&cid=20&jobAge=355&relb=110&brelb=110&bscr=1520.9718&scr=1520.9718",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-4626801570"
-  },
-  {
-    "id": "ma-194360bb22",
-    "titre": "Commercial(e) sédentaire expérimenté- Rabat Agdal",
-    "entreprise": "Next CX",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) sédentaire expérimenté- Rabat Agdal chez Next CX, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9213068223195359518?ckey=commercial&rgn=938&pos=12&elckey=-5807900369515987782&p=1&aq=-8405028236482982983&cid=20&jobAge=43&relb=110&brelb=110&bscr=1500.4906&scr=1500.4906",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-194360bb22"
-  },
-  {
-    "id": "ma-ae5ebf78bf",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=6144578769266196634&p=1&aq=6254669329943890017&cid=20&jobAge=235&relb=110&brelb=110&bscr=2933.7886&scr=2933.7886",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-ae5ebf78bf"
-  },
-  {
-    "id": "ma-4b207744a3",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=2&elckey=6144578769266196634&p=1&aq=6254669329943890017&cid=20&jobAge=667&relb=100&brelb=100&bscr=2612.5625&scr=2612.5625",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-4b207744a3"
-  },
-  {
-    "id": "ma-28cfa83d7a",
-    "titre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F)",
-    "entreprise": "TELEACTIS",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F) chez TELEACTIS, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2481276437881537996?ckey=informatique&rgn=0&pos=3&elckey=6144578769266196634&p=1&aq=6254669329943890017&cid=20&jobAge=235&relb=110&brelb=110&bscr=2594.553&scr=2594.5529999999994",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-12",
-    "ref_unique": "ma-28cfa83d7a"
   }
 ]
