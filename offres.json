@@ -1,5 +1,365 @@
 [
   {
+    "id": "jf-e7b66c33e6",
+    "titre": "Senior Atlassian Cloud Admininstrator",
+    "entreprise": "Dropbox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Senior Atlassian Cloud Admininstrator chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-e7b66c33e6"
+  },
+  {
+    "id": "jf-5d1b801fd8",
+    "titre": "Senior Manager, Commercial Learning and Development",
+    "entreprise": "Elation Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Senior Manager, Commercial Learning and Development chez Elation Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-manager-commercial-learning-and-development-elation-health-1137859",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-5d1b801fd8"
+  },
+  {
+    "id": "jf-83cf23a010",
+    "titre": "Principal DevSecOps Engineer",
+    "entreprise": "Upgrade",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Principal DevSecOps Engineer chez Upgrade, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-83cf23a010"
+  },
+  {
+    "id": "jf-5d70616eec",
+    "titre": "Infrastructure Software Engineer",
+    "entreprise": "Dropbox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Infrastructure Software Engineer chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-5d70616eec"
+  },
+  {
+    "id": "jf-3f8471c43e",
+    "titre": "Senior Software Engineer",
+    "entreprise": "Tebra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer chez Tebra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-3f8471c43e"
+  },
+  {
+    "id": "jf-88a2a3761f",
+    "titre": "Engineering Manager",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Engineering Manager chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-88a2a3761f"
+  },
+  {
+    "id": "jf-5719982229",
+    "titre": "Senior Software Engineer: Assets",
+    "entreprise": "MetaMask",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer: Assets chez MetaMask, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-5719982229"
+  },
+  {
+    "id": "jf-c47cb352cb",
+    "titre": "Engineering Lead, Growth",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Engineering Lead, Growth chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-lead-growth-clover-health-1137853",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-c47cb352cb"
+  },
+  {
+    "id": "jf-779fa3988d",
+    "titre": "Engineering Lead, Clinical Operations",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Engineering Lead, Clinical Operations chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-779fa3988d"
+  },
+  {
+    "id": "jf-336a80e956",
+    "titre": "Senior GTM Engineer",
+    "entreprise": "Salesloft",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior GTM Engineer chez Salesloft, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-336a80e956"
+  },
+  {
+    "id": "jf-d2f6e813f7",
+    "titre": "Senior Software Engineer Guest & Host",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer Guest & Host chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-guest-host-airbnb-1137849",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-d2f6e813f7"
+  },
+  {
+    "id": "jf-df0ae5c6a2",
+    "titre": "Engineering Manager, External Search & AI Optimization",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Engineering Manager, External Search & AI Optimization chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-df0ae5c6a2"
+  },
+  {
+    "id": "jf-60ec8ad571",
+    "titre": "Engineering Manager, Product Engineering",
+    "entreprise": "Lattice",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Engineering Manager, Product Engineering chez Lattice, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-product-engineering-lattice-1137847",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-60ec8ad571"
+  },
+  {
+    "id": "jf-6d4ae93c6e",
+    "titre": "Senior Data Engineer Tech Foundations",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Data Engineer Tech Foundations chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-6d4ae93c6e"
+  },
+  {
+    "id": "jf-348cd26875",
+    "titre": "Velocity, Sales Director - USA & Europe",
+    "entreprise": "Storyblok",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Velocity, Sales Director - USA & Europe chez Storyblok, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-velocity-sales-director-usa-europe-storyblok-1137845",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-348cd26875"
+  },
+  {
+    "id": "jf-ed5f654a04",
+    "titre": "Staff Software Engineer (Interfaces)",
+    "entreprise": "Netlify",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Software Engineer (Interfaces) chez Netlify, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-ed5f654a04"
+  },
+  {
+    "id": "jf-738b6617ea",
+    "titre": "Vice President, Public Sector",
+    "entreprise": "Bitwarden",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Vice President, Public Sector chez Bitwarden, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vice-president-public-sector-bitwarden-1137843",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-738b6617ea"
+  },
+  {
+    "id": "jf-b6f288cd08",
+    "titre": "Senior Sales Training and Enablement Manager",
+    "entreprise": "Tebra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Senior Sales Training and Enablement Manager chez Tebra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-b6f288cd08"
+  },
+  {
+    "id": "jf-6ceacd49e9",
+    "titre": "Director, Enterprise Sales",
+    "entreprise": "Abnormal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Director, Enterprise Sales chez Abnormal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-abnormal-1137841",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-6ceacd49e9"
+  },
+  {
+    "id": "jf-3853857d6c",
+    "titre": "Senior Account Executive II",
+    "entreprise": "Collibra",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Senior Account Executive II chez Collibra, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-20",
+    "ref_unique": "jf-3853857d6c"
+  },
+  {
     "id": "ma-158b14e979",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5122,369 +5482,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-15",
     "ref_unique": "ma-b484737f41"
-  },
-  {
-    "id": "ma-9c63d8f479",
-    "titre": "Nous recrutons des profils en recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des profils en recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6393265108598192559?ckey=informatique&rgn=0&pos=12&elckey=-6737866907772325638&p=1&aq=-8704049565573080886&cid=20&jobAge=498&relb=110&brelb=110&bscr=280.32358&scr=280.32358",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-15",
-    "ref_unique": "ma-9c63d8f479"
-  },
-  {
-    "id": "jf-eb9a50b498",
-    "titre": "Account Executive Enterprise",
-    "entreprise": "Harvey",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Saas",
-    "remote": true,
-    "competences": [
-      "saas",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "resume_neutre": "Account Executive Enterprise chez Harvey, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-14",
-    "ref_unique": "jf-eb9a50b498"
-  },
-  {
-    "id": "ma-520ad0d26b",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=101&relb=140&brelb=100&bscr=2231.415&scr=3123.9809999999998",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-520ad0d26b"
-  },
-  {
-    "id": "ma-340fe1d1c5",
-    "titre": "Offre d’emploi - service recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - service recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7517497126816959240?ckey=emploi&rgn=0&pos=2&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=545&relb=110&brelb=110&bscr=2735.6846&scr=2735.6846",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-340fe1d1c5"
-  },
-  {
-    "id": "ma-4705e3899b",
-    "titre": "Offre d’emploi - restaurant à rabat",
-    "entreprise": "Restaurant a Rabat",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - restaurant à rabat chez Restaurant a Rabat, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1503091938728509917?ckey=emploi&rgn=0&pos=3&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=641&relb=100&brelb=100&bscr=2434.2322&scr=2434.2322",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-4705e3899b"
-  },
-  {
-    "id": "ma-03e2ad6309",
-    "titre": "Vous Cherchez un Emploi ? Notre Équipe Vous Attend !",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vous Cherchez un Emploi ? Notre Équipe Vous Attend ! chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7568148466676897559?ckey=emploi&rgn=0&pos=4&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=257&relb=110&brelb=110&bscr=2431.7195&scr=2431.7195",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-03e2ad6309"
-  },
-  {
-    "id": "ma-b934c5019d",
-    "titre": "Offre d’emploi - agents de sécurité (h/f)",
-    "entreprise": "RH",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - agents de sécurité (h/f) chez RH, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8219309359824569764?ckey=emploi&rgn=0&pos=5&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=521&relb=100&brelb=100&bscr=2380.241&scr=2380.241",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-b934c5019d"
-  },
-  {
-    "id": "ma-bef7ea59da",
-    "titre": "Offre d’emploi - Chef d’équipe - Team Leadee",
-    "entreprise": "SMSA",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Chef d’équipe - Team Leadee chez SMSA, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1175869132902043090?ckey=emploi&rgn=0&pos=6&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=449&relb=110&brelb=110&bscr=2337.0503&scr=2337.0503",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-bef7ea59da"
-  },
-  {
-    "id": "ma-2db5f6c242",
-    "titre": "OFFRE D’EMPLOI - TEAM LEADER / CHEF D’ÉQUIPE",
-    "entreprise": "CMS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - TEAM LEADER / CHEF D’ÉQUIPE chez CMS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9091617022641861651?ckey=emploi&rgn=0&pos=7&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=89&relb=110&brelb=110&bscr=2314.76&scr=2314.76",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-2db5f6c242"
-  },
-  {
-    "id": "ma-73220cb034",
-    "titre": "Offre d'emploi pour débutants : Rejoignez notre centre d'appel et grandissez avec nous !",
-    "entreprise": "SM Call",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi pour débutants : Rejoignez notre centre d'appel et grandissez avec nous ! chez SM Call, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7679521825581648728?ckey=emploi&rgn=0&pos=8&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=41&relb=110&brelb=110&bscr=2306.0261&scr=2306.0261",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-73220cb034"
-  },
-  {
-    "id": "ma-4f7f67e6df",
-    "titre": "OPPORTUNITÉ D’EMPLOI À CASABLANCA - GAE RECRUTE DES TÉLÉCONSEILLERS",
-    "entreprise": "CALL GAE",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OPPORTUNITÉ D’EMPLOI À CASABLANCA - GAE RECRUTE DES TÉLÉCONSEILLERS chez CALL GAE, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6802498364778363035?ckey=emploi&rgn=0&pos=9&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=41&relb=110&brelb=110&bscr=2219.4866&scr=2219.4866",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-4f7f67e6df"
-  },
-  {
-    "id": "ma-ad35bf356b",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=10&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=89&relb=110&brelb=110&bscr=2210.175&scr=2210.175",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-ad35bf356b"
-  },
-  {
-    "id": "ma-525646a0cb",
-    "titre": "Portes ouvertes - opportunités d’emploi",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Portes ouvertes - opportunités d’emploi chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3729032572534535433?ckey=emploi&rgn=0&pos=11&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=929&relb=110&brelb=110&bscr=2175.4285&scr=2175.4285",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-525646a0cb"
-  },
-  {
-    "id": "ma-62d94e41ca",
-    "titre": "Offre d’emploi : Responsable d’équipe en assurance (courtier français)",
-    "entreprise": "PS Courtage",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : Responsable d’équipe en assurance (courtier français) chez PS Courtage, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1136341725077786892?ckey=emploi&rgn=0&pos=12&elckey=-2750374987629032312&p=1&aq=5694241426554635433&cid=20&jobAge=305&relb=110&brelb=110&bscr=2170.9731&scr=2170.9731",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-62d94e41ca"
-  },
-  {
-    "id": "ma-4a185e6ab4",
-    "titre": "COMPTABLE",
-    "entreprise": "Inetum",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMPTABLE chez Inetum, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6422390950418987577?ckey=comptable&rgn=946&pos=1&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=291&relb=100&brelb=100&bscr=2563.1785&scr=2563.1785",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-4a185e6ab4"
-  },
-  {
-    "id": "ma-c292267a8c",
-    "titre": "PFE Stagiaire Comptable",
-    "entreprise": "Inetum",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PFE Stagiaire Comptable chez Inetum, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4631053084787438472?ckey=comptable&rgn=946&pos=2&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=291&relb=100&brelb=100&bscr=2499.9202&scr=2499.9202",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-c292267a8c"
-  },
-  {
-    "id": "ma-e17a7f96da",
-    "titre": "Aide Comptable - Casablanca",
-    "entreprise": "PROFILS RECRUTEMENT",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Aide Comptable - Casablanca chez PROFILS RECRUTEMENT, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-8828449826193578888?ckey=comptable&rgn=946&pos=3&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=65&relb=100&brelb=100&bscr=2488.0222&scr=2488.0222",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-e17a7f96da"
-  },
-  {
-    "id": "ma-1a8d61c67d",
-    "titre": "Consultant Comptable Junior (H/F)",
-    "entreprise": "Baker Tilly",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Consultant Comptable Junior (H/F) chez Baker Tilly, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5274901956918600803?ckey=comptable&rgn=946&pos=4&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=137&relb=100&brelb=100&bscr=2473.0803&scr=2473.0803",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-1a8d61c67d"
-  },
-  {
-    "id": "ma-1b0a278005",
-    "titre": "Stagiaire Comptabilité",
-    "entreprise": "Inetum Maroc",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Stagiaire Comptabilité chez Inetum Maroc, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/6877700106949633160?ckey=comptable&rgn=946&pos=5&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=41&relb=100&brelb=100&bscr=2404.8257&scr=2404.8257",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-1b0a278005"
-  },
-  {
-    "id": "ma-7967db25f8",
-    "titre": "Comptable Financier",
-    "entreprise": "Dama",
-    "ville": "Nouaceur",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Comptable Financier chez Dama, a Nouaceur. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-1982706601483956363?ckey=comptable&rgn=946&pos=6&elckey=1129839052264181067&p=1&aq=-9109677599314033945&cid=20&jobAge=809&relb=100&brelb=100&bscr=2363.4663&scr=2363.4663",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-14",
-    "ref_unique": "ma-7967db25f8"
   }
 ]
