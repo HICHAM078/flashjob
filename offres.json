@@ -1,5 +1,49 @@
 [
   {
+    "id": "jf-9f8d548872",
+    "titre": "Quality Engineer",
+    "entreprise": "Quartermaster",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "sys admin",
+      "customer support",
+      "testing",
+      "travel"
+    ],
+    "resume_neutre": "Quality Engineer chez Quartermaster, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-21",
+    "ref_unique": "jf-9f8d548872"
+  },
+  {
+    "id": "jf-b69ce1f50a",
+    "titre": "Account Director",
+    "entreprise": "Princeton10",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec",
+      "design",
+      "marketing",
+      "web dev",
+      "travel"
+    ],
+    "resume_neutre": "Account Director chez Princeton10, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-21",
+    "ref_unique": "jf-b69ce1f50a"
+  },
+  {
     "id": "ma-8b327d6ff1",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5426,41 +5470,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-16",
     "ref_unique": "ma-00fd2734c6"
-  },
-  {
-    "id": "ma-10170fc034",
-    "titre": "Offre d’emploi : Responsable d’équipe en assurance (courtier français)",
-    "entreprise": "PS Courtage",
-    "ville": "Kenitra",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi : Responsable d’équipe en assurance (courtier français) chez PS Courtage, a Kenitra. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1136341725077786892?ckey=emploi&rgn=0&pos=11&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=356&relb=110&brelb=110&bscr=2150.5989&scr=2150.5989",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-10170fc034"
-  },
-  {
-    "id": "ma-41edb8144d",
-    "titre": "Portes ouvertes - opportunités d’emploi",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Portes ouvertes - opportunités d’emploi chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3729032572534535433?ckey=emploi&rgn=0&pos=12&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=980&relb=110&brelb=110&bscr=2144.842&scr=2144.842",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-41edb8144d"
   }
 ]
