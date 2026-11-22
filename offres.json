@@ -1,5 +1,365 @@
 [
   {
+    "id": "jf-7e3a20c41b",
+    "titre": "Principal Software Engineer, Infrastructure",
+    "entreprise": "Reddit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Principal Software Engineer, Infrastructure chez Reddit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-7e3a20c41b"
+  },
+  {
+    "id": "jf-2fd21ffd79",
+    "titre": "Enterprise Performance Lead",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance"
+    ],
+    "resume_neutre": "Enterprise Performance Lead chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-2fd21ffd79"
+  },
+  {
+    "id": "jf-91f3d8b102",
+    "titre": "Global Tax Intern",
+    "entreprise": "Ensono",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Global Tax Intern chez Ensono, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-91f3d8b102"
+  },
+  {
+    "id": "jf-a09c8269fe",
+    "titre": "Sr. Technology Partner Director, Product Partnerships",
+    "entreprise": "Databricks",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Sr. Technology Partner Director, Product Partnerships chez Databricks, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-technology-partner-director-product-partnerships-databricks-1137941",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-a09c8269fe"
+  },
+  {
+    "id": "jf-bac07816c6",
+    "titre": "Lead, Office of Software Assurance",
+    "entreprise": "Natera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Lead, Office of Software Assurance chez Natera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-bac07816c6"
+  },
+  {
+    "id": "jf-31f92d9a78",
+    "titre": "Medical Science Liaison - Breast Oncology",
+    "entreprise": "Natera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Medical Science Liaison - Breast Oncology chez Natera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-medical-science-liaison-breast-oncology-natera-1137939",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-31f92d9a78"
+  },
+  {
+    "id": "jf-23aaa94b61",
+    "titre": "Physician Assistant - Virtual Health Assessment",
+    "entreprise": "Oscar Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Physician Assistant - Virtual Health Assessment chez Oscar Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-physician-assistant-virtual-health-assessment-oscar-health-1137938",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-23aaa94b61"
+  },
+  {
+    "id": "jf-e0aa6948c8",
+    "titre": "Physician - Virtual Urgent Care (Part-Time)",
+    "entreprise": "Oscar Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Physician - Virtual Urgent Care (Part-Time) chez Oscar Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-physician-virtual-urgent-care-part-time-oscar-health-1137937",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-e0aa6948c8"
+  },
+  {
+    "id": "jf-a18002300f",
+    "titre": "Business Services Assistant",
+    "entreprise": "Ping Identity",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Business Services Assistant chez Ping Identity, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-business-services-assistant-ping-identity-1137936",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-a18002300f"
+  },
+  {
+    "id": "jf-098a1e8929",
+    "titre": "Senior Financial Analyst",
+    "entreprise": "ÅURA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance"
+    ],
+    "resume_neutre": "Senior Financial Analyst chez ÅURA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-oura-1137935",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-098a1e8929"
+  },
+  {
+    "id": "jf-747311a00b",
+    "titre": "In-Home Care Admin Coordinator",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "In-Home Care Admin Coordinator chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-in-home-care-admin-coordinator-clover-health-1137934",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-747311a00b"
+  },
+  {
+    "id": "jf-08e0d3d0f5",
+    "titre": "Associate Counsel, Vendor and Provider Contracting",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Associate Counsel, Vendor and Provider Contracting chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-08e0d3d0f5"
+  },
+  {
+    "id": "jf-741a1c71b7",
+    "titre": "Senior Staff Machine Learning Engineer, Ads Ranking",
+    "entreprise": "Reddit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Senior Staff Machine Learning Engineer, Ads Ranking chez Reddit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-741a1c71b7"
+  },
+  {
+    "id": "jf-a5d8f5e996",
+    "titre": "Sr. Product Marketing Manager, Secrets Manager",
+    "entreprise": "Bitwarden",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Sr. Product Marketing Manager, Secrets Manager chez Bitwarden, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-product-marketing-manager-secrets-manager-bitwarden-1137931",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-a5d8f5e996"
+  },
+  {
+    "id": "jf-aeed20546c",
+    "titre": "Sr. Security Operations Manager",
+    "entreprise": "Carrot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Sr. Security Operations Manager chez Carrot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-aeed20546c"
+  },
+  {
+    "id": "jf-07dcafe600",
+    "titre": "Part-Time Temporary HR Business Partner / HR Generalist",
+    "entreprise": "Elation Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Part-Time Temporary HR Business Partner / HR Generalist chez Elation Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-part-time-temporary-hr-business-partner-hr-generalist-elation-health-1137929",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-07dcafe600"
+  },
+  {
+    "id": "jf-3744a77859",
+    "titre": "Senior Product Design Manager",
+    "entreprise": "LastPass",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design"
+    ],
+    "resume_neutre": "Senior Product Design Manager chez LastPass, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-product-design-manager-lastpass-1137928",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-3744a77859"
+  },
+  {
+    "id": "jf-ed77c5a35b",
+    "titre": "Manager, Product Design",
+    "entreprise": "Carrot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design"
+    ],
+    "resume_neutre": "Manager, Product Design chez Carrot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-product-design-carrot-1137927",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-ed77c5a35b"
+  },
+  {
+    "id": "jf-bbe2d4fe06",
+    "titre": "Staff Scientist, Machine Learning (Genomics)",
+    "entreprise": "Natera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Scientist, Machine Learning (Genomics) chez Natera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-bbe2d4fe06"
+  },
+  {
+    "id": "jf-3132292570",
+    "titre": "Manager, Network Contracting (Southeast Region)",
+    "entreprise": "Oscar Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Manager, Network Contracting (Southeast Region) chez Oscar Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-network-contracting-southeast-region-oscar-health-1137925",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-3132292570"
+  },
+  {
     "id": "jf-9f8d548872",
     "titre": "Quality Engineer",
     "entreprise": "Quartermaster",
@@ -5094,381 +5454,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-17",
     "ref_unique": "ma-a60499173d"
-  },
-  {
-    "id": "ma-8f0fa74200",
-    "titre": "Conseiller Commercial",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186460278820311994?ckey=informatique&rgn=0&pos=7&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=308&relb=110&brelb=110&bscr=287.0462&scr=287.0462",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-8f0fa74200"
-  },
-  {
-    "id": "ma-02e9f3c7e3",
-    "titre": "Télévendeurs en FAI - H/F",
-    "entreprise": "Tersea",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeurs en FAI - H/F chez Tersea, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-903059172308584689?ckey=informatique&rgn=0&pos=8&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=44&relb=110&brelb=110&bscr=286.70096&scr=286.70096",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-02e9f3c7e3"
-  },
-  {
-    "id": "ma-ebf847431e",
-    "titre": "PMO",
-    "entreprise": "Babel",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "PMO chez Babel, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3620751012339363692?ckey=informatique&rgn=0&pos=9&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=59&relb=100&brelb=100&bscr=285.78238&scr=285.78238",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-ebf847431e"
-  },
-  {
-    "id": "ma-dc99bec2c4",
-    "titre": "Superviseur Senior - H/F",
-    "entreprise": "Tersea",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Superviseur Senior - H/F chez Tersea, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-668196791991973366?ckey=informatique&rgn=0&pos=10&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=44&relb=110&brelb=110&bscr=285.1027&scr=285.1027",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-dc99bec2c4"
-  },
-  {
-    "id": "ma-184e0709c4",
-    "titre": "GESTIONNAIRES DE CONTRATS",
-    "entreprise": "Centre de Services",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "GESTIONNAIRES DE CONTRATS chez Centre de Services, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/490562854043959908?ckey=informatique&rgn=0&pos=11&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=44&relb=110&brelb=110&bscr=284.9837&scr=284.9837",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-184e0709c4"
-  },
-  {
-    "id": "ma-2ea7e35638",
-    "titre": "Nous recrutons des profils en recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Nous recrutons des profils en recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6393265108598192559?ckey=informatique&rgn=0&pos=12&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=548&relb=110&brelb=110&bscr=277.0986&scr=277.0986",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-2ea7e35638"
-  },
-  {
-    "id": "jf-d7d9cc7e08",
-    "titre": "Senior Software Engineer â Kubernetes Control Plane",
-    "entreprise": "Buoyant",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Golang",
-    "remote": true,
-    "competences": [
-      "golang",
-      "dev",
-      "senior",
-      "golang",
-      "engineer"
-    ],
-    "resume_neutre": "Senior Software Engineer â Kubernetes Control Plane chez Buoyant, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-17",
-    "ref_unique": "jf-d7d9cc7e08"
-  },
-  {
-    "id": "jf-e31a571103",
-    "titre": "HIL Support Specialist",
-    "entreprise": "Extend Your Team",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "c sharp",
-      "amazon",
-      "customer support",
-      "dev"
-    ],
-    "resume_neutre": "HIL Support Specialist chez Extend Your Team, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-17",
-    "ref_unique": "jf-e31a571103"
-  },
-  {
-    "id": "jf-3b2a021037",
-    "titre": "Senior Agentic AI Engineer NDA",
-    "entreprise": "GT",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design",
-      "react",
-      "sys admin",
-      "infosec",
-      "python"
-    ],
-    "resume_neutre": "Senior Agentic AI Engineer NDA chez GT, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-17",
-    "ref_unique": "jf-3b2a021037"
-  },
-  {
-    "id": "jf-c80834bae3",
-    "titre": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
-    "entreprise": "Allara",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Education",
-    "remote": true,
-    "competences": [
-      "education",
-      "technical",
-      "customer support",
-      "video",
-      "medical"
-    ],
-    "resume_neutre": "Telehealth Endocrinologist Evenings Fridays and or Weekends chez Allara, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-17",
-    "ref_unique": "jf-c80834bae3"
-  },
-  {
-    "id": "ma-504596786c",
-    "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
-    "entreprise": "Landing Pro Site",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi Téléconseiller(ère) / Commercial(e) chez Landing Pro Site, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8804717877234554006?ckey=emploi&rgn=0&pos=1&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=152&relb=140&brelb=100&bscr=2201.3296&scr=3081.86144",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-504596786c"
-  },
-  {
-    "id": "ma-a8af4e1b6c",
-    "titre": "Offre d’emploi - service recouvrement",
-    "entreprise": "Great Call",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - service recouvrement chez Great Call, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7517497126816959240?ckey=emploi&rgn=0&pos=2&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=596&relb=110&brelb=110&bscr=2653.535&scr=2653.535",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-a8af4e1b6c"
-  },
-  {
-    "id": "ma-5fec5c4429",
-    "titre": "Vous Cherchez un Emploi ? Notre Équipe Vous Attend !",
-    "entreprise": "Call Center Group",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vous Cherchez un Emploi ? Notre Équipe Vous Attend ! chez Call Center Group, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7568148466676897559?ckey=emploi&rgn=0&pos=3&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=308&relb=110&brelb=110&bscr=2358.6978&scr=2358.6978",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-5fec5c4429"
-  },
-  {
-    "id": "ma-defe1ae087",
-    "titre": "Offre d’emploi - agents de sécurité (h/f)",
-    "entreprise": "RH",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - agents de sécurité (h/f) chez RH, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/8219309359824569764?ckey=emploi&rgn=0&pos=4&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=572&relb=100&brelb=100&bscr=2358.5933&scr=2358.5933",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-defe1ae087"
-  },
-  {
-    "id": "ma-77ce396e1c",
-    "titre": "Offre d’emploi - restaurant à rabat",
-    "entreprise": "Restaurant a Rabat",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - restaurant à rabat chez Restaurant a Rabat, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1503091938728509917?ckey=emploi&rgn=0&pos=5&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=692&relb=100&brelb=100&bscr=2358.379&scr=2358.379",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-77ce396e1c"
-  },
-  {
-    "id": "ma-9440bff411",
-    "titre": "Offre d'emploi pour débutants : Rejoignez notre centre d'appel et grandissez avec nous !",
-    "entreprise": "SM Call",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi pour débutants : Rejoignez notre centre d'appel et grandissez avec nous ! chez SM Call, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7679521825581648728?ckey=emploi&rgn=0&pos=6&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=44&relb=110&brelb=110&bscr=2298.758&scr=2298.758",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-9440bff411"
-  },
-  {
-    "id": "ma-7a36a64daf",
-    "titre": "Offre d’emploi - Chef d’équipe - Team Leadee",
-    "entreprise": "SMSA",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d’emploi - Chef d’équipe - Team Leadee chez SMSA, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1175869132902043090?ckey=emploi&rgn=0&pos=7&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=500&relb=110&brelb=110&bscr=2293.8132&scr=2293.8132",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-7a36a64daf"
-  },
-  {
-    "id": "ma-b44ae70f27",
-    "titre": "OFFRE D’EMPLOI - TEAM LEADER / CHEF D’ÉQUIPE",
-    "entreprise": "CMS",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OFFRE D’EMPLOI - TEAM LEADER / CHEF D’ÉQUIPE chez CMS, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9091617022641861651?ckey=emploi&rgn=0&pos=8&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=140&relb=110&brelb=110&bscr=2255.5508&scr=2255.5508",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-b44ae70f27"
-  },
-  {
-    "id": "ma-4b47ad0d63",
-    "titre": "OPPORTUNITÉ D’EMPLOI À CASABLANCA - GAE RECRUTE DES TÉLÉCONSEILLERS",
-    "entreprise": "CALL GAE",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "OPPORTUNITÉ D’EMPLOI À CASABLANCA - GAE RECRUTE DES TÉLÉCONSEILLERS chez CALL GAE, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6802498364778363035?ckey=emploi&rgn=0&pos=9&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=92&relb=110&brelb=110&bscr=2180.4058&scr=2180.4058",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-4b47ad0d63"
-  },
-  {
-    "id": "ma-00fd2734c6",
-    "titre": "Offre d'emploi - comptable cdi",
-    "entreprise": "EIDS Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Offre d'emploi - comptable cdi chez EIDS Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-6034468852964358448?ckey=emploi&rgn=0&pos=10&elckey=-6460109714601336881&p=1&aq=1547211017975410166&cid=20&jobAge=140&relb=110&brelb=110&bscr=2175.7185&scr=2175.7185",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-16",
-    "ref_unique": "ma-00fd2734c6"
   }
 ]
