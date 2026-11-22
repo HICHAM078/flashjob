@@ -1,5 +1,293 @@
 [
   {
+    "id": "jf-63050ce06f",
+    "titre": "Sr Analyst, Analytics & Insights",
+    "entreprise": "BeyondTrust",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Sr Analyst, Analytics & Insights chez BeyondTrust, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-63050ce06f"
+  },
+  {
+    "id": "jf-8a1e8ff452",
+    "titre": "Deal Desk Analyst (Eastern Time Zone Preferred)",
+    "entreprise": "Mixpanel",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Deal Desk Analyst (Eastern Time Zone Preferred) chez Mixpanel, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-deal-desk-analyst-eastern-time-zone-preferred-mixpanel-1137961",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-8a1e8ff452"
+  },
+  {
+    "id": "jf-14b920c38e",
+    "titre": "Director, Revenue Accounting",
+    "entreprise": "6sense",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance"
+    ],
+    "resume_neutre": "Director, Revenue Accounting chez 6sense, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-14b920c38e"
+  },
+  {
+    "id": "jf-9815b1e4e7",
+    "titre": "Corporate Counsel, Commercial",
+    "entreprise": "Carrot",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Corporate Counsel, Commercial chez Carrot, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-commercial-carrot-1137959",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-9815b1e4e7"
+  },
+  {
+    "id": "jf-135b5bc205",
+    "titre": "Release Strategist, Professional Services",
+    "entreprise": "LaunchDarkly",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Release Strategist, Professional Services chez LaunchDarkly, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-release-strategist-professional-services-launchdarkly-1137958",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-135b5bc205"
+  },
+  {
+    "id": "jf-a645af23ef",
+    "titre": "Senior Database Engineer",
+    "entreprise": "Bitwarden",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Database Engineer chez Bitwarden, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-a645af23ef"
+  },
+  {
+    "id": "jf-01ec6f264b",
+    "titre": "Staff Data Scientist - Martech Platform (ML/Algos)",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Data Scientist - Martech Platform (ML/Algos) chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-01ec6f264b"
+  },
+  {
+    "id": "jf-38573d48d3",
+    "titre": "Staff Software Engineer, Agentic Tools",
+    "entreprise": "Cribl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Software Engineer, Agentic Tools chez Cribl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-38573d48d3"
+  },
+  {
+    "id": "jf-6e2a11362e",
+    "titre": "Senior Software Engineer, Partner Integrations",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer, Partner Integrations chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-6e2a11362e"
+  },
+  {
+    "id": "jf-340786afa4",
+    "titre": "Vice President, Storytelling & Communications",
+    "entreprise": "6sense",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Vice President, Storytelling & Communications chez 6sense, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vice-president-storytelling-communications-6sense-1137953",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-340786afa4"
+  },
+  {
+    "id": "jf-e7a4bd009a",
+    "titre": "Private Practice Enablement Specialist (PST)",
+    "entreprise": "Healthie",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Private Practice Enablement Specialist (PST) chez Healthie, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-private-practice-enablement-specialist-pst-healthie-1137952",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-e7a4bd009a"
+  },
+  {
+    "id": "jf-6cc14ffa6b",
+    "titre": "Revenue Operations Leader, Strategy & Planning",
+    "entreprise": "Contentstack",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Revenue Operations Leader, Strategy & Planning chez Contentstack, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-6cc14ffa6b"
+  },
+  {
+    "id": "jf-a582353aa1",
+    "titre": "VP, Customer Experience Operations",
+    "entreprise": "Ping Identity",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "VP, Customer Experience Operations chez Ping Identity, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-a582353aa1"
+  },
+  {
+    "id": "jf-ef42576c0e",
+    "titre": "Senior Software Engineer - Behavioral Security Products",
+    "entreprise": "Abnormal",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Senior Software Engineer - Behavioral Security Products chez Abnormal, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-ef42576c0e"
+  },
+  {
+    "id": "jf-0a8d09ea4e",
+    "titre": "Senior Manager, Financial Reporting",
+    "entreprise": "ÅURA",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance"
+    ],
+    "resume_neutre": "Senior Manager, Financial Reporting chez ÅURA, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-manager-financial-reporting-oura-1137947",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-0a8d09ea4e"
+  },
+  {
+    "id": "jf-4bb81c17cd",
+    "titre": "Engineering Manager, Ranking Platform",
+    "entreprise": "Reddit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Engineering Manager, Ranking Platform chez Reddit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-22",
+    "ref_unique": "jf-4bb81c17cd"
+  },
+  {
     "id": "jf-7e3a20c41b",
     "titre": "Principal Software Engineer, Infrastructure",
     "entreprise": "Reddit",
@@ -5166,293 +5454,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-17",
     "ref_unique": "ma-91634c7dfe"
-  },
-  {
-    "id": "ma-5479059cef",
-    "titre": "Conseiller Commercial",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186460278820311994?ckey=commercial&rgn=938&pos=3&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=308&relb=110&brelb=110&bscr=1765.3497&scr=1765.3497",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-5479059cef"
-  },
-  {
-    "id": "ma-ea689f5069",
-    "titre": "Commercial en Assurance Emprunteur (H/F) - Rabat",
-    "entreprise": "Net Courtage Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial en Assurance Emprunteur (H/F) - Rabat chez Net Courtage Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/643000277355816284?ckey=commercial&rgn=938&pos=4&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=44&relb=110&brelb=110&bscr=1613.6644&scr=1613.6643999999997",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-ea689f5069"
-  },
-  {
-    "id": "ma-786bb13161",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2986582135483070271?ckey=commercial&rgn=938&pos=5&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=116&relb=110&brelb=110&bscr=1606.8271&scr=1606.8271",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-786bb13161"
-  },
-  {
-    "id": "ma-432cd84d39",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9151346955070741527?ckey=commercial&rgn=938&pos=6&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=116&relb=110&brelb=110&bscr=1606.8271&scr=1606.8271",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-432cd84d39"
-  },
-  {
-    "id": "ma-f4f1123c98",
-    "titre": "COMMERCIAUX EN ASSURANCE PRO / AUTO / MOTO",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "COMMERCIAUX EN ASSURANCE PRO / AUTO / MOTO chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4542304084004734001?ckey=commercial&rgn=938&pos=7&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=188&relb=110&brelb=110&bscr=1548.7262&scr=1548.7262",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-f4f1123c98"
-  },
-  {
-    "id": "ma-fdc6a178c0",
-    "titre": "Conseiller Commercial BtoB en Téléphonie (H/F)",
-    "entreprise": "Marketing Call Center",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial BtoB en Téléphonie (H/F) chez Marketing Call Center, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7959544355821710198?ckey=commercial&rgn=938&pos=8&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=44&relb=110&brelb=110&bscr=1512.7177&scr=1512.7177",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-fdc6a178c0"
-  },
-  {
-    "id": "ma-f3a96d66de",
-    "titre": "Commercial(e) en Assurance IARD (H/F)",
-    "entreprise": "Si Claire",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) en Assurance IARD (H/F) chez Si Claire, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2408914276361215835?ckey=commercial&rgn=938&pos=9&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=692&relb=110&brelb=110&bscr=1490.168&scr=1490.168",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-f3a96d66de"
-  },
-  {
-    "id": "ma-0f5dadf96e",
-    "titre": "EXPERT COMMERCIAL B2B SENIOR FRANCOPHONE",
-    "entreprise": "Sevra solutions",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "EXPERT COMMERCIAL B2B SENIOR FRANCOPHONE chez Sevra solutions, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/7405163772092987399?ckey=commercial&rgn=938&pos=10&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=68&relb=110&brelb=110&bscr=1483.6813&scr=1483.6813",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-0f5dadf96e"
-  },
-  {
-    "id": "ma-f8d87a4628",
-    "titre": "Commerciaux experts en Assurance Automobile à RABAT",
-    "entreprise": "Var Partenaires",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commerciaux experts en Assurance Automobile à RABAT chez Var Partenaires, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1085619072604481280?ckey=commercial&rgn=938&pos=11&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=44&relb=110&brelb=110&bscr=1472.9485&scr=1472.9485",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-f8d87a4628"
-  },
-  {
-    "id": "ma-44b77287ac",
-    "titre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS CHERCHONS NOS FUTURS COMMERCIAUX EN ASSURANCE ! SALAIRE INTERESSANT chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3701673323252389760?ckey=commercial&rgn=938&pos=12&elckey=1471537878485918302&p=1&aq=-9208144249586229332&cid=20&jobAge=284&relb=110&brelb=110&bscr=1471.1057&scr=1471.1057",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-44b77287ac"
-  },
-  {
-    "id": "ma-63b72c29a8",
-    "titre": "Responsable Service Informatique Confirmé",
-    "entreprise": "My BPO",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Responsable Service Informatique Confirmé chez My BPO, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2949150745201800420?ckey=informatique&rgn=0&pos=1&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=356&relb=110&brelb=110&bscr=2763.7336&scr=2763.7336",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-63b72c29a8"
-  },
-  {
-    "id": "ma-7e6bc68743",
-    "titre": "Professeur Permanent en Informatique - Rabat",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Rabat-Salé-Kénitra Region",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Rabat chez EDVANTIS HIGHER EDUCATION GROUP, a Rabat-Salé-Kénitra Region. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-397354679591334490?ckey=informatique&rgn=0&pos=2&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=788&relb=100&brelb=100&bscr=2534.6443&scr=2534.6443",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-7e6bc68743"
-  },
-  {
-    "id": "ma-512fbf8946",
-    "titre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F)",
-    "entreprise": "TELEACTIS",
-    "ville": "Agadir",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEACTIS recrute un Technicien Informatique spécialisé en Centre d’Appels (H/F) chez TELEACTIS, a Agadir. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/2481276437881537996?ckey=informatique&rgn=0&pos=3&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=356&relb=110&brelb=110&bscr=2503.4705&scr=2503.4705",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-512fbf8946"
-  },
-  {
-    "id": "ma-8a96d75edd",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=4&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=2060&relb=100&brelb=100&bscr=2142.7117&scr=2142.7117",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-8a96d75edd"
-  },
-  {
-    "id": "ma-f2da229862",
-    "titre": "Conseiller Client",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Client chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7663481115859722671?ckey=informatique&rgn=0&pos=5&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=140&relb=110&brelb=110&bscr=295.8705&scr=295.8705",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-f2da229862"
-  },
-  {
-    "id": "ma-a60499173d",
-    "titre": "TELEVENDEUR(EUSE) F/H",
-    "entreprise": "Konecta Marina",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEVENDEUR(EUSE) F/H chez Konecta Marina, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5706260959700817359?ckey=informatique&rgn=0&pos=6&elckey=-5022727056441448898&p=1&aq=-2222465587199314349&cid=20&jobAge=44&relb=110&brelb=110&bscr=287.41833&scr=287.41833",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-17",
-    "ref_unique": "ma-a60499173d"
   }
 ]
