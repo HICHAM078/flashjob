@@ -1,5 +1,63 @@
 [
   {
+    "id": "jf-bcadf914b5",
+    "titre": "Strategic Technical Advisor",
+    "entreprise": "Thrive",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Infosec",
+    "remote": true,
+    "competences": [
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "finance"
+    ],
+    "resume_neutre": "Strategic Technical Advisor chez Thrive, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-bcadf914b5"
+  },
+  {
+    "id": "jf-12598d9075",
+    "titre": "Senior Software Engineer, Agentic AI",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer, Agentic AI chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-12598d9075"
+  },
+  {
+    "id": "jf-076281ad87",
+    "titre": "Senior Software Developer, Agentic AI - Canada",
+    "entreprise": "Clover Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Developer, Agentic AI - Canada chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-076281ad87"
+  },
+  {
     "id": "jf-0731bec58f",
     "titre": "Threat Research Engineer, Security Factory: Threat Research",
     "entreprise": "GitLab",
@@ -5352,59 +5410,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-20",
     "ref_unique": "ma-8eb82bd0ef"
-  },
-  {
-    "id": "ma-7caa9d5f1f",
-    "titre": "Professeur Permanent en Informatique - Marrakech",
-    "entreprise": "EDVANTIS HIGHER EDUCATION GROUP",
-    "ville": "Marrakech",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Professeur Permanent en Informatique - Marrakech chez EDVANTIS HIGHER EDUCATION GROUP, a Marrakech. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/9033936882722324991?ckey=informatique&rgn=0&pos=3&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=859&relb=100&brelb=100&bscr=2482.8906&scr=2482.8906",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-7caa9d5f1f"
-  },
-  {
-    "id": "ma-dc384f2b95",
-    "titre": "Vendeur(se) en magasin — Produits informatiques",
-    "entreprise": "iris.ma",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Vendeur(se) en magasin — Produits informatiques chez iris.ma, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/4647262575000741797?ckey=informatique&rgn=0&pos=4&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=2131&relb=100&brelb=100&bscr=2090.6846&scr=2090.6846",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-dc384f2b95"
-  },
-  {
-    "id": "ma-2712c14c01",
-    "titre": "CONFIRMATEUR /SUPERVISEUR",
-    "entreprise": "Elypse Services",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONFIRMATEUR /SUPERVISEUR chez Elypse Services, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7792702399612695526?ckey=informatique&rgn=0&pos=5&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=43&relb=110&brelb=110&bscr=304.07492&scr=304.07492",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-2712c14c01"
   }
 ]
