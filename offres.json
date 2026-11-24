@@ -1,5 +1,59 @@
 [
   {
+    "id": "jf-0731bec58f",
+    "titre": "Threat Research Engineer, Security Factory: Threat Research",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Threat Research Engineer, Security Factory: Threat Research chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-0731bec58f"
+  },
+  {
+    "id": "jf-b1e25c2ac2",
+    "titre": "Staff Backend Engineer, Performance Enablement",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Backend Engineer, Performance Enablement chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-b1e25c2ac2"
+  },
+  {
+    "id": "jf-8bbdf331c7",
+    "titre": "Renewals Manager - LATAM",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Renewals Manager - LATAM chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-24",
+    "ref_unique": "jf-8bbdf331c7"
+  },
+  {
     "id": "ma-99b56ae940",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5352,59 +5406,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-20",
     "ref_unique": "ma-2712c14c01"
-  },
-  {
-    "id": "ma-efd20a164e",
-    "titre": "Conseiller Client",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Client chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7663481115859722671?ckey=informatique&rgn=0&pos=6&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=211&relb=110&brelb=110&bscr=298.7685&scr=298.7685",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-efd20a164e"
-  },
-  {
-    "id": "ma-fadccfeafa",
-    "titre": "Superviseur Senior - H/F",
-    "entreprise": "Tersea",
-    "ville": "Fès Prefecture",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Superviseur Senior - H/F chez Tersea, a Fès Prefecture. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-668196791991973366?ckey=informatique&rgn=0&pos=7&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=67&relb=110&brelb=110&bscr=291.00394&scr=291.00394",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-fadccfeafa"
-  },
-  {
-    "id": "ma-e91710bcbf",
-    "titre": "TELEVENDEUR(EUSE) F/H",
-    "entreprise": "Konecta Marina",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "TELEVENDEUR(EUSE) F/H chez Konecta Marina, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-5706260959700817359?ckey=informatique&rgn=0&pos=8&elckey=-7836312749770969787&p=1&aq=2027633884339901021&cid=20&jobAge=43&relb=110&brelb=110&bscr=291.00394&scr=291.00394",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-20",
-    "ref_unique": "ma-e91710bcbf"
   }
 ]
