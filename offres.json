@@ -1,5 +1,103 @@
 [
   {
+    "id": "jf-772e4770b2",
+    "titre": "Senior Manager, Enterprise Application Development Engineering",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Senior Manager, Enterprise Application Development Engineering chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-772e4770b2"
+  },
+  {
+    "id": "jf-e21c240425",
+    "titre": "Real Estate Executive Assistant 21370",
+    "entreprise": "Wing Assistant",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Virtual Assistant",
+    "remote": true,
+    "competences": [
+      "virtual assistant",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical"
+    ],
+    "resume_neutre": "Real Estate Executive Assistant 21370 chez Wing Assistant, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-e21c240425"
+  },
+  {
+    "id": "jf-88ebf45391",
+    "titre": "Senior Tax Associate",
+    "entreprise": "Real REMAX Group",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Design",
+    "remote": true,
+    "competences": [
+      "design",
+      "technical",
+      "customer support",
+      "accounting",
+      "education"
+    ],
+    "resume_neutre": "Senior Tax Associate chez Real REMAX Group, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-88ebf45391"
+  },
+  {
+    "id": "jf-84587da105",
+    "titre": "Revenue Operations Manager",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Revenue Operations Manager chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-84587da105"
+  },
+  {
+    "id": "jf-6975812379",
+    "titre": "Senior CX Platform Engineer",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Senior CX Platform Engineer chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-6975812379"
+  },
+  {
     "id": "ma-c9e59ffcf9",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5320,95 +5418,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-11-20",
     "ref_unique": "jf-3f8471c43e"
-  },
-  {
-    "id": "jf-88a2a3761f",
-    "titre": "Engineering Manager",
-    "entreprise": "Clover Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Engineering Manager chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-88a2a3761f"
-  },
-  {
-    "id": "jf-5719982229",
-    "titre": "Senior Software Engineer: Assets",
-    "entreprise": "MetaMask",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Senior Software Engineer: Assets chez MetaMask, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-5719982229"
-  },
-  {
-    "id": "jf-c47cb352cb",
-    "titre": "Engineering Lead, Growth",
-    "entreprise": "Clover Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Engineering Lead, Growth chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-lead-growth-clover-health-1137853",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-c47cb352cb"
-  },
-  {
-    "id": "jf-779fa3988d",
-    "titre": "Engineering Lead, Clinical Operations",
-    "entreprise": "Clover Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Engineering Lead, Clinical Operations chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-779fa3988d"
-  },
-  {
-    "id": "jf-336a80e956",
-    "titre": "Senior GTM Engineer",
-    "entreprise": "Salesloft",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Senior GTM Engineer chez Salesloft, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-336a80e956"
   }
 ]
