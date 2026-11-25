@@ -1,5 +1,333 @@
 [
   {
+    "id": "jf-79eb382323",
+    "titre": "Senior Global Partner Specialist - USA",
+    "entreprise": "Storyblok",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Senior Global Partner Specialist - USA chez Storyblok, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-global-partner-specialist-usa-storyblok-1138100",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-79eb382323"
+  },
+  {
+    "id": "jf-913e22cd5a",
+    "titre": "Senior Corporate Accountant - Tax",
+    "entreprise": "Salesloft",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Finance",
+    "remote": true,
+    "competences": [
+      "finance"
+    ],
+    "resume_neutre": "Senior Corporate Accountant - Tax chez Salesloft, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-913e22cd5a"
+  },
+  {
+    "id": "jf-1c6c8e8526",
+    "titre": "Sr EHR Implementation Manager",
+    "entreprise": "Natera",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Exec",
+    "remote": true,
+    "competences": [
+      "exec"
+    ],
+    "resume_neutre": "Sr EHR Implementation Manager chez Natera, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-1c6c8e8526"
+  },
+  {
+    "id": "jf-f9a112864e",
+    "titre": "Regional Vice President, Biddable",
+    "entreprise": "Doximity",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Product",
+    "remote": true,
+    "competences": [
+      "product"
+    ],
+    "resume_neutre": "Regional Vice President, Biddable chez Doximity, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-vice-president-biddable-doximity-1138097",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-f9a112864e"
+  },
+  {
+    "id": "jf-e274c22d3a",
+    "titre": "Security Engineer, Offensive Security",
+    "entreprise": "Dropbox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Security Engineer, Offensive Security chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-e274c22d3a"
+  },
+  {
+    "id": "jf-d337f1f14a",
+    "titre": "Principal Software Engineer",
+    "entreprise": "Ping Identity",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Principal Software Engineer chez Ping Identity, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-d337f1f14a"
+  },
+  {
+    "id": "jf-82d447a3ee",
+    "titre": "Senior Software Engineer, AI & Science Platform",
+    "entreprise": "Reddit",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Software Engineer, AI & Science Platform chez Reddit, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-82d447a3ee"
+  },
+  {
+    "id": "jf-c359b6d8c9",
+    "titre": "Staff Software Engineer, Control Plane",
+    "entreprise": "Cribl",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Staff Software Engineer, Control Plane chez Cribl, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-c359b6d8c9"
+  },
+  {
+    "id": "jf-e43cbcceb0",
+    "titre": "Senior Web Engineer, Profile & Community",
+    "entreprise": "Airbnb",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Senior Web Engineer, Profile & Community chez Airbnb, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-web-engineer-profile-community-airbnb-1138091",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-e43cbcceb0"
+  },
+  {
+    "id": "jf-dcea5b333b",
+    "titre": "Associate, Payment Integrity",
+    "entreprise": "Oscar Health",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Programming",
+    "remote": true,
+    "competences": [
+      "programming"
+    ],
+    "resume_neutre": "Associate, Payment Integrity chez Oscar Health, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-dcea5b333b"
+  },
+  {
+    "id": "jf-0b7a289396",
+    "titre": "District Manager, Enterprise - Healthcare (Southeast)",
+    "entreprise": "Everpure",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "District Manager, Enterprise - Healthcare (Southeast) chez Everpure, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-0b7a289396"
+  },
+  {
+    "id": "jf-f53491fa4a",
+    "titre": "Senior Account Executive - SaaS Industrials",
+    "entreprise": "Salsify",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Senior Account Executive - SaaS Industrials chez Salsify, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-saas-industrials-salsify-1138088",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-f53491fa4a"
+  },
+  {
+    "id": "jf-b05ae8549d",
+    "titre": "Partner Sales Manager (Hindi Speaking) - Singapore",
+    "entreprise": "Dropbox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Partner Sales Manager (Hindi Speaking) - Singapore chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-hindi-speaking-singapore-dropbox-1138087",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-b05ae8549d"
+  },
+  {
+    "id": "jf-13d1269dad",
+    "titre": "Sr. Account Executive, AI & HPC",
+    "entreprise": "Everpure",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Sr. Account Executive, AI & HPC chez Everpure, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-13d1269dad"
+  },
+  {
+    "id": "jf-729dd64b7e",
+    "titre": "Director, Product Marketing (Contractor)",
+    "entreprise": "Glossier",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Director, Product Marketing (Contractor) chez Glossier, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-director-product-marketing-contractor-glossier-1138085",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-729dd64b7e"
+  },
+  {
+    "id": "jf-a1f14c863d",
+    "titre": "Portfolio Customer Success Manager",
+    "entreprise": "LastPass",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Portfolio Customer Success Manager chez LastPass, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-portfolio-customer-success-manager-lastpass-1138083",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-a1f14c863d"
+  },
+  {
+    "id": "jf-befda02e7d",
+    "titre": "Region Head, Asia",
+    "entreprise": "Dropbox",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Customer Support",
+    "remote": true,
+    "competences": [
+      "customer support"
+    ],
+    "resume_neutre": "Region Head, Asia chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-region-head-asia-dropbox-1138082",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-befda02e7d"
+  },
+  {
+    "id": "jf-383e45bf87",
+    "titre": "Revenue Operations Analyst",
+    "entreprise": "Augment",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Analyst",
+    "remote": true,
+    "competences": [
+      "analyst",
+      "saas",
+      "recruiter",
+      "customer support",
+      "marketing"
+    ],
+    "resume_neutre": "Revenue Operations Analyst chez Augment, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-25",
+    "ref_unique": "jf-383e45bf87"
+  },
+  {
     "id": "jf-772e4770b2",
     "titre": "Senior Manager, Enterprise Application Development Engineering",
     "entreprise": "GitLab",
@@ -5094,329 +5422,5 @@
     "source_nom": "RemoteOK",
     "date_pub": "2026-11-21",
     "ref_unique": "jf-715186b9bd"
-  },
-  {
-    "id": "jf-6b1e242d6e",
-    "titre": "Compliance Officer/MLRO",
-    "entreprise": "Bybit",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product",
-    "remote": true,
-    "competences": [
-      "product"
-    ],
-    "resume_neutre": "Compliance Officer/MLRO chez Bybit, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-compliance-officer-mlro-bybit-1137880",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-6b1e242d6e"
-  },
-  {
-    "id": "jf-5f53c6a135",
-    "titre": "Manager, Business Risk and AI Automation",
-    "entreprise": "Reddit",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Manager, Business Risk and AI Automation chez Reddit, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-5f53c6a135"
-  },
-  {
-    "id": "jf-4a4c58b935",
-    "titre": "Compensation Manager",
-    "entreprise": "6sense",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "Compensation Manager chez 6sense, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-4a4c58b935"
-  },
-  {
-    "id": "jf-af2fc4b88d",
-    "titre": "PreSales Solutions Engineer",
-    "entreprise": "Sumo Logic",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Devops",
-    "remote": true,
-    "competences": [
-      "devops"
-    ],
-    "resume_neutre": "PreSales Solutions Engineer chez Sumo Logic, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-af2fc4b88d"
-  },
-  {
-    "id": "jf-7c27d3024f",
-    "titre": "P2P Regional Operations - Africa",
-    "entreprise": "Bybit",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product",
-    "remote": true,
-    "competences": [
-      "product"
-    ],
-    "resume_neutre": "P2P Regional Operations - Africa chez Bybit, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-7c27d3024f"
-  },
-  {
-    "id": "jf-8bc7b91a8e",
-    "titre": "International People Ops Analyst, Benefits",
-    "entreprise": "Cribl",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Exec",
-    "remote": true,
-    "competences": [
-      "exec"
-    ],
-    "resume_neutre": "International People Ops Analyst, Benefits chez Cribl, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-international-people-ops-analyst-benefits-cribl-1137875",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-8bc7b91a8e"
-  },
-  {
-    "id": "jf-d093365103",
-    "titre": "Senior Atlassian Cloud Administrator",
-    "entreprise": "Dropbox",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Devops",
-    "remote": true,
-    "competences": [
-      "devops"
-    ],
-    "resume_neutre": "Senior Atlassian Cloud Administrator chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-d093365103"
-  },
-  {
-    "id": "jf-071c22b198",
-    "titre": "Product Designer",
-    "entreprise": "Tebra",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Design",
-    "remote": true,
-    "competences": [
-      "design"
-    ],
-    "resume_neutre": "Product Designer chez Tebra, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-071c22b198"
-  },
-  {
-    "id": "jf-c9737df1f5",
-    "titre": "Senior Software Developer - Canada",
-    "entreprise": "Clover Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Senior Software Developer - Canada chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-c9737df1f5"
-  },
-  {
-    "id": "jf-36e0b5e4a6",
-    "titre": "Senior Software Engineer",
-    "entreprise": "Clover Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Senior Software Engineer chez Clover Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-36e0b5e4a6"
-  },
-  {
-    "id": "jf-d8a9ff1143",
-    "titre": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
-    "entreprise": "Everpure",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales"
-    ],
-    "resume_neutre": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK chez Everpure, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-d8a9ff1143"
-  },
-  {
-    "id": "jf-88e8d031ea",
-    "titre": "Lifecycle Value Manager, Germany",
-    "entreprise": "Everpure",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales"
-    ],
-    "resume_neutre": "Lifecycle Value Manager, Germany chez Everpure, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-88e8d031ea"
-  },
-  {
-    "id": "jf-ab6617ffeb",
-    "titre": "Regional MSP Partner Manager, EMEA South (Paris)",
-    "entreprise": "Everpure",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Sales",
-    "remote": true,
-    "competences": [
-      "sales"
-    ],
-    "resume_neutre": "Regional MSP Partner Manager, EMEA South (Paris) chez Everpure, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-21",
-    "ref_unique": "jf-ab6617ffeb"
-  },
-  {
-    "id": "jf-e7b66c33e6",
-    "titre": "Senior Atlassian Cloud Admininstrator",
-    "entreprise": "Dropbox",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Devops",
-    "remote": true,
-    "competences": [
-      "devops"
-    ],
-    "resume_neutre": "Senior Atlassian Cloud Admininstrator chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-e7b66c33e6"
-  },
-  {
-    "id": "jf-5d1b801fd8",
-    "titre": "Senior Manager, Commercial Learning and Development",
-    "entreprise": "Elation Health",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Product",
-    "remote": true,
-    "competences": [
-      "product"
-    ],
-    "resume_neutre": "Senior Manager, Commercial Learning and Development chez Elation Health, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-manager-commercial-learning-and-development-elation-health-1137859",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-5d1b801fd8"
-  },
-  {
-    "id": "jf-83cf23a010",
-    "titre": "Principal DevSecOps Engineer",
-    "entreprise": "Upgrade",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Devops",
-    "remote": true,
-    "competences": [
-      "devops"
-    ],
-    "resume_neutre": "Principal DevSecOps Engineer chez Upgrade, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-83cf23a010"
-  },
-  {
-    "id": "jf-5d70616eec",
-    "titre": "Infrastructure Software Engineer",
-    "entreprise": "Dropbox",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Infrastructure Software Engineer chez Dropbox, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-5d70616eec"
-  },
-  {
-    "id": "jf-3f8471c43e",
-    "titre": "Senior Software Engineer",
-    "entreprise": "Tebra",
-    "ville": "Télétravail",
-    "pays": "International",
-    "type_contrat": "Freelance",
-    "secteur": "Programming",
-    "remote": true,
-    "competences": [
-      "programming"
-    ],
-    "resume_neutre": "Senior Software Engineer chez Tebra, poste en télétravail. Détails et candidature sur le site source.",
-    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
-    "source_nom": "RemoteOK",
-    "date_pub": "2026-11-20",
-    "ref_unique": "jf-3f8471c43e"
   }
 ]
