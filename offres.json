@@ -1,5 +1,59 @@
 [
   {
+    "id": "jf-dfbaab96c2",
+    "titre": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Devops",
+    "remote": true,
+    "competences": [
+      "devops"
+    ],
+    "resume_neutre": "Intermediate Security Engineer, Security Incident Response Team (SIRT) chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-26",
+    "ref_unique": "jf-dfbaab96c2"
+  },
+  {
+    "id": "jf-00cebde245",
+    "titre": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Senior Executive Assistant, Office of the CRO (EST / CST) chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-26",
+    "ref_unique": "jf-00cebde245"
+  },
+  {
+    "id": "jf-0159aabc69",
+    "titre": "Junior Talent Operations Specialist",
+    "entreprise": "GitLab",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Other",
+    "remote": true,
+    "competences": [
+      "other"
+    ],
+    "resume_neutre": "Junior Talent Operations Specialist chez GitLab, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-26",
+    "ref_unique": "jf-0159aabc69"
+  },
+  {
     "id": "ma-27f5fdffed",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5368,59 +5422,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-21",
     "ref_unique": "ma-dec28db304"
-  },
-  {
-    "id": "ma-1da0880ad7",
-    "titre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1942957084589507302?ckey=commercial&rgn=938&pos=1&elckey=-8569247276986591039&p=1&aq=-5038113860796087675&cid=20&jobAge=211&relb=110&brelb=110&bscr=1752.7867&scr=1752.7867",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-21",
-    "ref_unique": "ma-1da0880ad7"
-  },
-  {
-    "id": "ma-970b10bc3e",
-    "titre": "Conseiller Commercial",
-    "entreprise": "AXA Services Maroc",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial chez AXA Services Maroc, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-3186460278820311994?ckey=commercial&rgn=938&pos=2&elckey=-8569247276986591039&p=1&aq=-5038113860796087675&cid=20&jobAge=91&relb=110&brelb=110&bscr=1703.8451&scr=1703.8451",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-21",
-    "ref_unique": "ma-970b10bc3e"
-  },
-  {
-    "id": "ma-f7a91e5fd1",
-    "titre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE",
-    "entreprise": "PHENIX ASSURANCES",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "NOUS RECRUTONS DES COMMERCIAUX EN ASSURANCE chez PHENIX ASSURANCES, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/1362822598869419901?ckey=commercial&rgn=938&pos=3&elckey=-8569247276986591039&p=1&aq=-5038113860796087675&cid=20&jobAge=235&relb=110&brelb=110&bscr=1694.6774&scr=1694.6774",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-21",
-    "ref_unique": "ma-f7a91e5fd1"
   }
 ]
