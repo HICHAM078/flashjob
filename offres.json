@@ -1,5 +1,41 @@
 [
   {
+    "id": "jf-514cae60c6",
+    "titre": "Traveling Account Executive - Neurology/Rare Disease",
+    "entreprise": "Jobgether",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Traveling Account Executive - Neurology/Rare Disease chez Jobgether, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-traveling-account-executive-neurology-rare-disease-jobgether-1138154",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-27",
+    "ref_unique": "jf-514cae60c6"
+  },
+  {
+    "id": "jf-04ac98d0a2",
+    "titre": "Product Marketing Manager - Ostro",
+    "entreprise": "Veeva Systems",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Product Marketing Manager - Ostro chez Veeva Systems, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-ostro-veeva-systems-1138153",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-27",
+    "ref_unique": "jf-04ac98d0a2"
+  },
+  {
     "id": "ma-6e9d50111f",
     "titre": "Offre d'emploi - comptable cdi",
     "entreprise": "EIDS Maroc",
@@ -5378,41 +5414,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-22",
     "ref_unique": "ma-3a921de990"
-  },
-  {
-    "id": "ma-2c9736c930",
-    "titre": "Télévendeur Tourisme",
-    "entreprise": "Intelcia",
-    "ville": "Casablanca",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Télévendeur Tourisme chez Intelcia, a Casablanca. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/3072951701128670778?ckey=informatique&rgn=0&pos=5&elckey=-7341135015410335618&p=1&aq=9020217106957072755&cid=20&jobAge=67&relb=110&brelb=110&bscr=298.8638&scr=298.8638",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-22",
-    "ref_unique": "ma-2c9736c930"
-  },
-  {
-    "id": "ma-f1f4deb57f",
-    "titre": "CONFIRMATEUR /SUPERVISEUR",
-    "entreprise": "Elypse Services",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONFIRMATEUR /SUPERVISEUR chez Elypse Services, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-7792702399612695526?ckey=informatique&rgn=0&pos=6&elckey=-7341135015410335618&p=1&aq=9020217106957072755&cid=20&jobAge=43&relb=110&brelb=110&bscr=298.10165&scr=298.10165",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-22",
-    "ref_unique": "ma-f1f4deb57f"
   }
 ]
