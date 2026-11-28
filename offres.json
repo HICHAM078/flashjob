@@ -1,5 +1,81 @@
 [
   {
+    "id": "jf-dd66ab024a",
+    "titre": "Social Media & Community Manager",
+    "entreprise": "The Global Talent Co.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "Social Media & Community Manager chez The Global Talent Co., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-social-media-community-manager-the-global-talent-co-1138206",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-28",
+    "ref_unique": "jf-dd66ab024a"
+  },
+  {
+    "id": "jf-6796dff8f5",
+    "titre": "VP of Brand and Communications",
+    "entreprise": "Oscilar",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Marketing",
+    "remote": true,
+    "competences": [
+      "marketing"
+    ],
+    "resume_neutre": "VP of Brand and Communications chez Oscilar, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-vp-of-brand-and-communications-oscilar-1138205",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-28",
+    "ref_unique": "jf-6796dff8f5"
+  },
+  {
+    "id": "jf-71932546ab",
+    "titre": "Account Manager - Poland",
+    "entreprise": "ElevenLabs",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Sales",
+    "remote": true,
+    "competences": [
+      "sales"
+    ],
+    "resume_neutre": "Account Manager - Poland chez ElevenLabs, poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-account-manager-poland-elevenlabs-1138204",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-28",
+    "ref_unique": "jf-71932546ab"
+  },
+  {
+    "id": "jf-3edc4db038",
+    "titre": "Senior Software Developer",
+    "entreprise": "Loopio Inc.",
+    "ville": "Télétravail",
+    "pays": "International",
+    "type_contrat": "Freelance",
+    "secteur": "Dev",
+    "remote": true,
+    "competences": [
+      "dev",
+      "design",
+      "amazon",
+      "react",
+      "hr"
+    ],
+    "resume_neutre": "Senior Software Developer chez Loopio Inc., poste en télétravail. Détails et candidature sur le site source.",
+    "url_source": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+    "source_nom": "RemoteOK",
+    "date_pub": "2026-11-28",
+    "ref_unique": "jf-3edc4db038"
+  },
+  {
     "id": "ma-53a7735634",
     "titre": "Offre d'emploi Téléconseiller(ère) / Commercial(e)",
     "entreprise": "Landing Pro Site",
@@ -5342,77 +5418,5 @@
     "source_nom": "Jooble",
     "date_pub": "2026-11-23",
     "ref_unique": "ma-e8a1eb974a"
-  },
-  {
-    "id": "ma-3d0f14359c",
-    "titre": "Conseillers commerciaux FR - rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseillers commerciaux FR - rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-9151346955070741527?ckey=commercial&rgn=938&pos=7&elckey=-5044761772332199950&p=1&aq=2647617257263700829&cid=20&jobAge=263&relb=110&brelb=110&bscr=1589.2798&scr=1589.2798",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-23",
-    "ref_unique": "ma-3d0f14359c"
-  },
-  {
-    "id": "ma-82bc4184c6",
-    "titre": "Conseiller Commercial en Rétention | Rabat",
-    "entreprise": "Cnexia",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Conseiller Commercial en Rétention | Rabat chez Cnexia, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2986582135483070271?ckey=commercial&rgn=938&pos=8&elckey=-5044761772332199950&p=1&aq=2647617257263700829&cid=20&jobAge=263&relb=110&brelb=110&bscr=1589.2798&scr=1589.2798",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-23",
-    "ref_unique": "ma-82bc4184c6"
-  },
-  {
-    "id": "ma-7ca33a767b",
-    "titre": "CONSEILLERS COMMERCIAUX EN MUTUELLE SANTÉ",
-    "entreprise": "Zenith Assurance",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "CONSEILLERS COMMERCIAUX EN MUTUELLE SANTÉ chez Zenith Assurance, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/-2458803087257747764?ckey=commercial&rgn=938&pos=9&elckey=-5044761772332199950&p=1&aq=2647617257263700829&cid=20&jobAge=47&relb=110&brelb=110&bscr=1586.3878&scr=1586.3878",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-23",
-    "ref_unique": "ma-7ca33a767b"
-  },
-  {
-    "id": "ma-5136412a40",
-    "titre": "Commercial(e) Junior - Assurance",
-    "entreprise": "Infocea Assurances",
-    "ville": "Rabat",
-    "pays": "Maroc",
-    "type_contrat": "Non precise",
-    "secteur": "Divers",
-    "remote": false,
-    "competences": [
-      "Voir le detail sur la source"
-    ],
-    "resume_neutre": "Commercial(e) Junior - Assurance chez Infocea Assurances, a Rabat. Details et candidature sur le site source.",
-    "url_source": "https://ma.jooble.org/desc/211537372718286668?ckey=commercial&rgn=938&pos=10&elckey=-5044761772332199950&p=1&aq=2647617257263700829&cid=20&jobAge=95&relb=110&brelb=110&bscr=1572.6423&scr=1572.6423",
-    "source_nom": "Jooble",
-    "date_pub": "2026-11-23",
-    "ref_unique": "ma-5136412a40"
   }
 ]
